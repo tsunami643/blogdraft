@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/blog"
+baseurl: "/blogdraft"
 url: "http://howdoiplay.com"
 
 # THEME-SPECIFIC CONFIGURATION
@@ -17,7 +17,7 @@ theme_settings:
    follow me <a href="http://www.twitter.com/tsunami643">@tsunami643</a>
    <br>
    <br>
-   back to the <a href="http://howdoiplay.com/blog">blog</a> or <a href="http://howdoiplay.com">howdoiplay.com</a>
+   back to the <a href="http://howdoiplay.com/blogdraft">blog</a> or <a href="http://howdoiplay.com">howdoiplay.com</a>
 
   # Icons
   rss: true
@@ -65,7 +65,7 @@ theme_settings:
 
 # PAGINATION
 paginate: 5
-paginate_path: "blog/page:num"
+paginate_path: "blogdraft/page:num"
 
 # BUILD SETTINGS
 markdown: kramdown
