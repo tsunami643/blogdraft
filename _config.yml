@@ -1,0 +1,76 @@
+# SITE CONFIGURATION
+baseurl: "/blog"
+url: "http://howdoiplay.com"
+
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: tsunami blog
+  avatar: avatar.png
+  gravatar: # Email MD5 hash
+  description: "tsunami643's blog" # used by search engines
+
+  # Header and footer text
+  header_text:
+  header_text_feature_image:
+  footer_text: >
+   follow me <a href="http://www.twitter.com/tsunami643">@tsunami643</a>
+   <br>
+   <br>
+   back to the <a href="http://howdoiplay.com/blog">blog</a> or <a href="http://howdoiplay.com">howdoiplay.com</a>
+
+  # Icons
+  rss: true
+  email_address: # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  github:
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit: "tsunami643"
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "tsunami643"
+  twitch: "tsunami643"
+  wordpress:
+  youtube: "tsunami643"
+
+  # Scripts
+  google_analytics: "UA-54725251-1"
+  disqus_shortname:
+  muut_community_name: # From muut.com settings, e.g. "muttcommunityname"
+  katex: false # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Continue reading"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+
+  # Post navigation
+  post_navigation: false
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+gems: [jekyll-paginate]
