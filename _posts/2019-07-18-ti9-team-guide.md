@@ -32,7 +32,9 @@ The beauty of The International is when most of these skill differences go out t
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">MidOne</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">zai</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-jo" alt="Jordan">YapzOr</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ee" alt="Estonia">Puppey</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ee" alt="Estonia">Puppey</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" alt="South Korea">SunBhie</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -59,7 +61,9 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine">No[o]ne</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">9pasha</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">RodjER</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">Solo</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">Solo</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">ArsZeeqq</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -83,7 +87,9 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Ori</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Yang</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Fade</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Dy</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Dy</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">rOtk</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -109,7 +115,9 @@ And not win.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-pk" alt="Pakistan">Suma1L</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">s4</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" alt="Denmark">Cr1t-</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-il" alt="Israel">Fly</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-il" alt="Israel">Fly</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">BuLba</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -143,7 +151,9 @@ Anything short of a scorched earth loser's bracket run in which EG personally el
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ro" alt="Romania" style="">w33</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-bg" alt="Bulgaria">MinD_ContRoL</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-lb" alt="Lebanon">GH</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" alt="Germany">KuroKy</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" alt="Germany">KuroKy</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-de" alt="Germany">rmN-</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -175,7 +185,9 @@ No pressure.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Somnus丶M (Maybe)</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Chalice</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">fy</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">xNova</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">xNova</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">QQQ</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -204,7 +216,9 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Abed</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-sg" alt="Singapore">iceiceice</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">DJ</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kr" alt="South Korea">DuBu</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kr" alt="South Korea">DuBu</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" alt="South Korea">March</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -230,7 +244,9 @@ For he is at peace.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" alt="Germany">Fata</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-il" alt="Israel">33</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-mk" alt="North Macedonia">Saksa</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">ppd</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">ppd</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">Pajkatt</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -254,7 +270,9 @@ For he is at peace.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Armel</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Kuku</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Tims</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">eyyou</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">eyyou</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" alt="South Korea">Heen</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -280,7 +298,9 @@ Scientists have yet to determine if a second game is possible.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" alt="Finland">Topson</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-fr" alt="France">7ckngMad (Ceb)</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" alt="Finland">JerAx</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" alt="Denmark">N0tail</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" alt="Denmark">N0tail</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-fr" alt="France">Sockshka</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -306,7 +326,9 @@ Scientists have yet to determine if a second game is possible.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" alt="Germany">qojqva</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">Boxi</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">iNSaNiA</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-no" alt="Norway">Taiga</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-no" alt="Norway">Taiga</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">Loda</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -337,7 +359,9 @@ Scientists have yet to determine if a second game is possible.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">一 (yī)</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">eLeVeN</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Kaka</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">dark</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">dark</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Fyms</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -352,16 +376,26 @@ Scientists have yet to determine if a second game is possible.
 
 **What would success look like?** "You expect to win a championship at your first TI? You're just an ordinary person... not a god. Second TI is no excuse though, you better win."
 
+# The Qualifiers
+
+The other ten teams came through a double elimination bracket of online qualifiers within their respective regions. Half of them had to even go through a Bo1 madhouse open qualifier for committing the cardinal sin of wanting to change rosters after February 5<sup>th</sup>.
+
+Some trivia: Of the ten different squads to have attended an International grand final since the qualifier system was created in TI3, only three have been non-invited teams, and Wings is the only qualifier team to have ever won.
+
+So that's where the bar is set.
+
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/mineskibanner.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Mineski</h2>
+<h2 style="margin: 0.25em 0;">Mineski - <i>SEA Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">Mushi</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bg" alt="Bulgaria">Nikobaby</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">Moon</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-sg" alt="Singapore">iceiceice</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-th" alt="Thailand">Jabz</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">ninjaboogie</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-au" alt="Australia">kpii</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Bimbo (Raging Potato)</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">ninjaboogie</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">Kenchi</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -376,24 +410,18 @@ Scientists have yet to determine if a second game is possible.
 
 **What would success look like?** An iceiceice Aegis would be like the DiCaprio Oscar in terms of reddit self-satisfaction.
 
-# The Qualifiers
-
-The other ten teams came through a double elimination bracket of online qualifiers within their respective regions. Half of them had to even go through a Bo1 madhouse open qualifier for committing the cardinal sin of wanting to change rosters after February 5<sup>th</sup>.
-
-Some trivia: Of the ten different squads to have attended an International grand final since the qualifier system was created in TI3, only three have been non-invited teams, and Wings is the only qualifier team to have ever won.
-
-So that's where the bar is set.
-
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/winstrikenewbanner.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Winstrike Team - <i>CIS Regional Qualifier</i></h2>
+<h2 style="margin: 0.25em 0;">Natus Vincere - <i>CIS Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia" style="">Silent</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine">Iceberg</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">nongrata</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">Nofear</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine">ALWAYSWANNAFLY</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine">Crystallize</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine">MagicaL</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kg" alt="Kyrgyzstan">Blizzy</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kg" alt="Kyrgyzstan">Zayac</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">SoNNeikO</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine">Mag~</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -410,14 +438,16 @@ So that's where the bar is set.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/serenitybanner.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Serenity - <i>China Regional Qualifier #1</i></h2>
+<h2 style="margin: 0.25em 0;">Royal Never Give Up - <i>China Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">zhizhizhi</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Zyd</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">XinQ</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Pyw</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">XCJ</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Monet</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Setsu</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Flyby</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">LaNm</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">ah fu</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Super</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -436,14 +466,16 @@ So that's where the bar is set.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/igbanner.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Invictus Gaming - <i>China Regional Qualifier #2</i></h2>
+<h2 style="margin: 0.25em 0;">Chaos Esports Club - <i>Europe Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Agressif</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Xxs</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Srf</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">BoBoKa</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Q</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">vtFαded</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" alt="Finland">MATUMBAMAN</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" alt="Germany">KheZu</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ba" alt="Bosnia and Herzegovina">MiLAN</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" alt="Denmark">MISERY</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-by" alt="Belarus">j4</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -462,14 +494,14 @@ So that's where the bar is set.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/painbanner.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">PaiN Gaming - <i>South America Regional Qualifier</i></h2>
+<h2 style="margin: 0.25em 0;">Infamous - <i>South America Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" alt="Brazil">hFn</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ro" alt="Romania">w33</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" alt="Brazil">tavo</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" alt="Brazil">Kingrd</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" alt="Brazil">Duster</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" alt="Peru">K1 (Hector)</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" alt="Peru">Chris Luck</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bo" alt="Bolivia">Wisper</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" alt="Peru">Scofield</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" alt="Peru">StingeR</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -486,14 +518,16 @@ So that's where the bar is set.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/stormbanner.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">VGJ.Storm - <i>North America Regional Qualifier #1</i></h2>
+<h2 style="margin: 0.25em 0;">Newbee - <i>North America Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine">Resolut1on</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pk" alt="Pakistan">YawaR</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pk" alt="Pakistan">YawaR</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">CCnC</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">Sneyking</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">MSS</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">SVG</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">MSS</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">pieliedie</td>
+    <td></td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ca" alt="Canada">Aui_2000</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
