@@ -33,7 +33,7 @@ The beauty of The International is when most of these skill differences go out t
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">zai</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">YapzOr</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ee" title="Estonia" alt="Estonia">Puppey</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">SunBhie</td></tr>
    </tbody>
 </table>
@@ -62,7 +62,7 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">9pasha</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">RodjER</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Solo</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">ArsZeeqq</td></tr>
    </tbody>
 </table>
@@ -88,7 +88,7 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Yang</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Fade</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Dy</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">rOtk</td></tr>
    </tbody>
 </table>
@@ -116,7 +116,7 @@ And not win.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">s4</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cr1t-</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">Fly</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">BuLba</td></tr>
    </tbody>
 </table>
@@ -152,7 +152,7 @@ Anything short of a scorched earth loser's bracket run in which EG personally el
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">MinD_ContRoL</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-lb" title="Lebanon" alt="Lebanon">GH</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">KuroKy</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">rmN-</td></tr>
    </tbody>
 </table>
@@ -186,7 +186,7 @@ No pressure.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Chalice</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">fy</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">xNova</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">QQQ</td></tr>
    </tbody>
 </table>
@@ -217,7 +217,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-sg" title="Singapore" alt="Singapore">iceiceice</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">DJ</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">DuBu</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">March</td></tr>
    </tbody>
 </table>
@@ -245,7 +245,7 @@ For he is at peace.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">33</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-mk" title="North Macedonia" alt="North Macedonia">Saksa</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">ppd</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Pajkatt</td></tr>
    </tbody>
 </table>
@@ -271,7 +271,7 @@ For he is at peace.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Kuku</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Tims</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">eyyou</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">Heen</td></tr>
    </tbody>
 </table>
@@ -299,7 +299,7 @@ Scientists have yet to determine if a second game is possible.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-fr" title="France" alt="France">7Mad (Ceb)</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">JerAx</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">N0tail</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-fr" title="France" alt="France">Sockshka</td></tr>
    </tbody>
 </table>
@@ -327,7 +327,7 @@ Scientists have yet to determine if a second game is possible.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Boxi</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-no" title="Norway" alt="Norway">Taiga</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">iNSaNiA</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Loda</td></tr>
    </tbody>
 </table>
@@ -360,7 +360,7 @@ Scientists have yet to determine if a second game is possible.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">eLeVeN</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Kaka</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">dark</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Fyms</td></tr>
    </tbody>
 </table>
@@ -394,7 +394,7 @@ So that's where the bar is set.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-au" title="Australia" alt="Australia">kpii</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Bimbo (Raging Potato)</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">ninjaboogie</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Kenchi</td></tr>
    </tbody>
 </table>
@@ -420,7 +420,7 @@ So that's where the bar is set.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-kg" title="Kyrgyzstan" alt="Kyrgyzstan">Blizzy</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-kg" title="Kyrgyzstan" alt="Kyrgyzstan">Zayac</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">SoNNeikO</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Mag~</td></tr>
    </tbody>
 </table>
@@ -446,7 +446,7 @@ So that's where the bar is set.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Flyby</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">LaNm</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">ah fu</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Super</td></tr>
    </tbody>
 </table>
@@ -474,7 +474,7 @@ So that's where the bar is set.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">KheZu</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ba" title="Maybe you should step up your flag knowledge? Jk, he's from Bosnia and Herzegovina" alt="Bosnia and Herzegovina">MiLAN</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">MISERY</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-by" title="You should be more worldly... Nah, just bustin' your chops, he's from Belarus" alt="Belarus">j4</td></tr>
    </tbody>
 </table>
@@ -526,7 +526,7 @@ So that's where the bar is set.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Sneyking</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">MSS</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">pieliedie</td>
-    <td></td>
+    <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Aui_2000</td></tr>
    </tbody>
 </table>
