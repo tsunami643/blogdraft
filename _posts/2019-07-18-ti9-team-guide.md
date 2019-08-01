@@ -28,13 +28,13 @@ The beauty of The International is when most of these skill differences go out t
 <h2 style="margin: 0.25em 0;">Team Secret</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pl" alt="Poland">Nisha</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">MidOne</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">zai</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-jo" alt="Jordan">YapzOr</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ee" alt="Estonia">Puppey</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pl" title="Poland" alt="Poland">Nisha</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">MidOne</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">zai</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">YapzOr</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ee" title="Estonia" alt="Estonia">Puppey</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" alt="South Korea">SunBhie</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">SunBhie</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -57,13 +57,13 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 <style type="text/css">table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}</style>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia" style="">RAMZES666</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine">No[o]ne</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">9pasha</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">RodjER</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">Solo</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia" style="">RAMZES666</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Russia" alt="Ukraine">No[o]ne</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">9pasha</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">RodjER</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Solo</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">ArsZeeqq</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">ArsZeeqq</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -83,13 +83,13 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 <h2 style="margin: 0.25em 0;">Vici Gaming</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Paparazi灬</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Ori</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Yang</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Fade</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Dy</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Paparazi灬</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ori</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Yang</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Fade</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Dy</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">rOtk</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">rOtk</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -108,16 +108,16 @@ And not win.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti8teams/egbanner.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Evil Geniuses</i></h2>
+<h2 style="margin: 0.25em 0;">Evil Geniuses</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ca" alt="Canada">Arteezy</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pk" alt="Pakistan">Suma1L</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">s4</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" alt="Denmark">Cr1t-</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-il" alt="Israel">Fly</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Arteezy</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pk" title="Pakistan" alt="Pakistan">Suma1L</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">s4</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cr1t-</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">Fly</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">BuLba</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">BuLba</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -147,13 +147,13 @@ Anything short of a scorched earth loser's bracket run in which EG personally el
 <h2 style="margin: 0.25em 0;">Team Liquid</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-jo" alt="Jordan">Miracle-</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ro" alt="Romania" style="">w33</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bg" alt="Bulgaria">MinD_ContRoL</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-lb" alt="Lebanon">GH</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" alt="Germany">KuroKy</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">Miracle-</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ro" title="Romania" alt="Romania" style="">w33</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">MinD_ContRoL</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-lb" title="Lebanon" alt="Lebanon">GH</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">KuroKy</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-de" alt="Germany">rmN-</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">rmN-</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -181,13 +181,13 @@ No pressure.
 <h2 style="margin: 0.25em 0;">PSG.LGD</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Ame</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Somnus丶M (Maybe)</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Chalice</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">fy</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">xNova</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ame</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Somnus丶M (Maybe)</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Chalice</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">fy</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">xNova</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">QQQ</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">QQQ</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -212,13 +212,13 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 <h2 style="margin: 0.25em 0;">Fnatic</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-th" alt="Thailand">Jabz</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Abed</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-sg" alt="Singapore">iceiceice</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">DJ</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kr" alt="South Korea">DuBu</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">Jabz</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Abed</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-sg" title="Singapore" alt="Singapore">iceiceice</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">DJ</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">DuBu</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" alt="South Korea">March</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">March</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -240,13 +240,13 @@ For he is at peace.
 <h2 style="margin: 0.25em 0;">Ninjas in Pyjamas</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" alt="Denmark">Ace</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" alt="Germany">Fata</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-il" alt="Israel">33</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-mk" alt="North Macedonia">Saksa</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">ppd</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Ace</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Fata</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">33</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-mk" title="North Macedonia" alt="North Macedonia">Saksa</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">ppd</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">Pajkatt</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Pajkatt</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -263,16 +263,16 @@ For he is at peace.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti8teams/tncbanner.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">TNC Predator</i></h2>
+<h2 style="margin: 0.25em 0;">TNC Predator</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Gabbi</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Armel</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Kuku</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Tims</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">eyyou</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Gabbi</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Armel</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Kuku</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Tims</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">eyyou</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" alt="South Korea">Heen</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">Heen</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -294,13 +294,13 @@ Scientists have yet to determine if a second game is possible.
 <h2 style="margin: 0.25em 0;">OG</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-au" alt="Australia">ana</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" alt="Finland">Topson</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fr" alt="France">7Mad (Ceb)</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" alt="Finland">JerAx</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" alt="Denmark">N0tail</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-au" title="Australia" alt="Australia">ana</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">Topson</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fr" title="France" alt="France">7Mad (Ceb)</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">JerAx</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">N0tail</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-fr" alt="France">Sockshka</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-fr" title="France" alt="France">Sockshka</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -322,13 +322,13 @@ Scientists have yet to determine if a second game is possible.
 <h2 style="margin: 0.25em 0;">Alliance</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">miCKe</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" alt="Germany">qojqva</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">Boxi</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-no" alt="Norway">Taiga</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">iNSaNiA</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">miCKe</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">qojqva</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Boxi</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-no" title="Norway" alt="Norway">Taiga</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">iNSaNiA</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">Loda</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Loda</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -355,13 +355,13 @@ Scientists have yet to determine if a second game is possible.
 <h2 style="margin: 0.25em 0;">Keen Gaming</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">old chicken</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">一 (yī)</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">eLeVeN</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Kaka</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">dark</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">old chicken</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">一 (yī)</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">eLeVeN</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Kaka</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">dark</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Fyms</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Fyms</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -389,13 +389,13 @@ So that's where the bar is set.
 <h2 style="margin: 0.25em 0;">Mineski - <i>SEA Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bg" alt="Bulgaria">Nikobaby</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">Moon</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-au" alt="Australia">kpii</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Bimbo (Raging Potato)</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">ninjaboogie</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">Nikobaby</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Moon</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-au" title="Australia" alt="Australia">kpii</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Bimbo (Raging Potato)</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">ninjaboogie</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">Kenchi</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Kenchi</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -415,13 +415,13 @@ So that's where the bar is set.
 <h2 style="margin: 0.25em 0;">Natus Vincere - <i>CIS Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine">Crystallize</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine">MagicaL</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kg" alt="Kyrgyzstan">Blizzy</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kg" alt="Kyrgyzstan">Zayac</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">SoNNeikO</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Crystallize</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">MagicaL</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kg" title="Kyrgyzstan" alt="Kyrgyzstan">Blizzy</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kg" title="Kyrgyzstan" alt="Kyrgyzstan">Zayac</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">SoNNeikO</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine">Mag~</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Mag~</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -441,11 +441,11 @@ So that's where the bar is set.
 <h2 style="margin: 0.25em 0;">Royal Never Give Up - <i>China Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Monet</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Setsu (Shade)</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Flyby</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">LaNm</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">ah fu</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Monet</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Setsu (Shade)</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Flyby</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">LaNm</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">ah fu</td>
     <td></td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Super</td></tr>
    </tbody>
@@ -469,13 +469,13 @@ So that's where the bar is set.
 <h2 style="margin: 0.25em 0;">Chaos Esports Club - <i>Europe Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">vtFαded</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" alt="Finland">MATUMBAMAN</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" alt="Germany">KheZu</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ba" alt="Bosnia and Herzegovina">MiLAN</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">vtFaded</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">MATUMBAMAN</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">KheZu</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ba" title="Maybe you should step up your flag knowledge? Eh? Jk, he's from Bosnia and Herzegovina" alt="Bosnia and Herzegovina">MiLAN</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" alt="Denmark">MISERY</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-by" alt="Belarus">j4</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-by" title="For real, though, you need more culture. Nah just bustin' your chops, he's from Belarus" alt="Belarus">j4</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -497,11 +497,11 @@ So that's where the bar is set.
 <h2 style="margin: 0.25em 0;">Infamous - <i>South America Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" alt="Peru">K1 (Hector)</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" alt="Peru">Chris Luck</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bo" alt="Bolivia">Wisper</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" alt="Peru">Scofield</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" alt="Peru">StingeR</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">K1 (Hector)</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Chris Luck</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bo" title="Bolivia" alt="Bolivia">Wisper</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Scofield</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">StingeR</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -521,13 +521,13 @@ So that's where the bar is set.
 <h2 style="margin: 0.25em 0;">Newbee - <i>North America Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pk" alt="Pakistan">YawaR</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">CCnC</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">Sneyking</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">MSS</td></tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">pieliedie</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pk" title="Pakistan" alt="Pakistan">YawaR</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">CCnC</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Sneyking</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">MSS</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">pieliedie</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ca" alt="Canada">Aui_2000</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Aui_2000</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
