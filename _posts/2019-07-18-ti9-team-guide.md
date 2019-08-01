@@ -58,7 +58,7 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 <table>
   <tbody><tr>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia" style="">RAMZES666</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Russia" alt="Ukraine">No[o]ne</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">No[o]ne</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">9pasha</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">RodjER</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Solo</td>
@@ -447,7 +447,7 @@ So that's where the bar is set.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">LaNm</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">ah fu</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Super</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Super</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -472,10 +472,10 @@ So that's where the bar is set.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">vtFaded</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">MATUMBAMAN</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">KheZu</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ba" title="Maybe you should step up your flag knowledge? Eh? Jk, he's from Bosnia and Herzegovina" alt="Bosnia and Herzegovina">MiLAN</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" alt="Denmark">MISERY</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ba" title="Maybe you should step up your flag knowledge? Jk, he's from Bosnia and Herzegovina" alt="Bosnia and Herzegovina">MiLAN</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">MISERY</td>
     <td></td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-by" title="For real, though, you need more culture. Nah just bustin' your chops, he's from Belarus" alt="Belarus">j4</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-by" title="You should be more worldly... Nah, just bustin' your chops, he's from Belarus" alt="Belarus">j4</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
