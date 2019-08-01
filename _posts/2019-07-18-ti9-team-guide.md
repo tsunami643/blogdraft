@@ -296,7 +296,7 @@ Scientists have yet to determine if a second game is possible.
   <tbody><tr>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-au" alt="Australia">ana</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" alt="Finland">Topson</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fr" alt="France">7ckngMad (Ceb)</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fr" alt="France">7Mad (Ceb)</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" alt="Finland">JerAx</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" alt="Denmark">N0tail</td>
     <td></td>
@@ -325,8 +325,8 @@ Scientists have yet to determine if a second game is possible.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">miCKe</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" alt="Germany">qojqva</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">Boxi</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">iNSaNiA</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-no" alt="Norway">Taiga</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">iNSaNiA</td>
     <td></td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">Loda</td></tr>
    </tbody>
@@ -442,7 +442,7 @@ So that's where the bar is set.
 <table>
   <tbody><tr>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Monet</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Setsu</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Setsu (Shade)</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Flyby</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">LaNm</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">ah fu</td>
