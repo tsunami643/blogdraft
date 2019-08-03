@@ -24,7 +24,7 @@ Twenty-two DPC tournaments later, these are the teams that either stayed after c
 The beauty of The International is when most of these skill differences go out the window.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti8teams/secretbanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/secret.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Secret</h2>
 <table>
   <tbody><tr>
@@ -39,20 +39,20 @@ The beauty of The International is when most of these skill differences go out t
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** Dreamleague S8 and S9 champions. Also won the meme Captain's Draft tournament.
+**Notable tournament placings** It'd be shorter to list their non-notable tournament placings this season. It was Epicenter. They got bodied at Epicenter. But the rest of the season was 👌
 
-**How did they qualify?** Attended the most DPC events of any team (tied with Newbee). Did reasonably well in a few of them.
+**How did they qualify?** Nisha's Dota 2 career began in around 2015 and earned him netted him ~$25,000 USD in prize winnings before joining Team Secret. After Team Secret? Nearly $300,000
 
-**What can we expect?** Heroes you usually don't see being played in roles you usually wouldn't expect losing to teams Secret usually should beat.
+**What can we expect?** Only a fool would expect the best performing team of the season to win TI.
 
 **How to sound smart talking about Secret** During the second pick phase of any draft just casually mumble, "This *could* be an Ace Meepo game," to no one in particular.
 
 On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Corollary</i></abbr>.
 
-**What would success look like?** Despite always being pretty good, Team Secret's highest placing at any International since the organization's inception was 7/8<sup>th</sup> at TI5. So ideally better than that.
+**What would success look like?** How convenient, I can just repeat what I said last year: Despite always being pretty good, Team Secret's highest placing at any International since the organization's inception was <i><strike>7/8<sup>th</sup> at TI5</strike></i> 5/6<sup>th</sup> at TI8. So ideally better than that.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti8teams/vpmegafonbanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/vp.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Virtus.pro</h2>
 <style type="text/css">table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}</style>
 <table>
@@ -68,18 +68,18 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** Just say ESL and some random city that sounds famous, but isn't really known for tourism. Chances are VP won something there. *"Yeah, they looked really good at ESL... Düsseldorf. I didn't watch it, though. Fuck Facebook."*
+**Notable tournament placings** Normally I would just . Or I could tell you that this VP has never placed lower than Top 8 at any event. Any event. Maybe that's not impressive enough for you? How about this. Since August 2016, which is when this VP formed with Lil, this team has still <i>never placed lower than Top 8 at any event.</i>
 
 **How did they qualify?** Got top 4 in seven out of the eight majors they attended and then proceeded to win half of them.
 
-**What can we expect?** With their top DPC ranking finish, they're arguably the favorites coming into TI8. They won so many points you could theoretically buy one of their players and automatically get a spot at TI. Oh wait.
+**What can we expect?** While VP were not the apex predators they were last season, this legendary squad has maintained the longest running roster
 
 **How to sound smart talking about VP** "Maybe Sansheng should've written a guide on how to deal with the chat wheel."
 
-**What would success look like?** Anything besides a grand finals appearance would undoubtedly be a disappointment to the team, their fans, and people hoping to get the 50 correct predictions Battle Pass achievement off VP matches.
+**What would success look like?** CIS deserves another Aegis.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti8teams/vicibanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/vici.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Vici Gaming</h2>
 <table>
   <tbody><tr>
@@ -107,7 +107,7 @@ And not win.
 **What would success look like?** Fenrir and LaNm doing well enough that they don't 'retire' after TI8.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti8teams/egbanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/eg.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Evil Geniuses</h2>
 <table>
   <tbody><tr>
@@ -134,16 +134,14 @@ After these maneuvers failed to produce results, the boys decided to consult the
 
 >We appreciate your <select><option hidden>Platitude</option><option>continued patience</option><option>passionate support</option><option>angry tweets</option></select> and are excited to announce the additions of <select><option hidden>Player #1 You'd Least Expect</option><option>Fly</option><option>Dendi</option><option>Poopkid</option></select> and <select><option hidden>Player #2 You'd Least Expect</option><option>s4</option><option>Doublelift</option><option>HookGangGod</option></select> to our Dota 2 team.
 
-**What can we expect?** Several hundred threads on */r/dota2/new/* justifying, decrying, and celebrating every minute-to-minute moment during EG matches.
+**What can w3 3xp3ct?** Do you know how painful this season has been for EG fans? They're not doing bad enough to demand roster changes. But goddammit, why won't these motherfuckers win anything. Through gritted teeth. Yes, of course it's good, but in the words of Ricky Bobby
 
 **How to sound smart talking about EG** "The current EG roster is the largest waste of potential in the history of dota."
 
-**What would satisfaction look like?** It's not even about the Aegis, it's about the storylines. EG vs OpTic would be the highest stakes Sumail-ppd showdown to date. EG vs OG could either be 7Mad's Austerlitz or Waterloo. And of course, EG vs VGJ.Storm=Hassanbowl.
-
-Anything short of a scorched earth loser's bracket run in which EG personally eliminates every last punk would just be a missed opportunity for *The DPC* season 1 finale.
+**What would success look like?** Second.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti8teams/liquidbanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/liquid.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Liquid</h2>
 <table>
   <tbody><tr>
@@ -166,18 +164,14 @@ Anything short of a scorched earth loser's bracket run in which EG personally el
 
 **What can we expect?** Of all the past TI championship squads, Team Liquid has by far maintained the most consistent success in their post-Aegis season. With the team once again winning the penultimate tournament before The International, this could potentially be another year of the horse.
 
-**How to sound smart talking about Liquid** <!-- "Calling Liquid a 'filler pick' is blatantlly ridiculous.  They're the best early game team in pro Dota; so far 7.06 seems VERY good for them" -->
-
-<blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Calling Liquid a &quot;filler pick&quot; is blatantlly ridiculous.  They&#39;re the best early game team in pro Dota; so far 7.06 seems VERY good for them</p>&mdash; Nahaz (@NahazDota) <a href="https://twitter.com/NahazDota/status/867702326508781568?ref_src=twsrc%5Etfw">May 25, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p></p>
+**How to sound dumb talking about Liquid** "I mean literally all they have to do is ban his Windranger. Wind and TA. And I guess his Meepo. Wind, TA, Meepo, Visag..."
 
 **What would success look like?** First defense of the Aegis, first repeat champion(s), first two-time organization victory, world's highest earning esports prize winners for at least a few years to come.
 
 No pressure.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti8teams/lgdbanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/lgd.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PSG.LGD</h2>
 <table>
   <tbody><tr>
@@ -208,7 +202,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti8teams/fnaticbanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/fnatic.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Fnatic</h2>
 <table>
   <tbody><tr>
@@ -236,7 +230,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 For he is at peace.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti8teams/opticbanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/nip.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Ninjas in Pyjamas</h2>
 <table>
   <tbody><tr>
@@ -251,18 +245,20 @@ For he is at peace.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** StarLadder S5 Minor champions, 2<sup>nd</sup> place at ESL Birmingham Major
+**Notable tournament placings** Allow me to describe the final three months of NiP's DPC journey: **Attend DreamLeague Major.** _Get bodied._ **Play MDL Major quals.** _Lose._ **Play Dota PIT minor quals.** _Win._ **Attend Dota PIT minor.** _Win!_ **Attend MDL Major.** _Got enough points for TI!_ **Play EPICENTER quals.** _Lose._ **Play StarLadder minor quals.** _Win._ **Hit up the non-DPC ESL Birmingham tournament.** _Get eliminated in group stage._ **Attend StarLadder minor.** _Win!_ **Attend EPICENTER.** _Kill me now._
 
-**How did they qualify?** After getting DPCockblocked by VP in three separate events, Zai, 33, and their ragtag band of former TI panelists managed to snag the final spot in NA over compLexity and Immortals.
+On the bright side, Peter and the gang racked up so much prize money farming minors that NiP actually came 4<sup>th</sup> in earnings for the season.
+
+**How did they qualify?** I imagine the NiP squad are 
 
 **What can we expect?** Being the only NA team to collect any relevant points this season should've meant that OpTic was the most vetted roster in the region, but coming out as the runt of the qualifier's litter wasn't a great look.
 
-**How to sound smart talking about NiP** "*True Sight*? Nah fam, I can't wait to see the *Vision* episode on this."
+**How to sound smart talking about NiP** "Fifflaren died for this."
 
 **What would success look like?** Doing so well that Call of Duty players take a break from tweeting 'Who's up?' and decide to voluntarily watch Dota 2.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti8teams/tncbanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/tnc.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">TNC Predator</h2>
 <table>
   <tbody><tr>
@@ -279,18 +275,18 @@ For he is at peace.
 
 **Notable tournament placings** 4<sup>th</sup> place at DAC 2018 Major, 2<sup>nd</sup> place at MDL Macau Minor
 
-**How did they qualify?** At any given moment, there are usually three teams consistently vying for king of the hill status in SEA. This year, the rock-paper-scissors was Mineski-Fnatic-TNC. Mineski was invited, Fnatic took the first qualifier spot, and TNC narrowly scraped the second.
+**How did they qualify?** Little known fact, TNC actually stands for _They Need Coaching._ Under the tutelage of Kips, the team scooped up a pretty cozy 5/6<sup>th</sup> place finish at the Kuala Lumpur Major. Shortly thereafter, they go coachless, get destroyed at the Chongqing Major, and then proceed to fall off the face off the earth. Three months later, they enter the Heen zone. The former Team Liquid coach whips the pinoy boys into shape for a 4<sup>th</sup> place finish at EPICENTER and a lock into TI.
 
 **What can we expect?** TNC can easily take a game off any team in the entire tournament without breaking a sweat.
 
 Scientists have yet to determine if a second game is possible.
 
-**How to sound smart talking about TNC** "Just three teams were able to beat both VP and Liquid on LAN this season, but only one also lost to Execration."
+**How to sound smart talking about TNC** Just regurgitate whatever you read on scantzor's twitter.
 
-**What would success look like?** The longer they stay in the tournament, the longer I can keep blindly picking Raven for easy fantasy points.
+**What would success look like?** SA and SEA are the only regions remaining who have yet to take an Aegis.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti8teams/ogbanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/og.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">OG</h2>
 <table>
   <tbody><tr>
@@ -307,7 +303,7 @@ Scientists have yet to determine if a second game is possible.
 
 **Notable tournament placings** The current roster was assembled around two weeks before TI qualifiers began, so... The International 2018: Europe Open Qualifier #1 champions.
 
-**How did they qualify?** Ritsu would've needed five more bladders worth of post-draft prep time to beat Europe's DPC qualifier gatekeeping kings.
+**How did they qualify?** Ana came back.
 
 **What can we expect?**
 
@@ -315,10 +311,10 @@ Scientists have yet to determine if a second game is possible.
 
 **How to sound smart talking about OG** "I was spamming '*OG.TOPSON*' in chat before Meteor Hammer Invoker was even a twinkle in his eyes."
 
-**What would success look like?** After multiple failed International runs, it would be only fitting that OG do well at the first TI where they're actually considered underdogs
+**What would success look like?** After multiple failed International runs, it would be only fitting that OG do well at the first TI where they're actually considered underdogs.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti8teams/thunderbanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/alliance.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Alliance</h2>
 <table>
   <tbody><tr>
@@ -335,23 +331,16 @@ Scientists have yet to determine if a second game is possible.
 
 **Notable tournament placings** 2<sup>nd</sup> place at The Bucharest Major. Also won Galaxy Battles II, but I'm the only person who cares about that tournament.
 
-**How did they qualify?**  
-<div class="video">
-<video playsinline autoplay loop muted poster="/blog/img/ti8teams/luigiwins.jpg" width="640">
-  <source src="/blog/img/ti8teams/luigiwins.webm" type="video/webm">
-  <source src="/blog/img/ti8teams/luigiwins.mp4" type="video/mp4">
-  <source src="/blog/img/ti8teams/luigiwins.ogv" type="video/ogg">
-</video></div>
-<p></p>
+**How did they qualify?** In a cutthroat they beat gambit
 
 **What can we expect?** Not that.
 
-**How to sound smart talking about Thunder** Without scrolling up, name the other three players who aren't ddc or Sylar.
+**How to sound smart talking about Alliance** Without scrolling up, name the other three players who aren't ddc or Sylar.
 
 **What would success look like?** Beyond ddc potentially becoming the last of the <abbr title="Puppey, Universe, Kuroky, ddc">Elite Four all-TI attendees</abbr> to earn an Aegis, a victory for their coach, the ever-lovable rOtK, would be something to celebrate for Eastern and Western Dota fans alike.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti8teams/newbeebanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/keen.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Keen Gaming</h2>
 <table>
   <tbody><tr>
@@ -372,7 +361,7 @@ Scientists have yet to determine if a second game is possible.
 
 **What can we expect?** This squad didn't have *amazing* results before TI7 either. They were good enough to be directly invited, but most people considered LFY or LGD to be the strongest Chinese teams at that TI. Perhaps history will repeat itself.
 
-**How to sound smart talking about Newbee** "Sccc is my free pass."
+**How to sound smart talking about Keen** "Sccc is my free pass."
 
 **What would success look like?** "You expect to win a championship at your first TI? You're just an ordinary person... not a god. Second TI is no excuse though, you better win."
 
@@ -385,7 +374,7 @@ Some trivia: Of the ten different squads to have attended an International grand
 So that's where the bar is set.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/mineskibanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/mineski.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Mineski - <i>SEA Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
@@ -411,7 +400,7 @@ So that's where the bar is set.
 **What would success look like?** An iceiceice Aegis would be like the DiCaprio Oscar in terms of reddit self-satisfaction.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/winstrikenewbanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/navi.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Natus Vincere - <i>CIS Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
@@ -432,12 +421,12 @@ So that's where the bar is set.
 
 **What can we expect?** Entertaining games and maybe a few upsets, but a deep run by Winstrike is among the darkest of horses.
 
-**How to sound smart talking about Winstrike** "This is good for Bitcoin."
+**How to sound smart talking about Na`Vi** "This is good for Bitcoin."
 
 **What would success look like?** Earlier in the season, Iceberg mentioned in an interview that they themselves don't expect to do particularly well, just getting to TI was the main goal. So mission accomplished. The real success would be if the roster stays together for more than two months post-TI.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/serenitybanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/rng.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Royal Never Give Up - <i>China Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
@@ -460,12 +449,12 @@ So that's where the bar is set.
 
 **What can we expect?** Honestly, no one knows. Anyone who claims otherwise is just trying to sound smart.
 
-**How to sound smart talking about Serenity** "lmaoooo maybe if you watched *actual* amateur dota and not grant streams of trashcan na pubs youd know my boys have been looking like TI winners since hcup season 8"
+**How to sound smart talking about RNG** "lmaoooo maybe if you watched *actual* amateur dota and not grant streams of trashcan na pubs youd know my boys have been looking like TI winners since hcup season 8"
 
 **What would success look like?** Not getting banned by ACE next year.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/igbanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/chaos.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Chaos Esports Club - <i>Europe Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
@@ -486,14 +475,14 @@ So that's where the bar is set.
 
 **What can we expect?** Probably nothing special, but it's worth noting that Agressif and Q *were* on the TI5 CDEC squad that Cinderella story'd their way from wild cards to grand finals.
 
-**How to sound smart talking about iG**  
+**How to sound smart talking about Chaos**  
 <div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/KhQio49YG-Q?rel=0" frameborder="0" allowfullscreen></iframe></div></div>
 <p></p>
 
 **What would success look like?** For the sake of justifying the two Chinese regional qualifier slots, they better hope they at least make it out of group stage.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/painbanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/infamous.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Infamous - <i>South America Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
@@ -506,18 +495,18 @@ So that's where the bar is set.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** 3<sup>rd</sup> place at ESL Birmingham Major
+**Notable tournament placings** Infamous? Never heard of 'em. You mean the Burger Cats? Oh hell yeah, Anvorgesa did pretty good at that last StarLadder Minor.
 
-**How did they qualify?** *Combat Log: Day 86 of SA qualifiers. Skol supplies running low. Game 7 has been delayed until after Sooths gets back from church for Nossa Senhora Aparecida. Rumor is the group stage may be played out again after we discovered Thunder Predator's coach was standing outside a window our entire series.*
+**How did they qualify?** The tug-of-war between Brazilian and Peruvian Dota went back to the cabinas this year.
 
-**What can we expect?** This is only the second time a South American team has even appeared at an International, so expectations are tempered. Lest we forget, however, this is the same PaiN that beat Liquid in a Bo1 and then a Bo3 during the ESL Birmingham group stage, so a few surprise wins are definitely on the table.
+**What can we expect?** This is the longest period of time I've seen a SA squad stick together before qualifying to TI.
 
-**How to sound smart talking about PaiN** "O SONHO TÁ VIVO. CAPINAR O LOTE! VAMOOOOS!"
+**How to sound smart talking about Infamous** "GAAAAAAAAAAAAAAAAAAAAAAAA"
 
-**What would success look like?** A result more memorable than the SG e-sports Kiev Major run to become the new default moment people cite when arguing over the strength of SA Dota.
+**What would success look like?** None of the players using an offensive name during the event.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/stormbanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/newbee.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Newbee - <i>North America Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
@@ -532,13 +521,13 @@ So that's where the bar is set.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** GESC: Thailand Minor champions, 2<sup>nd</sup> place at MDL Changsha Major
+**Notable tournament placings** If you ever put ex-Forward Gaming in the cage with anyone else in the region (besides EG), they came out  But ya send 'em to a LAN against international opponents and it's all ♿♿♿NA DOTA COMING THROUGH♿♿♿
 
-**How did they qualify?** Since this team's formation in Sept. 2017, there were a whopping thirteen different players to don the VGJ.Storm tag at some point during the season. The addition of Resolut1on as the one position was the conclusion, but *come on*, it's no coincidence that the team with the most American players made it through NA qualifiers in 1<sup>st</sup>.
+**How did they qualify?** After Valve finally confiscated NA's third slot to every major
 
 **What can we expect?** Jeremy Lin to make his yearly cameo, but now with some actual skin in the game. At least I hope so. If he and Asa Butterfield move to Fortnite, we're doomed.
 
-**How to sound smart talking about Storm** "BSJ was just ahead of his time."
+**How to sound smart talking about Newbee** "BSJ was just ahead of his time."
 
 **What would success look like?** So many USA chants you'll forget this TI is actually in Canada.
 
