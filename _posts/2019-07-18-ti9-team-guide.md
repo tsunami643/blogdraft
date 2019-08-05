@@ -122,7 +122,7 @@ And not win.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** Three out of their five players won the GESC: Indonesia Minor and the other two won the MDL Macau Minor. By these powers combined, this full roster had zero usable DPC points.
+**Notable tournament placings** Do you know how painful this season has been for EG fans? Through gritted teeth, they've been tanking abuse from smug Europeans whose teams have been completely dominating the DPC. Whatever, that's fine, but the worst part was EG weren't even *doing bad*. So #BleedBluers didn't even get the satisfaction of demanding roster changes. "B-b-but they were consistently getting top three!" Obviously. By any reasonable metric of achievement, it's been a pretty excellent year. But Dota players operate on the Ricky Bobby scale, so if you ain't first, you're last.
 
 **How did they qualify?** EG has basically been playing Dota Mad Libs for the past year.
 
@@ -134,11 +134,11 @@ After these maneuvers failed to produce results, the boys decided to consult the
 
 >We appreciate your <select><option hidden>Platitude</option><option>continued patience</option><option>passionate support</option><option>angry tweets</option></select> and are excited to announce the additions of <select><option hidden>Player #1 You'd Least Expect</option><option>Fly</option><option>Dendi</option><option>Poopkid</option></select> and <select><option hidden>Player #2 You'd Least Expect</option><option>s4</option><option>Doublelift</option><option>HookGangGod</option></select> to our Dota 2 team.
 
-**What can w3 3xp3ct?** Do you know how painful this season has been for EG fans? They're not doing bad enough to demand roster changes. But goddammit, why won't these motherfuckers win anything. Through gritted teeth. Yes, of course it's good, but in the words of Ricky Bobby
+**What can we exp3ct?** Dank memes
 
 **How to sound smart talking about EG** "The current EG roster is the largest waste of potential in the history of dota."
 
-**What would success look like?** Second.
+**What would success look like?** <span style="color: black; background: black; span:hover { color: white;}">Second.</span>
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/liquid.png" alt="Banner"></p>
