@@ -138,7 +138,7 @@ After these maneuvers failed to produce results, the boys decided to consult the
 
 **How to sound smart talking about EG** "The current EG roster is the largest waste of potential in the history of dota."
 
-**What would success look like?** <span style="color: black; background: black; span:hover { color: white;}">Second.</span>
+**What would success look like?** <span class="spoiler">Second.</span>
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/liquid.png" alt="Banner"></p>
@@ -441,9 +441,7 @@ So that's where the bar is set.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** ???  
-**Notable tournament attendances** ???  
-**Notable players** ???
+**Notable tournament placings** Top 10 most 
 
 **How did they qualify?** In the divine game of mahjong that randomly determines whichever Chinese team is intra-regionally strongest on any given week, the gods willed that Serenity shall be victorious.
 
