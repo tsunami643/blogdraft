@@ -1,8 +1,8 @@
 ﻿---
 layout: "post"
-title: "The International 2019: Another Practical Guide to All 18 Teams"
-date: "2019-07-18 11:45"
-summary:    The bare minimum information you need to know before talking to a Dota player this August.
+title: "The International 10: Another Practical Guide to All 18 Teams"
+date: "2021-09-25 11:45"
+summary:    The bare minimum information you need to know before talking to a Dota player this October.
 feature-img: "img/ti8teams/ti8header.png"
 flags: true
 ---
@@ -24,96 +24,13 @@ Twenty-two DPC tournaments later, these are the teams that either stayed after c
 The beauty of The International is when most of these skill differences go out the window.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/secret.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Secret</h2>
-<table>
-  <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pl" title="Poland" alt="Poland">Nisha</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">MidOne</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">zai</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">YapzOr</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ee" title="Estonia" alt="Estonia">Puppey</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">SunBhie</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**Notable tournament placings** It'd be shorter to list their non-notable tournament placings this season. It was Epicenter. They got bodied at Epicenter. But the rest of the season was 👌
-
-**How did they qualify?** Nisha's Dota 2 career began in around 2015 and earned him netted him ~$25,000 USD in prize winnings before joining Team Secret. After Team Secret? Nearly $300,000
-
-**What can we expect?** Only a fool would expect the best performing team of the season to win TI.
-
-**How to sound smart talking about Secret** During the second pick phase of any draft just casually mumble, "This *could* be an Ace Meepo game," to no one in particular.
-
-On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Corollary</i></abbr>.
-
-**What would success look like?** How convenient, I can just repeat what I said last year: Despite always being pretty good, Team Secret's highest placing at any International since the organization's inception was <i><strike>7/8<sup>th</sup> at TI5</strike></i> 5/6<sup>th</sup> at TI8. So ideally better than that.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/vp.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Virtus.pro</h2>
-<style type="text/css">table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}</style>
-<table>
-  <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia" style="">RAMZES666</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">No[o]ne</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">9pasha</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">RodjER</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Solo</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">ArsZeeqq</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**Notable tournament placings** Normally I would just . Or I could tell you that this VP has never placed lower than Top 8 at any event. Any event. Maybe that's not impressive enough for you? How about this. Since August 2016, which is when this VP formed with Lil, this team has still <i>never placed lower than Top 8 at any event.</i>
-
-**How did they qualify?** Got top 4 in seven out of the eight majors they attended and then proceeded to win half of them.
-
-**What can we expect?** While VP were not the apex predators they were last season, this legendary squad has maintained the longest running roster
-
-**How to sound smart talking about VP** "Maybe Sansheng should've written a guide on how to deal with the chat wheel."
-
-**What would success look like?** CIS deserves another Aegis.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/vici.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Vici Gaming</h2>
-<table>
-  <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Paparazi灬</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ori</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Yang</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Fade</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Dy</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">rOtk</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**Notable tournament placings** A whole bunch of 2<sup>nd</sup> place finishes
-
-**How did they qualify?** Middle of the pack tournament results translating into a middle of the pack DPC result.
-
-**What can we expect?** Just some real solid Dotes. You know, a real focus on the fundamentals. The guys are gonna give it their all. Show some real hustle out there.
-
-And not win.
-
-**How to sound smart talking about VG** How does one even talk about Vici to begin with? To investigate, I sifted through roughly ten different VG match discussion threads on reddit in the past few months and found only *one* person with Vici Gaming flair in any of them. You are a lost soul, /u/OPQOP, but I hope you find happiness as a VG fan.
-
-**What would success look like?** Fenrir and LaNm doing well enough that they don't 'retire' after TI8.
-
-<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/eg.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Evil Geniuses</h2>
 <table>
   <tbody><tr>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Arteezy</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pk" title="Pakistan" alt="Pakistan">Suma1L</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">s4</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Abed</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-sg" title="Singapore" alt="Singapore">iceiceice</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cr1t-</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">Fly</td>
     <td>&nbsp;</td>
@@ -122,7 +39,7 @@ And not win.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** Do you know how painful this season has been for EG fans? Through gritted teeth, they've been tanking abuse from smug Europeans whose teams have been completely dominating the DPC. Whatever, that's fine, but the worst part was EG weren't even *doing bad*. So #BleedBluers didn't even get the satisfaction of demanding roster changes. "B-b-but they were consistently getting top three!" Obviously. By any reasonable metric of achievement, it's been a pretty excellent year. But Dota players operate on the Ricky Bobby scale, so if you ain't first, you're last.
+**How did this roster happen?** Do you know how painful this season has been for EG fans? Through gritted teeth, they've been tanking abuse from smug Europeans whose teams have been completely dominating the DPC. Whatever, that's fine, but the worst part was EG weren't even *doing bad*. So #BleedBluers didn't even get the satisfaction of demanding roster changes. "B-b-but they were consistently getting top three!" Obviously. By any reasonable metric of achievement, it's been a pretty excellent year. But Dota players operate on the Ricky Bobby scale, so if you ain't first, you're last.
 
 **How did they qualify?** EG has basically been playing Dota Mad Libs for the past year.
 
@@ -141,47 +58,17 @@ After these maneuvers failed to produce results, the boys decided to consult the
 **What would success look like?** <span class="spoiler">Second.</span>
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/liquid.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Liquid</h2>
-<table>
-  <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">Miracle-</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ro" title="Romania" alt="Romania" style="">w33</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">MinD_ContRoL</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-lb" title="Lebanon" alt="Lebanon">GH</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">KuroKy</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">rmN-</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**Notable tournament placings** TI7 champions, China Dota 2 Supermajor champions. Never won a real Major, though.
-
-**How did they qualify?**  
-<div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/oWBDZo3axYg?start=1710&rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe></div></div>
-<p></p>
-
-**What can we expect?** Of all the past TI championship squads, Team Liquid has by far maintained the most consistent success in their post-Aegis season. With the team once again winning the penultimate tournament before The International, this could potentially be another year of the horse.
-
-**How to sound dumb talking about Liquid** "I mean literally all they have to do is ban his Windranger. Wind and TA. And I guess his Meepo. Wind, TA, Meepo, Visag..."
-
-**What would success look like?** First defense of the Aegis, first repeat champion(s), first two-time organization victory, world's highest earning esports prize winners for at least a few years to come.
-
-No pressure.
-
-<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/lgd.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PSG.LGD</h2>
 <table>
   <tbody><tr>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ame</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Somnus丶M (Maybe)</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Chalice</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">fy</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">xNova</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">NothingToSay</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Faith_bian</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">XinQ</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">y` (Innocence)</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">QQQ</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">xiao8</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -200,17 +87,95 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **What would success look like?** Having said that, "\_\_\_\_\_\_\_，\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\!"
 
-
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/fnatic.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Fnatic</h2>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/vp.png" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Virtus.pro</h2>
+<style type="text/css">table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}</style>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">Jabz</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Abed</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-sg" title="Singapore" alt="Singapore">iceiceice</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">DJ</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">DuBu</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia" style="">Nightfall</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">gpk</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">DM</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-md" title="Moldova" alt="Moldova">Save-</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Kingslayer</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">boolk</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**Notable tournament placings** Normally I would just . Or I could tell you that this VP has never placed lower than Top 8 at any event. Any event. Maybe that's not impressive enough for you? How about this. Since August 2016, which is when this VP formed with Lil, this team has still <i>never placed lower than Top 8 at any event.</i>
+
+**How did they qualify?** Got top 4 in seven out of the eight majors they attended and then proceeded to win half of them.
+
+**What can we expect?** While VP were not the apex predators they were last season, this legendary squad has maintained the longest running roster
+
+**How to sound smart talking about VP** "Maybe Sansheng should've written a guide on how to deal with the chat wheel."
+
+**What would success look like?** CIS deserves another Aegis.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/newbee.png" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Quincy Crew</h2>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pk" title="Pakistan" alt="Pakistan">YawaR</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Quinn (CCnC)</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Lelis</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">MSS</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="United States" alt="United States">LoA (SVG)</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Aui_2000</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**Notable tournament placings** If you ever put ex-Forward Gaming in the cage with anyone else in the region (besides EG), they came out  But ya send 'em to a LAN against international opponents and it's all ♿♿♿NA DOTA COMING THROUGH♿♿♿
+
+**How did they qualify?** After Valve finally confiscated NA's third slot to every major
+
+**What can we expect?** Jeremy Lin to make his yearly cameo, but now with some actual skin in the game. At least I hope so. If he and Asa Butterfield move to Fortnite, we're doomed.
+
+**How to sound smart talking about Newbee** "BSJ was just ahead of his time."
+
+**What would success look like?** So many USA chants you'll forget this TI is actually in Canada.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/keen.png" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Invictus Gaming</h2>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">flyfly</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Emo</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">JT-</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Kaka</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Oli</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">super</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**Notable tournament placings** A whole bunch of 3<sup>rd</sup> place finishes
+
+**How did they qualify?** TI7's runners-up gave a less than stellar performance this season, but it was enough to squeeze into the DPC top 8 for a TI invite anyway. Their biggest mistake was getting revenge on Liquid too early in the year, thus preventing the Sccc ultra instinct arc.
+
+**What can we expect?** This squad didn't have *amazing* results before TI7 either. They were good enough to be directly invited, but most people considered LFY or LGD to be the strongest Chinese teams at that TI. Perhaps history will repeat itself.
+
+**How to sound smart talking about Keen** "Sccc is my free pass."
+
+**What would success look like?** "You expect to win a championship at your first TI? You're just an ordinary person... not a god. Second TI is no excuse though, you better win."
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/tnc.png" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">T1</h2>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">23savage</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Karl</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Kuku</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Xepher</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Whitemon</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">March</td></tr>
    </tbody>
@@ -230,70 +195,234 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 For he is at peace.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/nip.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Ninjas in Pyjamas</h2>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/vici.png" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Vici Gaming</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Ace</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Fata</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">33</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-mk" title="North Macedonia" alt="North Macedonia">Saksa</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">ppd</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">poyoyo</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ori</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">old eLeVeN</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Pyw</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Dy</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Pajkatt</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Fenrir</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** Allow me to describe the final three months of NiP's DPC journey: **Attend DreamLeague Major.** _Get bodied._ **Play MDL Major quals.** _Lose._ **Play Dota PIT minor quals.** _Win._ **Attend Dota PIT minor.** _Win!_ **Attend MDL Major.** _Got enough points for TI!_ **Play EPICENTER quals.** _Lose._ **Play StarLadder minor quals.** _Win._ **Hit up the non-DPC ESL Birmingham tournament.** _Get eliminated in group stage._ **Attend StarLadder minor.** _Win!_ **Attend EPICENTER.** _Kill me now._
+**Notable tournament placings** A whole bunch of 2<sup>nd</sup> place finishes
 
-On the bright side, Peter and the gang racked up so much prize money farming minors that NiP actually came 4<sup>th</sup> in earnings for the season.
+**How did they qualify?** Middle of the pack tournament results translating into a middle of the pack DPC result.
 
-**How did they qualify?** I imagine the NiP squad are 
+**What can we expect?** Just some real solid Dotes. You know, a real focus on the fundamentals. The guys are gonna give it their all. Show some real hustle out there.
 
-**What can we expect?** Being the only NA team to collect any relevant points this season should've meant that OpTic was the most vetted roster in the region, but coming out as the runt of the qualifier's litter wasn't a great look.
+And not win.
 
-**How to sound smart talking about NiP** "Fifflaren died for this."
+**How to sound smart talking about VG** How does one even talk about Vici to begin with? To investigate, I sifted through roughly ten different VG match discussion threads on reddit in the past few months and found only *one* person with Vici Gaming flair in any of them. You are a lost soul, /u/OPQOP, but I hope you find happiness as a VG fan.
 
-**What would success look like?** Doing so well that Call of Duty players take a break from tweeting 'Who's up?' and decide to voluntarily watch Dota 2.
+**What would success look like?** Fenrir and LaNm doing well enough that they don't 'retire' after TI8.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/tnc.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">TNC Predator</h2>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/secret.png" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Team Secret</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Gabbi</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Armel</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Kuku</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Tims</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">eyyou</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">MATUMBAMAN</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pl" title="Poland" alt="Poland">Nisha</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">zai</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">YapzOr</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ee" title="Estonia" alt="Estonia">Puppey</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">Heen</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** 4<sup>th</sup> place at DAC 2018 Major, 2<sup>nd</sup> place at MDL Macau Minor
+**Notable tournament placings** It'd be shorter to list their non-notable tournament placings this season. It was Epicenter. They got bodied at Epicenter. But the rest of the season was 👌
 
-**How did they qualify?** Little known fact, TNC actually stands for _They Need Coaching._ Under the tutelage of Kips, the team scooped up a pretty cozy 5/6<sup>th</sup> place finish at the Kuala Lumpur Major. Shortly thereafter, they go coachless, get destroyed at the Chongqing Major, and then proceed to fall off the face off the earth. Three months later, they enter the Heen zone. The former Team Liquid coach whips the pinoy boys into shape for a 4<sup>th</sup> place finish at EPICENTER and a lock into TI.
+**How did they qualify?** Nisha's Dota 2 career began in around 2015 and earned him netted him ~$25,000 USD in prize winnings before joining Team Secret. After Team Secret? Nearly $300,000
 
-**What can we expect?** TNC can easily take a game off any team in the entire tournament without breaking a sweat.
+**What can we expect?** Only a fool would expect the best performing team of the season to win TI.
 
-Scientists have yet to determine if a second game is possible.
+**How to sound smart talking about Secret** During the second pick phase of any draft just casually mumble, "This *could* be an Ace Meepo game," to no one in particular.
 
-**How to sound smart talking about TNC** Just regurgitate whatever you read on scantzor's twitter.
+On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Corollary</i></abbr>.
 
-**What would success look like?** SA and SEA are the only regions remaining who have yet to take an Aegis.
+**What would success look like?** How convenient, I can just repeat what I said last year: Despite always being pretty good, Team Secret's highest placing at any International since the organization's inception was <i><strike>7/8<sup>th</sup> at TI5</strike></i> 5/6<sup>th</sup> at TI8. So ideally better than that.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/rng.png" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Team Aster</i></h2>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Monet</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">White丶Album_白学家</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Xxs</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Borax (BoBoKa)</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">LaNm</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Mad</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**Notable tournament placings** Top 10 most 
+
+**How did they qualify?** In the divine game of mahjong that randomly determines whichever Chinese team is intra-regionally strongest on any given week, the gods willed that Serenity shall be victorious.
+
+**What can we expect?** Honestly, no one knows. Anyone who claims otherwise is just trying to sound smart.
+
+**How to sound smart talking about RNG** "lmaoooo maybe if you watched *actual* amateur dota and not grant streams of trashcan na pubs youd know my boys have been looking like TI winners since hcup season 8"
+
+**What would success look like?** Not getting banned by ACE next year.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/alliance.png" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Alliance</h2>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">Nikobaby</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">LIMMP</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">s4</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Handsken</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">fng</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Loda</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**Notable tournament placings** 2<sup>nd</sup> place at The Bucharest Major. Also won Galaxy Battles II, but I'm the only person who cares about that tournament.
+
+**How did they qualify?** In a cutthroat they beat gambit
+
+**What can we expect?** Not that.
+
+**How to sound smart talking about Alliance** Without scrolling up, name the other three players who aren't ddc or Sylar.
+
+**What would success look like?** Beyond ddc potentially becoming the last of the <abbr title="Puppey, Universe, Kuroky, ddc">Elite Four all-TI attendees</abbr> to earn an Aegis, a victory for their coach, the ever-lovable rOtK, would be something to celebrate for Eastern and Western Dota fans alike.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/infamous.png" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">beastcoast</i></h2>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">K1 (Hector)</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Chris Luck</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bo" title="Bolivia" alt="Bolivia">Wisper</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Scofield</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">StingeR</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ar" title="Argentina" alt="Argentina">Papita</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**Notable tournament placings** Infamous? Never heard of 'em. You mean the Burger Cats? Oh hell yeah, Anvorgesa did pretty good at that last StarLadder Minor.
+
+**How did they qualify?** The tug-of-war between Brazilian and Peruvian Dota went back to the cabinas this year.
+
+**What can we expect?** This is the longest period of time I've seen a SA squad stick together before qualifying to TI.
+
+**How to sound smart talking about Infamous** "GAAAAAAAAAAAAAAAAAAAAAAAA"
+
+**What would success look like?** None of the players using an offensive name during the event.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/infamous.png" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Thunder Predator</i></h2>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Mnz</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Leostyle-</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Frank</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">MoOz</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Mjz</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Fear</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**Notable tournament placings** Infamous? Never heard of 'em. You mean the Burger Cats? Oh hell yeah, Anvorgesa did pretty good at that last StarLadder Minor.
+
+**How did they qualify?** The tug-of-war between Brazilian and Peruvian Dota went back to the cabinas this year.
+
+**What can we expect?** This is the longest period of time I've seen a SA squad stick together before qualifying to TI.
+
+**How to sound smart talking about Infamous** "GAAAAAAAAAAAAAAAAAAAAAAAA"
+
+**What would success look like?** None of the players using an offensive name during the event.
+
+# The Qualifiers
+
+The other ten teams came through a double elimination bracket of online qualifiers within their respective regions. Half of them had to even go through a Bo1 madhouse open qualifier for committing the cardinal sin of wanting to change rosters after February 5<sup>th</sup>.
+
+Some trivia: Of the ten different squads to have attended an International grand final since the qualifier system was created in TI3, only three have been non-invited teams, and Wings is the only qualifier team to have ever won.
+
+So that's where the bar is set.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/mineski.png" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Team Undying - <i>North America Regional Qualifier</i></h2>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Timado</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Bryle</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cz" title="Czechia" alt="Czechia">SabeRLight-</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">MoonMeander</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">Dubu</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Kenchi</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**Notable tournament placings** DAC 2018 Major champions
+
+**How did they qualify?** While allegedly on the brink of disbanding, the squad managed to beat LGD on their own home turf to win DAC. Thankfully, with VP and Liquid vacuuming up all the other DPC points, that Major win was all Mineski needed to secure their TI invite.
+
+**What can we expect?** Mineski is one of those teams that people are mostly unsurprised no matter what result they get. Drown in group stage? *Eh, it happens.* Dominant winner's side run? *Knew they had it in them.* Don't even qualify? *Wow, SEA is so competitive!*
+
+**How to sound smart talking about Mineski** Don't say anything, just start doing push-ups.
+
+**What would success look like?** An iceiceice Aegis would be like the DiCaprio Oscar in terms of reddit self-satisfaction.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/chaos.png" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">SG esports - <i>South America Regional Qualifier</i></h2>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Costabile</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">4dr</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Tavo</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Thiolicor</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">KJ</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ro" title="Romania" alt="Romania">Mangus</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**Notable tournament placings** Infamous? Never heard of 'em. You mean the Burger Cats? Oh hell yeah, Anvorgesa did pretty good at that last StarLadder Minor.
+
+**How did they qualify?** The tug-of-war between Brazilian and Peruvian Dota went back to the cabinas this year.
+
+**What can we expect?** This is the longest period of time I've seen a SA squad stick together before qualifying to TI.
+
+**How to sound smart talking about Infamous** "GAAAAAAAAAAAAAAAAAAAAAAAA"
+
+**What would success look like?** None of the players using an offensive name during the event.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/og.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">OG</h2>
+<h2 style="margin: 0.25em 0;">OG - <i>Western Europe Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-au" title="Australia" alt="Australia">ana</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pk" title="Pakistan" alt="Pakistan">SumaiL</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">Topson</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fr" title="France" alt="France">7Mad (Ceb)</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">JerAx</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fr" title="France" alt="France">Ceb</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-mk" title="North Macedonia" alt="North Macedonia">Saksa</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">N0tail</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-fr" title="France" alt="France">Sockshka</td></tr>
@@ -314,103 +443,17 @@ Scientists have yet to determine if a second game is possible.
 **What would success look like?** After multiple failed International runs, it would be only fitting that OG do well at the first TI where they're actually considered underdogs.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/alliance.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Alliance</h2>
-<table>
-  <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">miCKe</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">qojqva</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Boxi</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-no" title="Norway" alt="Norway">Taiga</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">iNSaNiA</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Loda</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**Notable tournament placings** 2<sup>nd</sup> place at The Bucharest Major. Also won Galaxy Battles II, but I'm the only person who cares about that tournament.
-
-**How did they qualify?** In a cutthroat they beat gambit
-
-**What can we expect?** Not that.
-
-**How to sound smart talking about Alliance** Without scrolling up, name the other three players who aren't ddc or Sylar.
-
-**What would success look like?** Beyond ddc potentially becoming the last of the <abbr title="Puppey, Universe, Kuroky, ddc">Elite Four all-TI attendees</abbr> to earn an Aegis, a victory for their coach, the ever-lovable rOtK, would be something to celebrate for Eastern and Western Dota fans alike.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/keen.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Keen Gaming</h2>
-<table>
-  <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">old chicken</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">一 (yī)</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">eLeVeN</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Kaka</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">dark</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Fyms</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**Notable tournament placings** A whole bunch of 3<sup>rd</sup> place finishes
-
-**How did they qualify?** TI7's runners-up gave a less than stellar performance this season, but it was enough to squeeze into the DPC top 8 for a TI invite anyway. Their biggest mistake was getting revenge on Liquid too early in the year, thus preventing the Sccc ultra instinct arc.
-
-**What can we expect?** This squad didn't have *amazing* results before TI7 either. They were good enough to be directly invited, but most people considered LFY or LGD to be the strongest Chinese teams at that TI. Perhaps history will repeat itself.
-
-**How to sound smart talking about Keen** "Sccc is my free pass."
-
-**What would success look like?** "You expect to win a championship at your first TI? You're just an ordinary person... not a god. Second TI is no excuse though, you better win."
-
-# The Qualifiers
-
-The other ten teams came through a double elimination bracket of online qualifiers within their respective regions. Half of them had to even go through a Bo1 madhouse open qualifier for committing the cardinal sin of wanting to change rosters after February 5<sup>th</sup>.
-
-Some trivia: Of the ten different squads to have attended an International grand final since the qualifier system was created in TI3, only three have been non-invited teams, and Wings is the only qualifier team to have ever won.
-
-So that's where the bar is set.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/mineski.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Mineski - <i>SEA Regional Qualifier</i></h2>
-<table>
-  <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">Nikobaby</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Moon</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-au" title="Australia" alt="Australia">kpii</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Bimbo (Raging Potato)</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">ninjaboogie</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Kenchi</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**Notable tournament placings** DAC 2018 Major champions
-
-**How did they qualify?** While allegedly on the brink of disbanding, the squad managed to beat LGD on their own home turf to win DAC. Thankfully, with VP and Liquid vacuuming up all the other DPC points, that Major win was all Mineski needed to secure their TI invite.
-
-**What can we expect?** Mineski is one of those teams that people are mostly unsurprised no matter what result they get. Drown in group stage? *Eh, it happens.* Dominant winner's side run? *Knew they had it in them.* Don't even qualify? *Wow, SEA is so competitive!*
-
-**How to sound smart talking about Mineski** Don't say anything, just start doing push-ups.
-
-**What would success look like?** An iceiceice Aegis would be like the DiCaprio Oscar in terms of reddit self-satisfaction.
-
-<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/navi.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Natus Vincere - <i>CIS Regional Qualifier</i></h2>
+<h2 style="margin: 0.25em 0;">Team Spirit - <i>Eastern Europe (CIS) Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Crystallize</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">MagicaL</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kg" title="Kyrgyzstan" alt="Kyrgyzstan">Blizzy</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kg" title="Kyrgyzstan" alt="Kyrgyzstan">Zayac</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">SoNNeikO</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Yatoro</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">TORONTOTOKYO (mio)</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Collapse</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Miroslaw</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Miposhka</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Mag~</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Silent</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -427,16 +470,16 @@ So that's where the bar is set.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/rng.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Royal Never Give Up - <i>China Regional Qualifier</i></h2>
+<h2 style="margin: 0.25em 0;">Elephant - <i>China Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Monet</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Setsu (Shade)</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Flyby</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">LaNm</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">ah fu</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Eurus (Paparazi灬)</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Somnus丶M (Maybe)</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Yang</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">fy</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Super</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Super</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">rOtK</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -452,82 +495,32 @@ So that's where the bar is set.
 **What would success look like?** Not getting banned by ACE next year.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/chaos.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Chaos Esports Club - <i>Europe Regional Qualifier</i></h2>
+<p style="margin: 0.5em 0;"><img src="../img/ti9teams/fnatic.png" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Fnatic - <i>SEA Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">vtFaded</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">MATUMBAMAN</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">KheZu</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ba" title="Maybe you should step up your flag knowledge? Jk, he's from Bosnia and Herzegovina" alt="Bosnia and Herzegovina">MiLAN</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">MISERY</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Raven</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">ChYuan</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-sg" title="Singapore" alt="Singapore">Deth</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">Jabz</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">DJ</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-by" title="You should be more worldly... Nah, just bustin' your chops, he's from Belarus" alt="Belarus">j4</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">SunBhie</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** World Cyber Arena 2017 champions... I guess
+**Notable tournament placings** 4<sup>th</sup> place at DAC 2018 Major, 2<sup>nd</sup> place at MDL Macau Minor
 
-**How did they qualify?** iG was the *only* team to be directly invited to the Chinese qualifiers since literally every other team messed around with their rosters at some point. After narrowly making it through a group stage tiebreaker, and then losing to Serenity in the playoffs, iG 2-0'd LFY to become the 6<sup>th</sup> Chinese representative at TI8.
+**How did they qualify?** Little known fact, TNC actually stands for _They Need Coaching._ Under the tutelage of Kips, the team scooped up a pretty cozy 5/6<sup>th</sup> place finish at the Kuala Lumpur Major. Shortly thereafter, they go coachless, get destroyed at the Chongqing Major, and then proceed to fall off the face off the earth. Three months later, they enter the Heen zone. The former Team Liquid coach whips the pinoy boys into shape for a 4<sup>th</sup> place finish at EPICENTER and a lock into TI.
 
-**What can we expect?** Probably nothing special, but it's worth noting that Agressif and Q *were* on the TI5 CDEC squad that Cinderella story'd their way from wild cards to grand finals.
+**What can we expect?** TNC can easily take a game off any team in the entire tournament without breaking a sweat.
 
-**How to sound smart talking about Chaos**  
-<div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/KhQio49YG-Q?rel=0" frameborder="0" allowfullscreen></iframe></div></div>
-<p></p>
+Scientists have yet to determine if a second game is possible.
 
-**What would success look like?** For the sake of justifying the two Chinese regional qualifier slots, they better hope they at least make it out of group stage.
+**How to sound smart talking about TNC** Just regurgitate whatever you read on scantzor's twitter.
 
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/infamous.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Infamous - <i>South America Regional Qualifier</i></h2>
-<table>
-  <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">K1 (Hector)</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Chris Luck</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bo" title="Bolivia" alt="Bolivia">Wisper</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Scofield</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">StingeR</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**Notable tournament placings** Infamous? Never heard of 'em. You mean the Burger Cats? Oh hell yeah, Anvorgesa did pretty good at that last StarLadder Minor.
-
-**How did they qualify?** The tug-of-war between Brazilian and Peruvian Dota went back to the cabinas this year.
-
-**What can we expect?** This is the longest period of time I've seen a SA squad stick together before qualifying to TI.
-
-**How to sound smart talking about Infamous** "GAAAAAAAAAAAAAAAAAAAAAAAA"
-
-**What would success look like?** None of the players using an offensive name during the event.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/newbee.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Newbee - <i>North America Regional Qualifier</i></h2>
-<table>
-  <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pk" title="Pakistan" alt="Pakistan">YawaR</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">CCnC</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Sneyking</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">MSS</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">pieliedie</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Aui_2000</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**Notable tournament placings** If you ever put ex-Forward Gaming in the cage with anyone else in the region (besides EG), they came out  But ya send 'em to a LAN against international opponents and it's all ♿♿♿NA DOTA COMING THROUGH♿♿♿
-
-**How did they qualify?** After Valve finally confiscated NA's third slot to every major
-
-**What can we expect?** Jeremy Lin to make his yearly cameo, but now with some actual skin in the game. At least I hope so. If he and Asa Butterfield move to Fortnite, we're doomed.
-
-**How to sound smart talking about Newbee** "BSJ was just ahead of his time."
-
-**What would success look like?** So many USA chants you'll forget this TI is actually in Canada.
+**What would success look like?** SA and SEA are the only regions remaining who have yet to take an Aegis.
 
 ----
 
