@@ -123,9 +123,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Quinn (CCnC)</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Lelis</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">MSS</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="United States" alt="United States">LoA (SVG)</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Aui_2000</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">LoA (SVG)</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -252,7 +250,7 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/rng.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Aster</i></h2>
+<h2 style="margin: 0.25em 0;">Team Aster</h2>
 <table>
   <tbody><tr>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Monet</td>
@@ -285,9 +283,7 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">LIMMP</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">s4</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Handsken</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">fng</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Loda</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">fng</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -304,7 +300,7 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/infamous.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">beastcoast</i></h2>
+<h2 style="margin: 0.25em 0;">beastcoast</h2>
 <table>
   <tbody><tr>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">K1 (Hector)</td>
@@ -330,7 +326,7 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/infamous.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Thunder Predator</i></h2>
+<h2 style="margin: 0.25em 0;">Thunder Predator</h2>
 <table>
   <tbody><tr>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Mnz</td>
@@ -371,9 +367,7 @@ So that's where the bar is set.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Bryle</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cz" title="Czechia" alt="Czechia">SabeRLight-</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">MoonMeander</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">Dubu</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Kenchi</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">Dubu</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
