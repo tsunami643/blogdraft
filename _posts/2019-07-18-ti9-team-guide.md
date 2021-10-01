@@ -69,22 +69,22 @@ for (i=0; i<myWrappers.length; i++){
      } else if(dropDown.value === "one"){
        myWrappers[i].style.display = "none";
        myParagraphs[i].style.display = "none";
-       myWrappers[0].style.display = "block";
+       myWrappers[0].style.display = "inline";
        myParagraphs[0].style.display = "block";
       } else if(dropDown.value === "two"){
        myWrappers[i].style.display = "none";
        myParagraphs[i].style.display = "none";
-       myWrappers[1].style.display = "block";
+       myWrappers[1].style.display = "inline";
        myParagraphs[1].style.display = "block";
       } else if(dropDown.value === "three"){
        myWrappers[i].style.display = "none";
        myParagraphs[i].style.display = "none";
-       myWrappers[2].style.display = "block";
+       myWrappers[2].style.display = "inline";
        myParagraphs[2].style.display = "block";
       } else if(dropDown.value === "four"){
        myWrappers[i].style.display = "none";
        myParagraphs[i].style.display = "none";
-       myWrappers[3].style.display = "block";
+       myWrappers[3].style.display = "inline";
        myParagraphs[3].style.display = "block";
       }
  }
