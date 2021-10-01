@@ -15,6 +15,53 @@ But not everyone has been following the professional Dota 2 scene like their liv
 
 Whatever your story, here's a preview of the teams and memes you should know come August.
 
+I've developed a handy guide to figure out when exactly you stopped watching Dota.
+
+Who is the current offlaner for EG?
+
+<select id="dropDown" onchange="test()">
+ <option value="default" selected="selected"> Please select shape </option>
+ <option value="one" id="RAMZES666">s4</option>
+ <option value="two" id="triangle">RAMZES666</option>
+ <option value="three" id="circle">iceiceice</option>
+ <option value="three" id="circle">UNiVeRsE</option>
+</select>
+
+<div id="wrapperOne" style="display: none;"><h1>
+First
+</h1></div>
+<div id="wrapperTwo" style="display: none;"><h1>
+Second
+</h1></div>
+<div id="wrapperThree" style="display: none;"><h1>
+Third
+</h1></div>
+
+<script>
+  var dropDown = document.getElementById("dropDown"),
+   myWrappers = [
+      document.getElementById("wrapperOne"),
+      document.getElementById("wrapperTwo"),
+      document.getElementById("wrapperThree")
+   ];
+function test() {
+for (i=0; i<myWrappers.length; i++){
+    if(dropDown.value === "default"){ 
+       myWrappers[i].style.display = "none";
+     } else if(dropDown.value === "one"){
+       myWrappers[i].style.display = "none";
+       myWrappers[0].style.display = "block";
+      } else if(dropDown.value === "two"){
+       myWrappers[i].style.display = "none";
+       myWrappers[1].style.display = "block";
+      } else if(dropDown.value === "three"){
+       myWrappers[i].style.display = "none";
+       myWrappers[2].style.display = "block";
+      }
+ }
+}
+</script>
+
 # The Invites
 
 Eight teams were directly invited to TI8 this year through a new system Valve implemented called the *Dota Pro Circuit* or *DPC*. Instead of the old, ambiguous, invitation process of 'do pretty good in the five months before TI,' players were given a new, clearer, directive of 'do pretty good in the five months before TI and don't you dare mess with your roster.'
@@ -39,23 +86,19 @@ The beauty of The International is when most of these skill differences go out t
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Do you know how painful this season has been for EG fans? Through gritted teeth, they've been tanking abuse from smug Europeans whose teams have been completely dominating the DPC. Whatever, that's fine, but the worst part was EG weren't even *doing bad*. So #BleedBluers didn't even get the satisfaction of demanding roster changes. "B-b-but they were consistently getting top three!" Obviously. By any reasonable metric of achievement, it's been a pretty excellent year. But Dota players operate on the Ricky Bobby scale, so if you ain't first, you're last.
+**How did this roster happen?** Abed. Iceiceice Fun fact, for all abuse Arteezy has endured, he is currently on the longest tenure of any Team+Player pairing at TI besides OG's Notail.
 
-**How did they qualify?** EG has basically been playing Dota Mad Libs for the past year.
+**How was their DPC year?** If you haven't watched Dota in a while you may recall that EG were notorious for always getting third place at events. Times have changed, though. That was a completely different roster, different meta, different era.
 
->Former EG member <select><option hidden>Player</option><option>Fear</option><option>ppd</option><option>Demon</option></select> will be joining our <select><option hidden>Organization</option><option>Dota 2 roster</option><option>stream team</option><option>Rainbow 6 squad</option></select> to <select><option hidden>Role</option><option>play support</option><option>coach</option><option>feed Sumail bananas</option></select> !
+They've since moved up a digit.
 
-><select><option hidden>Player</option><option>Sumail</option><option>Arteezy</option><option>Bulba</option></select> will be taking over as <select><option hidden>Position</option><option>offlaner</option><option>quadcore</option><option>jungler</option></select> as we say goodbye to <select><option hidden>Literally Anyone But Sumail</option><option>Universe</option><option>Misery</option><option>Bulba</option></select> .
+They did actually get 1st in season 1 of the NA DPC (after winning a three-way tiebreaker), but after that it was 2nd at the Singapore Major, 2nd at the NA DPC season 2, and 2nd at the AniMajor. Now for a normal person, that's pretty incredible. But Dota players, and fans, are not normal people. And in true Ricky Bobby fashion, if you ain't first, you're last.
 
-After these maneuvers failed to produce results, the boys decided to consult the forbidden texts and made one of the most drastic roster changes possible just six days before the Supermajor.
+**What can we expect?** 
 
->We appreciate your <select><option hidden>Platitude</option><option>continued patience</option><option>passionate support</option><option>angry tweets</option></select> and are excited to announce the additions of <select><option hidden>Player #1 You'd Least Expect</option><option>Fly</option><option>Dendi</option><option>Poopkid</option></select> and <select><option hidden>Player #2 You'd Least Expect</option><option>s4</option><option>Doublelift</option><option>HookGangGod</option></select> to our Dota 2 team.
+**What to spam in Twitch chat EG** "The current EG roster is the largest waste of potential in the history of dota."
 
-**What can we exp3ct?** Dank memes
-
-**How to sound smart talking about EG** "The current EG roster is the largest waste of potential in the history of dota."
-
-**What would success look like?** <span class="spoiler">Second.</span>
+**What would success look like?** How funny would it be if after eight years of competing in professional Dota, Arteezy's first Valve LAN event win was TI10.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/lgd.png" alt="Banner"></p>
@@ -73,17 +116,15 @@ After these maneuvers failed to produce results, the boys decided to consult the
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** Epicenter XL Major champions, MDL Changsha Major champions
+**How did this roster happen?**  Even Ame, who most would consider to be a mainstay on LGD, was actually hanging around on CDEC for most of 2020 before this roster formed. Two of the Wings Gaming TI6 winning squad? Young hotshot 12k MMR midlaner? And xiao8 coaching?
 
-**How did they qualify?** LGD went from mostly irrelevant Chinese bottom feeder to French sponsored TI contender in a whirlwind two months starting with a 2<sup>nd</sup> place finish at DAC in April to winning MDL in May.
+**How was their DPC year?** As evidenced by the number of Chinese teams attending TI10, competition is pretty cutthroat in the region.
 
 **What can we expect?** The lore behind TI champions is every alternate year is a "China year." TI1 - Na'Vi (Western), TI2 - iG (Chinese), TI3 - Alliance (Western), TI4 - Newbee (Chinese), TI5 - EG (Western), TI6 - Wings (Chinese), TI7 - Liquid (Western).
 
 In other words, these guys are the world's best chance at saving Dota from becoming a ded gaem.
 
-**How to sound smart talking about LGD** Most people are aware that Ame and Burning have a somewhat antagonistic relationship stemming from Ame destroying his items on iG's high ground after beating Burning with Anti-Mage during TI7. A few weeks ago, Burning sent Ame on a huge losing streak in pubs eventually culminating in them playing a 1v1 as AM with Burning ending up victorious. In the Chinese zodiac story of The Great Race, the ox agrees to carry the rat across the river to make it to the heavenly gates, but loses to the rat after it jumps off. Meanwhile, the dragon could've won the race whenever he wanted to, but stopped to bring rain to a village in need. Ame was born in the year of the ox (牛) and Burning was born in the year of the dragon (龙). Ame lost the 1v1 by overextending past the river and dying on Burning's high ground. But instead of destroying his items, Burning planted a single Iron Branch on Ame's high ground, making it rain on Ame's village. The character for 'ox' is used in '吹牛' which means 'to talk big' and the character for 'dragon' is used in '成龙' which is Jackie Chan's Chinese name. So after the match, Sgamer netizens began posting '吹牛得到成龙' effectively translating to 'Talk shit, get (Jackie Chan'd) hit.'
-
-The previous paragraph is complete bullshit, but you bought it. That's because if there's anything that makes you sound smart talking about LGD, it's explaining convoluted Chinese wordplay to redditors who don't really understand and just want to post, 'Wow, Chinese memes are so high level! xD'
+**How to sound smart talking about LGD** idk lol
 
 **What would success look like?** Having said that, "\_\_\_\_\_\_\_，\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\!"
 
@@ -104,7 +145,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** Normally I would just . Or I could tell you that this VP has never placed lower than Top 8 at any event. Any event. Maybe that's not impressive enough for you? How about this. Since August 2016, which is when this VP formed with Lil, this team has still <i>never placed lower than Top 8 at any event.</i>
+**How did this roster happen?** Normally I would just . Or I could tell you that this VP has never placed lower than Top 8 at any event. Any event. Maybe that's not impressive enough for you? How about this. Since August 2016, which is when this VP formed with Lil, this team has still <i>never placed lower than Top 8 at any event.</i>
 
 **How did they qualify?** Got top 4 in seven out of the eight majors they attended and then proceeded to win half of them.
 
@@ -128,7 +169,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** If you ever put ex-Forward Gaming in the cage with anyone else in the region (besides EG), they came out  But ya send 'em to a LAN against international opponents and it's all ♿♿♿NA DOTA COMING THROUGH♿♿♿
+**How did this roster happen?** If you ever put ex-Forward Gaming in the cage with anyone else in the region (besides EG), they came out  But ya send 'em to a LAN against international opponents and it's all ♿♿♿NA DOTA COMING THROUGH♿♿♿
 
 **How did they qualify?** After Valve finally confiscated NA's third slot to every major
 
@@ -154,7 +195,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** A whole bunch of 3<sup>rd</sup> place finishes
+**How did this roster happen?** A whole bunch of 3<sup>rd</sup> place finishes
 
 **How did they qualify?** TI7's runners-up gave a less than stellar performance this season, but it was enough to squeeze into the DPC top 8 for a TI invite anyway. Their biggest mistake was getting revenge on Liquid too early in the year, thus preventing the Sccc ultra instinct arc.
 
@@ -180,7 +221,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** 4<sup>th</sup> place at both the ESL Katowice and Birmingham Majors
+**How did this roster happen?** 4<sup>th</sup> place at both the ESL Katowice and Birmingham Majors
 
 **How did they qualify?** Simply put, they didn't choke. After losing their way to both TNCs in the group stage, Fnatic went plus ultra in playoffs to then 2-0 the pair of them and claim the first qualifier spot.
 
@@ -208,7 +249,7 @@ For he is at peace.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** A whole bunch of 2<sup>nd</sup> place finishes
+**How did this roster happen?** A whole bunch of 2<sup>nd</sup> place finishes
 
 **How did they qualify?** Middle of the pack tournament results translating into a middle of the pack DPC result.
 
@@ -236,7 +277,7 @@ And not win.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** It'd be shorter to list their non-notable tournament placings this season. It was Epicenter. They got bodied at Epicenter. But the rest of the season was 👌
+**How did this roster happen?** It'd be shorter to list their non-notable tournament placings this season. It was Epicenter. They got bodied at Epicenter. But the rest of the season was 👌
 
 **How did they qualify?** Nisha's Dota 2 career began in around 2015 and earned him netted him ~$25,000 USD in prize winnings before joining Team Secret. After Team Secret? Nearly $300,000
 
@@ -264,7 +305,7 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** Top 10 most 
+**How did this roster happen?** Top 10 most 
 
 **How did they qualify?** In the divine game of mahjong that randomly determines whichever Chinese team is intra-regionally strongest on any given week, the gods willed that Serenity shall be victorious.
 
@@ -288,7 +329,7 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** 2<sup>nd</sup> place at The Bucharest Major. Also won Galaxy Battles II, but I'm the only person who cares about that tournament.
+**How did this roster happen?** 2<sup>nd</sup> place at The Bucharest Major. Also won Galaxy Battles II, but I'm the only person who cares about that tournament.
 
 **How did they qualify?** In a cutthroat they beat gambit
 
@@ -314,7 +355,7 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** Infamous? Never heard of 'em. You mean the Burger Cats? Oh hell yeah, Anvorgesa did pretty good at that last StarLadder Minor.
+**How did this roster happen?** Infamous? Never heard of 'em. You mean the Burger Cats? Oh hell yeah, Anvorgesa did pretty good at that last StarLadder Minor.
 
 **How did they qualify?** The tug-of-war between Brazilian and Peruvian Dota went back to the cabinas this year.
 
@@ -340,7 +381,7 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** Infamous? Never heard of 'em. You mean the Burger Cats? Oh hell yeah, Anvorgesa did pretty good at that last StarLadder Minor.
+**How did this roster happen?** Infamous? Never heard of 'em. You mean the Burger Cats? Oh hell yeah, Anvorgesa did pretty good at that last StarLadder Minor.
 
 **How did they qualify?** The tug-of-war between Brazilian and Peruvian Dota went back to the cabinas this year.
 
@@ -367,12 +408,14 @@ So that's where the bar is set.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Bryle</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cz" title="Czechia" alt="Czechia">SabeRLight-</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">MoonMeander</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">Dubu</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">Dubu</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">Febby</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** DAC 2018 Major champions
+**How did this roster happen?** DAC 2018 Major champions
 
 **How did they qualify?** While allegedly on the brink of disbanding, the squad managed to beat LGD on their own home turf to win DAC. Thankfully, with VP and Liquid vacuuming up all the other DPC points, that Major win was all Mineski needed to secure their TI invite.
 
@@ -393,12 +436,12 @@ So that's where the bar is set.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Thiolicor</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">KJ</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ro" title="Romania" alt="Romania">Mangus</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ro" title="Romania" alt="Romania">Mangusu</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** Infamous? Never heard of 'em. You mean the Burger Cats? Oh hell yeah, Anvorgesa did pretty good at that last StarLadder Minor.
+**How did this roster happen?** Infamous? Never heard of 'em. You mean the Burger Cats? Oh hell yeah, Anvorgesa did pretty good at that last StarLadder Minor.
 
 **How did they qualify?** The tug-of-war between Brazilian and Peruvian Dota went back to the cabinas this year.
 
@@ -419,12 +462,12 @@ So that's where the bar is set.
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-mk" title="North Macedonia" alt="North Macedonia">Saksa</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">N0tail</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-fr" title="France" alt="France">Sockshka</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Misha</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** The current roster was assembled around two weeks before TI qualifiers began, so... The International 2018: Europe Open Qualifier #1 champions.
+**How did this roster happen?** The current roster was assembled around two weeks before TI qualifiers began, so... The International 2018: Europe Open Qualifier #1 champions.
 
 **How did they qualify?** Ana came back.
 
@@ -452,7 +495,7 @@ So that's where the bar is set.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** 3<sup>rd</sup> place at Epicenter XL Major
+**How did this roster happen?** 3<sup>rd</sup> place at Epicenter XL Major
 
 **How did they qualify?** \**read in deep announcer voice while imagining smash cuts of esports poses shrouded by smoke machines*\* Formerly known as ***FlyToMoon,*** this squad of CIS rejects took their ***region by storm*** after being assembled during the ***second half*** of the season. ***Brash, aggressive, and unpredictable.*** This roster has the ***experience to dominate*** and the ***confidence to go with it.*** This is... ***Winstrike.*** \**cut back to panel as Redeye says "Yes, indeed..." and then asks Cap a question about Iceberg probably*\*
 
@@ -478,7 +521,7 @@ So that's where the bar is set.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** Top 10 most 
+**How did this roster happen?** Top 10 most 
 
 **How did they qualify?** In the divine game of mahjong that randomly determines whichever Chinese team is intra-regionally strongest on any given week, the gods willed that Serenity shall be victorious.
 
@@ -504,7 +547,7 @@ So that's where the bar is set.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**Notable tournament placings** 4<sup>th</sup> place at DAC 2018 Major, 2<sup>nd</sup> place at MDL Macau Minor
+**How did this roster happen?** 4<sup>th</sup> place at DAC 2018 Major, 2<sup>nd</sup> place at MDL Macau Minor
 
 **How did they qualify?** Little known fact, TNC actually stands for _They Need Coaching._ Under the tutelage of Kips, the team scooped up a pretty cozy 5/6<sup>th</sup> place finish at the Kuala Lumpur Major. Shortly thereafter, they go coachless, get destroyed at the Chongqing Major, and then proceed to fall off the face off the earth. Three months later, they enter the Heen zone. The former Team Liquid coach whips the pinoy boys into shape for a 4<sup>th</sup> place finish at EPICENTER and a lock into TI.
 
