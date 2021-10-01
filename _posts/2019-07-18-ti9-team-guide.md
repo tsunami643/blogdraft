@@ -319,15 +319,15 @@ SEA had an interesting conundrum this year. Since their league was so intra-regi
 
 **How did this roster happen?** A whole bunch of 2<sup>nd</sup> place finishes
 
-**How did they qualify?** Middle of the pack tournament results translating into a middle of the pack DPC result.
+**How was their DPC year?** 1070 Points
 
-**What can we expect?** Just some real solid Dotes. You know, a real focus on the fundamentals. The guys are gonna give it their all. Show some real hustle out there.
+***SEA DPC S1** - 3rd, **ONE Esports Singapore Major\*** - 15th, **SEA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
 
-And not win.
+SEA had an interesting conundrum this year. Since their league was so intra-regionally competitive, no singular team was able to farm the leagues for DPC points. As a result, there was a very real possibility that the only SEA team to attend TI would be the SEA regional qualifier winner.
 
-**How to sound smart talking about VG** How does one even talk about Vici to begin with? To investigate, I sifted through roughly ten different VG match discussion threads on reddit in the past few months and found only *one* person with Vici Gaming flair in any of them. You are a lost soul, /u/OPQOP, but I hope you find happiness as a VG fan.
+**What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6.
 
-**What would success look like?** Fenrir and LaNm doing well enough that they don't 'retire' after TI8.
+**What to spam in Twitch chat when T1 is winning?** `poyoyoyoyoyoyo`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/secret.png" alt="Banner"></p>
@@ -347,15 +347,15 @@ And not win.
 
 **How did this roster happen?** It'd be shorter to list their non-notable tournament placings this season. It was Epicenter. They got bodied at Epicenter. But the rest of the season was 👌
 
-**How did they qualify?** Nisha's Dota 2 career began in around 2015 and earned him netted him ~$25,000 USD in prize winnings before joining Team Secret. After Team Secret? Nearly $300,000
+**How was their DPC year?** 1070 Points
 
-**What can we expect?** Only a fool would expect the best performing team of the season to win TI.
+***WEU DPC S1** - 3rd, **ONE Esports Singapore Major\*** - 15th, **WEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
 
-**How to sound smart talking about Secret** During the second pick phase of any draft just casually mumble, "This *could* be an Ace Meepo game," to no one in particular.
+SEA had an interesting conundrum this year. Since their league was so intra-regionally competitive, no singular team was able to farm the leagues for DPC points. As a result, there was a very real possibility that the only SEA team to attend TI would be the SEA regional qualifier winner.
 
-On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Corollary</i></abbr>.
+**What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6.
 
-**What would success look like?** How convenient, I can just repeat what I said last year: Despite always being pretty good, Team Secret's highest placing at any International since the organization's inception was <i><strike>7/8<sup>th</sup> at TI5</strike></i> 5/6<sup>th</sup> at TI8. So ideally better than that.
+**What to spam in Twitch chat when Secret is winning?** `MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/rng.png" alt="Banner"></p>
@@ -375,13 +375,15 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 
 **How did this roster happen?** Top 10 most 
 
-**How did they qualify?** In the divine game of mahjong that randomly determines whichever Chinese team is intra-regionally strongest on any given week, the gods willed that Serenity shall be victorious.
+**How was their DPC year?** 85 Points
 
-**What can we expect?** Honestly, no one knows. Anyone who claims otherwise is just trying to sound smart.
+***CN DPC S1** - 2nd, **ONE Esports Singapore Major** - 9-12th, **CN DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
 
-**How to sound smart talking about RNG** "lmaoooo maybe if you watched *actual* amateur dota and not grant streams of trashcan na pubs youd know my boys have been looking like TI winners since hcup season 8"
+Aster are known as civil war specialists. When they're playing against Chinese teams? Beasts. International opponents? Lost cause.
 
-**What would success look like?** Not getting banned by ACE next year.
+**What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6. TI3's 3rd place Orange and TI6's 4th place Fnatic are the only times 
+
+**What to spam in Twitch chat when Aster is winning?** `pregnant me fy`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/alliance.png" alt="Banner"></p>
@@ -399,13 +401,15 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 
 **How did this roster happen?** 2<sup>nd</sup> place at The Bucharest Major. Also won Galaxy Battles II, but I'm the only person who cares about that tournament.
 
-**How did they qualify?** In a cutthroat they beat gambit
+**How was their DPC year?** 1070 Points
 
-**What can we expect?** Not that.
+***WEU DPC S1** - 3rd, **ONE Esports Singapore Major\*** - 15th, **WEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
 
-**How to sound smart talking about Alliance** Without scrolling up, name the other three players who aren't ddc or Sylar.
+SEA had an interesting conundrum this year. Since their league was so intra-regionally competitive, no singular team was able to farm the leagues for DPC points. As a result, there was a very real possibility that the only SEA team to attend TI would be the SEA regional qualifier winner.
 
-**What would success look like?** Beyond ddc potentially becoming the last of the <abbr title="Puppey, Universe, Kuroky, ddc">Elite Four all-TI attendees</abbr> to earn an Aegis, a victory for their coach, the ever-lovable rOtK, would be something to celebrate for Eastern and Western Dota fans alike.
+**What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6.
+
+**What to spam in Twitch chat when Alliance is winning?** `WINNING WITH ONLY 5 PLAYERS Pog`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/infamous.png" alt="Banner"></p>
@@ -423,15 +427,17 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Infamous? Never heard of 'em. You mean the Burger Cats? Oh hell yeah, Anvorgesa did pretty good at that last StarLadder Minor.
+**How did this roster happen?** Remember TI9 Infamous? It's the same guys.
 
-**How did they qualify?** The tug-of-war between Brazilian and Peruvian Dota went back to the cabinas this year.
+**How was their DPC year?** 1070 Points
 
-**What can we expect?** This is the longest period of time I've seen a SA squad stick together before qualifying to TI.
+***SA DPC S1** - 1st, **ONE Esports Singapore Major\*** - Did not attend, **SA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
 
-**How to sound smart talking about Infamous** "GAAAAAAAAAAAAAAAAAAAAAAAA"
+SEA had an interesting conundrum this year. Since their league was so intra-regionally competitive, no singular team was able to farm the leagues for DPC points. As a result, there was a very real possibility that the only SEA team to attend TI would be the SEA regional qualifier winner.
 
-**What would success look like?** None of the players using an offensive name during the event.
+**What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6.
+
+**What to spam in Twitch chat when beastcoast is winning?** `MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/infamous.png" alt="Banner"></p>
@@ -451,13 +457,15 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 
 **How did this roster happen?** Infamous? Never heard of 'em. You mean the Burger Cats? Oh hell yeah, Anvorgesa did pretty good at that last StarLadder Minor.
 
-**How did they qualify?** The tug-of-war between Brazilian and Peruvian Dota went back to the cabinas this year.
+**How was their DPC year?** 1070 Points
 
-**What can we expect?** This is the longest period of time I've seen a SA squad stick together before qualifying to TI.
+***SA DPC S1** - 1st, **ONE Esports Singapore Major** - Did not attend, **SA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
 
-**How to sound smart talking about Infamous** "GAAAAAAAAAAAAAAAAAAAAAAAA"
+SEA had an interesting conundrum this year. Since their league was so intra-regionally competitive, no singular team was able to farm the leagues for DPC points. As a result, there was a very real possibility that the only SEA team to attend TI would be the SEA regional qualifier winner.
 
-**What would success look like?** None of the players using an offensive name during the event.
+**What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6.
+
+**What to spam in Twitch chat when TP is winning?** `TE QUIERO MUCHO ARTURITO FrankerZ`
 
 # The Qualifiers
 
@@ -485,13 +493,17 @@ So that's where the bar is set.
 
 **How did this roster happen?** DAC 2018 Major champions
 
-**How did they qualify?** While allegedly on the brink of disbanding, the squad managed to beat LGD on their own home turf to win DAC. Thankfully, with VP and Liquid vacuuming up all the other DPC points, that Major win was all Mineski needed to secure their TI invite.
+**How was their DPC year?** 1100 Points
 
-**What can we expect?** Mineski is one of those teams that people are mostly unsurprised no matter what result they get. Drown in group stage? *Eh, it happens.* Dominant winner's side run? *Knew they had it in them.* Don't even qualify? *Wow, SEA is so competitive!*
+***NA DPC S1** - 3rd, **ONE Esports Singapore Major** - Did not qualify, **NA DPC S2** - 3rd, **WePlay Kyiv AniMajor** - Did not qualify*
 
-**How to sound smart talking about Mineski** Don't say anything, just start doing push-ups.
+When I said that there were only two teams worth paying attention to in NA, perhaps I was being too dismissive. I'm willing to stretch to three, with Undying. While coming just barely short of qualifying to both majors, they plowed through the NA regional qualifier without dropping a single game.
 
-**What would success look like?** An iceiceice Aegis would be like the DiCaprio Oscar in terms of reddit self-satisfaction.
+**What would success look like?** Getting a sponsor next year.
+
+Actually, wait, scratch that. *Quincy Crew* becoming an esports powerhouse would be the real success story.
+
+**What to spam in Twitch chat when Undying is winning?** `NEVA EVA NEVA EVA CruW`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/chaos.png" alt="Banner"></p>
@@ -509,15 +521,17 @@ So that's where the bar is set.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Infamous? Never heard of 'em. You mean the Burger Cats? Oh hell yeah, Anvorgesa did pretty good at that last StarLadder Minor.
+**How did this roster happen?** Hold the phone, *three* SA teams at TI? Peruvian *and* Brazilian? It's a brave new world, amigos.
 
-**How did they qualify?** The tug-of-war between Brazilian and Peruvian Dota went back to the cabinas this year.
+**How was their DPC year?** 1070 Points
 
-**What can we expect?** This is the longest period of time I've seen a SA squad stick together before qualifying to TI.
+***SA DPC S1** - 1st, **ONE Esports Singapore Major** - Did not attend, **SA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
 
-**How to sound smart talking about Infamous** "GAAAAAAAAAAAAAAAAAAAAAAAA"
+SEA had an interesting conundrum this year. Since their league was so intra-regionally competitive, no singular team was able to farm the leagues for DPC points. As a result, there was a very real possibility that the only SEA team to attend TI would be the SEA regional qualifier winner.
 
-**What would success look like?** None of the players using an offensive name during the event.
+**What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6.
+
+**What to spam in Twitch chat when TP is winning?** `TE QUIERO MUCHO ARTURITO FrankerZ`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/og.png" alt="Banner"></p>
@@ -567,13 +581,13 @@ So that's where the bar is set.
 
 **How was their DPC year?** 585 Points
 
-***EEU DPC S1** - 4th, **ONE Esports Singapore Major** - Did not attend, **EEU DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 7-8th*
+***EEU DPC S1** - 4th, **ONE Esports Singapore Major** - Did not qualify, **EEU DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 7-8th*
 
 SEA had an interesting conundrum this year. Since their league was so intra-regionally competitive, no singular team was able to farm the leagues for DPC points. As a result, there was a very real possibility that the only SEA team to attend TI would be the SEA regional qualifier winner.
 
 **What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6. TI3's 3rd place Orange and TI6's 4th place Fnatic are the only times 
 
-**What to spam in Twitch chat when Elephant is winning?** `pregnant me fy`
+**What to spam in Twitch chat when Spirit is winning?** `pregnant me fy`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/rng.png" alt="Banner"></p>
@@ -597,13 +611,13 @@ It never works.
 
 **How was their DPC year?** 85 Points
 
-***CN DPC S1** - 5th, **ONE Esports Singapore Major** - Did not attend, **CN DPC S2** - 5th, **WePlay Kyiv AniMajor** - Did not attend*
+***CN DPC S1** - 5th, **ONE Esports Singapore Major** - Did not qualify, **CN DPC S2** - 5th, **WePlay Kyiv AniMajor** - Did not qualify*
 
 SEA had an interesting conundrum this year. Since their league was so intra-regionally competitive, no singular team was able to farm the leagues for DPC points. As a result, there was a very real possibility that the only SEA team to attend TI would be the SEA regional qualifier winner.
 
 **What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6. TI3's 3rd place Orange and TI6's 4th place Fnatic are the only times 
 
-**What to spam in Twitch chat when Elephant is winning?** `pregnant me fy`
+**What to spam in Twitch chat when Elephant is winning?** `pregnant me fy Kreygasm`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/fnatic.png" alt="Banner"></p>
@@ -625,7 +639,7 @@ SEA had an interesting conundrum this year. Since their league was so intra-regi
 
 **How was their DPC year?** 446.25 Points
 
-***SEA DPC S1** - 1st, **ONE Esports Singapore Major** - 9-12th, **SEA DPC S2** - 4th, **WePlay Kyiv AniMajor** - Did not attend*
+***SEA DPC S1** - 1st, **ONE Esports Singapore Major** - 9-12th, **SEA DPC S2** - 4th, **WePlay Kyiv AniMajor** - Did not qualify*
 
 SEA had an interesting conundrum this year. Since their league was so intra-regionally competitive, no singular team was able to farm the leagues for DPC points. As a result, there was a very real possibility that the only SEA team to attend TI would be the SEA regional qualifier winner.
 
