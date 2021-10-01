@@ -120,9 +120,9 @@ Iceiceice, meanwhile, finally got tired of floundering around in SEA and came to
 
 Fun fact, for all abuse Arteezy once endured for being a team hopping madman, he is currently on the longest continuous tenure of any team+player pairing at TI10 besides OG's Notail.
 
-**How was their DPC year?** 1700 Points
+**How was their DPC year?**
 
-***NA DPC S1** - 1st, **ONE Esports Singapore Major** - 2nd, **NA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 2nd*
+> ***NA DPC S1** - 1st, **ONE Esports Singapore Major** - 2nd, **NA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 2nd*
 
 You may recall that EG were once notorious for always getting third place at events. Times have changed, though. That was a completely different roster, different meta, different era.
 
@@ -156,7 +156,7 @@ Now for a normal person, that's pretty incredible. But Dota players, and fans, a
 
 **How was their DPC year?** 1300 Points
 
-***CN DPC S1** - 4th, **ONE Esports Singapore Major** - 3rd, **CN DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 1st*
+> ***CN DPC S1** - 4th, **ONE Esports Singapore Major** - 3rd, **CN DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 1st*
 
 **What can we expect?** The lore behind TI champions is every alternate year is a "China year." TI1 - Na'Vi (Western), TI2 - iG (Chinese), TI3 - Alliance (Western), TI4 - Newbee (Chinese), TI5 - EG (Western), TI6 - Wings (Chinese), TI7 - Liquid (Western).
 
@@ -185,11 +185,11 @@ In other words, these guys are the world's best chance at saving Dota from becom
 
 **How did this roster happen?** This ain't your dad's VP. No, actually, this is your little brother's VP. This group of young players had been wanting to play together for quite a while and were eventually assembled under the VP.Prodigy tag in April 2020. They had some stellar performances at a few online tournaments in 2020 and were eventually promoted to the main VP in November.
 
-The old VP? Scattered to the four winds. Four winds of course meaning Na\`Vi who are apparently the most recent team of every </i>
+The old VP? Scattered to the four winds. Four winds of course meaning Na\`Vi who are apparently the most recent team of every
 
 **How was their DPC year?** 1200 Points
 
-***EEU DPC S1** - 1st, **ONE Esports Singapore Major** - 7-8th, **EEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
+> ***EEU DPC S1** - 1st, **ONE Esports Singapore Major** - 7-8th, **EEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
 
 By their own admission, their DPC leagues were FREEEEE. They literally only dropped three games out of the thirty-one total they played during the first and second season. Put 'em on LAN though? Oof. I liken it to how I never had to study at all during high school... but quickly got put in my place in university Organic Chemistry.
 
