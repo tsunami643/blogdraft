@@ -28,47 +28,65 @@ Not to worry, I've developed a foolproof guide to figure out when exactly you st
 </select>
 </p>
 
-<p>You stopped watching Dota:
-<span class="wrapperOne" style="display: none;">After TI9</span>
-<span class="wrapperTwo" style="display: none;">Riiiight before COVID</span>
-<span class="wrapperThree" style="display: none;">Never. You're a fiend.</span>
-<span class="wrapperFour" style="display: none;">Oh geez...</span>
-</p>
+<h2>You stopped watching Dota:
+<span id="wrapperOne" style="display: none;">After TI9</span>
+<span id="wrapperTwo" style="display: none;">Riiiight before COVID</span>
+<span id="wrapperThree" style="display: none;">Never. You're a fiend.</span>
+<span id="wrapperFour" style="display: none;">Oh geez...</span>
+</h2>
 
-<div class="wrapperOne" style="display: none;"><h1>
+<div id="paragraphOne" style="display: none;"><h1>
 Welcome back to TI!
 </h1></div>
-<div class="wrapperTwo" style="display: none;"><h1>
+<div id="paragraphTwo" style="display: none;"><h1>
 World goes to hell in a handbasket and you just leave?
 </h1></div>
-<div class="wrapperThree" style="display: none;"><h1>
+<div id="paragraphThree" style="display: none;"><h1>
 You're all caught up.
 </h1></div>
-<div class="wrapperFour" style="display: none;"><h1>
+<div id="paragraphFour" style="display: none;"><h1>
 UNiVeRsE is married now!
 </h1></div>
 
 <script>
   var dropDown = document.getElementById("dropDown"),
    myWrappers = [
-      document.getElementsByClassName("wrapperOne"),
-      document.getElementsByClassName("wrapperTwo"),
-      document.getElementsByClassName("wrapperThree"),
-      document.getElementsByClassName("wrapperFour"),
+      document.getElementById("wrapperOne"),
+      document.getElementById("wrapperTwo"),
+      document.getElementById("wrapperThree"),
+      document.getElementById("wrapperFour"),
+   ];
+   myParagraphs = [
+      document.getElementById("paragraphOne"),
+      document.getElementById("paragraphTwo"),
+      document.getElementById("paragraphThree"),
+      document.getElementById("paragraphFour"),
    ];
 function test() {
 for (i=0; i<myWrappers.length; i++){
     if(dropDown.value === "default"){ 
        myWrappers[i].style.display = "none";
+       myParagraphs[i].style.display = "none";
      } else if(dropDown.value === "one"){
        myWrappers[i].style.display = "none";
+       myParagraphs[i].style.display = "none";
        myWrappers[0].style.display = "block";
+       myParagraphs[0].style.display = "block";
       } else if(dropDown.value === "two"){
        myWrappers[i].style.display = "none";
+       myParagraphs[i].style.display = "none";
        myWrappers[1].style.display = "block";
+       myParagraphs[1].style.display = "block";
       } else if(dropDown.value === "three"){
        myWrappers[i].style.display = "none";
+       myParagraphs[i].style.display = "none";
        myWrappers[2].style.display = "block";
+       myParagraphs[2].style.display = "block";
+      } else if(dropDown.value === "four"){
+       myWrappers[i].style.display = "none";
+       myParagraphs[i].style.display = "none";
+       myWrappers[3].style.display = "block";
+       myParagraphs[3].style.display = "block";
       }
  }
 }
