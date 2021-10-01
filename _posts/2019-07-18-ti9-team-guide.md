@@ -118,7 +118,7 @@ In Valve's original pitch, there were supposed to be three seasons and three maj
 
 Iceiceice, meanwhile, finally got tired of floundering around in SEA and came to North America of all regions in Novemeber 2020 to replace Ramzes, who replaced s4 after TI9. Now you see why I chose that position to be your pro Dota familiarity barometer.
 
-Fun fact, for all abuse Arteezy once endured for being a team hopping madman, he currently has the longest continuous tenure of any team+player pairing at TI10 besides OG's Notail.
+Fun fact, for all abuse Arteezy once endured for being a team hopping madman, he is currently on the longest continuous tenure of any team+player pairing at TI10 besides OG's Notail.
 
 **How was their DPC year?** 1700 Points
 
@@ -128,7 +128,7 @@ If you haven't watched Dota in a while you may recall that EG were notorious for
 
 They've since moved up a digit.
 
-Now for a normal person, that's pretty incredible. But Dota players, and fans, are not normal people. And in true Ricky Bobby fashion, if you ain't first, you're last. So basically this year was a huge disappointment.
+Now for a normal person, that's pretty incredible. But Dota players, and fans, are not normal people. And in true Ricky Bobby fashion, if you ain't first, you're last.
 
 **What can we expect?** 
 
@@ -154,7 +154,9 @@ Now for a normal person, that's pretty incredible. But Dota players, and fans, a
 
 **How did this roster happen?**  Even Ame, who most would consider to be a mainstay on LGD, was actually hanging around on CDEC for most of 2020 before this roster formed. Two of the Wings Gaming TI6 winning squad? Young hotshot 12k MMR midlaner? And xiao8 coaching?
 
-**How was their DPC year?** As evidenced by the number of Chinese teams attending TI10, competition is pretty cutthroat in the region.
+**How was their DPC year?** 1300 Points
+
+***CN DPC S1** - 4th, **ONE Esports Singapore Major** - 3rd, **CN DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 1st*
 
 **What can we expect?** The lore behind TI champions is every alternate year is a "China year." TI1 - Na'Vi (Western), TI2 - iG (Chinese), TI3 - Alliance (Western), TI4 - Newbee (Chinese), TI5 - EG (Western), TI6 - Wings (Chinese), TI7 - Liquid (Western).
 
@@ -181,9 +183,17 @@ In other words, these guys are the world's best chance at saving Dota from becom
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Normally I would just . Or I could tell you that this VP has never placed lower than Top 8 at any event. Any event. Maybe that's not impressive enough for you? How about this. Since August 2016, which is when this VP formed with Lil, this team has still <i>never placed lower than Top 8 at any event.</i>
+**How did this roster happen?** This ain't your dad's VP. No, actually, this is your little brother's VP. This group of young players had been wanting to play together for quite a while and were eventually assembled under the VP.Prodigy tag in April 2020. They had some stellar performances at a few online tournaments in 2020 and were eventually promoted to the main VP in November.
 
-**How did they qualify?** Got top 4 in seven out of the eight majors they attended and then proceeded to win half of them.
+The old VP? Scattered to the four winds. Four winds of course meaning Na\`Vi who are apparently the most recent team of every </i>
+
+**How was their DPC year?** 1200 Points
+
+***EEU DPC S1** - 1st, **ONE Esports Singapore Major** - 7-8th, **EEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
+
+By their own admission, their DPC leagues were FREEEEE. They literally only dropped three games out of the thirty-one total they played during the first and second season. Put 'em on LAN though? Oof. I liken it to how I never had to study at all during high school... but quickly got put in my place in university Organic Chemistry.
+
+In their defense, this is a young team with minimal LAN experience to begin with. Additionally, they also had no coach until now for TI.
 
 **What can we expect?** While VP were not the apex predators they were last season, this legendary squad has maintained the longest running roster
 
