@@ -35,17 +35,16 @@ Not to worry, I've developed a foolproof guide to figure out when exactly you st
 <span id="wrapperFour" style="display: none;font-weight: 100;">Well this is awkward</span>
 </p>
 
-<div id="paragraphOne" style="display: none;">
-World goes to hell in a handbasket and you just <i>leave Dota?</i> After everything we've been through together? We still had tournaments going on in 2020, you know! You really missed out. Sort of. Well at least you're here now. Please don't leave again, our player count numbers can't take it.
+<div id="paragraphOne" style="display: none; line-height:1.5em;">
+World goes to hell in a handbasket and you just <i>leave Dota?</i> After everything we've been through together? You know we still had tournaments going on in 2020! You really missed out. Sort of. Well at least you're here now. Please don't leave again, our player count numbers can't take it.
 </div>
-<div id="paragraphTwo" style="display: none;">
+<div id="paragraphTwo" style="display: none; line-height:1.5em;">
 You're not the demographic for this guide, get outta here.
 </div>
-<div id="paragraphThree" style="display: none;">
-Oh, I see what happened. Just a moment, let me adjust. Oh man, long time no see! You got married? No way, I'm so happy for you! Wow one on the way too, huh, congratulations! Our stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one time you got a rampage on Death Prophet? Good times. Anyway, n-nice catching up with you.</div>
-<div id="paragraphFour" style="display: none;">
-...ever heard of a "neutral item" before? No? How about the term <i>'sunmommy'</i>? Nothing? This is gonna be one confusing TI for you.
-</div>
+<div id="paragraphThree" style="display: none; line-height:1.5em;">
+...ever heard of a "neutral item" before? No? How about the term <i>'sunmommy'</i>? Nothing? Well this is gonna be one confusing TI for you.</div>
+<div id="paragraphFour" style="display: none; line-height:1.5em;">
+Just a moment, let me adjust.<br><br><blockquote><i>Oh man, long time no see! You got married? No way, I'm so happy for you! Wow one on the way too, huh, congratulations! Our stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one time you got a rampage on Death Prophet? Good times. Anyway, n-nice catching up with you.</i></blockquote></div>
 
 <script>
   var dropDown = document.getElementById("dropDown"),
