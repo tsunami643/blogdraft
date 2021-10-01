@@ -17,34 +17,34 @@ Whatever your story, here's a preview of the teams and memes you should know com
 
 Not to worry, I've developed a foolproof guide to figure out when exactly you stopped watching Dota.
 
-<p style="font-size: 1.5em; font-weight: bold;">Who is the current offlaner for EG?
+<p style="font-size: 1.3em; font-weight: bold;">Who is the current offlaner for EG?
 
 <select id="dropDown" onchange="test()" style="font-weight: 100;">
- <option value="default" selected="selected">Please select offlaner</option>
- <option value="one" id="s4">s4</option>
- <option value="two" id="RAMZES666">RAMZES666</option>
- <option value="three" id="iceiceice">iceiceice</option>
+ <option value="default" selected="selected">Select offlaner</option>
+ <option value="one" id="RAMZES666">RAMZES666</option>
+ <option value="two" id="iceiceice">iceiceice</option>
+ <option value="three" id="s4">s4</option>
  <option value="four" id="UNiVeRsE">UNiVeRsE</option>
 </select>
 </p>
 
-<p style="font-size: 1.5em; font-weight: bold;">You stopped watching Dota:
-<span id="wrapperOne" style="display: none;font-weight: 100;">After TI9</span>
-<span id="wrapperTwo" style="display: none;font-weight: 100;">Riiiight before COVID</span>
-<span id="wrapperThree" style="display: none;font-weight: 100;">Never. You're a fiend.</span>
-<span id="wrapperFour" style="display: none;font-weight: 100;">Oh geez...</span>
+<p style="font-size: 1.38em; font-weight: bold;">You stopped watching Dota:
+<span id="wrapperOne" style="display: none;font-weight: 100;">Riiiight before COVID</span>
+<span id="wrapperTwo" style="display: none;font-weight: 100;">Never, you fiend</span>
+<span id="wrapperThree" style="display: none;font-weight: 100;">After TI9</span>
+<span id="wrapperFour" style="display: none;font-weight: 100;">Well this is awkward</span>
 </p>
 
 <div id="paragraphOne" style="display: none;">
-Welcome back to TI!</div>
+World goes to hell in a handbasket and you just <i>leave Dota?</i> After everything we've been through together? We still had tournaments going on in 2020, you know! You really missed out. Sort of. Well at least you're here now. Please don't leave again, our player count numbers can't take it.
+</div>
 <div id="paragraphTwo" style="display: none;">
-World goes to hell in a handbasket and you just leave?
+You're not the demographic for this guide, get outta here.
 </div>
 <div id="paragraphThree" style="display: none;">
-You're all caught up.
-</div>
+Oh, I see what happened. Just a moment, let me adjust. Oh man, long time no see! You got married? No way, I'm so happy for you! Wow one on the way too, huh, congratulations! Our stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one time you got a rampage on Death Prophet? Good times. Anyway, n-nice catching up with you.</div>
 <div id="paragraphFour" style="display: none;">
-UNiVeRsE is married now!
+...ever heard of a "neutral item" before? No? How about the term <i>'sunmommy'</i>? Nothing? This is gonna be one confusing TI for you.
 </div>
 
 <script>
