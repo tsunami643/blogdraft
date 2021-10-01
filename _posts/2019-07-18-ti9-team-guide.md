@@ -15,26 +15,37 @@ But not everyone has been following the professional Dota 2 scene like their liv
 
 Whatever your story, here's a preview of the teams and memes you should know come August.
 
-I've developed a handy guide to figure out when exactly you stopped watching Dota.
+Not to worry, I've developed a foolproof guide to figure out when exactly you stopped watching Dota.
 
-Who is the current offlaner for EG?
+<p>Who is the current offlaner for EG?
 
 <select id="dropDown" onchange="test()">
- <option value="default" selected="selected"> Please select shape </option>
- <option value="one" id="RAMZES666">s4</option>
- <option value="two" id="triangle">RAMZES666</option>
- <option value="three" id="circle">iceiceice</option>
- <option value="three" id="circle">UNiVeRsE</option>
+ <option value="default" selected="selected">Please select offlaner</option>
+ <option value="one" id="s4">s4</option>
+ <option value="two" id="RAMZES666">RAMZES666</option>
+ <option value="three" id="iceiceice">iceiceice</option>
+ <option value="four" id="UNiVeRsE">UNiVeRsE</option>
 </select>
+</p>
+
+<h2>You stopped watching Dota:
+<span id="wrapperOne" style="display: none;">After TI9</span>
+<span id="wrapperTwo" style="display: none;">Riiiight before COVID</span>
+<span id="wrapperThree" style="display: none;">Never. You're a fiend.</span>
+<span id="wrapperFour" style="display: none;">Oh geez...</span>
+</h2>
 
 <div id="wrapperOne" style="display: none;"><h1>
-First
+Welcome back to TI!
 </h1></div>
 <div id="wrapperTwo" style="display: none;"><h1>
-Second
+World goes to hell in a handbasket and you just leave?
 </h1></div>
 <div id="wrapperThree" style="display: none;"><h1>
-Third
+You're all caught up.
+</h1></div>
+<div id="wrapperFour" style="display: none;"><h1>
+UNiVeRsE is married now!
 </h1></div>
 
 <script>
@@ -42,7 +53,8 @@ Third
    myWrappers = [
       document.getElementById("wrapperOne"),
       document.getElementById("wrapperTwo"),
-      document.getElementById("wrapperThree")
+      document.getElementById("wrapperThree"),
+      document.getElementById("wrapperFour"),
    ];
 function test() {
 for (i=0; i<myWrappers.length; i++){
