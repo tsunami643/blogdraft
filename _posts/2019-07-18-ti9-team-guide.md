@@ -43,8 +43,8 @@ You're not the demographic for this guide, get outta here.
 </div>
 <div id="paragraphThree" style="display: none; line-height:1.5em;">
 ...ever heard of a "neutral item" before? No? How about the term <i>'sunmommy'</i>? Nothing? Well this is gonna be one confusing TI for you.</div>
-<div id="paragraphFour" style="display: none; line-height:1.5em;">
-Just a moment, let me adjust.<br><br><blockquote><i>Oh man, long time no see! You got married? No way, I'm so happy for you! Wow one on the way too, huh, congratulations! Our stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one time you got a rampage on Death Prophet? Good times. Anyway, n-nice catching up with you.</i></blockquote></div>
+<div id="paragraphFour" style="display: none; line-height:1.5em; font-size:large;">
+Hold on a moment, let me adjust.<br><br><blockquote style="font-size: 1.1 em;">Oh man, long time no see! You got married? No way, I'm so happy for you! Wow one on the way too, huh, congratulations! Our stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one time you got a rampage on Death Prophet? Good times. Anyway, n-nice catching up with you.</blockquote></div>
 
 <script>
   var dropDown = document.getElementById("dropDown"),
