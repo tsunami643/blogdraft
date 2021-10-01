@@ -267,7 +267,7 @@ This team's story is probably best told through greentext.
 
 It's like pottery.
 
-Their coach super *did* have to stand-in for Oli at the AniMajor, but I prefer my interpretation.
+Their coach did have to stand-in for Oli at the AniMajor, sure, but I prefer my interpretation.
 
 **What would success look like?** Kaka avenges the TI7 Newbee grand finals against Liq-- oh wait.
 
@@ -565,13 +565,15 @@ So that's where the bar is set.
 
 **How did this roster happen?** 3<sup>rd</sup> place at Epicenter XL Major
 
-**How did they qualify?** \**read in deep announcer voice while imagining smash cuts of esports poses shrouded by smoke machines*\* Formerly known as ***FlyToMoon,*** this squad of CIS rejects took their ***region by storm*** after being assembled during the ***second half*** of the season. ***Brash, aggressive, and unpredictable.*** This roster has the ***experience to dominate*** and the ***confidence to go with it.*** This is... ***Winstrike.*** \**cut back to panel as Redeye says "Yes, indeed..." and then asks Cap a question about Iceberg probably*\*
+**How was their DPC year?** 585 Points
 
-**What can we expect?** Entertaining games and maybe a few upsets, but a deep run by Winstrike is among the darkest of horses.
+***EEU DPC S1** - 4th, **ONE Esports Singapore Major** - Did not attend, **EEU DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 7-8th*
 
-**How to sound smart talking about Na`Vi** "This is good for Bitcoin."
+SEA had an interesting conundrum this year. Since their league was so intra-regionally competitive, no singular team was able to farm the leagues for DPC points. As a result, there was a very real possibility that the only SEA team to attend TI would be the SEA regional qualifier winner.
 
-**What would success look like?** Earlier in the season, Iceberg mentioned in an interview that they themselves don't expect to do particularly well, just getting to TI was the main goal. So mission accomplished. The real success would be if the roster stays together for more than two months post-TI.
+**What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6. TI3's 3rd place Orange and TI6's 4th place Fnatic are the only times 
+
+**What to spam in Twitch chat when Elephant is winning?** `pregnant me fy`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/rng.png" alt="Banner"></p>
