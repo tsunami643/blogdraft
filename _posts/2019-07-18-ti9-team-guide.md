@@ -181,17 +181,19 @@ As is tradition with LGDs past, they started the year off *cold*. Granted, the C
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** This ain't your dad's VP. No, actually, this is your little brother's VP. A group of young players who had been wanting to team together for quite a while were eventually assembled under the VP.Prodigy tag in April 2020. They had some stellar performances at a few online tournaments in 2020 and were eventually promoted to the main VP in November.
+**How did this roster happen?** This ain't your dad's VP. No, actually, this is your little brother's VP. This is a group of young players who had been wanting to form a team together for quite a while and were eventually assembled under the *VP.Prodigy* tag in April 2020. They had some stellar performances at a few online tournaments and were eventually promoted to the main VP in November 2020.
 
-The old VP? Scattered to the four winds. Four winds of course meaning Na\`Vi who are apparently the most recent team on every one of those players' history, but that's an oversimplification.
+The old VP? Scattered to the four winds. Four winds of course meaning Na\`Vi who are apparently the most recent team on every one of those players' history.
 
 **How was their DPC year?** 1200 Points
 
 ***EEU DPC S1** - 1st, **ONE Esports Singapore Major** - 7-8th, **EEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
 
-By their own admission, their DPC leagues were FREEEEE. They literally only dropped three games out of the thirty-one total they played during the first and second season. Put 'em on LAN though? Oof. I liken it to how I never had to study at all during high school... but quickly got put in my place in university Organic Chemistry.
+By their own admission, their DPC leagues were FREEEEE. They literally only dropped three out of the thirty-one total games they played during both seasons. Put 'em on LAN though? Weelllll, there they do not look great. I liken it to how I never had to study at all during high school. Physics? Simple. World History? Cram the night before.
 
-In their defense, this is a young team (literally, oldest player is DM at 21) with minimal LAN experience to begin with. Additionally, they were also operating with no coach until now for TI.
+Then I roll up to university and get punched in the mouth by Organic Chemistry. Still have nightmares of S<sub>N</sub>2 reactions.
+
+In VP's defense, this is a young team (literally, oldest player is DM at 21) with minimal LAN experience to begin with. Additionally, they were also operating with no coach until now for TI.
 
 **What would success look like?** For the first time in years, the Virtus Pro brand doesn't have astronomical TI expectations. After placing 2nd and 3rd at the two online ESL tournaments after the DPC ended, no one should be questioning if this team is actually good. What people don't know, however, is if they can handle pressure. This roster hasn't ever even played in front of a crowd before.
 
@@ -223,11 +225,11 @@ In 2020, most everyone had written off North America as a region beyond saving a
 
 In 2021, we learned that North America is indeed mostly beyond saving, but there are actually *two* bullies at the playground with Quincy Crew.
 
-Quincy Crew not only gave EG a run for their money at the DPC, but was also looking surprisingly strong at international LANs. The Singapore Major result has an asterisk QC had to use a stand-in of Poloson due to MSS contracting COVID.
+Quincy Crew not only gave EG a run for their money in the NA DPC, but was also looking surprisingly strong at international LANs. Their Singapore Major result has an asterisk because QC had to use a stand-in of Poloson due to MSS contracting COVID.
 
 **What would success look like?** Getting a sponsor next year.
 
-Actually, wait, scratch that. "Quincy Crew" becoming an esports powerhouse would be the real success story.
+Actually, wait, scratch that. *Quincy Crew* becoming an esports powerhouse would be the real success story.
 
 **What to spam in Twitch chat when QC is winning?** `EZ 4 [insert player name here]AO`
 
@@ -247,15 +249,29 @@ Actually, wait, scratch that. "Quincy Crew" becoming an esports powerhouse would
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** A whole bunch of 3<sup>rd</sup> place finishes
+**How did this roster happen?** Unlike most of the other Chinese teams at this TI, this roster was *not* frantically cobbled together in late 2020. Instead, it was a slow, methodical process that has had these five players together since late 2019.
 
-**How did they qualify?** TI7's runners-up gave a less than stellar performance this season, but it was enough to squeeze into the DPC top 8 for a TI invite anyway. Their biggest mistake was getting revenge on Liquid too early in the year, thus preventing the Sccc ultra instinct arc.
+**How was their DPC year?** 1100 Points
 
-**What can we expect?** This squad didn't have *amazing* results before TI7 either. They were good enough to be directly invited, but most people considered LFY or LGD to be the strongest Chinese teams at that TI. Perhaps history will repeat itself.
+***CN DPC S1** - 1st, **ONE Esports Singapore Major** - 1st, **NA DPC S2** - 4th, **WePlay Kyiv AniMajor\*** - 15th*
 
-**How to sound smart talking about Keen** "Sccc is my free pass."
+This team's story is probably best told through greentext.
 
-**What would success look like?** "You expect to win a championship at your first TI? You're just an ordinary person... not a god. Second TI is no excuse though, you better win."
+```
+>walks into the dpc
+>decides to reverse sweep singapore grand finals halfway through game 3
+>gets enough points for TI
+>refuses to elaborate further
+>leaves
+```
+
+It's like pottery.
+
+Their coach super *did* have to stand-in for Oli at the AniMajor, but I prefer my interpretation.
+
+**What would success look like?** Kaka avenges the TI7 Newbee grand finals against Liq-- oh wait.
+
+**What to spam in Twitch chat when iG is winning?** `?`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/tnc.png" alt="Banner"></p>
@@ -273,17 +289,17 @@ Actually, wait, scratch that. "Quincy Crew" becoming an esports powerhouse would
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** 4<sup>th</sup> place at both the ESL Katowice and Birmingham Majors
+**How did this roster happen?** Yes, this is *that* T1. The Faker T1. The... tyler1 T1. The T1 brand that's a juggernaut in Korea. Originally announced in late 2019 with Forev at the center, T1 went through multiple iterations before finally putting together this surprisingly multinational SEA team right before the DPC started. The last addition was 23savage who replaced JaCkky after the Singapore Major.
 
-**How did they qualify?** Simply put, they didn't choke. After losing their way to both TNCs in the group stage, Fnatic went plus ultra in playoffs to then 2-0 the pair of them and claim the first qualifier spot.
+**How was their DPC year?** 1070 Points
 
-**What can we expect?** Let it All Out of You
+***SEA DPC S1** - 3rd, **ONE Esports Singapore Major\*** - 15th, **SEA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
 
-**How to sound smart talking about Fnatic** "Dude, of course he counts. TI1's rules were different, he could've competed at any point!"
+SEA had an interesting conundrum this year. Since their league was so intra-regionally competitive, no singular team was able to farm the leagues for DPC points. As a result, there was a very real possibility that the only SEA team to attend TI would be the SEA regional qualifier winner.
 
-**What would success look like?** Abed shakes all remaining 10k MMR doubt, DJ expands his LAN cafe empire, Universe solidifies his spot on Dota 2's Mount Rushmore, KyoAni begins storyboarding an OVA of EE's life, and pieliedie finally closes his eyes.
+**What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6.
 
-For he is at peace.
+**What to spam in Twitch chat when T1 is winning?** `MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/vici.png" alt="Banner"></p>
@@ -573,15 +589,19 @@ So that's where the bar is set.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Top 10 most 
+**How did this roster happen?** It's a tale as old as time. *What if. We took. Five **SUPERSTAR** players. A made a team with them. It has to work.*
 
-**How did they qualify?** In the divine game of mahjong that randomly determines whichever Chinese team is intra-regionally strongest on any given week, the gods willed that Serenity shall be victorious.
+It never works.
 
-**What can we expect?** Honestly, no one knows. Anyone who claims otherwise is just trying to sound smart.
+**How was their DPC year?** 85 Points
 
-**How to sound smart talking about RNG** "lmaoooo maybe if you watched *actual* amateur dota and not grant streams of trashcan na pubs youd know my boys have been looking like TI winners since hcup season 8"
+***CN DPC S1** - 5th, **ONE Esports Singapore Major** - Did not attend, **CN DPC S2** - 5th, **WePlay Kyiv AniMajor** - Did not attend*
 
-**What would success look like?** Not getting banned by ACE next year.
+SEA had an interesting conundrum this year. Since their league was so intra-regionally competitive, no singular team was able to farm the leagues for DPC points. As a result, there was a very real possibility that the only SEA team to attend TI would be the SEA regional qualifier winner.
+
+**What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6. TI3's 3rd place Orange and TI6's 4th place Fnatic are the only times 
+
+**What to spam in Twitch chat when Elephant is winning?** `pregnant me fy`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/fnatic.png" alt="Banner"></p>
@@ -601,15 +621,15 @@ So that's where the bar is set.
 
 **How did this roster happen?** 4<sup>th</sup> place at DAC 2018 Major, 2<sup>nd</sup> place at MDL Macau Minor
 
-**How did they qualify?** Little known fact, TNC actually stands for _They Need Coaching._ Under the tutelage of Kips, the team scooped up a pretty cozy 5/6<sup>th</sup> place finish at the Kuala Lumpur Major. Shortly thereafter, they go coachless, get destroyed at the Chongqing Major, and then proceed to fall off the face off the earth. Three months later, they enter the Heen zone. The former Team Liquid coach whips the pinoy boys into shape for a 4<sup>th</sup> place finish at EPICENTER and a lock into TI.
+**How was their DPC year?** 446.25 Points
 
-**What can we expect?** TNC can easily take a game off any team in the entire tournament without breaking a sweat.
+***SEA DPC S1** - 1st, **ONE Esports Singapore Major** - 9-12th, **SEA DPC S2** - 4th, **WePlay Kyiv AniMajor** - Did not attend*
 
-Scientists have yet to determine if a second game is possible.
+SEA had an interesting conundrum this year. Since their league was so intra-regionally competitive, no singular team was able to farm the leagues for DPC points. As a result, there was a very real possibility that the only SEA team to attend TI would be the SEA regional qualifier winner.
 
-**How to sound smart talking about TNC** Just regurgitate whatever you read on scantzor's twitter.
+**What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6. TI3's 3rd place Orange and TI6's 4th place Fnatic are the only times 
 
-**What would success look like?** SA and SEA are the only regions remaining who have yet to take an Aegis.
+**What to spam in Twitch chat when Fnatic is winning?** `CEO MOON MADE A GREAT BUSINESS DECISION`
 
 ----
 
