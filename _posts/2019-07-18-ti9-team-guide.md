@@ -44,7 +44,7 @@ You're not the demographic for this guide, get outta here.
 <div id="paragraphThree" style="display: none; line-height:1.5em;">
 ...ever heard of a "neutral item" before? No? How about the term <i>'sunmommy'</i>? Nothing? Well this is gonna be one confusing TI for you.</div>
 <div id="paragraphFour" style="display: none; line-height:1.5em; font-size:large;">
-Hold on a moment, let me adjust.<br><br><blockquote style="font-size: 1.1 em;">Oh man, long time no see! You got married? No way, I'm so happy for you! Wow one on the way too, huh, congratulations! Our stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one time you got a rampage on Death Prophet? Good times. Anyway, n-nice catching up with you.</blockquote></div>
+Hold on a moment, let me adjust.<br><blockquote style="font-size: 1.1 em;">Oh man, long time no see! You got married? No way, I'm so happy for you! Wow one on the way too, huh, congratulations! Our stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one time you got a rampage on Death Prophet? Good times. Anyway, n-nice catching up with you.</blockquote></div>
 
 <script>
   var dropDown = document.getElementById("dropDown"),
@@ -92,11 +92,11 @@ for (i=0; i<myWrappers.length; i++){
 
 # The Invites
 
-Eight teams were directly invited to TI8 this year through a new system Valve implemented called the *Dota Pro Circuit* or *DPC*. Instead of the old, ambiguous, invitation process of 'do pretty good in the five months before TI,' players were given a new, clearer, directive of 'do pretty good in the five months before TI and don't you dare mess with your roster.'
+Here's the quick and dirty on how TI invites were determined this year. Remember the *Dota Pro Circuit/DPC*? It's back. In league form.
 
-Twenty-two DPC tournaments later, these are the teams that either stayed after class, captained the Mechanics team, and played Varsity Dota, or the ones that showed up, got a B-, copied drafts at lunch, but still got automatic admission because the rest of the graduating class spent too much time casting Pipe of Insight under the bleachers. That’s not to say any team ended up invited due to a technicality, but make no mistake, there exists a significant gap in Dota proficiency between the upper and lower tiers of this list.
+Six regions. Each region has an upper division and lower division league with eight teams each. For six weeks, these teams duke it out in a round-robin and whoever's at the top gets to either go to the major or move to upper division. You get DPC points for doing well in your league or doing well at the major. Major ends and the next 'season' of regional leagues begin. Rinse and repeat.
 
-The beauty of The International is when most of these skill differences go out the window.
+In Valve's original pitch, there were supposed to be three seasons and three majors. However, this year had to be abridged for COVID reasons. So to get to TI10, you basically had four opportunities to earn DPC points: Your regional league season 1 *(Jan-Mar 2021)*, the Singapore Major *(Apr 2021)*, your regional league season 2 *(Apr-May 2021)*, and the Kyiv AniMajor *(May 2021)*.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/eg.png" alt="Banner"></p>
@@ -114,17 +114,25 @@ The beauty of The International is when most of these skill differences go out t
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Abed. Iceiceice Fun fact, for all abuse Arteezy has endured, he is currently on the longest tenure of any Team+Player pairing at TI besides OG's Notail.
+**How did this roster happen?** A lot of you reading the list above: *Arteezy, of course, my boy. Abed? What? Wait, where's Sumail! WHERE'S SUMAIL!!!* Sumail's not on EG anymore. Wild, right? Soon after TI9 ended, Sumail was benched and Abed was brought in as a replacement. But don't worry, this is a Chekhov's Hassan. He'll be back in the third act.
 
-**How was their DPC year?** If you haven't watched Dota in a while you may recall that EG were notorious for always getting third place at events. Times have changed, though. That was a completely different roster, different meta, different era.
+Iceiceice, meanwhile, finally got tired of floundering around in SEA and came to North America of all regions in Novemeber 2020 to replace Ramzes, who replaced s4 after TI9. Now you see why I chose that position to be your pro Dota familiarity barometer.
+
+Fun fact, for all abuse Arteezy once endured for being a team hopping madman, he currently has the longest continuous tenure of any team+player pairing at TI10 besides OG's Notail.
+
+**How was their DPC year?** 1700 Points
+
+***NA DPC S1** - 1st, **ONE Esports Singapore Major** - 2nd, **NA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 2nd*
+
+If you haven't watched Dota in a while you may recall that EG were notorious for always getting third place at events. Times have changed, though. That was a completely different roster, different meta, different era.
 
 They've since moved up a digit.
 
-They did actually get 1st in season 1 of the NA DPC (after winning a three-way tiebreaker), but after that it was 2nd at the Singapore Major, 2nd at the NA DPC season 2, and 2nd at the AniMajor. Now for a normal person, that's pretty incredible. But Dota players, and fans, are not normal people. And in true Ricky Bobby fashion, if you ain't first, you're last.
+Now for a normal person, that's pretty incredible. But Dota players, and fans, are not normal people. And in true Ricky Bobby fashion, if you ain't first, you're last. So basically this year was a huge disappointment.
 
 **What can we expect?** 
 
-**What to spam in Twitch chat EG** "The current EG roster is the largest waste of potential in the history of dota."
+**What to spam in Twitch chat when EG is winning** "The current EG roster is the largest waste of potential in the history of dota."
 
 **What would success look like?** How funny would it be if after eight years of competing in professional Dota, Arteezy's first Valve LAN event win was TI10.
 
