@@ -114,27 +114,25 @@ In Valve's original pitch, there were supposed to be three seasons and three maj
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** A lot of you reading the list above: *Arteezy, of course, my boy. Abed? What? Wait, where's Sumail! WHERE'S SUMAIL!!!* Sumail's not on EG anymore. Wild, right? Soon after TI9 ended, Sumail was benched and Abed was brought in as a replacement. But don't worry, this is a Chekhov's Hassan. He'll be back in the third act.
+**How did this roster happen?** A lot of you reading the list above: *Arteezy, of course, my boy. Abed? What? Wait, where's Sumail! WHERE'S SUMAIL!!!* Sumail's not on EG anymore. Wild, right? Soon after TI9 ended, Sumail was benched and Abed was brought in. But don't worry, this is a Chekhov's Hassan. He'll be back in the third act.
 
 Iceiceice, meanwhile, finally got tired of floundering around in SEA and came to North America of all regions in Novemeber 2020 to replace Ramzes, who replaced s4 after TI9. Now you see why I chose that position to be your pro Dota familiarity barometer.
 
 Fun fact, for all abuse Arteezy once endured for being a team hopping madman, he is currently on the longest continuous tenure of any team+player pairing at TI10 besides OG's Notail.
 
-**How was their DPC year?**
+**How was their DPC year?** 1700 points
 
-> ***NA DPC S1** - 1st, **ONE Esports Singapore Major** - 2nd, **NA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 2nd*
+***NA DPC S1** - 1st, **ONE Esports Singapore Major** - 2nd, **NA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 2nd*
 
 You may recall that EG were once notorious for always getting third place at events. Times have changed, though. That was a completely different roster, different meta, different era.
 
 They've since moved up a digit.
 
-Now for a normal person, that's pretty incredible. But Dota players, and fans, are not normal people. And in true Ricky Bobby fashion, if you ain't first, you're last.
-
-**What can we expect?** 
-
-**What to spam in Twitch chat when EG is winning** "The current EG roster is the largest waste of potential in the history of dota."
+Now for a normal person, 2nd place at two majors is pretty incredible. But Dota players, and fans, are not normal people. And in true Ricky Bobby fashion, if you ain't first, you're last. *What a joke of a year. Abed Storm for five games? 1 position NP in grand finals? smh can we kick Bulba please?*
 
 **What would success look like?** How funny would it be if after eight years of competing in professional Dota, Arteezy's first Valve LAN event win was TI10.
+
+**What to spam in Twitch chat when EG are winning?** `My streamer FeelsStrongMan`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/lgd.png" alt="Banner"></p>
@@ -152,19 +150,19 @@ Now for a normal person, that's pretty incredible. But Dota players, and fans, a
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?**  Even Ame, who most would consider to be a mainstay on LGD, was actually hanging around on CDEC for most of 2020 before this roster formed. Two of the Wings Gaming TI6 winning squad? Young hotshot 12k MMR midlaner? And xiao8 coaching?
+**How did this roster happen?**  Just reading these names, how could you not get hype. Two of the Wings Gaming TI6 winning squad? Young hotshot 12k MMR midlaner? And xiao8 coaching? LET'S GOOOOO.
+
+In fact Ame, who may seem like the only connection to the TI9 LGD, actually traded spots with AhJit on CDEC for most of 2020 before this roster formed in September. Was he being given a lesson in humility? Who knows, but there's never been a better time to be an lgdamefan.
 
 **How was their DPC year?** 1300 Points
 
->> ***CN DPC S1** - 4th, **ONE Esports Singapore Major** - 3rd, **CN DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 1st*
+***CN DPC S1** - 4th, **ONE Esports Singapore Major** - 3rd, **CN DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 1st*
 
-**What can we expect?** The lore behind TI champions is every alternate year is a "China year." TI1 - Na'Vi (Western), TI2 - iG (Chinese), TI3 - Alliance (Western), TI4 - Newbee (Chinese), TI5 - EG (Western), TI6 - Wings (Chinese), TI7 - Liquid (Western).
+As is tradition with LGDs past, they started the year off *cold*. Granted, the CN DPC is arguably the most competitive of all the six regional leagues, but they only narrowly won a 4/5th place tiebreaker against Elephant in the CN DPC S1 to even get the privilege of attending the Singapore Major. They took the momentum swimmingly, though, and proceeded to bring their A-game for the rest of the year.
 
-In other words, these guys are the world's best chance at saving Dota from becoming a ded gaem.
+**What would success look like?** Statistically, [LGD has the highest probability of winning TI10.](https://noxville.github.io/ti10-probabilities/) Also statistically, the team with the highest probability of winning TI rarely ever does. RIP LGD.
 
-**How to sound smart talking about LGD** idk lol
-
-**What would success look like?** Having said that, "\_\_\_\_\_\_\_，\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\!"
+**What to spam in Twitch chat when LGD are winning?** `Translator winning mid Pog`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/vp.png" alt="Banner"></p>
@@ -189,17 +187,17 @@ The old VP? Scattered to the four winds. Four winds of course meaning Na\`Vi who
 
 **How was their DPC year?** 1200 Points
 
->>> ***EEU DPC S1** - 1st, **ONE Esports Singapore Major** - 7-8th, **EEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
+***EEU DPC S1** - 1st, **ONE Esports Singapore Major** - 7-8th, **EEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
 
 By their own admission, their DPC leagues were FREEEEE. They literally only dropped three games out of the thirty-one total they played during the first and second season. Put 'em on LAN though? Oof. I liken it to how I never had to study at all during high school... but quickly got put in my place in university Organic Chemistry.
 
 In their defense, this is a young team (literally, oldest player is DM at 21) with minimal LAN experience to begin with. Additionally, they were also operating with no coach until now for TI.
 
-**What can we expect?** While VP were not the apex predators they were last season, this legendary squad has maintained the longest running roster
+**What would success look like?** For the first time in years, the Virtus Pro brand doesn't have astronomical TI expectations. After placing 2nd and 3rd at the two online ESL tournaments after the DPC ended, no one should be questioning if this team is actually good. What people don't know, however, is if they can handle pressure. This roster hasn't ever even played in front of a crowd before.
 
-**How to sound smart talking about VP** "Maybe Sansheng should've written a guide on how to deal with the chat wheel."
+The EEU/CIS region hasn't even had a team place top 4 at TI since TI3 Na`Vi, so anything near there would be impressive.
 
-**What would success look like?** CIS deserves another Aegis.
+**What to spam in Twitch chat when VP are winning?** `I ALWAYS BELIEVED IN GPK STORM`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/newbee.png" alt="Banner"></p>
@@ -215,15 +213,23 @@ In their defense, this is a young team (literally, oldest player is DM at 21) wi
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** If you ever put ex-Forward Gaming in the cage with anyone else in the region (besides EG), they came out  But ya send 'em to a LAN against international opponents and it's all ♿♿♿NA DOTA COMING THROUGH♿♿♿
+**How did this roster happen?** Yawar, Quinn, and MSS have actually been together since 2018 if you can believe it. It was as Forward Gaming, who got turned into TI9 Newbee, who got turned into Quincy Crew, who got turned into Chaos EC, who again turned into Quincy Crew and have remained so since early 2020. Along the way, they imported the Brazilian Lelis and brought LoA/SVG out of semi-retirement.
 
-**How did they qualify?** After Valve finally confiscated NA's third slot to every major
+**How was their DPC year?** 1100 Points
 
-**What can we expect?** Jeremy Lin to make his yearly cameo, but now with some actual skin in the game. At least I hope so. If he and Asa Butterfield move to Fortnite, we're doomed.
+***NA DPC S1** - 2nd, **ONE Esports Singapore Major\*** - 9-12th, **NA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 5-6th*
 
-**How to sound smart talking about Newbee** "BSJ was just ahead of his time."
+In 2020, most everyone had written off North America as a region beyond saving and it was basically just EG's playground.
 
-**What would success look like?** So many USA chants you'll forget this TI is actually in Canada.
+In 2021, we learned that North America is indeed mostly beyond saving, but there are actually *two* bullies at the playground with Quincy Crew.
+
+Quincy Crew not only gave EG a run for their money at the DPC, but was also looking surprisingly strong at international LANs. The Singapore Major result has an asterisk QC had to use a stand-in of Poloson due to MSS contracting COVID.
+
+**What would success look like?** Getting a sponsor next year.
+
+Actually, wait, scratch that. "Quincy Crew" becoming an esports powerhouse would be the real success story.
+
+**What to spam in Twitch chat when QC is winning?** `EZ 4 [insert player name here]AO`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/keen.png" alt="Banner"></p>
