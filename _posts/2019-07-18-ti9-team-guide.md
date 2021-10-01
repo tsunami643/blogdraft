@@ -28,33 +28,33 @@ Not to worry, I've developed a foolproof guide to figure out when exactly you st
 </select>
 </p>
 
-<h2>You stopped watching Dota:
-<span id="wrapperOne" style="display: none;">After TI9</span>
-<span id="wrapperTwo" style="display: none;">Riiiight before COVID</span>
-<span id="wrapperThree" style="display: none;">Never. You're a fiend.</span>
-<span id="wrapperFour" style="display: none;">Oh geez...</span>
-</h2>
+<p>You stopped watching Dota:
+<span class="wrapperOne" style="display: none;">After TI9</span>
+<span class="wrapperTwo" style="display: none;">Riiiight before COVID</span>
+<span class="wrapperThree" style="display: none;">Never. You're a fiend.</span>
+<span class="wrapperFour" style="display: none;">Oh geez...</span>
+</p>
 
-<div id="wrapperOne" style="display: none;"><h1>
+<div class="wrapperOne" style="display: none;"><h1>
 Welcome back to TI!
 </h1></div>
-<div id="wrapperTwo" style="display: none;"><h1>
+<div class="wrapperTwo" style="display: none;"><h1>
 World goes to hell in a handbasket and you just leave?
 </h1></div>
-<div id="wrapperThree" style="display: none;"><h1>
+<div class="wrapperThree" style="display: none;"><h1>
 You're all caught up.
 </h1></div>
-<div id="wrapperFour" style="display: none;"><h1>
+<div class="wrapperFour" style="display: none;"><h1>
 UNiVeRsE is married now!
 </h1></div>
 
 <script>
   var dropDown = document.getElementById("dropDown"),
    myWrappers = [
-      document.getElementById("wrapperOne"),
-      document.getElementById("wrapperTwo"),
-      document.getElementById("wrapperThree"),
-      document.getElementById("wrapperFour"),
+      document.getElementsByClassName("wrapperOne"),
+      document.getElementsByClassName("wrapperTwo"),
+      document.getElementsByClassName("wrapperThree"),
+      document.getElementsByClassName("wrapperFour"),
    ];
 function test() {
 for (i=0; i<myWrappers.length; i++){
