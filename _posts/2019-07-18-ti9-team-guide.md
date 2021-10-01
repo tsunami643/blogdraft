@@ -124,7 +124,7 @@ Fun fact, for all abuse Arteezy once endured for being a team hopping madman, he
 
 ***NA DPC S1** - 1st, **ONE Esports Singapore Major** - 2nd, **NA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 2nd*
 
-If you haven't watched Dota in a while you may recall that EG were notorious for always getting third place at events. Times have changed, though. That was a completely different roster, different meta, different era.
+You may recall that EG were once notorious for always getting third place at events. Times have changed, though. That was a completely different roster, different meta, different era.
 
 They've since moved up a digit.
 
@@ -193,7 +193,7 @@ The old VP? Scattered to the four winds. Four winds of course meaning Na\`Vi who
 
 By their own admission, their DPC leagues were FREEEEE. They literally only dropped three games out of the thirty-one total they played during the first and second season. Put 'em on LAN though? Oof. I liken it to how I never had to study at all during high school... but quickly got put in my place in university Organic Chemistry.
 
-In their defense, this is a young team with minimal LAN experience to begin with. Additionally, they also had no coach until now for TI.
+In their defense, this is a young team (literally, oldest player is DM at 21) with minimal LAN experience to begin with. Additionally, they were also operating with no coach until now for TI.
 
 **What can we expect?** While VP were not the apex predators they were last season, this legendary squad has maintained the longest running roster
 
