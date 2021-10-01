@@ -17,9 +17,9 @@ Whatever your story, here's a preview of the teams and memes you should know com
 
 Not to worry, I've developed a foolproof guide to figure out when exactly you stopped watching Dota.
 
-<p>Who is the current offlaner for EG?
+<p style="font-size: 1.5em; font-weight: bold;">Who is the current offlaner for EG?
 
-<select id="dropDown" onchange="test()">
+<select id="dropDown" onchange="test()" style="font-weight: 100;">
  <option value="default" selected="selected">Please select offlaner</option>
  <option value="one" id="s4">s4</option>
  <option value="two" id="RAMZES666">RAMZES666</option>
@@ -28,25 +28,24 @@ Not to worry, I've developed a foolproof guide to figure out when exactly you st
 </select>
 </p>
 
-<h2>You stopped watching Dota:
-<span id="wrapperOne" style="display: none;">After TI9</span>
-<span id="wrapperTwo" style="display: none;">Riiiight before COVID</span>
-<span id="wrapperThree" style="display: none;">Never. You're a fiend.</span>
-<span id="wrapperFour" style="display: none;">Oh geez...</span>
-</h2>
+<p style="font-size: 1.5em; font-weight: bold;">You stopped watching Dota:
+<span id="wrapperOne" style="display: none;font-weight: 100;">After TI9</span>
+<span id="wrapperTwo" style="display: none;font-weight: 100;">Riiiight before COVID</span>
+<span id="wrapperThree" style="display: none;font-weight: 100;">Never. You're a fiend.</span>
+<span id="wrapperFour" style="display: none;font-weight: 100;">Oh geez...</span>
+</p>
 
-<div id="paragraphOne" style="display: none;"><h1>
-Welcome back to TI!
-</h1></div>
-<div id="paragraphTwo" style="display: none;"><h1>
+<div id="paragraphOne" style="display: none;">
+Welcome back to TI!</div>
+<div id="paragraphTwo" style="display: none;">
 World goes to hell in a handbasket and you just leave?
-</h1></div>
-<div id="paragraphThree" style="display: none;"><h1>
+</div>
+<div id="paragraphThree" style="display: none;">
 You're all caught up.
-</h1></div>
-<div id="paragraphFour" style="display: none;"><h1>
+</div>
+<div id="paragraphFour" style="display: none;">
 UNiVeRsE is married now!
-</h1></div>
+</div>
 
 <script>
   var dropDown = document.getElementById("dropDown"),
