@@ -210,7 +210,9 @@ The EEU/CIS region hasn't even had a team place top 4 at TI since TI3 Na`Vi, so 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Quinn (CCnC)</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Lelis</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">MSS</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">LoA (SVG)</td></tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">LoA (SVG)</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">KheZu</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
