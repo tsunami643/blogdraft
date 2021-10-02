@@ -651,6 +651,32 @@ SEA had an interesting conundrum this year. Since their league was so intra-regi
 
 ----
 
+# What about...?
+
+Only 18 teams made it, which leaves a lot of
+
+## North America
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The rest of TI5 EG (Aui_2000, Universe, ppd)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you didn't catch it, Fear is
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EternaLEnVy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not a great year 
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sneyking
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They're great! 
+
+## South America
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hFn
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you didn't catch it, Fear is
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duster
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They're great! 
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kingrd/Mr. Kingão
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Got 3rd with SG esports during the SA DPC S1, [but was later replaced with Tavo.](https://twitter.com/SGesportsBR/status/1367257232136695808) Then amusingly competed on EE's NA TI10 qualifier stack (with Ryoya)
+
 <p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;">This article was inspired by a <i>New York Times</i> <a href="https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html">guide to World Cup teams</a> and appropriated for Dota as suggested by <a href="https://twitter.com/SkimGaming/status/1007998992498790401">@SkimGaming.</a> Much appreciation to the people who exhaustively update all tournament and team results on Liquipedia including those responsible for this exceptionally detailed <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/Stats">Dota Pro Circuit stats page.</a> Player photos in the header were sourced from the <a href="https://www.flickr.com/photos/dota2ti/">dota2ti</a>, <a href="https://www.flickr.com/photos/cybersportcom/">Cybersport</a>, and <a href="https://www.flickr.com/photos/starladder/">StarLadder</a> Flickrs.</p>
 
 <p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;"><a href="https://www.reddit.com/r/DotA2/comments/8zx25q/the_international_2018_a_practical_guide_to_all/">Discussion for this article on /r/dota2.</a></p>
