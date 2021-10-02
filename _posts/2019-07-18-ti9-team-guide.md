@@ -118,11 +118,11 @@ In Valve's original pitch, there were supposed to be three seasons and three maj
 
 Iceiceice, meanwhile, finally got tired of floundering around in SEA and came to North America of all regions in Novemeber 2020 to replace Ramzes, who replaced s4 after TI9. Now you see why I chose that position to be your pro Dota familiarity barometer.
 
-Fun fact, for all abuse Arteezy once endured for being a treacherous team hopper, he is currently on the longest continuous tenure of any team+player pairing at TI10 besides Cr1t-, Secret's Puppey, and OG's N0tail. They grow up so fast.
+Fun fact, for all abuse Arteezy once endured for being a treacherous team hopper, he is currently on the longest continuous tenure of any team+player pairing at TI10 besides Crit, Secret's Puppey, and OG's Notail. They grow up so fast.
 
 **How was their DPC year?** 1700 points
 
-***NA DPC S1** - 1st, **ONE Esports Singapore Major** - 2nd, **NA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 2nd*
+<indent>***NA DPC S1** - 1st, **ONE Esports Singapore Major** - 2nd, **NA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 2nd*</indent>
 
 You may recall that EG were once notorious for always getting third place at events. Times have changed, though. That was a completely different roster, different meta, different era.
 
@@ -553,15 +553,17 @@ SEA had an interesting conundrum this year. Since their league was so intra-regi
 
 **How did this roster happen?** The current roster was assembled around two weeks before TI qualifiers began, so... The International 2018: Europe Open Qualifier #1 champions.
 
-**How did they qualify?** Ana came back.
+**How was their DPC year?** 1070 Points
 
-**What can we expect?**
+***SA DPC S1** - 1st, **ONE Esports Singapore Major** - Did not attend, **SA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
 
-<img src="/blog/img/ti8teams/ana.webp" onerror="this.onerror=null;this.src='/blog/img/ti8teams/ana.gif';" alt="" style="width: 350px;">
+Oh my god, it was amazing. Notail called Alliance a bunch of cheaters during the coach scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French.
 
-**How to sound smart talking about OG** "I was spamming '*OG.TOPSON*' in chat before Meteor Hammer Invoker was even a twinkle in his eyes."
+Oh their actual Dota? The Dota wasn't that great.
 
-**What would success look like?** After multiple failed International runs, it would be only fitting that OG do well at the first TI where they're actually considered underdogs.
+**What would success look like?** I mean come on, this one's obvious.
+
+**What to spam in Twitch chat when OG is winning?** `THREE FUCKING FLUKES IN A ROW MAN!`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/navi.png" alt="Banner"></p>
