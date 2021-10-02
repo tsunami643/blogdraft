@@ -36,7 +36,7 @@ Not to worry, I've developed a foolproof guide to figure out when exactly you st
 </p>
 
 <div id="paragraphOne" style="display: none; line-height:1.5em;">
-World goes to hell in a handbasket and you just <i>leave Dota?</i> After everything we've been through together? You know we still had tournaments going on in 2020! You really missed out. Sort of. Well at least you're here now. Please don't leave again, our player count numbers can't take it.
+World goes to hell in a handbasket and you just <i>leave Dota?</i> After everything we've been through? You know we still had tournaments going on in 2020! You really missed out. Sort of. Well at least you're here now. Please don't leave again, our player count numbers can't take it.
 </div>
 <div id="paragraphTwo" style="display: none; line-height:1.5em;">
 You're not the demographic for this guide, get outta here.
@@ -301,7 +301,7 @@ SEA had an interesting conundrum this year. Since their league was so intra-regi
 
 **What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6.
 
-**What to spam in Twitch chat when T1 is winning?** `MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
+**What to spam in Twitch chat when T1 is winning?** `MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON MikeHogu`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/vici.png" alt="Banner"></p>
