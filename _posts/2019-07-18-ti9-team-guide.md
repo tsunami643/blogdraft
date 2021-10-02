@@ -114,11 +114,11 @@ In Valve's original pitch, there were supposed to be three seasons and three maj
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** A lot of you reading the list above: *Arteezy, of course, my boy. Abed? What? Wait, where's Sumail! WHERE'S SUMAIL!!!* Sumail's not on EG anymore. Wild, right? Soon after TI9 ended, Sumail was benched and Abed was brought in. But don't worry, this is a Chekhov's Hassan. He'll be back in the third act.
+**How did this roster happen?** A lot of you reading the list above: *Arteezy, of course, my boy. Abed? What? Wait, where's Sumail?!* Sumail's not on EG anymore. Wild, I know. Soon after TI9 ended, Sumail was benched and Abed was brought in. But don't worry, this is a Chekhov's Hassan. He'll be back in the third act.
 
 Iceiceice, meanwhile, finally got tired of floundering around in SEA and came to North America of all regions in Novemeber 2020 to replace Ramzes, who replaced s4 after TI9. Now you see why I chose that position to be your pro Dota familiarity barometer.
 
-Fun fact, for all abuse Arteezy once endured for being a team hopping madman, he is currently on the longest continuous tenure of any team+player pairing at TI10 besides OG's Notail.
+Fun fact, for all abuse Arteezy once endured for being a treacherous team hopper, he is currently on the longest continuous tenure of any team+player pairing at TI10 besides Cr1t-, Secret's Puppey, and OG's N0tail. They grow up so fast.
 
 **How was their DPC year?** 1700 points
 
