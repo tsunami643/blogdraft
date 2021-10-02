@@ -659,14 +659,15 @@ Only 18 teams made it, which leaves a lot of
 
 ## North America
 
-#### The rest of TI5 EG (Aui_2000, Universe, ppd)
-* After TI9, Universe and ppd teamed on NiP together. They actually qualified for the March 2020 ESL Los Angeles major before COVID hit and then both promptly retired. Universe *actually* retired and recently [got married!](https://twitter.com/UniverseDota/status/1426214388508233731) ppd meanwhile unretired, competed in the NA DPC S1, stopped doing that, became a coach for Alliance for the EU DPC S2, stopped doing that, and then was invited to cast TI10, but then also stopped doing that. Aui seems content with his current coach/caster status and will also be joining the TI10 English broadcast.
+#### The rest of TI5 EG (ppd, Universe, Aui_2000)
+* After TI9, ppd and Universe reunited on NiP. They actually qualified for the March 2020 ESL Los Angeles major right before COVID hit. The tournament got canceled and they both promptly retired. Peter then un-retired, competed in the NA DPC S1, stopped doing that, became a coach for Alliance for the EU DPC S2, stopped doing that, and then was invited to cast TI10, but also stopped doing that.<br><br>Universe *actually* retired and recently [got married!](https://twitter.com/UniverseDota/status/1426214388508233731)<br><br>Aui seems content with his current coach/caster status and will also be joining the TI10 English broadcast.
 
 #### EternaLEnVy
-* I think they stopped following the manga and instead we got some weird filler arc where Envy doesn't read the DPC rules and then acts surprised at the end of the season. Pretty unsatisfying conclusion, tbh.
+* They stopped following the manga this year and instead we got some weird filler arc where Envy doesn't read the DPC rules and then acts surprised at the end of the season.<br><br>After floating around in the NA lower and upper divisions, he slapped together a team for the TI10 qualifier with Ryoya, Kingrd/Mr. Kingão, Zfreek, and Moo. Got third after losing to *4 Zoomers (Sammyboy, Gunnar, Brax, ocean, Husky)*. Pretty unsatisfying conclusion, idk if I'll watch next season...
 
-#### Sneyking
-* Exported himself to Europe and 
+#### Mason
+
+* Now a professional speech writer on twitch dot tv.
 
 ## South America
 
@@ -676,19 +677,16 @@ Only 18 teams made it, which leaves a lot of
 #### Duster
 * They're great! 
 
-#### Kingrd/Mr. Kingão
-* Got 3rd in the SA DPC S1 with SG esports, but was later replaced with Tavo. Then competed on EE's NA TI10 qualifier stack (with Ryoya, ZFreek, and Moo)
-
 ## Western Europe
 
 #### Miracle-, w33, MinD_ContRoL, GH, KuroKy, iLTW
-* Ah, you mean *Team Nigma*? Yes, that's their name now. Well actually it's *Nigma Galaxy* now. They had a rocky DPC year which ultimately landed them in 13th place; one place away from being directly invited to TI through points. In the WEU regional qualifier, they got 3rd after losing to longtime rivals OG and bowed out of the competition. Their fans? Saltier than ever. Rather than graciously accept defeat, many Nigma diehards have been channeling their frustrations by: Saying this TI will suck because their team isn't there, decrying the DPC structure, belittling the competitive integrity other regions, and eagerly licking their chops when news breaks that some Chinese teams in Bucharest might have COVID. Some real *BERNIE CAN STILL WIN* vibes out in the Nigma camp.
+* Ah, you mean *Team Nigma*? Yes, I'm serious, that's their name. Well actually it's *Nigma Galaxy* now. Despite attending both majors (with a stand-in for Singapore), they had a rocky DPC year which ultimately landed them in 13th place; one slot away from being directly invited to TI through points. In the WEU regional qualifier, they got 3rd after narrowly losing to longtime rivals OG and bowed out of the competition. <br><br>Their fans? Saltier than ever. Rather than graciously accept defeat, many Nigma diehards have been channeling their frustrations by: belittling the competitive integrity of other regions, decrying the DPC structure, trying to convince everyone this TI will suck because their team isn't there, and eagerly licking their chops to sub-in when news broke that some Chinese teams in Bucharest have COVID. Some real *BERNIE CAN STILL WIN* vibes out in the Nigma camp.
 
 #### Team Liquid in general
-* After Kuro splintered off to form Nigma, Liquid signed TI9's Alliance (miCKe, qojqva, Boxi, Taiga, iNSaNiA). The team did well enough to show up to both majors, but they only "showed up" and not much more than that. Ultimately got 4th in the EU regional qualifiers after losing to Nigma.
+* After Kuro splintered off to form Nigma, Liquid signed TI9's Alliance of miCKe, qojqva, Boxi, Taiga, and iNSaNiA. The team did well enough to show up to both majors, but they only "showed up" and not much more than that. Ultimately, they got 4th in the EU regional qualifiers after losing to Nigma.
 
 #### Hmmmm... if Nigma got 3rd and Liquid got 4th, who got 2nd?
-* Tundra Esports! Skiter, Nine, 33, Sneyking, Fata
+* A team by the name of *Tundra Esports*: Skiter, Nine, 33, Sneyking, and Fata. Tundra never showed up to any majors, but they got nail-bitingly close to beating OG in the WEU TI10 qualifiers. Incidentally, this is the first International Fata has missed since he started competing at *TI3.*
 
 <p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;">This article was inspired by a <i>New York Times</i> <a href="https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html">guide to World Cup teams</a> and appropriated for Dota as suggested by <a href="https://twitter.com/SkimGaming/status/1007998992498790401">@SkimGaming.</a> Much appreciation to the people who exhaustively update all tournament and team results on Liquipedia including those responsible for this exceptionally detailed <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/Stats">Dota Pro Circuit stats page.</a> Player photos in the header were sourced from the <a href="https://www.flickr.com/photos/dota2ti/">dota2ti</a>, <a href="https://www.flickr.com/photos/cybersportcom/">Cybersport</a>, and <a href="https://www.flickr.com/photos/starladder/">StarLadder</a> Flickrs.</p>
 
