@@ -122,7 +122,7 @@ Fun fact, for all abuse Arteezy once endured for being a treacherous team hopper
 
 **How was their DPC year?** 1700 points
 
-<indent>***NA DPC S1** - 1st, **ONE Esports Singapore Major** - 2nd, **NA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 2nd*</indent>
+* ***NA DPC S1** - 1st, **ONE Esports Singapore Major** - 2nd, **NA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 2nd*
 
 You may recall that EG were once notorious for always getting third place at events. Times have changed, though. That was a completely different roster, different meta, different era.
 
@@ -659,25 +659,36 @@ Only 18 teams made it, which leaves a lot of
 
 ## North America
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The rest of TI5 EG (Aui_2000, Universe, ppd)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you didn't catch it, Fear is
+#### The rest of TI5 EG (Aui_2000, Universe, ppd)
+* After TI9, Universe and ppd teamed on NiP together. They actually qualified for the March 2020 ESL Los Angeles major before COVID hit and then both promptly retired. Universe *actually* retired and recently [got married!](https://twitter.com/UniverseDota/status/1426214388508233731) ppd meanwhile unretired, competed in the NA DPC S1, stopped doing that, became a coach for Alliance for the EU DPC S2, stopped doing that, and then was invited to cast TI10, but then also stopped doing that. Aui seems content with his current coach/caster status and will also be joining the TI10 English broadcast.
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EternaLEnVy
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Not a great year 
+#### EternaLEnVy
+* I think they stopped following the manga and instead we got some weird filler arc where Envy doesn't read the DPC rules and then acts surprised at the end of the season. Pretty unsatisfying conclusion, tbh.
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sneyking
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They're great! 
+#### Sneyking
+* Exported himself to Europe and 
 
 ## South America
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hFn
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you didn't catch it, Fear is
+#### hFn
+* If you didn't catch it, Fear is
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duster
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; They're great! 
+#### Duster
+* They're great! 
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kingrd/Mr. Kingão
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Got 3rd with SG esports during the SA DPC S1, [but was later replaced with Tavo.](https://twitter.com/SGesportsBR/status/1367257232136695808) Then amusingly competed on EE's NA TI10 qualifier stack (with Ryoya)
+#### Kingrd/Mr. Kingão
+* Got 3rd in the SA DPC S1 with SG esports, but was later replaced with Tavo. Then competed on EE's NA TI10 qualifier stack (with Ryoya, ZFreek, and Moo)
+
+## Western Europe
+
+#### Miracle-, w33, MinD_ContRoL, GH, KuroKy, iLTW
+* Ah, you mean *Team Nigma*? Yes, that's their name now. Well actually it's *Nigma Galaxy* now. They had a rocky DPC year which ultimately landed them in 13th place; one place away from being directly invited to TI through points. In the WEU regional qualifier, they got 3rd after losing to longtime rivals OG and bowed out of the competition. Their fans? Saltier than ever. Rather than graciously accept defeat, many Nigma diehards have been channeling their frustrations by: Saying this TI will suck because their team isn't there, decrying the DPC structure, belittling the competitive integrity other regions, and eagerly licking their chops when news breaks that some Chinese teams in Bucharest might have COVID. Some real *BERNIE CAN STILL WIN* vibes out in the Nigma camp.
+
+#### Team Liquid in general
+* After Kuro splintered off to form Nigma, Liquid signed TI9's Alliance (miCKe, qojqva, Boxi, Taiga, iNSaNiA). The team did well enough to show up to both majors, but they only "showed up" and not much more than that. Ultimately got 4th in the EU regional qualifiers after losing to Nigma.
+
+#### Hmmmm... if Nigma got 3rd and Liquid got 4th, who got 2nd?
+* Tundra Esports! Skiter, Nine, 33, Sneyking, Fata
 
 <p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;">This article was inspired by a <i>New York Times</i> <a href="https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html">guide to World Cup teams</a> and appropriated for Dota as suggested by <a href="https://twitter.com/SkimGaming/status/1007998992498790401">@SkimGaming.</a> Much appreciation to the people who exhaustively update all tournament and team results on Liquipedia including those responsible for this exceptionally detailed <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/Stats">Dota Pro Circuit stats page.</a> Player photos in the header were sourced from the <a href="https://www.flickr.com/photos/dota2ti/">dota2ti</a>, <a href="https://www.flickr.com/photos/cybersportcom/">Cybersport</a>, and <a href="https://www.flickr.com/photos/starladder/">StarLadder</a> Flickrs.</p>
 
