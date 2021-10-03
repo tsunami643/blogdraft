@@ -44,7 +44,7 @@ You're not the demographic for this guide, get outta here.
 <div id="paragraphFour" style="display: none; line-height:1.5em; font-size:large;">
 Just a second, let me get into character.<br><blockquote style="font-size: 1.1 em;">Whoa, long time no see. What have you been up to? You got married? No way, that's awesome! One on the way too? Wow. Congratulations. Our old stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one time you got a rampage on Death Prophet? Good times. Anyway, n-nice catching up with you.</blockquote></div>
 <div id="paragraphFive" style="display: none; line-height:1.5em; font-size:large;">
-You trying to impress somebody? Talk about relationship goals, you're a keeper. Ok so in the current 7.30d meta an offlaner, also known as the '3', is usually a tanky initiat--<br><br>Actually, forget it. All you need to know is if your special someone starts stressing out in the first few minutes of a game just say, "It's ok, babe. Laning phase doesn't matter."</div>
+Trying to impress somebody? Talk about relationship goals, you're a keeper. Ok so in the current 7.30d meta an offlaner, also known as the '3', is usually a tanky initiat--<br><br>Actually, forget it. All you need to know is if your special someone starts stressing out in the first few minutes of a game just say, "It's ok, babe. Laning phase doesn't matter."</div>
 
 <script>
   var dropDown = document.getElementById("dropDown"),
@@ -99,11 +99,11 @@ for (i=0; i<myWrappers.length; i++){
 
 # The Invites
 
-Here's the quick and dirty on how TI invites were determined this year. Remember the *Dota Pro Circuit/DPC*? It's back. In league form.
+Remember the *Dota Pro Circuit/DPC*? It's back. In league form.
 
-Six regions. Each region has an upper division and lower division league with eight teams each. For six weeks, teams duke it out in a round-robin and whoever's at the top gets to either go to the major or move to upper division. You get DPC points for doing well in your league or doing well at the major. Major ends and the next 'season' of regional leagues begin. Rinse and repeat. Top 12 teams in the DPC point rankings get directly invited to TI. Additionally, one  team from each region can qualify afterwards for a total of 18 teams at TI.
+Now there are plenty of resources explaining the details of the system, so I'm not gonna get into it. All you really need to know is each team had four opportunities to earn DPC points this year: Their regional league season 1 *(Jan-Mar 2021)*, the Singapore Major *(Apr 2021)*, their regional league season 2 *(Apr-May 2021)*, and the Kyiv AniMajor *(May 2021
 
-In Valve's original pitch, there were supposed to be three seasons and three majors. However, this year had to be abridged for COVID reasons. As a result, each team had four opportunities to earn DPC points: Their regional league season 1 *(Jan-Mar 2021)*, the Singapore Major *(Apr 2021)*, their regional league season 2 *(Apr-May 2021)*, and the Kyiv AniMajor *(May 2021)*.
+The top 12 teams with the most DPC points were directly invited to TI10. These are their stories.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/eg.png" alt="Banner"></p>
@@ -480,10 +480,10 @@ PLACEHOLDER
 
 **What to spam in Twitch chat when TP is winning?** `TE QUIERO MUCHO ARTURITO FrankerZ`
 
-# The Qualifiers
+# The Regional Qualifiers
 
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/mineski.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Undying - <i>North America Regional Qualifier</i></h2>
+<h2 style="margin: 0.25em 0;">Team Undying - <i>North America</i></h2>
 <table>
   <tbody><tr>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Timado</td>
@@ -515,7 +515,7 @@ Take a game off Arkosh next year.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/chaos.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">SG esports - <i>South America Regional Qualifier</i></h2>
+<h2 style="margin: 0.25em 0;">SG esports - <i>South America</i></h2>
 <table>
   <tbody><tr>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Costabile</td>
@@ -543,7 +543,7 @@ PLACEHOLDER
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/og.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">OG - <i>Western Europe Regional Qualifier</i></h2>
+<h2 style="margin: 0.25em 0;">OG - <i>Western Europe</i></h2>
 <table>
   <tbody><tr>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-pk" title="Pakistan" alt="Pakistan">SumaiL</td>
@@ -573,7 +573,7 @@ Oh the actual Dota? The Dota wasn't that great. After a sluggish season 1, Ana c
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/navi.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Spirit - <i>Eastern Europe (CIS) Regional Qualifier</i></h2>
+<h2 style="margin: 0.25em 0;">Team Spirit - <i>Eastern Europe (CIS)</i></h2>
 <table>
   <tbody><tr>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Yatoro</td>
@@ -601,7 +601,7 @@ PLACEHOLDER
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/rng.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Elephant - <i>China Regional Qualifier</i></h2>
+<h2 style="margin: 0.25em 0;">Elephant - <i>China</i></h2>
 <table>
   <tbody><tr>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Eurus (Paparazi灬)</td>
@@ -633,7 +633,7 @@ Still didn't work. Lucky for Elephant, four Chinese teams directly qualified for
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/fnatic.png" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Fnatic - <i>SEA Regional Qualifier</i></h2>
+<h2 style="margin: 0.25em 0;">Fnatic - <i>SEA</i></h2>
 <table>
   <tbody><tr>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Raven</td>
