@@ -21,7 +21,7 @@ First, to calibrate your Dota esports MMR, please answer the following question:
  <option value="two" id="iceiceice">iceiceice</option>
  <option value="three" id="s4">s4</option>
  <option value="four" id="UNiVeRsE">UNiVeRsE</option>
- <option value="four" id="UNiVeRsE">What's an offlaner?</option>
+ <option value="five" id="what">What's an offlaner?</option>
 </select>
 </p>
 
