@@ -7,9 +7,9 @@ feature-img: "img/ti8teams/ti8header.png"
 flags: true
 ---
 
-### Ladies and
+### Well it's happening
 
-Well it's happening. Barely. Maybe someone you love seems distraught that their annual August esports pilgramage has been thrown into disarray. Whatever the case, this is the guide for you.
+Barely. Maybe someone you love seems distraught that their annual August esports pilgramage has been thrown into disarray. Whatever the case, this is the guide for you.
 
 First, to calibrate your Dota esports MMR, please answer the following question:
 
@@ -304,7 +304,7 @@ Their coach did have to stand-in for Oli at the AniMajor, sure, but I prefer my 
 
 SEA had an interesting conundrum this year. Since their seasons were so intra-regionally competitive, no single team was able to farm the leagues for DPC points. As a result, there was a very real possibility that only one SEA team would attend TI10.
 
-But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be pretty cool to go to TI directly," and then proceeded to smash their way through the AniMajor.
+But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be pretty cool to go to TI directly," and then proceeded to smash their way through the rest of the season and the AniMajor.
 
 **What would success look like?** I talked about EEU/CIS not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6.
 
@@ -340,7 +340,7 @@ I could literally copy paste what I wrote about Vici's TI8 squad three years ago
 
 What is with Vici and signing teams that are always *good* but never TI champion material.
 
-**What would success look like?** ...being TI championship material. Easiest alley-oop of my life.
+**What would success look like?** ...being TI championship material. Alley-oop.
 
 **What to spam in Twitch chat when T1 is winning?** `poyoyoyoyoyoyo`
 
