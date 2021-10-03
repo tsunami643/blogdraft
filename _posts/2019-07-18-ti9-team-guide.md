@@ -1,6 +1,6 @@
 ﻿---
 layout: "post"
-title: "The International 10: Another Practical Guide to All 18 Teams"
+title: "The International 2021: A Practical Guide to All 18 Teams"
 date: "2021-09-25 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
 feature-img: "img/ti8teams/ti8header.png"
@@ -29,7 +29,7 @@ First, to calibrate your Dota esports MMR, please answer the following question:
 <span id="wrapperOne" style="display: none;font-weight: 100;">Riiiight before COVID</span>
 <span id="wrapperTwo" style="display: none;font-weight: 100;">Never, you fiend</span>
 <span id="wrapperThree" style="display: none;font-weight: 100;">After TI9</span>
-<span id="wrapperFour" style="display: none;font-weight: 100;">Well this is awkward</span>
+<span id="wrapperFour" style="display: none;font-weight: 100;">This is awkward</span>
 <span id="wrapperFive" style="display: none;font-weight: 100;">You never started</span>
 </p>
 
@@ -42,9 +42,9 @@ You're not the demographic for this guide, get outta here.
 <div id="paragraphThree" style="display: none; line-height:1.5em;">
 ...ever heard of a "neutral item" before? No? How about the term <i>'sunmommy'</i>? Nothing? Well this is gonna be one confusing TI for you.</div>
 <div id="paragraphFour" style="display: none; line-height:1.5em; font-size:large;">
-Hold on a moment, let me adjust.<br><blockquote style="font-size: 1.1 em;">Whoa, long time no see! What have you been up to? You got married? No way, I'm so happy for you! One on the way too? Wow. Congratulations. Our old stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one time you got a rampage on Death Prophet? Good times. Anyway, n-nice catching up with you.</blockquote></div>
+Just a second, let me get into character.<br><blockquote style="font-size: 1.1 em;">Whoa, long time no see. What have you been up to? You got married? No way, that's awesome! One on the way too? Wow. Congratulations. Our old stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one time you got a rampage on Death Prophet? Good times. Anyway, n-nice catching up with you.</blockquote></div>
 <div id="paragraphFive" style="display: none; line-height:1.5em; font-size:large;">
-What, you trying to impress someone special? Or just don't want to feel utterly clueless when they start screaming about "BKBs" and "OF COURSE THEY GET A FLICKER." You're a keeper. Ok so in the current 7.30d meta an offlaner, also known as the '3', is usually a tanky initiat--<br><br>Actually, forget it. All you need to know is if your significant other starts stressing out in the first few minutes of a game just say, "It's ok, babe. Laning phase doesn't matter."</div>
+You trying to impress somebody? Talk about relationship goals, you're a keeper. Ok so in the current 7.30d meta an offlaner, also known as the '3', is usually a tanky initiat--<br><br>Actually, forget it. All you need to know is if your special someone starts stressing out in the first few minutes of a game just say, "It's ok, babe. Laning phase doesn't matter."</div>
 
 <script>
   var dropDown = document.getElementById("dropDown"),
@@ -200,9 +200,9 @@ Then I roll up to university and get punched in the mouth by Organic Chemistry. 
 
 In VP's defense, this is a young team (literally, their oldest player is DM at 21) with minimal LAN experience to begin with. Additionally, they were also operating with no coach until now for TI.
 
-**What would success look like?** The EEU/CIS region hasn't even had a team place top 4 at TI since TI3 Na`Vi, so anything near there would be impressive. After placing 2nd and 3rd at the two online ESL tournaments after the DPC ended, no one should be questioning if this squad is actually good. What people don't know, however, is if they can handle pressure. This roster hasn't ever even played in front of a crowd before.
+**What would success look like?** The EEU/CIS region hasn't even had a team place top 4 at TI since TI3 Na`Vi, so anything near there would be impressive. No one is really doubting if this squad is good, but what we don't know is if they can handle pressure. This roster hasn't ever even played in front of a crowd before.
 
-<sub>Which means that TI10 should feel natural.</sub>
+<p style="font-size: 0.85em;">Which means that TI10 should feel natural.</p>
 
 **What to spam in Twitch chat when VP are winning?** `I ALWAYS BELIEVED IN GPK STORM`
 
@@ -222,19 +222,19 @@ In VP's defense, this is a young team (literally, their oldest player is DM at 2
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Yawar, Quinn, and MSS have actually been together since 2018 if you can believe it. It was as Forward Gaming, who got turned into TI9 Newbee, who got turned into Quincy Crew, who got turned into Chaos EC, who again turned into Quincy Crew and have remained so since early 2020. Along the way, they imported the Brazilian Lelis and brought LoA/SVG out of semi-retirement.
+**How did this roster happen?** Yawar, Quinn, and MSS have actually been together since 2019. It was as Forward Gaming, who got turned into TI9 Newbee, who got turned into Quincy Crew, who got turned into Chaos EC, who again turned into Quincy Crew and have remained so since early 2020. Along the way, they imported the Brazilian Lelis and brought LoA/SVG out of semi-retirement.
 
 **How was their DPC year?** 1100 Points
 
 * ***NA DPC S1** - 2nd, **ONE Esports Singapore Major\*** - 9-12th, **NA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 5-6th*
 
-For most of 2020, practically everyone had written off North America as a region beyond saving and it was basically just EG stomping on kids in the sandbox.
+For most of 2020, practically everyone had written off North America as a region beyond saving and it was basically just EG's sandbox to stomp on kids.
 
-In 2021, we learned that North America is indeed mostly beyond saving, but there are actually *two* bullies at the playground with Quincy Crew.
+In 2021, we learned that North America *is* indeed mostly beyond saving, but there are actually two bullies at the playground with Quincy Crew.
 
-Quincy Crew not only gave EG a run for their money in the NA DPC, but was also looking to be worthy competition at international LANs. Their Singapore Major result has an asterisk because QC had to use a stand-in of Poloson due to MSS contracting COVID.
+Quincy Crew not only gave EG a run for their money in the NA DPC, but was also looking to be worthy competition at international LANs. Their Singapore Major result has an asterisk because QC had to use Poloson as a stand-in due to MSS contracting COVID.
 
-**What would success look like?** Getting a sponsor next year.
+**What would success look like?** Getting a sponsor.
 
 Actually, wait, scratch that. *Quincy Crew* becoming an esports powerhouse would be the real success story.
 
@@ -256,7 +256,7 @@ Actually, wait, scratch that. *Quincy Crew* becoming an esports powerhouse would
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Unlike most of the other Chinese teams at TI10, this roster was *not* frantically cobbled together in late 2020. Instead, it was a slow, methodical process that has had these five players together since late 2019.
+**How did this roster happen?** Unlike most of the other Chinese teams at TI10, this roster was *not* frantically cobbled together in late 2020. Instead, it was a slow, methodical process that has had these five players together since September 2019.
 
 **How was their DPC year?** 1100 Points
 
@@ -276,9 +276,9 @@ It's like pottery.
 
 Their coach did have to stand-in for Oli at the AniMajor, sure, but I prefer my interpretation.
 
-**What would success look like?** PLACEHOLDER
+**What would success look like?** Kaka avenges Newbee's TI7 silver medal and somewhere in the distance Sccc smiles.
 
-**What to spam in Twitch chat when iG is winning?** `?`
+**What to spam in Twitch chat when iG is winning?** `?` That's all. Just `?`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/tnc.png" alt="Banner"></p>
@@ -302,20 +302,20 @@ Their coach did have to stand-in for Oli at the AniMajor, sure, but I prefer my 
 
 * ***SEA DPC S1** - 3rd, **ONE Esports Singapore Major\*** - 15th, **SEA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
 
-SEA had an interesting conundrum this year. Since their league was so intra-regionally competitive, no singular team was able to farm the leagues for DPC points. As a result, there was a very real possibility that the only SEA team to attend TI would be the SEA regional qualifier winner.
+SEA had an interesting conundrum this year. Since their seasons were so intra-regionally competitive, no single team was able to farm the leagues for DPC points. As a result, there was a very real possibility that only one SEA team would attend TI10.
 
-PLACEHOLDER
+But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be pretty cool to go to TI directly," and then proceeded to smash their way through the AniMajor.
 
-**What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6.
+**What would success look like?** I talked about EEU/CIS not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6.
 
-**What to spam in Twitch chat when T1 is winning?** `MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON MikeHogu`
+**What to spam in Twitch chat when T1 is winning?** `MikeHogu MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/vici.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Vici Gaming</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">poyoyo</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">poyoyo (Erica)</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ori</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">old eLeVeN</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Pyw</td>
@@ -326,15 +326,21 @@ PLACEHOLDER
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** A whole bunch of 2<sup>nd</sup> place finishes
+**How did this roster happen?** Ori has been on Vici since the dawn of time, but what about the rest of these names? You may remember Eurus (Paparazi灬) and Yang as being Vici boys for a while, but they were dropped in 2020 for poyoyo and old eLeVeN.
 
-**How was their DPC year?** 1070 Points
+You may also remember Fade. Fade """"retired"""" after TI9, enjoyed a day at the beach, and then un-retired two weeks later to join Team Aster. Even by Chinese retirement standards, that's pretty quick. I'm not gonna make a Fade pun here, but he's not at TI10.
 
-* ***CN DPC S1** - 3rd, **ONE Esports Singapore Major\*** - 15th, **CN DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
+**How was their DPC year?** 950 Points
 
-PLACEHOLDER
+* ***CN DPC S1** - 3rd, **ONE Esports Singapore Major** - 7-8th, **CN DPC S2** - 3rd, **WePlay Kyiv AniMajor** - 4th*
 
-**What would success look like?** PLACEHOLDER
+I could literally copy paste what I wrote about Vici's TI8 squad three years ago and you could not tell the difference.
+
+>Just some real solid Dotes. You know, a real focus on the fundamentals. The guys are gonna give it their all. Show some real hustle out there. <br><br>And not win.
+
+What is with Vici and signing teams that are always *good* but never TI champion material.
+
+**What would success look like?** ...being TI championship material. Easiest alley-oop of my life.
 
 **What to spam in Twitch chat when T1 is winning?** `poyoyoyoyoyoyo`
 
@@ -354,11 +360,11 @@ PLACEHOLDER
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** It'd be shorter to list their non-notable tournament placings this season. It was Epicenter. They got bodied at Epicenter. But the rest of the season was 👌
+**How did this roster happen?** PLACEHOLDER
 
-**How was their DPC year?** 1070 Points
+**How was their DPC year?** 950 Points
 
-* ***WEU DPC S1** - 3rd, **ONE Esports Singapore Major\*** - 15th, **WEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
+* ***WEU DPC S1** - 1st, **ONE Esports Singapore Major** - 4th, **WEU DPC S2** - 4th, **WePlay Kyiv AniMajor** - 16th*
 
 PLACEHOLDER
 
@@ -384,9 +390,9 @@ PLACEHOLDER
 
 **How did this roster happen?** PLACEHOLDER 
 
-**How was their DPC year?** 85 Points
+**How was their DPC year?** 800 Points
 
-* ***CN DPC S1** - 2nd, **ONE Esports Singapore Major** - 9-12th, **CN DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
+* ***CN DPC S1** - 2nd, **ONE Esports Singapore Major\*** - 9-12th, **CN DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
 
 Aster are known as civil war specialists. Playing against Chinese teams? Beasts. International opponents? Lost cause.
 
@@ -410,9 +416,9 @@ Aster are known as civil war specialists. Playing against Chinese teams? Beasts.
 
 **How did this roster happen?** PLACEHOLDER
 
-**How was their DPC year?** 1070 Points
+**How was their DPC year?** 800 Points
 
-* ***WEU DPC S1** - 3rd, **ONE Esports Singapore Major\*** - 15th, **WEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
+* ***WEU DPC S1** - 2nd, **ONE Esports Singapore Major** - 13th, **WEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
 
 PLACEHOLDER
 
@@ -438,9 +444,9 @@ PLACEHOLDER
 
 **How did this roster happen?** Remember TI9 Infamous? It's the same guys.
 
-**How was their DPC year?** 1070 Points
+**How was their DPC year?** 800 Points
 
-* ***SA DPC S1** - 1st, **ONE Esports Singapore Major\*** - Did not attend, **SA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
+* ***SA DPC S1** - 1st, **ONE Esports Singapore Major\*** - Did not attend, **SA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 14th*
 
 PLACEHOLDER
 
@@ -466,9 +472,9 @@ PLACEHOLDER
 
 **How did this roster happen?** PLACEHOLDER
 
-**How was their DPC year?** 1070 Points
+**How was their DPC year?** 800 Points
 
-* ***SA DPC S1** - 1st, **ONE Esports Singapore Major** - Did not attend, **SA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
+* ***SA DPC S1** - 2nd, **ONE Esports Singapore Major** - 5-6th, **SA DPC S2** - 3rd, **WePlay Kyiv AniMajor** - Did not qualify*
 
 PLACEHOLDER
 
@@ -498,7 +504,7 @@ PLACEHOLDER
 
 **How did this roster happen?** PLACEHOLDER
 
-**How was their DPC year?** 1100 Points
+**How was their DPC year?** 400 Points
 
 * ***NA DPC S1** - 3rd, **ONE Esports Singapore Major** - Did not qualify, **NA DPC S2** - 3rd, **WePlay Kyiv AniMajor** - Did not qualify*
 
@@ -526,9 +532,9 @@ When I said that there were only two teams worth paying attention to in NA, perh
 
 **How did this roster happen?** Hold the phone, *three* SA teams at TI? Peruvian *and* Brazilian? It's a brave new world, amigos.
 
-**How was their DPC year?** 1070 Points
+**How was their DPC year?** 170 Points
 
-* ***SA DPC S1** - 1st, **ONE Esports Singapore Major** - Did not attend, **SA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
+* ***SA DPC S1** - 3rd, **ONE Esports Singapore Major** - Did not qualify, **SA DPC S2** - 6th, **WePlay Kyiv AniMajor** - Did not qualify*
 
 PLACEHOLDER
 
@@ -554,9 +560,9 @@ PLACEHOLDER
 
 **How did this roster happen?** I told you Sumail would be back.
 
-**How was their DPC year?** 1070 Points
+**How was their DPC year?** 36.13 Points
 
-* ***WEU DPC S1** - 1st, **ONE Esports Singapore Major** - Did not attend, **WEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - Did not attend*
+* ***WEU DPC S1** - 5th, **ONE Esports Singapore Major** - Did not qualify, **WEU DPC S2** - 6th, **WePlay Kyiv AniMajor** - Did not qualify*
 
 Oh my god, it was amazing. Notail called Alliance a bunch of cheaters during the coach scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French.
 
@@ -702,7 +708,7 @@ Only 18 teams made it, which leaves a lot of
 #### Burning
 * If you didn't catch it, Fear is
 
-#### Duster
+#### Sccc
 * They're great! 
 
 ## Southeast Asia
