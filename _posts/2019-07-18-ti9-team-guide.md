@@ -44,7 +44,7 @@ You're not the demographic for this guide, get outta here.
 <div id="paragraphFour" style="display: none; line-height:1.5em; font-size:large;">
 Hold on a moment, let me adjust.<br><blockquote style="font-size: 1.1 em;">Whoa, long time no see! What have you been up to? You got married? No way, I'm so happy for you! One on the way too? Wow. Congratulations. Our old stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one time you got a rampage on Death Prophet? Good times. Anyway, n-nice catching up with you.</blockquote></div>
 <div id="paragraphFive" style="display: none; line-height:1.5em; font-size:large;">
-Talk about relationship goals. Welcome to Dota, you're gonna hate it here. Ok so an offlaner, also known as the '3', in the current meta is often a tanky, aura building, initiat--<br><br>Actually, forget it. All you need to know is if your SO starts stressing out in the first few minutes of a game just say, "It's ok, babe. Laning phase doesn't matter."</div>
+What, you trying to impress someone special? Or just don't want to feel utterly clueless when they start screaming about "BKBs" and "OF COURSE THEY GET A FLICKER." You're a keeper. Ok so in the current 7.30d meta an offlaner, also known as the '3', is usually a tanky initiat--<br><br>Actually, forget it. All you need to know is if your significant other starts stressing out in the first few minutes of a game just say, "It's ok, babe. Laning phase doesn't matter."</div>
 
 <script>
   var dropDown = document.getElementById("dropDown"),
@@ -125,7 +125,7 @@ In Valve's original pitch, there were supposed to be three seasons and three maj
 
 Iceiceice, meanwhile, finally got tired of floundering around in SEA and came to North America of all regions in Novemeber 2020 to replace Ramzes, who replaced s4 after TI9. Now you see why I chose that position to be your pro Dota familiarity barometer.
 
-Fun fact, for all abuse Arteezy once endured for being a treacherous team hopping bastard, he is currently on the longest continuous tenure of any team+player pairing at TI10 besides Crit, Secret's Puppey, and OG's Notail. They grow up so fast.
+Fun fact, for all abuse Arteezy once endured for being a treacherous team hopping bastard, he is currently on the longest continuous tenure of any team+player pairing at TI10 besides Crit, Secret's Puppey, and OG's Notail. Can you believe it? They grow up so fast.
 
 **How was their DPC year?** 1700 points
 
@@ -135,7 +135,7 @@ You may recall that EG were once notorious for always getting third place at eve
 
 They've since moved up a digit.
 
-Now for a normal person, 2nd place at two majors is pretty incredible. But Dota players, and fans, are not normal people. And in true Ricky Bobby fashion, if you ain't first, you're last. *What a joke of a year. Abed Storm for five games? 1 position NP in grand finals? smh can we kick Bulba please?*
+Now for a normal person, 2nd place at two majors is pretty incredible. But Dota players, and fans, are not normal people. And in true Ricky Bobby fashion, if you ain't first, you're last. *What a joke of a year. Abed Storm for five games? 1 position NP in grand finals? smh can we kick LULba please?*
 
 **What would success look like?** How funny would it be if, after eight years of competing in professional Dota, Arteezy's first Valve LAN event win was TI10.
 
@@ -256,7 +256,7 @@ Actually, wait, scratch that. *Quincy Crew* becoming an esports powerhouse would
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Unlike most of the other Chinese teams at this TI, this roster was *not* frantically cobbled together in late 2020. Instead, it was a slow, methodical process that has had these five players together since late 2019.
+**How did this roster happen?** Unlike most of the other Chinese teams at TI10, this roster was *not* frantically cobbled together in late 2020. Instead, it was a slow, methodical process that has had these five players together since late 2019.
 
 **How was their DPC year?** 1100 Points
 
