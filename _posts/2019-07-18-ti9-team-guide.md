@@ -165,7 +165,7 @@ In fact Ame, who may seem like the only connection to the TI9 LGD, actually trad
 
 * ***CN DPC S1** - 4th, **ONE Esports Singapore Major** - 3rd, **CN DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 1st*
 
-As is tradition with LGDs past, they started the year off *cold*. Granted, the CN DPC is arguably the most competitive of all the six regional leagues, but they only narrowly won a 4/5th place tiebreaker against Elephant in the CN DPC S1 to even get the privilege of attending the Singapore Major. They took the momentum swimmingly, though, and proceeded to bring their A-game for the rest of the year.
+As is tradition with LGDs past, they started the year off *cold*. Granted, the CN DPC is arguably the most competitive of all the six regional leagues, but they only narrowly won a 4/5th place tiebreaker against Elephant in the CN DPC S1 to even get the privilege of attending the Singapore Major. Since then it's been hot, hot, hot. They're damn good at Dota and they're fun to watch.
 
 **What would success look like?** Statistically, [LGD has the highest probability of winning TI10.](https://noxville.github.io/ti10-probabilities/) Also statistically, the team with the highest probability of winning TI rarely ever does. RIP LGD.
 
@@ -230,9 +230,7 @@ In VP's defense, this is a young team (literally, their oldest player is DM at 2
 
 For most of 2020, practically everyone had written off North America as a region beyond saving and it was basically just EG's sandbox to stomp on kids.
 
-In 2021, we learned that North America *is* indeed mostly beyond saving, but there are actually two bullies at the playground with Quincy Crew.
-
-Quincy Crew not only gave EG a run for their money in the NA DPC, but was also looking to be worthy competition at international LANs. Their Singapore Major result has an asterisk because QC had to use Poloson as a stand-in due to MSS contracting COVID.
+In 2021, we learned that North America *is* indeed mostly beyond saving, but there are actually two bullies at the playground with Quincy Crew too.
 
 **What would success look like?** Getting a sponsor.
 
@@ -334,7 +332,7 @@ You may also remember Fade. Fade """"retired"""" after TI9, enjoyed a day at the
 
 * ***CN DPC S1** - 3rd, **ONE Esports Singapore Major** - 7-8th, **CN DPC S2** - 3rd, **WePlay Kyiv AniMajor** - 4th*
 
-I could literally copy paste what I wrote about Vici's TI8 squad three years ago and you could not tell the difference.
+I could literally copy paste what I wrote about Vici's TI8 squad three years ago and you would not be able to tell the difference.
 
 >Just some real solid Dotes. You know, a real focus on the fundamentals. The guys are gonna give it their all. Show some real hustle out there. <br><br>And not win.
 
@@ -420,11 +418,11 @@ Aster are known as civil war specialists. Playing against Chinese teams? Beasts.
 
 * ***WEU DPC S1** - 2nd, **ONE Esports Singapore Major** - 13th, **WEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
 
-PLACEHOLDER
+It was a spicy season
 
-**What would success look like?** PLACEHOLDER
+**What would success look like?** Beating a non-European team for the first time this year would be a good start.
 
-**What to spam in Twitch chat when Alliance is winning?** `WINNING WITH ONLY 5 PLAYERS Pog`
+**What to spam in Twitch chat when Alliance is winning?** `WINNING WITH ONLY 5 PLAYERS 🦈`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/infamous.png" alt="Banner"></p>
@@ -484,9 +482,6 @@ PLACEHOLDER
 
 # The Qualifiers
 
-PLACEHOLDER
-
-<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/mineski.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Undying - <i>North America Regional Qualifier</i></h2>
 <table>
@@ -508,9 +503,13 @@ PLACEHOLDER
 
 * ***NA DPC S1** - 3rd, **ONE Esports Singapore Major** - Did not qualify, **NA DPC S2** - 3rd, **WePlay Kyiv AniMajor** - Did not qualify*
 
-When I said that there were only two teams worth paying attention to in NA, perhaps I was being too dismissive. I'm willing to stretch to three, with Undying. While coming just barely short of qualifying to both majors, they plowed through the NA regional qualifier without dropping a single game.
+North America is Schrödinger's region. If you don't observe it, the cat could very well be alive. But then you tune in to a few matches and think, "No wonder everyone's moving to Valorant." Wait wrong Valve esport.
 
-**What would success look like?** PLACEHOLDER
+ While coming just barely short of qualifying to both majors, Undying plowed through the NA regional qualifier without dropping a single game. Does that actually mean anything? Your guess is as good as mine.
+
+**What would success look like?** Acquiring enough practice and experience to maybe, just *maybe*...
+<br><br><br><br>
+Take a game off Arkosh next year.
 
 **What to spam in Twitch chat when Undying is winning?** `NEVA EVA NEVA EVA CruW`
 
@@ -564,13 +563,13 @@ PLACEHOLDER
 
 * ***WEU DPC S1** - 5th, **ONE Esports Singapore Major** - Did not qualify, **WEU DPC S2** - 6th, **WePlay Kyiv AniMajor** - Did not qualify*
 
-Oh my god, it was amazing. Notail called Alliance a bunch of cheaters during the coach scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French.
+Oh my god, it was so exciting. Notail called Alliance a bunch of cheaters during the coach scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French. The brand appears to be slowly pivoting from esports teams to NFT manufacturers.
 
-Oh the Dota? The Dota wasn't that great.
+Oh the actual Dota? The Dota wasn't that great. After a sluggish season 1, Ana came back under the tag *humblegod* and got so humbled he didn't even finish the season.
 
-**What would success look like?** This one's obvious.
+**What would success look like?** C'mon, this one's obvious.
 
-**What to spam in Twitch chat when OG is winning?** `THREE FUCKING FLUKES IN A ROW MAN`
+**What to spam in Twitch chat when OG is winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/navi.png" alt="Banner"></p>
@@ -588,17 +587,17 @@ Oh the Dota? The Dota wasn't that great.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** 3<sup>rd</sup> place at Epicenter XL Major
+**How did this roster happen?** Yellow submarine
 
 **How was their DPC year?** 585 Points
 
 * ***EEU DPC S1** - 4th, **ONE Esports Singapore Major** - Did not qualify, **EEU DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 7-8th*
 
-SEA had an interesting conundrum this year. Since their league was so intra-regionally competitive, no singular team was able to farm the leagues for DPC points. As a result, there was a very real possibility that the only SEA team to attend TI would be the SEA regional qualifier winner.
+PLACEHOLDER
 
-**What would success look like?** I talked about CIS/EEU not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6. TI3's 3rd place Orange and TI6's 4th place Fnatic are the only times 
+**What would success look like?** Naruto running their way to pick up the Aegis.
 
-**What to spam in Twitch chat when Spirit is winning?** `pregnant me fy`
+**What to spam in Twitch chat when Spirit is winning?** `COLLAPSE GIGACHAD`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/rng.png" alt="Banner"></p>
@@ -616,7 +615,7 @@ SEA had an interesting conundrum this year. Since their league was so intra-regi
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** It's a tale as old as time. *What if. We took. Five **SUPERSTAR** players. And made a team with them. It has to work.*
+**How did this roster happen?** It's a tale as old as time. *What if. We took. A couple of **SUPERSTAR** players. And made a team with them? It has to work.*
 
 It never works.
 
@@ -624,9 +623,11 @@ It never works.
 
 * ***CN DPC S1** - 5th, **ONE Esports Singapore Major** - Did not qualify, **CN DPC S2** - 5th, **WePlay Kyiv AniMajor** - Did not qualify*
 
-PLACEHOLDER
+*Okay, but what if we also brought in a **SUPERSTAR** coach for season 2?*
 
-**What would success look like?** PLACEHOLDER 
+Still didn't work. Lucky for Elephant, four Chinese teams directly qualified for TI through points. And would you look at that, guess who was always 5th.
+
+**What would success look like?** TI10 being a Rubick meta.
 
 **What to spam in Twitch chat when Elephant is winning?** `pregnant me fy Kreygasm`
 
@@ -646,7 +647,7 @@ PLACEHOLDER
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** 4<sup>th</sup> place at DAC 2018 Major, 2<sup>nd</sup> place at MDL Macau Minor
+**How did this roster happen?** Painfully.
 
 **How was their DPC year?** 446.25 Points
 
@@ -654,7 +655,7 @@ PLACEHOLDER
 
 PLACEHOLDER
 
-**What would success look like?** PLACEHOLDER 
+**What would success look like?** iceiceice bumps Deth up a tier or two, or six, in his [SEA offlaner power rankings.](https://afkgaming.com/dota2/news/7038-iceiceice-ranks-sea-dota-2-players-by-role)
 
 **What to spam in Twitch chat when Fnatic is winning?** `CEO MOON MADE A GREAT BUSINESS DECISION`
 
@@ -670,7 +671,7 @@ Only 18 teams made it, which leaves a lot of
 * After TI9, ppd and Universe reunited on NiP. They actually qualified for the March 2020 ESL Los Angeles major right before COVID hit. The tournament got canceled and they both promptly retired. Peter then un-retired, competed in the NA DPC S1, stopped doing that, became Alliance's coach for the EU DPC S2, stopped doing that, was invited to cast TI10, but also stopped doing that.<br><br>Universe *actually* retired and recently [got married!](https://twitter.com/UniverseDota/status/1426214388508233731)<br><br>Aui seems content with his current coach/caster status and will also be joining the TI10 English broadcast.
 
 #### EternaLEnVy
-* I think they caught up with manga so we got some weird filler arc where Envy doesn't read the DPC rules and then acts surprised at the end of the season.<br><br>After floating around in the NA lower and upper divisions, Jacky Mao slapped together a team for the TI10 qualifier with Ryoya, Kingrd/Mr. Kingão, Zfreek, and Moo. They got 3rd after losing to *4 Zoomers (Sammyboy, Gunnar, Brax, ocean, Husky)*. Idk feels like the writers just ran out of ideas, not sure if I'll watch next season...
+* I think they caught up with manga so we got some weird filler arc where Envy doesn't read the DPC rules and then acts surprised at the end of the season.<br><br>After floating around in the NA lower and upper divisions, Jacky Mao slapped together a team for the TI10 qualifier with Ryoya, Kingrd/Mr. Kingão, Zfreek, and Moo and got 3rd. Idk feels like the writers just ran out of ideas, not sure if I'll watch next season...
 
 #### Mason
 
@@ -687,7 +688,7 @@ Only 18 teams made it, which leaves a lot of
 ## Western Europe
 
 #### Miracle-, w33, MinD_ContRoL, GH, KuroKy, iLTW
-* Ah, you mean *Team Nigma*? Yes, that's their name. Well, actually, it's *Nigma Galaxy* now. After TI9, Kuro took the path of Secret/OG and decided to create his own organization. There were a few exciting victories for Nigma in 2020, but 2021 was mostly rocky. They attended the Singapore Major with a stand-in, bombed out, benched w33 for iLTW in season 2, attended the AniMajor, and ultimately landed 13th place in the DPC rankings. *One slot away* from being directly invited to TI through points. In the WEU regional qualifier, they got 3rd after narrowly losing to longtime rivals OG and bowed out of TI contention. <br><br>Their fans have not been coping with the loss particularly well. Rather than graciously accept defeat, some vocal Nigma diehards have been channeling their frustrations by: belittling the competitive integrity of other regions, condemning the DPC structure, trying to convince everyone this TI will suck because their team isn't there, and eagerly licking their chops to sub-in when news broke that some Chinese teams in Bucharest have COVID. Some real *BERNIE CAN STILL WIN* vibes out in the Nigma camp.
+* Ah, you mean *Team Nigma*? Yes, that's their name. Well, actually, it's *Nigma Galaxy* now. After TI9, Kuro took the path of Secret/OG and decided to create his own organization. There were a few exciting victories for Nigma in 2020, but 2021 was mostly rocky. They attended the Singapore Major with a stand-in, bombed out, benched w33 for iLTW in season 2, attended the AniMajor, and landed 13th place in the DPC rankings. *One slot away* from being directly invited to TI through points. In the WEU regional qualifier, they got 3rd after narrowly losing to longtime rivals OG and bowed out of TI contention. <br><br>Their fans have not been coping with the loss particularly well. Rather than graciously accept defeat, some vocal Nigma diehards have been channeling their frustrations by: belittling the competitive integrity of other regions, condemning the DPC structure, trying to convince everyone this TI will suck because their team isn't there, and eagerly licking their chops to sub-in when news broke that some Chinese teams in Bucharest have COVID. Some real *BERNIE CAN STILL WIN* vibes out in the Nigma camp.
 
 #### Team Liquid in general
 * After Kuro splintered off to form Nigma, Liquid signed TI9's Alliance of miCKe, qojqva, Boxi, Taiga, and iNSaNiA. The team did well enough to show up to both majors, but they only "showed up" and not much more than that. Ultimately, they got 4th in the EU regional qualifiers after losing to Nigma.
