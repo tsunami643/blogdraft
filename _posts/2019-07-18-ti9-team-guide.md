@@ -326,7 +326,7 @@ But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be p
 
 **How did this roster happen?** Ori has been on Vici since the dawn of time, but what about the rest of these names? You may remember Eurus (Paparazi灬) and Yang as being Vici boys for a while, but they were dropped in 2020 for poyoyo and old eLeVeN.
 
-You may also remember Fade. Fade """"retired"""" after TI9, enjoyed a day at the beach, and then un-retired two weeks later to join Team Aster. Even by Chinese retirement standards, that's pretty quick. I'm not gonna make a Fade pun here, but he's not at TI10.
+You may also remember Fade. Fade ““““retired”””” after TI9, enjoyed a day at the beach, and then un-retired two weeks later to join Team Aster. Even by Chinese retirement standards, that's pretty quick. I'm not gonna make a Fade pun here, but he's not at TI10.
 
 **How was their DPC year?** 950 Points
 
