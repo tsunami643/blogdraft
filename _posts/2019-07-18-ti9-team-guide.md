@@ -334,7 +334,7 @@ You may also remember Fade. Fade """"retired"""" after TI9, enjoyed a day at the
 
 I could literally copy paste what I wrote about Vici's TI8 squad three years ago and you would not be able to tell the difference.
 
->Just some real solid Dotes. You know, a real focus on the fundamentals. The guys are gonna give it their all. Show some real hustle out there. <br><br>And not win.
+<blockquote style="font-size: 1.1 em;">Just some real solid Dotes. You know, a real focus on the fundamentals. The guys are gonna give it their all. Show some real hustle out there. <br><br>And not win.</blockquote>
 
 What is with Vici and signing teams that are always *good* but never TI champion material.
 
