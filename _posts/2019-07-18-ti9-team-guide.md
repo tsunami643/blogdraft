@@ -1,7 +1,7 @@
 ﻿---
 layout: "post"
 title: "The International 2021: A Practical Guide to All 18 Teams"
-date: "2021-09-25 11:45"
+date: "2021-10-06 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
 feature-img: "img/ti8teams/ti8header.png"
 flags: true
@@ -37,12 +37,12 @@ Please answer the following question:
 World goes to hell in a handbasket and you just <i>leave Dota?</i> After everything we've been through? You know we still had tournaments going on in 2020! You really missed out. Sort of. Well at least you're here now. Please don't leave again, our player count numbers can't take it.
 </div>
 <div id="paragraphTwo" style="display: none; line-height:1.5em;">
-You're not the demographic for this guide, get outta here.
+You're not the demographic for this guide, get outta here. Go watch a Jenkins video and post your first rampage on /r/dota2 for 27 upvotes.
 </div>
 <div id="paragraphThree" style="display: none; line-height:1.5em;">
 ...ever heard of a "neutral item" before? No? How about the term <i>'sunmommy'</i>? Nothing? Well this is gonna be one confusing TI for you.</div>
 <div id="paragraphFour" style="display: none; line-height:1.5em; font-size:large;">
-Just a second, let me get into character.<br><blockquote style="font-size: 1.1 em;">Whoa, long time no see. What have you been up to? You got married? No way, that's awesome! One on the way too? Wow. Congratulations. Our old stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one time you got a rampage on Death Prophet? Good times. Anyway, n-nice catching up with you.</blockquote></div>
+Just a second, let me get into character.<br><blockquote style="font-size: 1.1 em;">Whoa, long time no see. What have you been up to? You got married? No way, that's awesome! One on the way too? Wow. Congratulations. Our old stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one game we won with your Storm Spirit after you stole the Aegis? Good times. Anyway, n-nice catching up with you.</blockquote></div>
 <div id="paragraphFive" style="display: none; line-height:1.5em; font-size:large;">
 Trying to impress somebody? Talk about relationship goals, you're a keeper. Ok so in the current 7.30d meta an offlaner, also known as the '3', is usually a tanky initiat--<br><br>Actually, forget it. All you need to know is if your special someone starts stressing out in the first few minutes of a game just say, "It's ok, babe. Laning phase doesn't matter."</div>
 
@@ -754,7 +754,7 @@ Here are some fan favorites not playing at this TI whose current whereabouts you
 
 There's no way you read this entire thing, but hopefully whatever bits you glanced over helped you gain a deeper appreciation for the art form that is professional Dota 2 esports and the exhibition that is The International. Say hi if you see me in the Arena Naţională! Oh... 
 
-Well you can always [buy my voice line with your ticket refund money.](https://www.dota2.com/store/itemdetails/22128)
+Shucks. I mean I guess you could always [buy my voice line with your ticket refund money.](https://www.dota2.com/store/itemdetails/22128)
 
 <br>
 
