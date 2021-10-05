@@ -131,7 +131,7 @@ Fun fact, for all abuse Arteezy once endured for being a treacherous team hoppin
 
 * ***NA DPC S1** - 1st, **ONE Esports Singapore Major** - 2nd, **NA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 2nd*
 
-You may recall that EG were once notorious for always getting third place at events. Times have changed, though. That was a completely different roster, different meta, different era.
+[You may recall that EG were once notorious for always getting third place at events.]() Times have changed, though. That was a completely different roster, different meta, different era.
 
 They've since moved up a digit.
 
@@ -471,7 +471,7 @@ Amusingly, the team seems to have taken the criticism to heart and, in the bigge
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Remember TI9 Infamous? It's the same guys. Yes, a South American team stayed together as five for *two years straight.*
+**How did this roster happen?** Remember TI9 Infamous? It's the same guys. Yes, a South American team stayed together as five for over *two years.*
 
 **How was their DPC year?** 800 Points
 
@@ -501,15 +501,15 @@ Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** PLACEHOLDER
+**How did this roster happen?** Nothing too special, just a full Peruvian squad put together pretty much right before the DPC started. Previously, MoOz had been beastcoast's coach/stand-in for most of 2020, but returned to full time play on TP.
 
 **How was their DPC year?** 800 Points
 
 * ***SA DPC S1** - 2nd, **ONE Esports Singapore Major** - 5-6th, **SA DPC S2** - 3rd, **WePlay Kyiv AniMajor** - Did not qualify*
 
-PLACEHOLDER
+After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own hands. They had quite a few points with their surprise top 6 finish at the Singapore Major, but it wasn't enough to guarantee no other team could leapfrog them in Kyiv. Thankfully, the Evil Genuises did TP a solid by assassinating NoPing, TNC, and Nigma uno a uno at the AniMajor.
 
-**What would success look like?** PLACEHOLDER
+**What would success look like?** The Peruvian teams not having to commit country-on-country elimination in the bracket.
 
 **What to spam in Twitch chat when TP is winning?** `TE QUIERO MUCHO ARTURITO FrankerZ`
 
@@ -530,7 +530,7 @@ PLACEHOLDER
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** PLACEHOLDER
+**How did this roster happen?** Honestly, I recommend reading [MoonMeander's heartfelt recap of the team's journey.](https://www.twitlonger.com/show/n_1srpctq)
 
 **How was their DPC year?** 400 Points
 
@@ -544,7 +544,7 @@ North America is Schrödinger's region. If you don't observe it, the cat could v
 <br><br><br><br>
 Take a game off Arkosh next year.
 
-**What to spam in Twitch chat when Undying is winning?** `NEVA EVA NEVA EVA CruW`
+**What to spam in Twitch chat when Undying is winning?** `SHINZO SASAGEYO CruW`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/chaos.png" alt="Banner"></p>
@@ -564,15 +564,17 @@ Take a game off Arkosh next year.
 
 **How did this roster happen?** Hold the phone, *three* SA teams at TI? Peruvian *and* Brazilian? It's a brave new world, amigos.
 
+The majority of this roster came from a much older NoPing e-sports that had been playing together since early 2020. NoPing, like many orgs in COVID times, had to drop their Dota 2 team due to a severe lack of *"The International."* The boys continued playing together as Team Brasil before finally signing to SG esports, an org that quit *all* of their operations 2019, in December 2020.
+
 **How was their DPC year?** 170 Points
 
 * ***SA DPC S1** - 3rd, **ONE Esports Singapore Major** - Did not qualify, **SA DPC S2** - 6th, **WePlay Kyiv AniMajor** - Did not qualify*
 
-PLACEHOLDER
+The SA regional qual was wacky as hell. Upsets left and right. SG must've gotten some kinda Festa Junina vinho quente power-up because they took the whole thing with ease.
 
-**What would success look like?** PLACEHOLDER
+**What would success look like?** So South America's highest TI placement was TI9's Infamous top 8, but *Brazil's* highest TI placement is... last. 18th with TI8's paiN Gaming. That's also Brazil's *only* TI placement, so SG can really only impress.
 
-**What to spam in Twitch chat when SG is winning?** `PLACEHOLDER`
+**What to spam in Twitch chat when SG is winning?** `Você é muito bom!`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/og.png" alt="Banner"></p>
@@ -756,7 +758,7 @@ Here are some fan favorites not playing at this TI whose current whereabouts you
 * Highly successful streamer in China. Completely MIA from the competitive scene this year.
 
 #### EHOME
-* Has one of the funniest Liquipedia pages I've ever seen. Lookin' more like a Retirement EHOME, amirite?
+* [Has one of the funniest Liquipedia pages I've ever seen.]() Lookin' more like a Retirement EHOME, amirite?
 
 #### BurNIng
 * Owns Team Aster. Kinda disliked in China now for some [dickish behavior.](https://www.reddit.com/r/DotA2/comments/nwmjoz/only_38_chinese_audience_support_aster/h1cxazo/?context=10000)
