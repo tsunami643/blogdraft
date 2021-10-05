@@ -123,9 +123,9 @@ The top 12 teams with the most DPC points were directly invited to TI10. These a
 
 **How did this roster happen?** Many of you reading the list above are gonna be like: *Arteezy, of course, my boy. Abed? That's cool. Wait, where's Sumail? WHERE'S SUMAIL?!* Sumail's not on EG anymore. Wild, I know. Soon after TI9 ended, Sumail was benched and Abed was brought in. But don't worry, this is a Chekhov's Hassan. He'll be back in the third act.
 
-Iceiceice, meanwhile, finally got tired of floundering around in SEA and came to North America of all regions in Novemeber 2020 to replace Ramzes, who replaced s4 after TI9. Now you see why I chose that position to be your pro Dota familiarity barometer.
+Iceiceice, meanwhile, finally got tired of floundering around in SEA and came to North America in Novemeber 2020 to replace Ramzes, who replaced s4 after TI9. Now you see why I chose that position to be your pro Dota familiarity barometer.
 
-Fun fact, for all abuse Arteezy once endured for being a treacherous team hopping bastard, he is currently on the longest continuous tenure of any team+player pairing at TI10 besides Crit, Secret's Puppey, and OG's Notail. Can you believe it? They grow up so fast.
+Fun fact, for all abuse Arteezy once endured for being a treacherous team hopping bastard, he is currently on the longest continuous tenure of any team+player pairing at TI10 besides Crit, Secret's Puppey, and OG's Notail. They grow up so fast.
 
 **How was their DPC year?** 1700 points
 
@@ -135,7 +135,7 @@ You may recall that EG were once notorious for always getting third place at eve
 
 They've since moved up a digit.
 
-Now for a normal person, 2nd place at two majors is pretty incredible. But Dota players, and fans, are not normal people. And in true Ricky Bobby fashion, if you ain't first, you're last. *What a joke of a year. Abed Storm for five games? 1 position NP in grand finals? smh can we kick LULba please?*
+Now for a normal person, 2nd place at two majors is pretty incredible. But Dota players, and fans, are not normal people. And in true Ricky Bobby fashion, if you ain't first, you're last. *What a joke of a year. Abed Storm for five games? 1 position NP in grand finals? smh can we finally kick LULba please?*
 
 **What would success look like?** How funny would it be if, after eight years of competing in professional Dota, Arteezy's first Valve LAN event win was TI10.
 
@@ -157,15 +157,15 @@ Now for a normal person, 2nd place at two majors is pretty incredible. But Dota 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?**  Just reading these names, how could you not get hype? Two of the Wings Gaming TI6 winning squad? Young hotshot 12k MMR midlaner? And xiao8 coaching? LET'S GOOOOO.
+**How did this roster happen?**  Just reading these names, how could you not get hype? Two of the Wings Gaming TI6 winning squad? Young hotshot 12k MMR midlaner? And xiao8 coaching? Jiayou!
 
-In fact Ame, who may seem like the only connection to the TI9 LGD, actually traded spots with AhJit on CDEC for most of 2020 before this roster formed in September. Was he being given a lesson in humility? Who knows, but there's never been a better time to be an lgdamefan.
+In fact Ame, who may seem like the only connection to the TI9 LGD, actually traded spots with AhJit on CDEC for most of 2020 before this roster was announced in September. Was he being given a lesson in humility? If he was, it worked. There's never been a better time to be an lgdamefan.
 
 **How was their DPC year?** 1300 Points
 
 * ***CN DPC S1** - 4th, **ONE Esports Singapore Major** - 3rd, **CN DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 1st*
 
-As is tradition with LGDs past, they started the year off *cold*. Granted, the CN DPC is arguably the most competitive of all the six regional leagues, but they only narrowly won a 4/5th place tiebreaker against Elephant in the CN DPC S1 to even get the privilege of attending the Singapore Major. Since then it's been hot, hot, hot. They're damn good at Dota and they're fun to watch.
+As is tradition with LGDs past, they started the year off *cold*. Granted, the CN DPC is arguably the most competitive of all the six regional leagues, but they only narrowly won a 4/5th place tiebreaker against Elephant in the CN DPC S1 to even get the privilege of attending the Singapore Major. Since then, however, it's been hot, hot, hot. They've been damn good at Dota and fun as hell to watch too.
 
 **What would success look like?** Statistically, [LGD has the highest probability of winning TI10.](https://noxville.github.io/ti10-probabilities/) Also statistically, the team with the highest probability of winning TI rarely ever does. RIP LGD.
 
@@ -204,7 +204,7 @@ In VP's defense, this is a young team (literally, their oldest player is DM at 2
 
 <p style="font-size: 0.85em;">Which means that TI10 should feel natural.</p>
 
-**What to spam in Twitch chat when VP are winning?** `I ALWAYS BELIEVED IN GPK STORM`
+**What to spam in Twitch chat when VP are winning?** `I ALWAYS BELIEVED IN GPK STORM COPIUM`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/newbee.png" alt="Banner"></p>
@@ -231,6 +231,8 @@ In VP's defense, this is a young team (literally, their oldest player is DM at 2
 For most of 2020, practically everyone had written off North America as a region beyond saving and it was basically just EG's sandbox to stomp on kids.
 
 In 2021, we learned that North America *is* indeed mostly beyond saving, but there are actually two bullies at the playground with Quincy Crew too.
+
+Quincy Crew not only gave EG a run for their money in both NA DPC seasons, but was also looking to be worthy competition at international LANs. Their Singapore Major result has an asterisk because QC had to use a stand-in of Poloson due to MSS contracting COVID.
 
 **What would success look like?** Getting a sponsor.
 
@@ -264,7 +266,7 @@ This team's story is probably best told through greentext.
 
 ```
 >walks into the dpc
->decides to reverse sweep singapore grand finals halfway through game 3
+>decides to reverse sweep singapore grand finals
 >gets enough points for TI
 >refuses to elaborate further
 >leaves
@@ -274,7 +276,7 @@ It's like pottery.
 
 Their coach did have to stand-in for Oli at the AniMajor, sure, but I prefer my interpretation.
 
-**What would success look like?** Kaka avenges Newbee's TI7 silver medal and somewhere in the distance Sccc smiles.
+**What would success look like?** Kaka avenges Newbee's TI7 silver medal and somewhere Brother Sccc smiles.
 
 **What to spam in Twitch chat when iG is winning?** `?` That's all. Just `?`
 
@@ -294,7 +296,7 @@ Their coach did have to stand-in for Oli at the AniMajor, sure, but I prefer my 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Yes, this is *that* T1. The Faker T1. The... tyler1 T1. The T1 brand that's a juggernaut in Korea. Originally announced in late 2019 with Forev at the center, T1 went through multiple iterations before finally putting together this surprisingly multinational SEA team right before the DPC started. The last addition was 23savage who replaced JaCkky after the Singapore Major.
+**How did this roster happen?** Yes, this is *that* T1. The Faker T1. The... tyler1 T1. The T1 brand that's a juggernaut in Korea. Originally announced in late 2019 with Forev at the center, T1 went through multiple iterations before finally putting together this impressively multinational SEA team right before the DPC started. Their last addition was 23savage who replaced JaCkky right before the Singapore Major.
 
 **How was their DPC year?** 1070 Points
 
@@ -302,7 +304,7 @@ Their coach did have to stand-in for Oli at the AniMajor, sure, but I prefer my 
 
 SEA had an interesting conundrum this year. Since their seasons were so intra-regionally competitive, no single team was able to farm the leagues for DPC points. As a result, there was a very real possibility that only one SEA team would attend TI10.
 
-But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be pretty cool to go to TI directly," and then proceeded to smash their way through the rest of the season and the AniMajor.
+But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be pretty cool to go to TI directly," and then proceeded to smash their way through the rest of the league and the AniMajor.
 
 **What would success look like?** I talked about EEU/CIS not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6.
 
@@ -324,9 +326,9 @@ But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be p
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Ori has been on Vici since the dawn of time, but what about the rest of these names? You may remember Eurus (Paparazi灬) and Yang as being Vici boys for a while, but they were dropped in 2020 for poyoyo and old eLeVeN.
+**How did this roster happen?** It's probably easier to explain how the old roster un-happened. Ori has been on Vici since the dawn of time, but what about the rest of these names? You may remember Eurus (Paparazi灬) and Yang as being Vici boys for a while, but they were dropped in 2020 for 23savage and old eLeVeN. 23savage got kinda screwed by VG and COVID, didn't play a single game with the team, and poyoyo joined the fray in his place.
 
-You may also remember Fade. Fade ““““retired”””” after TI9, enjoyed a day at the beach, and then un-retired two weeks later to join Team Aster. Even by Chinese retirement standards, that's pretty quick. I'm not gonna make a Fade pun here, but he's not at TI10.
+You may also remember Fade. Fade ““““retired from Dota”””” after TI9, enjoyed a day at the beach, and then un-retired two weeks later to join Team Aster. Even by Chinese retirement standards, that's pretty quick. I'm not gonna make a Fade pun here, but he's not at TI10.
 
 **How was their DPC year?** 950 Points
 
@@ -336,7 +338,7 @@ I could literally copy paste what I wrote about Vici's TI8 squad three years ago
 
 <blockquote style="font-size: large;">Just some real solid Dotes. You know, a real focus on the fundamentals. The guys are gonna give it their all. Show some real hustle out there. <br><br>And not win.</blockquote>
 
-What is with Vici and signing teams that are always *good* but never TI champion material.
+What is with Vici and signing teams that are always *good* but never TI championship material.
 
 **What would success look like?** ...being TI championship material. Alley-oop.
 
@@ -364,9 +366,9 @@ What is with Vici and signing teams that are always *good* but never TI champion
 
 * ***WEU DPC S1** - 1st, **ONE Esports Singapore Major** - 4th, **WEU DPC S2** - 4th, **WePlay Kyiv AniMajor** - 16th*
 
-PLACEHOLDER
+You ever just win so much you get tired of winning? This was Secret's problem for most of 2020.
 
-**What would success look like?** PLACEHOLDER
+**What would success look like?** Well the good news is Kuroky isn't here to knock Secret out of TI for the fourth year in a row. Sky's the limit.
 
 **What to spam in Twitch chat when Secret is winning?** `PLACEHOLDER`
 
@@ -412,17 +414,23 @@ Aster are known as civil war specialists. Playing against Chinese teams? Beasts.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** PLACEHOLDER
+**How did this roster happen?** After Mineski's TI9 run, Nikobaby was a hot commodity in the post-TI shuffle period. He returned from his self-imposed European exile under Fata's captainship and Alliance's brand with LIMMP, 33, and Handsken. A few months later, s4 emerged from his post-EG purgatory and took the crown from Fata as well as rented fng for like six months from Gambit before finally signing him to lock this roster.
 
 **How was their DPC year?** 800 Points
 
 * ***WEU DPC S1** - 2nd, **ONE Esports Singapore Major** - 13th, **WEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
 
-It was a spicy season
+Season 1 they played some pretty good Dota and got 2nd place in Western Europe, I guess? That's great and all, but no one cares about season 1. It's season 2 where things got spicy. It was then that Alliance was *embroiled* in an intense *cheating scandal* that set Twitter *ablaze*. Damn this headline writing shit is fun, I should be a journalist.
+
+Basically, ESL inadvertently modified their WEU DPC S2 league ruleset to allow coaches to participate *during* games, which is unheard of in Dota. Evidently only Alliance, and their newly minted coach ppd, read the email informing all teams of the updated ruleset. It was only revealed halfway through the season that they were utilizing this weird rule when Alliance themselves uploaded a YouTube recap where ppd could be clearly heard communicating information to the players in the middle of a game.
+
+Officially? Not cheating. Unofficially? Alliance became pariahs in the eyes of other European teams and many viewers who felt their 1st place finish that season was illegitimate.
+
+Amusingly, the team seems to have taken the criticism to heart and, in the biggest flex possible, are the only team at TI10 *without a coach.*
 
 **What would success look like?** Beating a non-European team for the first time this year would be a good start.
 
-**What to spam in Twitch chat when Alliance is winning?** `WINNING WITH ONLY 5 PLAYERS 🦈`
+**What to spam in Twitch chat when Alliance is winning?** `🦈 SPAM 🦈 THIS 🦈 SHARK 🦈 TO 🦈 HELP 🦈 NIKOBABY 🦈 SLARK 🦈`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/infamous.png" alt="Banner"></p>
@@ -440,17 +448,17 @@ It was a spicy season
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Remember TI9 Infamous? It's the same guys.
+**How did this roster happen?** Remember TI9 Infamous? It's the same guys. Yes, a South American team stayed together as five for *two years straight.*
 
 **How was their DPC year?** 800 Points
 
 * ***SA DPC S1** - 1st, **ONE Esports Singapore Major\*** - Did not attend, **SA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 14th*
 
-PLACEHOLDER
+*'1st place'* SA DPC S1 and a *'Did not attend'* for Singapore? What's that about? Well imagine missing TI because one of your teammates wanted to ge--. Nah, you know what, I'm not gonna go there. Honestly, it just makes it all the more impressive that this team has stuck together for as long as they have. All  you need to know is the team tested positive for COVID before Singapore and had to sit the entire major out. As for 14th place at the AniMajor, that's on them.
 
-**What would success look like?** PLACEHOLDER
+**What would success look like?** ~~This roster's top 8 finish at TI9 was the highest placement a South American team has ever gotten in the history of TI. Given the consistent upwards trajectory of the region, it's not outside the realm of possibility that they could break top 6 this year.~~ Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 
-**What to spam in Twitch chat when beastcoast is winning?** `PLACEHOLDER`
+**What to spam in Twitch chat when beastcoast is winning?** `CREST`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/infamous.png" alt="Banner"></p>
