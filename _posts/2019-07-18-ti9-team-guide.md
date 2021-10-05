@@ -407,21 +407,21 @@ Since Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** PLACEHOLDER 
+**How did this roster happen?** Borax and Xxs have been Aster fam for a long time, but the other three were brought in around, you guessed it, late 2020. 
 
 **How was their DPC year?** 800 Points
 
 * ***CN DPC S1** - 2nd, **ONE Esports Singapore Major\*** - 9-12th, **CN DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
 
-Aster are notorious in China for being civil war specialists. Playing against Chinese teams? Fantastic. International opponents? *[Sit tight and watch their performance!](https://www.reddit.com/r/DotA2/comments/nx9dpk/cn_thoughts_memes_on_aster/)* This has garnered them a pretty negative reputation in China since they effectively just keep wasting slots at majors. It's not even a recent development. Aster have been getting roasted like this since The Chongqing Major in 2019.
+Aster is notorious in China for being civil war specialists. Playing against Chinese teams? Fantastic. International opponents? *[Sit tight and watch their performance!](https://www.reddit.com/r/DotA2/comments/nx9dpk/cn_thoughts_memes_on_aster/)* This has garnered them a pretty negative reputation in China since they effectively just keep wasting their slots at majors. It's not even a recent development. Aster have been getting roasted like this since The Chongqing Major in 2019.
 
 You may also notice that their Singapore Major result has an *aster*isk beside it. Did you ever hear the tragedy of Borax The Thirsty? I thought not. It’s not a story Liquipedia would tell you. How do I explain this? Basically one day our boy boboka was roaming the map looking for... that good Spirit Siphon... but didn't realize he was in the cops' ward vision. He got caught out of position and couldn't buyback in time for the major, so their coach Mad had to stand-in.
 
-Ironic. He could save others from ganks, but not himself.
+Ironic. The jungle king could save others from ganks, but not himself.
 
-**What would success look like?** I have been scouring the internet for a single positive Chinese meme about Aster and it's literally just people shitting relentlessly on this team. If they can manage to change their public perception in the slightest, I think that'd be a big dub for the Tea Masters.
+**What would success look like?** I have been scouring the internet for a single positive Chinese meme about Aster and it's literally just people shitting relentlessly on this team. If they can manage to change their public perception in the slightest, that'd be a massive dub for the Tea Masters.
 
-**What to spam in Twitch chat when Aster is winning?** `PLACEHOLDER`
+**What to spam in Twitch chat when Aster is winning?** `Winning from the hotel catJAM`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/alliance.png" alt="Banner"></p>
@@ -477,7 +477,7 @@ Amusingly, the team seems to have taken the criticism to heart and, in the bigge
 
 * ***SA DPC S1** - 1st, **ONE Esports Singapore Major\*** - Did not attend, **SA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 14th*
 
-*'1st place'* SA DPC S1 and a *'Did not attend'* for Singapore? What's that about? Well imagine missing TI because one of your teammates wan--. Nah, you know what, I'm not gonna go there. Honestly, it just makes it all the more impressive that this team has stuck together for as long as they have. All  you need to know is the team tested positive for COVID before Singapore and had to sit the entire event out. As for 14th place at the AniMajor, that's on them.
+*'1st place'* SA DPC S1 and a *'Did not attend'* for Singapore? What's that about? Well imagine missing TI because one of your teammates wan--. Nah, you know what, I'm not gonna go there. Honestly, it just makes it all the more impressive that these players have stuck together for as long as they have. All  you need to know is the team tested positive for COVID before Singapore and had to sit the entire event out. As for 14th place at the AniMajor, that's on them.
 
 **What would success look like?** ~~This roster's top 8 finish at TI9 was the highest placement a South American team has ever gotten in the history of TI. Given the consistent upwards trajectory of the region overperforming at TI, it's not outside the realm of possibility that they could break top 6 this year.~~
 
