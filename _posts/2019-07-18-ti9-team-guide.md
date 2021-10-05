@@ -37,7 +37,7 @@ Please answer the following question:
 World goes to hell in a handbasket and you just <i>leave Dota?</i> After everything we've been through? You know we still had tournaments going on in 2020! You really missed out. Sort of. Well at least you're here now. Please don't leave again, our player count numbers can't take it.
 </div>
 <div id="paragraphTwo" style="display: none; line-height:1.5em;">
-You're not the demographic for this guide, get outta here. Go watch a Jenkins video and post your first rampage on /r/dota2 for 27 upvotes.
+You're not the demographic for this guide, get outta here. Go watch a Jenkins video and post your first rampage on */r/dota2* for 27 upvotes.
 </div>
 <div id="paragraphThree" style="display: none; line-height:1.5em;">
 ...ever heard of a "neutral item" before? No? How about the term <i>'sunmommy'</i>? Nothing? Well this is gonna be one confusing TI for you.</div>
@@ -101,9 +101,9 @@ for (i=0; i<myWrappers.length; i++){
 
 Remember the *Dota Pro Circuit/DPC*? It's back. In league form.
 
-Now there are plenty of resources explaining the details of the system, so I'm not gonna get into it. All you really need to know is each team had four opportunities to earn DPC points this year: Their regional league season 1 *(Jan-Mar 2021)*, the Singapore Major *(Apr 2021)*, their regional league season 2 *(Apr-May 2021)*, and the Kyiv AniMajor *(May 2021
+Now there are plenty of resources out there that'll [explain the system](https://liquipedia.net/dota2/Dota_Pro_Circuit/2021) in all its gory details, so I'm not gonna bother. All you really need to know is each team had four opportunities to earn DPC points this year: Their regional league season 1 *(Jan-Mar 2021)*, the Singapore Major *(Apr 2021)*, their regional league season 2 *(Apr-May 2021)*, and the Kyiv AniMajor *(May 2021)*. The top 12 teams with the most DPC points at the end of the year got directly invited to TI10.
 
-The top 12 teams with the most DPC points were directly invited to TI10. These are their stories.
+These are their stories.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/eg.png" alt="Banner"></p>
@@ -304,11 +304,11 @@ You had to be there.
 
 * ***SEA DPC S1** - 3rd, **ONE Esports Singapore Major\*** - 15th, **SEA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
 
-SEA had an interesting conundrum this year. Since their leagues were so intra-regionally competitive, no single team was able to farm both seasons for DPC points to break the top 12 rank threshold. As a result, there was a very real possibility that only one SEA team would attend TI10.
+SEA had an interesting conundrum this year. Since their leagues were so intra-regionally competitive, no single team was able to farm both seasons for enough DPC points to break the top 12 rank threshold. As a result, there was a very real possibility that only one SEA team would attend TI10.
 
 But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be pretty cool to go to TI directly," and then proceeded to smash their way through the rest of the league and the AniMajor.
 
-**What would success look like?** I talked about EEU/CIS not having any team in top 4 at TI for a while. SEA, meanwhile, hasn't had a top *8* placement at TI since TI6.
+**What would success look like?** Placing higher than T1 in Worlds 2021.
 
 **What to spam in Twitch chat when T1 is winning?** `MikeHogu MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
 
@@ -330,7 +330,18 @@ But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be p
 
 **How did this roster happen?** It's probably easier to explain how the old roster un-happened. Ori has been on Vici since the dawn of time, but what about the rest of these names? You may remember Eurus (Paparazi灬) and Yang as being Vici boys for a while, but they were dropped in 2020 for 23savage and old eLeVeN. 23savage got kinda screwed by VG and COVID, didn't play a single game with the team, and poyoyo joined the fray in his place.
 
-You may also remember Fade. Fade ““““retired”””” from Dota after TI9, enjoyed a day at the beach, and then un-retired two weeks later to join Team Aster. Even by Chinese retirement standards, that's pretty quick. I'm not gonna make a Fade pun here, but he's not at TI10.
+You may also remember Fade. Fade ““““retired”””” from Dota after TI9, enjoyed a day at the beach, and then un-retired two weeks later to join Team Aster. Even by Chinese retirement standards, that's pretty quick.
+
+<p class="faded-text" style="
+    -webkit-background-clip: text;
+    background-image: 
+      linear-gradient(
+        currentColor 20%, 
+        transparent
+      );
+    -webkit-text-fill-color: rgba(255,255,255,0.01);}}">
+I'm not gonna make a Fade pun here, but he's not at TI10.
+</p>
 
 **How was their DPC year?** 950 Points
 
