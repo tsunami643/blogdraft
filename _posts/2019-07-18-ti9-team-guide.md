@@ -460,7 +460,9 @@ Amusingly, the team seems to have taken the criticism to heart and, in the bigge
 
 *'1st place'* SA DPC S1 and a *'Did not attend'* for Singapore? What's that about? Well imagine missing TI because one of your teammates wan--. Nah, you know what, I'm not gonna go there. Honestly, it just makes it all the more impressive that this team has stuck together for as long as they have. All  you need to know is the team tested positive for COVID before Singapore and had to sit the entire event out. As for 14th place at the AniMajor, that's on them.
 
-**What would success look like?** ~~This roster's top 8 finish at TI9 was the highest placement a South American team has ever gotten in the history of TI. Given the consistent upwards trajectory of the region overperforming at TI, it's not outside the realm of possibility that they could break top 6 this year.~~ Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
+**What would success look like?** ~~This roster's top 8 finish at TI9 was the highest placement a South American team has ever gotten in the history of TI. Given the consistent upwards trajectory of the region overperforming at TI, it's not outside the realm of possibility that they could break top 6 this year.~~
+
+Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 
 **What not to spam in Twitch chat when beastcoast is winning?** You may be tempted to go for the old `GAAAAAAAA` but I should inform you that the line does have a somewhat [mean-spirited origin story](https://www.reddit.com/r/DotA2/comments/cu5je5/real_history_of_the_gaaaaa_meme/) and isn't even really a part of the [SA meme meta anymore.](https://www.reddit.com/r/DotA2/comments/mfn9oy/now_that_thunder_predator_has_your_attention/gsor3pq/?context=10000)
 
@@ -679,7 +681,7 @@ PLACEHOLDER
 
 # What about...?
 
-Only 18 teams made it, which leaves a lot of
+Here are some fan favorites who aren't present at this TI.
 
 ## North America
 
@@ -687,7 +689,7 @@ Only 18 teams made it, which leaves a lot of
 * After TI9, ppd and Universe reunited on NiP. They actually qualified for the March 2020 ESL Los Angeles major right before COVID hit. The tournament got canceled and they both promptly retired. Peter then un-retired, competed in the NA DPC S1, stopped doing that, became Alliance's coach for the EU DPC S2, stopped doing that, was invited to cast TI10, but also stopped doing that.<br><br>Universe *actually* retired and recently [got married!](https://twitter.com/UniverseDota/status/1426214388508233731)<br><br>Aui seems content with his current coach/caster status and will also be joining the TI10 English broadcast.
 
 #### EternaLEnVy
-* I think they caught up with manga so we got some weird filler arc where Envy doesn't read the DPC rules and then acts surprised at the end of the season.<br><br>After floating around in the NA lower and upper divisions, Jacky Mao slapped together a team for the TI10 qualifier with Ryoya, Kingrd/Mr. Kingão, Zfreek, and Moo and got 3rd. Idk feels like the writers just ran out of ideas, not sure if I'll watch next season...
+* I think they caught up with manga so we got some weird filler arc where Envy doesn't read the DPC rules and then acts surprised at the end of the season.<br><br>After floating around in the NA lower and upper divisions, Jacky Mao slapped together a team for the TI10 qualifier with Ryoya, Kingrd/Mr. Kingão, Zfreek, and Moo. Idk feels like the writers just ran out of ideas, not sure if I'll watch next season...
 
 #### Mason
 
@@ -696,15 +698,15 @@ Only 18 teams made it, which leaves a lot of
 ## South America
 
 #### hFn
-* If you didn't catch it, Fear is
+* Got 1st on NoPing e-sports (w/ Darkmago, Oscar, Matthew, Panda) in the SA DPC S2, but got 4th in the SA TI10 regional qualifier.
 
 #### Duster
-* They're great! 
+* Did a stint in the EEU/CIS DPC S1 lower division on B8. [He also got married!](https://www.instagram.com/p/CSz15UKFClW/)
 
 ## Western Europe
 
 #### Miracle-, w33, MinD_ContRoL, GH, KuroKy, iLTW
-* Ah, you mean *Team Nigma*? Yes, that's their name. Well, actually, it's *Nigma Galaxy* now. After TI9, Kuro took the path of Secret/OG and decided to create his own organization. There were a few exciting victories for Nigma in 2020, but 2021 was mostly rocky. They attended the Singapore Major with a stand-in, bombed out, benched w33 for iLTW in season 2, attended the AniMajor, and landed 13th place in the DPC rankings. *One slot away* from being directly invited to TI through points. In the WEU regional qualifier, they got 3rd after narrowly losing to longtime rivals OG and bowed out of TI contention. <br><br>Their fans have not been coping with the loss particularly well. Rather than graciously accept defeat, some vocal Nigma diehards have been channeling their frustrations by: belittling the competitive integrity of other regions, condemning the DPC structure, trying to convince everyone this TI will suck because their team isn't there, and eagerly licking their chops to sub-in when news broke that some Chinese teams in Bucharest have COVID. Some real *BERNIE CAN STILL WIN* vibes out in the Nigma camp.
+* Ah, you mean *Team Nigma*? Yes, that's their name. Well, actually, it's *Nigma Galaxy* now. After TI9, Kuro took the path of Secret/OG and decided to create his own organization. There were a few exciting victories for Nigma in 2020, but 2021 was mostly rocky. They attended the Singapore Major with a stand-in, bombed out, benched w33 for iLTW in season 2, got 5-6th at the AniMajor after being eliminated by EG, and landed 13th place in the DPC rankings. *One slot away* from being directly invited to TI through points. In the WEU regional qualifier, they got 3rd after narrowly losing to longtime rivals OG and bowed out of TI contention. <br><br>Their fans have not been coping with the loss particularly well. Rather than graciously accept defeat, some vocal Nigma diehards have been channeling their frustrations by: belittling the competitive integrity of other regions, condemning the DPC structure, trying to convince everyone this TI will suck because their team isn't there, and eagerly licking their chops to sub-in when news broke that some Chinese teams in Bucharest have COVID. Some real *BERNIE CAN STILL WIN* vibes out in the Nigma camp.
 
 #### Team Liquid in general
 * After Kuro splintered off to form Nigma, Liquid signed TI9's Alliance of miCKe, qojqva, Boxi, Taiga, and iNSaNiA. The team did well enough to show up to both majors, but they only "showed up" and not much more than that. Ultimately, they got 4th in the EU regional qualifiers after losing to Nigma.
@@ -714,28 +716,40 @@ Only 18 teams made it, which leaves a lot of
 
 ## Eastern Europe (CIS)
 
-#### Old VP (RAMZES666, no[o]ne, 9pasha, Rodjer, Solo)
-* Amusingly, Na\`Vi is apparently the most recent team on every one of those players' history, but that's reductive. After TI9, the team imploded and everyone went their separate ways.
+#### Old VP (RAMZES666, No[o]ne, 9pasha, RodjER, Solo)
+* After TI9, the team imploded and everyone went their separate ways. I could get into the aftermath, but this stupid guide has gotten way too goddamn long so go do the research yourself. Amusingly, Na\`Vi is currently the most recent team on every one of those players' team history.
 
 #### Dendi
-* They're great!
+* God bless this man, he refuses to give up on playing competitively. Formed his own organization *B8* in early 2020. Had two underwhelming runs in the EEU/CIS S1/S2 lower division. Still a ball of light blazing out across a dark sea of toxicity. Tune into the Russian TI10 broadcast if you wanna see his antics with 4 out of 5 players from TI1 Na`Vi.
 
 ## China
 
-#### Burning
-* If you didn't catch it, Fear is
+#### BurNIng
+* Owns Team Aster. Kinda disliked in China now for some dickish behavior.
 
 #### Sccc
-* They're great! 
+* Highly successful streamer in China. Completely MIA from the competitive scene this year.
 
 ## Southeast Asia
 
-#### smg (mushi, ninjaboogie)
-* If you didn't catch it, Fear is
+#### TNC Predator (Gabbi, Armel, Bok, Tims, Boomy, Coach: Mushi)
+* Came so very close to making it to TI, but got reverse sweeped by Fnatic in the grand finals of the qualifiers.
 
-#### Duster
-* They're great! 
+#### Team SMG (MidOne, Moon, kpii, ah fu, Roddgeee)
+* Dropped out of TI10 SEA quals pretty early in the mix. Poor kpii even flew out to their bootcamp and they got eliminated while he was mandatory quarantining.
 
-<p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;">This article was inspired by a <i>New York Times</i> <a href="https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html">guide to World Cup teams</a> and appropriated for Dota as suggested by <a href="https://twitter.com/SkimGaming/status/1007998992498790401">@SkimGaming.</a> Much appreciation to the people who exhaustively update all tournament and team results on Liquipedia including those responsible for this exceptionally detailed <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/Stats">Dota Pro Circuit stats page.</a> Player photos in the header were sourced from the <a href="https://www.flickr.com/photos/dota2ti/">dota2ti</a>, <a href="https://www.flickr.com/photos/cybersportcom/">Cybersport</a>, and <a href="https://www.flickr.com/photos/starladder/">StarLadder</a> Flickrs.</p>
+# That's it.
 
-<p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;"><a href="https://www.reddit.com/r/DotA2/comments/8zx25q/the_international_2018_a_practical_guide_to_all/">Discussion for this article on /r/dota2.</a></p>
+There's no way you read this entire thing, but hopefully whatever bits you glanced over helped you gain a deeper appreciation for the art form that is professional Dota 2 esports and the exhibition that is The International. Say hi if you see me in the Arena Naţională. Oh you had to cancel your trip, huh? Shame. You know why not [buy my voice line with the money you would've spent at the Secret Shop, eh?](https://www.dota2.com/store/itemdetails/22128)
+
+My deepest gratitude to the people who <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/2021/Rankings">keep Liquipedia up to date.</a> Without resources like this, analysts like myself would be completely lost at sea.
+
+If you enjoyed this article and want to keep up with me, here's my [Twitter](https://twitter.com/tsunami643), or [Twitch](https://twitch.tv/tsunami643), or [Instagram](https://instagram.com/tsunami643), or my [dead YouTube.](https://youtube.com/tsunami643)
+
+<br>
+
+[**Discussion for this article on /r/dota2.**]()
+
+<br>
+
+<p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;">Player photos in the header were sourced from the <a href="https://www.flickr.com/photos/dota2ti/">dota2ti</a>, <a href="https://www.flickr.com/photos/cybersportcom/">Cybersport</a>, and <a href="https://www.flickr.com/photos/starladder/">StarLadder</a> Flickrs.</p>
