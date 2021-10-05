@@ -383,7 +383,9 @@ In the world of 2020 online COVID Dota, Secret were kings. If there was a tourna
 
 That ended up not happening and despite being given four slots at each major (many viewers argued there should be *five*), only two European teams qualified for TI through points. Lucky for Secret, they scooped up enough of those points in the first half of the season so they could finally be kinda bad before TI for once.
 
-**What would success look like?** <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">My only purpose in 2020 is to make sure the Finnish president knows who Lasse Urpalainen is.</p>&mdash; Heen (@Heen1337) <a href="https://twitter.com/Heen1337/status/1191536445485277184?ref_src=twsrc%5Etfw">November 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+**What would success look like?**
+
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">My only purpose in 2020 is to make sure the Finnish president knows who Lasse Urpalainen is.</p>&mdash; Heen (@Heen1337) <a href="https://twitter.com/Heen1337/status/1191536445485277184?ref_src=twsrc%5Etfw">November 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Since Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in a row, it could very well happen.
 
@@ -766,6 +768,8 @@ Here are some fan favorites not playing at this TI whose current whereabouts you
 
 #### Team SMG (MidOne, Moon, kpii, ah fu, Roddgeee)
 * Dropped out of TI10 SEA quals pretty early in the mix. Poor kpii even flew out to their bootcamp and they got eliminated while he was mandatory quarantining.
+
+<hr style="margin-bottom: 1.2em;">
 
 # That's it.
 
