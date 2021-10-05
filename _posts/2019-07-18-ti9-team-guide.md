@@ -7,11 +7,11 @@ feature-img: "img/ti8teams/ti8header.png"
 flags: true
 ---
 
-### Well it's happening
+### Well, it's happening...
 
-PLACEHOLDER
+Against all odds, The International 2021 is finally upon us. But you're looking a little lost. Have you not been keeping up with the DPC? The teams, the patches, the meta, the drama? Has everything between March 2020 to October 2021 simply been a blur? Not to worry, you're in the right place. I just need one quick favor from you to calibrate your Dota esports MMR.
 
-First, to calibrate your Dota esports MMR, please answer the following question:
+Please answer the following question:
 
 <p style="font-size: 1.3em; font-weight: bold;">Who is the current offlaner for EG?
 
@@ -605,15 +605,15 @@ We in the business simply refer to this as OG getting into "TI form."
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Yellow submarine
+**How did this roster happen?** You know how EEU/CIS always has those Empire-ass, Gambit-ass, Winstrike-ass, HellRaisers-ass, Yellow Submarine-ass teams that are always *around*? *Around,* like, playing some random ass tournament at some random ass time on some random ass channel? I love those teams. You just know that each one of them are a ticking timebomb of contempt with five different fingers on the disband trigger. But every once in a while, an EEU roster manages to not hate each other for *juuuust* long enough to make it to TI. Shine on you crazy Yellow Submarine boys.
 
 **How was their DPC year?** 585 Points
 
 * ***EEU DPC S1** - 4th, **ONE Esports Singapore Major** - Did not qualify, **EEU DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 7-8th*
 
-PLACEHOLDER
+VP have been going sicko mode on the region, so it's really hard to gauge how good EEU really is. Top 8 at the AniMajor is nothing to scoff at and Spirit also went to grand finals against PSG.LGD at the non-DPC OGA Dota PIT Invitational in September. Thas p gud.
 
-**What would success look like?** Naruto running their way to pick up the Aegis.
+**What would success look like?** Naruto running their way to the Aegis.
 
 **What to spam in Twitch chat when Spirit is winning?** `COLLAPSE GIGACHAD`
 
@@ -641,7 +641,7 @@ It never works.
 
 Still didn't work.
 
-Although, *five* superstar players isn't quite accurate. For both CN DPC leagues they had the relatively unknown RedPanda on support. Most everyone assumed he was just there to be the scapegoat and eventually got replaced by capital "S" *S*uper for regional quals.
+Although, *five* superstar players isn't quite accurate. For both CN DPC seasons they had the relatively unknown RedPanda on support. Most everyone assumed he was just there to be the scapegoat and eventually got replaced by capital "S" *S*uper for regional quals.
 
 **How was their DPC year?** 85 Points
 
@@ -669,18 +669,18 @@ Lucky for Elephant, four Chinese teams directly qualified for TI through points.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Painfully. I could write an essay on Fnatic's adventures this year, but my fingers are getting tired so you're gonna get the bullet point version:
+**How did this roster happen?** Painfully. I could write an essay on Fnatic's adventures this year, but it's more efficient to give the bullet point version:
 
-* Fnatic poaches Thai rising star, Masaros, from Motivate.Trust at the end of 2020. Trust actually wins a tournament when everybody knows Masaros is gonna leave. Awkward.
+* Fnatic poaches Thai rising star, Masaros, from Motivate.Trust at the end of 2020. Trust actually wins a tournament while everybody knows that Masaros is about to leave. Awkward.
 * Masaros leaves after Fnatic's disappointing Singapore Major finish and they bring in ChYuan (a mid player) to play offlane.
 * Fnatic bumbles their way through S2 to make this new roster work. It's not pretty.
-* Moon is subject to corporate espionage and is finally let go from Fnatic in a hostile takeover. Deth (an offlaner) is brought in to play offlane and ChYuan takes over mid duties.
+* Moon is ~~kicked~~ fired from Fnatic ~~for underperforming~~ in a hostile corporate takeover. Deth (an offlaner) is brought in to play offlane and ChYuan resumes mid duties.
 
 **How was their DPC year?** 446.25 Points
 
 ***SEA DPC S1** - 1st, **ONE Esports Singapore Major** - 9-12th, **SEA DPC S2** - 4th, **WePlay Kyiv AniMajor** - Did not qualify*
 
-I think I covered most of it. The SEA regional qual was intense, though. Five game series versus TNC.
+You got the gist of it. The Fnatic organization has been a TI mainstay and has attended every single International since TI3. That streak got very close to ending in the SEA regional qual grand finals, but they managed to reverse sweep TNC.
 
 **What would success look like?** iceiceice bumps Deth up a tier or two, or six, in his [SEA offlaner power rankings.](https://afkgaming.com/dota2/news/7038-iceiceice-ranks-sea-dota-2-players-by-role)
 
@@ -729,20 +729,23 @@ Here are some fan favorites not playing at this TI whose current whereabouts you
 * After TI9, the team imploded and everyone went their separate ways. I could get into the aftermath, but this stupid guide has gotten way too goddamn already long so go do the research yourself. Amusingly, Na\`Vi is currently the most recent team on every one of those players' Liquipedia team history.
 
 #### Dendi
-* God bless this man. He absolutely refuses to give up on playing the game that he loves and I respect him for it. After formally leaving Na\`Vi in 2019, Dondo formed his own organization *B8* in early 2020. They had two underwhelming runs in the EEU/CIS S1/S2 lower division with a mishmash of players. But don't worry, he's still ever the ball of light blazing out across a dark sea of toxicity. Tune into the Russian TI10 broadcast if you wanna see his antics with 4 out of 5 players from TI1 Na`Vi.
+* God bless this man. He absolutely refuses to give up on playing the game that he loves and I respect him for it. After formally leaving the Na\`Vi organization in 2019, Dondo formed his own team, *B8,* in early 2020. They had two underwhelming runs in the EEU/CIS S1/S2 lower division with a mishmash of players. But don't worry, he's still ever the ball of light blazing out across a dark sea of toxicity. Tune into the Russian TI10 broadcast if you wanna see his antics with 4 out of 5 players from TI1 Na`Vi.
 
 ## China
-
-#### BurNIng
-* Owns Team Aster. Kinda disliked in China now for some dickish behavior.
 
 #### Sccc
 * Highly successful streamer in China. Completely MIA from the competitive scene this year.
 
+#### EHOME
+* Has one of the funniest Liquipedia pages I've ever seen. Lookin' more like a Retirement EHOME, amirite?
+
+#### BurNIng
+* Owns Team Aster. Kinda disliked in China now for some dickish behavior?
+
 ## Southeast Asia
 
 #### TNC Predator (Gabbi, Armel, Bok, Tims, Boomy, Coach: Mushi)
-* Came so very close to making it to TI, but got reverse sweeped by Fnatic in the grand finals of the qualifiers.
+* Did well, but just barely not well enough. 4th in SEA DPC S1, 2nd in SEA DPC S2, and top 8 at the AniMajor. Getting reverse sweeped by Fnatic in the grand finals of the regional quals has gotta be one of those losses that'll haunt them forever.
 
 #### Team SMG (MidOne, Moon, kpii, ah fu, Roddgeee)
 * Dropped out of TI10 SEA quals pretty early in the mix. Poor kpii even flew out to their bootcamp and they got eliminated while he was mandatory quarantining.
@@ -751,7 +754,7 @@ Here are some fan favorites not playing at this TI whose current whereabouts you
 
 There's no way you read this entire thing, but hopefully whatever bits you glanced over helped you gain a deeper appreciation for the art form that is professional Dota 2 esports and the exhibition that is The International. Say hi if you see me in the Arena Naţională! Oh... 
 
-Well hey why not [buy my voice line with the money you would've spent at the Secret Shop instead?](https://www.dota2.com/store/itemdetails/22128)
+Well you can always [buy my voice line with your ticket refund money.](https://www.dota2.com/store/itemdetails/22128)
 
 <br>
 
