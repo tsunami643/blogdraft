@@ -274,11 +274,13 @@ This team's story is probably best told through greentext.
 
 It's like pottery.
 
-Their coach did have to stand-in for Oli at the AniMajor, sure, but I prefer my interpretation.
+Their coach did have to stand-in for Oli at the AniMajor, but I prefer my interpretation.
 
-**What would success look like?** Kaka avenges Newbee's TI7 silver medal and somewhere Brother Sccc smiles.
+**What would success look like?** Kaka avenges Newbee's TI7 silver medal and somewhere miles away Brother Sccc smiles.
 
 **What to spam in Twitch chat when iG is winning?** `?` That's all. Just `?`
+
+You had to be there.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/tnc.png" alt="Banner"></p>
@@ -302,7 +304,7 @@ Their coach did have to stand-in for Oli at the AniMajor, sure, but I prefer my 
 
 * ***SEA DPC S1** - 3rd, **ONE Esports Singapore Major\*** - 15th, **SEA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
 
-SEA had an interesting conundrum this year. Since their seasons were so intra-regionally competitive, no single team was able to farm the leagues for DPC points. As a result, there was a very real possibility that only one SEA team would attend TI10.
+SEA had an interesting conundrum this year. Since their leagues were so intra-regionally competitive, no single team was able to farm both seasons for DPC points to break the top 12 rank threshold. As a result, there was a very real possibility that only one SEA team would attend TI10.
 
 But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be pretty cool to go to TI directly," and then proceeded to smash their way through the rest of the league and the AniMajor.
 
@@ -328,13 +330,13 @@ But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be p
 
 **How did this roster happen?** It's probably easier to explain how the old roster un-happened. Ori has been on Vici since the dawn of time, but what about the rest of these names? You may remember Eurus (Paparazi灬) and Yang as being Vici boys for a while, but they were dropped in 2020 for 23savage and old eLeVeN. 23savage got kinda screwed by VG and COVID, didn't play a single game with the team, and poyoyo joined the fray in his place.
 
-You may also remember Fade. Fade ““““retired from Dota”””” after TI9, enjoyed a day at the beach, and then un-retired two weeks later to join Team Aster. Even by Chinese retirement standards, that's pretty quick. I'm not gonna make a Fade pun here, but he's not at TI10.
+You may also remember Fade. Fade ““““retired”””” from Dota after TI9, enjoyed a day at the beach, and then un-retired two weeks later to join Team Aster. Even by Chinese retirement standards, that's pretty quick. I'm not gonna make a Fade pun here, but he's not at TI10.
 
 **How was their DPC year?** 950 Points
 
 * ***CN DPC S1** - 3rd, **ONE Esports Singapore Major** - 7-8th, **CN DPC S2** - 3rd, **WePlay Kyiv AniMajor** - 4th*
 
-I could literally copy paste what I wrote about Vici's TI8 squad three years ago and you would not be able to tell the difference.
+I could literally copy-paste what I wrote about Vici's TI8 squad three years ago and you would not be able to tell the difference.
 
 <blockquote style="font-size: large;">Just some real solid Dotes. You know, a real focus on the fundamentals. The guys are gonna give it their all. Show some real hustle out there. <br><br>And not win.</blockquote>
 
@@ -360,13 +362,13 @@ What is with Vici and signing teams that are always *good* but never TI champion
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Most of this team should look familiar to you aside from Matumbaman instead of MidOne. Funny enough, Matu was actually planning on taking a break from Dota after an underwhelming TI9 performance. But when the Estonian president calls, you answer.
+**How did this roster happen?** Most of this team should look familiar to you aside from Matumbaman instead of MidOne. Funny enough, Matu was actually planning on taking a break from Dota after a disappointing TI9 on Chaos. But when the Estonian president calls, you answer.
 
 **How was their DPC year?** 950 Points
 
 * ***WEU DPC S1** - 1st, **ONE Esports Singapore Major** - 4th, **WEU DPC S2** - 4th, **WePlay Kyiv AniMajor** - 16th*
 
-In the world of 2020 online COVID Dota, Secret were kings. If there was a tournament, they e-attended it, obliterated everyone in it, and gave some surprisingly personable winners' interviews afterwards. They were so insanely dominant, in fact, that viewers extrapolated that European Dota as a whole had simply eclipsed all other regions in terms of game knowledge and mechanics. There wasn't just going to be a skill gap, but rather a skill canyon once international competition with the DPC majors returned.
+In the world of 2020 online COVID Dota, Secret were kings. If there was a tournament, they e-attended it, obliterated everyone in it, and gave some surprisingly personable winners' interviews afterwards. They were so insanely dominant, in fact, viewers extrapolated that European Dota as a whole had simply eclipsed all other regions in terms of game knowledge and mechanics. There wasn't just going to be a skill gap, but rather a skill canyon once international competition with the DPC majors returned.
 
 That ended up not happening and despite being given four slots at each major, only two European teams qualified for TI through points. Lucky for Secret, they scooped up enough of those points in the first half of the season so they could finally be kinda bad before TI for once.
 
@@ -416,15 +418,15 @@ Aster are known as civil war specialists. Playing against Chinese teams? Beasts.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After Mineski's TI9 run, Nikobaby was a hot commodity in the post-TI shuffle period. He returned from his self-imposed European exile under Fata's captainship and Alliance's brand with LIMMP, 33, and Handsken. A few months later, s4 emerged from his post-EG purgatory and took the crown from Fata as well as rented fng for like six months from Gambit before finally signing him to lock this roster.
+**How did this roster happen?** After Mineski's TI9 run, Nikobaby was a hot commodity in the post-TI shuffle period. He returned from his self-imposed European exile under Alliance's brand and Fata's captainship with LIMMP, 33, and Handsken. A few months later, s4 emerged from his post-EG purgatory and took the crown from Fata as well as rented fng for like six months from Gambit before finally signing him to lock this roster.
 
 **How was their DPC year?** 800 Points
 
 * ***WEU DPC S1** - 2nd, **ONE Esports Singapore Major** - 13th, **WEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
 
-Season 1 they played some pretty good Dota and got 2nd place in Western Europe, I guess? That's great and all, but no one cares about season 1. It's season 2 where things got spicy. It was then that Alliance was *embroiled* in an intense *cheating scandal* that set Twitter *ablaze*. Damn this headline writing shit is fun, I should be a journalist.
+Season 1 they played some pretty good Dota and got 2nd place in Western Europe, I guess? That's great and all, but no one cares about season 1. It's season 2 where things got spicy. It was there that Alliance was *embroiled* in an intense *cheating scandal* that set Twitter *ablaze*. Damn this headline writing shit is fun, I should be a journalist.
 
-Basically, ESL inadvertently modified their WEU DPC S2 league ruleset to allow coaches to participate *during* games, which is unheard of in Dota. Evidently only Alliance, and their newly minted coach ppd, read the email informing all teams of the updated ruleset. It was only revealed halfway through the season that they were utilizing this weird rule when Alliance themselves uploaded a YouTube recap where ppd could be clearly heard communicating information to the players in the middle of a game.
+Basically, ESL inadvertently modified their WEU DPC S2 ruleset to allow coaches to participate *during* games, which is unheard of in Dota. Evidently, only Alliance, and their newly minted coach ppd, read the email informing all teams of the updated ruleset. It was only revealed halfway through the season that they were utilizing this weird rule when Alliance themselves uploaded a YouTube match recap where ppd could be clearly heard communicating information to the players in the middle of a game.
 
 Officially? Not cheating. Unofficially? Alliance became pariahs in the eyes of other European teams and many viewers who felt their 1st place finish that season was illegitimate.
 
@@ -456,18 +458,18 @@ Amusingly, the team seems to have taken the criticism to heart and, in the bigge
 
 * ***SA DPC S1** - 1st, **ONE Esports Singapore Major\*** - Did not attend, **SA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 14th*
 
-*'1st place'* SA DPC S1 and a *'Did not attend'* for Singapore? What's that about? Well imagine missing TI because one of your teammates wanted to ge--. Nah, you know what, I'm not gonna go there. Honestly, it just makes it all the more impressive that this team has stuck together for as long as they have. All  you need to know is the team tested positive for COVID before Singapore and had to sit the entire major out. As for 14th place at the AniMajor, that's on them.
+*'1st place'* SA DPC S1 and a *'Did not attend'* for Singapore? What's that about? Well imagine missing TI because one of your teammates wan--. Nah, you know what, I'm not gonna go there. Honestly, it just makes it all the more impressive that this team has stuck together for as long as they have. All  you need to know is the team tested positive for COVID before Singapore and had to sit the entire event out. As for 14th place at the AniMajor, that's on them.
 
-**What would success look like?** ~~This roster's top 8 finish at TI9 was the highest placement a South American team has ever gotten in the history of TI. Given the consistent upwards trajectory of the region, it's not outside the realm of possibility that they could break top 6 this year.~~ Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
+**What would success look like?** ~~This roster's top 8 finish at TI9 was the highest placement a South American team has ever gotten in the history of TI. Given the consistent upwards trajectory of the region overperforming at TI, it's not outside the realm of possibility that they could break top 6 this year.~~ Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 
-**What to spam in Twitch chat when beastcoast is winning?** `CREST`
+**What not to spam in Twitch chat when beastcoast is winning?** You may be tempted to go for the old `GAAAAAAAA` but I should inform you that the line does have a somewhat [mean-spirited origin story](https://www.reddit.com/r/DotA2/comments/cu5je5/real_history_of_the_gaaaaa_meme/) and isn't even really a part of the [SA meme meta anymore.](https://www.reddit.com/r/DotA2/comments/mfn9oy/now_that_thunder_predator_has_your_attention/gsor3pq/?context=10000)
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/infamous.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Thunder Predator</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Mnz</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Mnz (Minoz, Kotaro Hayama)</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Leostyle-</td> 
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Frank</td>
     <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">MoOz</td>
@@ -567,17 +569,21 @@ PLACEHOLDER
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** I told you Sumail would be back.
+**How did this roster happen?** As intimidating as this roster looks, it hasn't been all sunflowers and rainbows for the two time reigning TI champs. After TI9, ana peaced out for another season and Jerax just straight up retired. Even Ceb intended to step down from active play and OG actually signed MidOne, Saksa, and Sumail to fill the empty shoes.
+
+Then COVID happened and Sumail vanished from competitive Dota for nearly an entire year. But see, I told you he'd be back in the third act. 
 
 **How was their DPC year?** 36.13 Points
 
 * ***WEU DPC S1** - 5th, **ONE Esports Singapore Major** - Did not qualify, **WEU DPC S2** - 6th, **WePlay Kyiv AniMajor** - Did not qualify*
 
-Oh my god, it was so exciting. Notail called Alliance a bunch of cheaters during the coach scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French. The brand appears to be slowly pivoting from esports teams to NFT manufacturers.
+Dude, it was so exciting. Notail called Alliance a bunch of cheaters during the coaching scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French for being mean. The brand appears to be slowly pivoting from esports teams to NFT manufacturers. It's been a ride.
 
-Oh the actual Dota? The Dota wasn't that great. After a sluggish season 1, Ana came back under the tag *humblegod* and got so humbled he didn't even finish the season.
+Oh the Dota? The Dota wasn't that great. After a sluggish season 1, MidOne got the boot and ana came back for season 2 under the tag *humblegod.* He proceeded to get so humbled he didn't even finish the season, probably said, "Yeah, I don't need this shit," and retired for realsies this time. OG then had to call up Madara to be their fifth in the three-way-hell-in-a-cell tiebreaker just to not get bumped down to lower division.
 
-**What would success look like?** C'mon, this one's obvious.
+We in the business simply refer to this as OG getting into "TI form."
+
+**What would success look like?** This one should obvious.
 
 **What to spam in Twitch chat when OG is winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
 
