@@ -336,7 +336,7 @@ You may also remember Fade. Fade ““““retired”””” from Dota after
     -webkit-background-clip: text;
     background-image: 
       linear-gradient(
-        currentColor 20%, 
+        currentColor 0%, 
         transparent
       );
     -webkit-text-fill-color: rgba(255,255,255,0.01);}}">
@@ -355,7 +355,7 @@ What is with Vici and signing teams that are always *good* but never TI champion
 
 **What would success look like?** ...being TI championship material. Alley-oop.
 
-**What to spam in Twitch chat when T1 is winning?** `poyoyoyoyoyoyo`
+**What to spam in Twitch chat when T1 is winning?** `poyoyoyoyoyo`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/secret.png" alt="Banner"></p>
@@ -383,9 +383,11 @@ In the world of 2020 online COVID Dota, Secret were kings. If there was a tourna
 
 That ended up not happening and despite being given four slots at each major (many viewers argued there should be *five*), only two European teams qualified for TI through points. Lucky for Secret, they scooped up enough of those points in the first half of the season so they could finally be kinda bad before TI for once.
 
-**What would success look like?** Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in a row so sky's the limit.
+**What would success look like?** <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">My only purpose in 2020 is to make sure the Finnish president knows who Lasse Urpalainen is.</p>&mdash; Heen (@Heen1337) <a href="https://twitter.com/Heen1337/status/1191536445485277184?ref_src=twsrc%5Etfw">November 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-**What to spam in Twitch chat when Secret is winning?** `PLACEHOLDER`
+Since Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in a row, it could very well happen.
+
+**What to spam in Twitch chat when Secret is winning?** `𝘗𝘳𝘢𝘬𝘢𝘴𝘩 "𝘗𝘶𝘱𝘱𝘦𝘺" 𝘠𝘢𝘥𝘢𝘷 (𝘣𝘰𝘳𝘯 6 𝘔𝘢𝘳𝘤𝘩 1990) 𝘪𝘴 𝘢𝘯 𝘐𝘯𝘥𝘪𝘢𝘯 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭 𝘋𝘰𝘵𝘢 2 𝘱𝘭𝘢𝘺𝘦𝘳 𝘸𝘩𝘰 𝘪𝘴 𝘵𝘩𝘦 𝘤𝘢𝘱𝘵𝘢𝘪𝘯 𝘰𝘧 𝘛𝘦𝘢𝘮 𝘚𝘩𝘢𝘬𝘵𝘪. 𝘏𝘦 𝘪𝘴 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘵𝘩𝘦 𝘵𝘢𝘭𝘭𝘦𝘴𝘵 𝘮𝘢𝘯 𝘪𝘯 𝘐𝘯𝘥𝘪𝘢.`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti9teams/rng.png" alt="Banner"></p>
@@ -409,9 +411,13 @@ That ended up not happening and despite being given four slots at each major (ma
 
 * ***CN DPC S1** - 2nd, **ONE Esports Singapore Major\*** - 9-12th, **CN DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
 
-Aster are known as civil war specialists. Playing against Chinese teams? Beasts. International opponents? Lost cause.
+Aster are notorious in China for being civil war specialists. Playing against Chinese teams? Fantastic. International opponents? *[Sit tight and watch their performance!](https://www.reddit.com/r/DotA2/comments/nx9dpk/cn_thoughts_memes_on_aster/)* This has garnered them a pretty negative reputation in China since they effectively just keep wasting slots at majors. It's not even a recent development. Aster have been getting roasted like this since The Chongqing Major in 2019.
 
-**What would success look like?** PLACEHOLDER 
+You may also notice that their Singapore Major result has an *aster*isk beside it. Did you ever hear the tragedy of Borax The Thirsty? I thought not. It’s not a story Liquipedia would tell you. How do I explain this? Basically one day our boy boboka was roaming the map looking for... that good Spirit Siphon... but didn't realize he was in the cops' ward vision. He got caught out of position and couldn't buyback in time for the major, so their coach Mad had to stand-in.
+
+Ironic. He could save others from ganks, but not himself.
+
+**What would success look like?** I have been scouring the internet for a single positive Chinese meme about Aster and it's literally just people shitting relentlessly on this team. If they can manage to change their public perception in the slightest, I think that'd be a big dub for the Tea Masters.
 
 **What to spam in Twitch chat when Aster is winning?** `PLACEHOLDER`
 
@@ -596,7 +602,7 @@ Oh the Dota? The Dota wasn't that great. After a sluggish season 1, MidOne got t
 
 We in the business simply refer to this as OG getting into "TI form."
 
-**What would success look like?** This one should obvious.
+**What would success look like?** Should be obvious.
 
 **What to spam in Twitch chat when OG is winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
 
@@ -650,7 +656,7 @@ It never works.
 
 *Okay, but what if we also brought in a **SUPERSTAR** coach for season 2?*
 
-Still didn't work.
+Still doesn't work.
 
 Although, *five* superstar players isn't quite accurate. For both CN DPC seasons they had the relatively unknown RedPanda on support. Most everyone assumed he was just there to be the scapegoat and eventually got replaced by capital "S" *S*uper for regional quals.
 
@@ -751,7 +757,7 @@ Here are some fan favorites not playing at this TI whose current whereabouts you
 * Has one of the funniest Liquipedia pages I've ever seen. Lookin' more like a Retirement EHOME, amirite?
 
 #### BurNIng
-* Owns Team Aster. Kinda disliked in China now for some dickish behavior?
+* Owns Team Aster. Kinda disliked in China now for some [dickish behavior.](https://www.reddit.com/r/DotA2/comments/nwmjoz/only_38_chinese_audience_support_aster/h1cxazo/?context=10000)
 
 ## Southeast Asia
 
