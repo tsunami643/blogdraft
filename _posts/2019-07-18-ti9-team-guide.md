@@ -9,7 +9,7 @@ flags: true
 
 ### Well it's happening
 
-Barely. Maybe someone you love seems distraught that their annual August esports pilgramage has been thrown into disarray. Whatever the case, this is the guide for you.
+PLACEHOLDER
 
 First, to calibrate your Dota esports MMR, please answer the following question:
 
@@ -236,7 +236,7 @@ Quincy Crew not only gave EG a run for their money in both NA DPC seasons, but w
 
 **What would success look like?** Getting a sponsor.
 
-Actually, wait, scratch that. *Quincy Crew* becoming an esports powerhouse would be the real success story.
+Actually, wait, scratch that. *Quincy Crew* becoming an esports powerhouse brand would be the real success story. *QC FTX* when?
 
 **What to spam in Twitch chat when QC is winning?** `EZ 4 [insert player name here]AO`
 
@@ -360,15 +360,17 @@ What is with Vici and signing teams that are always *good* but never TI champion
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** PLACEHOLDER
+**How did this roster happen?** Most of this team should look familiar to you aside from Matumbaman instead of MidOne. Funny enough, Matu was actually planning on taking a break from Dota after an underwhelming TI9 performance. But when the Estonian president calls, you answer.
 
 **How was their DPC year?** 950 Points
 
 * ***WEU DPC S1** - 1st, **ONE Esports Singapore Major** - 4th, **WEU DPC S2** - 4th, **WePlay Kyiv AniMajor** - 16th*
 
-You ever just win so much you get tired of winning? This was Secret's problem for most of 2020.
+In the world of 2020 online COVID Dota, Secret were kings. If there was a tournament, they e-attended it, obliterated everyone in it, and gave some surprisingly personable winners' interviews afterwards. They were so insanely dominant, in fact, that viewers extrapolated that European Dota as a whole had simply eclipsed all other regions in terms of game knowledge and mechanics. There wasn't just going to be a skill gap, but rather a skill canyon once international competition with the DPC majors returned.
 
-**What would success look like?** Well the good news is Kuroky isn't here to knock Secret out of TI for the fourth year in a row. Sky's the limit.
+That ended up not happening and despite being given four slots at each major, only two European teams qualified for TI through points. Lucky for Secret, they scooped up enough of those points in the first half of the season so they could finally be kinda bad before TI for once.
+
+**What would success look like?** Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in a row so sky's the limit.
 
 **What to spam in Twitch chat when Secret is winning?** `PLACEHOLDER`
 
