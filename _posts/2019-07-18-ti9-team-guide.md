@@ -7,7 +7,7 @@ feature-img: "img/ti8teams/ti8header.png"
 flags: true
 ---
 
-### Well, it's happening...
+### THIS POST WAS SCRAPPED
 
 Against all odds, The International 2021 is finally upon us. But you're looking a little lost. Have you not been keeping up with the DPC? The teams, the patches, the meta, the drama? Has everything between March 2020 to October 2021 simply been a blur? Not to worry, you're in the right place. I just need one quick favor from you to calibrate your Dota esports MMR.
 
