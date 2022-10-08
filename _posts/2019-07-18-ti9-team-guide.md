@@ -1,6 +1,6 @@
 ﻿---
 layout: "post"
-title: "The International 2021: A Practical Guide to All 18 Teams"
+title: "The International 2019: A Practical Guide to All 18 Teams"
 date: "2021-10-06 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
 feature-img: "img/ti8teams/ti8header.png"
