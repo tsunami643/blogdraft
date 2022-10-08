@@ -494,52 +494,16 @@ You got the gist of it. The Fnatic organization is a TI mainstay and has attende
 
 ----
 
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/vp.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Virtus.pro</h2>
-<style type="text/css">table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}</style>
-<table>
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia" style="">Nightfall</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">gpk</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">DM</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-md" title="Moldova" alt="Moldova">Save-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Kingslayer</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">boolk</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** This ain't your dad's VP. No, actually, this is your little brother's VP. This is a group of young players who had been wanting to form a team together for quite a while and were eventually assembled under the *VP.Prodigy* tag in April 2020. They had some stellar performances at a few online tournaments and were soon promoted to the main VP in November 2020.
-
-**How was their DPC year?** 1200 Points
-
-* ***EEU DPC S1** - 1st, **ONE Esports Singapore Major** - 7-8th, **EEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
-
-By their own admission, their DPC leagues were FREEEEE. They literally only dropped three out of the thirty-one total games they played during both seasons. Put 'em on LAN though? Weelllll, then they don't look so hot. I liken it to how I never had to study at all during high school. Physics? Simple. World History? Cram the night before.
-
-Then I roll up to university and get punched in the mouth by Organic Chemistry. Still have nightmares of S<sub>N</sub>2 reaction mechanisms.
-
-In VP's defense, this is a young team (literally, their oldest player is DM at 21) with minimal LAN experience to begin with. Additionally, they were also operating with no coach until now for TI.
-
-**What would success look like?** The EEU/CIS region hasn't even had a team place top 4 at TI since TI3 Na`Vi, so anything near there would be impressive. No one is really doubting if this squad is good, but what we don't know is if they can handle pressure. This roster hasn't ever even played in front of a crowd before.
-
-<p style="font-size: 0.85em;">Which means that TI10 should feel natural.</p>
-
-**What to spam in Twitch chat when VP are winning?** `I ALWAYS BELIEVED IN GPK STORM COPIUM`
-
-<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/quincy.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Quincy Crew</h2>
+<h2 style="margin: 0.25em 0;">Soniqs - <i>North America</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pk" title="Pakistan" alt="Pakistan">YawaR</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Quinn (CCnC)</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Lelis</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">YawaR</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Quinn</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">LESLÃO</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">MSS</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">LoA (SVG)</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">KheZu</td></tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Fata</td>
+    </tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -563,17 +527,113 @@ Actually, wait, scratch that. *Quincy Crew* becoming an esports powerhouse brand
 **What to spam in Twitch chat when QC is winning?** `EZ 4 [insert player name here]AO`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/ig.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Invictus Gaming</h2>
+<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/tp.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Hokori - <i>South America</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">flyfly</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Emo</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">JT-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Kaka</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Oli</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Lumière</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">4nalog</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Vitaly</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Thiolicor</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Gardick</td>
+    </tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** Whoa, now. *Two* South American teams at TI? Hay talento, hay apoyo. This full Peruvian squad was put together pretty much right before the DPC started. Previously, MoOz had been beastcoast's coach/stand-in for most of 2020, but returned to full time play on TP. Also, yes, that is the Fear you're thinking of who's coaching.
+
+**How was their DPC year?** 800 Points
+
+* ***SA DPC S1** - 2nd, **ONE Esports Singapore Major** - 5-6th, **SA DPC S2** - 3rd, **WePlay Kyiv AniMajor** - Did not qualify*
+
+After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own hands. They had quite a few points with their surprise top 6 finish at the Singapore Major, but it wasn't enough to guarantee no other team could leapfrog them in Kyiv. Enter the Evil Genuises who punched TP's ticket by assassinating NoPing, TNC, and Nigma uno a uno at the AniMajor.
+
+**What would success look like?** The Peruvian teams not having to commit country-on-country elimination in the bracket.
+
+**What to spam in Twitch chat when TP is winning?** `TE QUIERO MUCHO ARTURITO FrankerZ`
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/og.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Entity - <i>Western Europe</i></h2>
+<table>
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Pure</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Stormstormer</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-at" title="Austria" alt="Austria">Tobi</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Kataomi`</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">Fishman</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">super</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">MeTTpuM</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** As intimidating as this roster looks, it hasn't been all sunflowers and rainbows for the two time reigning TI champs. After TI9, ana peaced out for another season and Jerax just straight up retired. Even Ceb intended to step down from active play and OG signed MidOne, Saksa, and Sumail to fill the empty shoes.
+
+Then COVID happened and Sumail vanished from competitive Dota for nearly an entire year. But see, I told you he'd be back in the third act. 
+
+**How was their DPC year?** 36.13 Points
+
+* ***WEU DPC S1** - 5th, **ONE Esports Singapore Major** - Did not qualify, **WEU DPC S2** - 6th, **WePlay Kyiv AniMajor** - Did not qualify*
+
+Dude, it was so exciting. Notail called Alliance a bunch of cheaters during the coaching scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French for being mean. The brand appears to be slowly pivoting from esports teams to NFT manufacturers. It's been a ride.
+
+Oh the Dota? The Dota wasn't that great. After a sluggish season 1, MidOne got the boot and ana came back for season 2 under the tag *humblegod.* He proceeded to get so humbled he didn't even finish the season, probably said, "Yeah, I don't need this shit," and retired for realsies this time. OG then had to call up Madara to temporarily be their fifth in the three-way-hell-in-a-cell tiebreaker just to not get bumped down to lower division.
+
+We in the business simply refer to this as OG getting into "TI form."
+
+**What would success look like?** Should be obvious.
+
+**What to spam in Twitch chat when OG is winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/vp.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">BetBoom Team - <i>Eastern Europe</i></h2>
+<style type="text/css">table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}</style>
+<table>
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Daxak</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Larl</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Noticed</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">RodjER</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">SoNNeikO</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Mag</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** This ain't your dad's VP. No, actually, this is your little brother's VP. This is a group of young players who had been wanting to form a team together for quite a while and were eventually assembled under the *VP.Prodigy* tag in April 2020. They had some stellar performances at a few online tournaments and were soon promoted to the main VP in November 2020.
+
+**How was their DPC year?** 1200 Points
+
+* ***EEU DPC S1** - 1st, **ONE Esports Singapore Major** - 7-8th, **EEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
+
+By their own admission, their DPC leagues were FREEEEE. They literally only dropped three out of the thirty-one total games they played during both seasons. Put 'em on LAN though? Weelllll, then they don't look so hot. I liken it to how I never had to study at all during high school. Physics? Simple. World History? Cram the night before.
+
+Then I roll up to university and get punched in the mouth by Organic Chemistry. Still have nightmares of S<sub>N</sub>2 reaction mechanisms.
+
+In VP's defense, this is a young team (literally, their oldest player is DM at 21) with minimal LAN experience to begin with. Additionally, they were also operating with no coach until now for TI.
+
+**What would success look like?** The EEU/CIS region hasn't even had a team place top 4 at TI since TI3 Na`Vi, so anything near there would be impressive. No one is really doubting if this squad is good, but what we don't know is if they can handle pressure. This roster hasn't ever even played in front of a crowd before.
+
+<p style="font-size: 0.85em;">Which means that TI10 should feel natural.</p>
+
+**What to spam in Twitch chat when VP are winning?** `I ALWAYS BELIEVED IN GPK STORM COPIUM`
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/ig.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Royal Never Give Up</h2>
+<table>
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Ghost</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Somnus</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Chalice</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">kaka</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">xNova</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Super</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -606,16 +666,16 @@ You had to be there.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/t1.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">T1</h2>
+<h2 style="margin: 0.25em 0;">Talon Esports</h2>
 <table>
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">23savage</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Karl</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Kuku</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Xepher</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Whitemon</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Mikoto</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-au" title="Australia" alt="Australia">kpii</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">Q</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Hyde</td> 
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">March</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">ALWAYSWANNAFLY</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -633,6 +693,12 @@ But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be p
 **What would success look like?** Placing higher than the T1 in Worlds 2021.
 
 **What to spam in Twitch chat when T1 is winning?** `MikeHogu MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
+
+---
+
+# WHAT
+
+---
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/vici.jpg" alt="Banner"></p>
