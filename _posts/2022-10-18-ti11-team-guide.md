@@ -106,17 +106,17 @@ There are plenty of resources out there that'll [explain the system](https://liq
 These are their stories.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/lgd.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/lgd.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PSG.LGD</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ame</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">NothingToSay</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Faith_bian</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">XinQ</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">y`</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ame</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">NothingToSay</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Faith_bian</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">XinQ</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">y`</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">xiao8</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">xiao8</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -136,18 +136,18 @@ As is tradition with LGDs past, they started the year off *cold*. Granted, the C
 **What to spam in Twitch chat when LGD are winning?** `Translator winning mid Pog`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./blog/img/ti10teams/og.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/og.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">OG</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Yuragi</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">bzm</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">ATF</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-no" title="Norway" alt="Norway">Taiga</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia" style="">Misha</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-mk" title="North Macedonia" alt="North Macedonia">Saksa</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Yuragi</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">bzm</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">ATF</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-no" title="Norway" alt="Norway">Taiga</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia" style="">Misha</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-mk" title="North Macedonia" alt="North Macedonia">Saksa</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Chuvash</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Chuvash</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -171,17 +171,17 @@ We in the business simply refer to this as OG getting into "TI form."
 **What to spam in Twitch chat when OG is winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/spirit.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/spirit.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Spirit</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Yatoro</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">TORONTOTOKYO</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Collapse</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Mira</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Miposhka</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Yatoro</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">TORONTOTOKYO</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Collapse</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Mira</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Miposhka</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Silent</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Silent</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -199,17 +199,17 @@ VP have been going sicko mode on the region, so it's really hard to gauge how go
 **What to spam in Twitch chat when Spirit is winning?** `COLLAPSE GIGACHAD`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/beastcoast.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/beastcoast.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">beastcoast</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">K1 (Hector)</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Chris Luck</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bo" title="Bolivia" alt="Bolivia">Wisper</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Gōjira (Scofield)</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Stinger</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">K1 (Hector)</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Chris Luck</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-bo" title="Bolivia" alt="Bolivia">Wisper</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Gōjira (Scofield)</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Stinger</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Valqui</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Valqui</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -229,17 +229,17 @@ Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 **What to spam in Twitch chat when beastcoast is winning?** `No vales ni un sol, estudia loco`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/aster.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/aster.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Aster</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Monet</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ori</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Xxs</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">BoBoKa</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">皮球 (píqiú or Siamese.Cat)</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Monet</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ori</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Xxs</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">BoBoKa</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">皮球 (píqiú or Siamese.Cat)</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">LaNm</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">LaNm</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -261,17 +261,17 @@ Ironic. The jungle king could save others from ganks, but not himself.
 **What to spam in Twitch chat when Aster is winning?** `Winning from the hotel catJAM`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/tp.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/tp.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Thunder Awaken</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Pakazs</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">DarkMago-</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Sacred</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Matthew</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Pandaboo</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Pakazs</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">DarkMago-</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Sacred</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Matthew</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Pandaboo</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Vintage</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Vintage</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -289,17 +289,17 @@ After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own
 **What to spam in Twitch chat when TP is winning?** `TE QUIERO MUCHO ARTURITO FrankerZ`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/fnatic.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/fnatic.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">BOOM Esports</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-la" title="Laos" alt="Laos">JaCkky</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Yopaj</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Fbz</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">TIMS</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">skem</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-la" title="Laos" alt="Laos">JaCkky</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Yopaj</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Fbz</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">TIMS</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">skem</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Mushi</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Mushi</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -321,17 +321,17 @@ You got the gist of it. The Fnatic organization is a TI mainstay and has attende
 
 **What to spam in Twitch chat when Fnatic is winning?** `CEO MOON MADE A GREAT BUSINESS DECISION`
 
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/undying.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/undying.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">TSM</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Timado</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Bryle</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cz" title="Czechia" alt="Czechia">SabeRLight-</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">MoonMeander</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">DuBu</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Timado</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Bryle</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cz" title="Czechia" alt="Czechia">SabeRLight-</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">MoonMeander</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">DuBu</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">MISERY</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">MISERY</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -353,17 +353,17 @@ Take a game off Arkosh next year.
 **What to spam in Twitch chat when Undying is winning?** `SHINZO SASAGEYO CruW`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./blog/img/ti10teams/og.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/og.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Tundra Esports</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-sk" title="Slovakia" alt="Slovakia">skiter</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Nine</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">33</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-mk" title="North Macedonia" alt="North Macedonia">Saksa</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Sneyking</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-sk" title="Slovakia" alt="Slovakia">skiter</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Nine</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">33</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-mk" title="North Macedonia" alt="North Macedonia">Saksa</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Sneyking</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Aui_2000</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Aui_2000</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -387,17 +387,17 @@ We in the business simply refer to this as OG getting into "TI form."
 **What to spam in Twitch chat when OG is winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./blog/img/ti10teams/og.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/og.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Gaimin Gladiators</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">dyrachYO</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cz" title="Czechia" alt="Czechia">BOOM</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Ace</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">tOfu</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-nl" title="Netherlands" alt="Netherlands">Seleri</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">dyrachYO</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cz" title="Czechia" alt="Czechia">BOOM</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Ace</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">tOfu</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-nl" title="Netherlands" alt="Netherlands">Seleri</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ro" title="Romania" alt="Romania">ImmortalFaith</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-ro" title="Romania" alt="Romania">ImmortalFaith</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -421,17 +421,17 @@ We in the business simply refer to this as OG getting into "TI form."
 **What to spam in Twitch chat when OG is winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/eg.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/eg.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Evil Geniuses</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Arteezy</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Abed</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Nightfall</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cr1t-</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">Fly</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Arteezy</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Abed</td> 
+    <td><img src="../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Nightfall</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cr1t-</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">Fly</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">BuLba</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">BuLba</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -446,7 +446,7 @@ Fun fact, for all abuse Arteezy once endured for being a treacherous team hoppin
 
 * ***NA DPC S1** - 1st, **ONE Esports Singapore Major** - 2nd, **NA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 2nd*
 
-[You may recall that EG were once notorious for always getting third place at events.](https://howdoiplay.com/blog/img/ti10teams/3teezy.png) Times have changed, though. That was a completely different roster, different meta, different era.
+[You may recall that EG were once notorious for always getting third place at events.](https://howdoiplay.com../img/ti10teams/3teezy.png) Times have changed, though. That was a completely different roster, different meta, different era.
 
 They've since moved up a digit.
 
@@ -457,17 +457,17 @@ Now for a normal person, 2nd place at two majors is pretty incredible. But Dota 
 **What to spam in Twitch chat when EG are winning?** `My streamer FeelsStrongMan`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/fnatic.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/fnatic.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Fnatic</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Raven</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Armel</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">Jabz</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">DJ</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Jaunuel</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Raven</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Armel</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">Jabz</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">DJ</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Jaunuel</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">SunBhie</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">SunBhie</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -495,18 +495,18 @@ You got the gist of it. The Fnatic organization is a TI mainstay and has attende
 
 ----
 
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/vp.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/vp.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Virtus.pro</h2>
 <style type="text/css">table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}</style>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia" style="">Nightfall</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">gpk</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">DM</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-md" title="Moldova" alt="Moldova">Save-</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Kingslayer</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia" style="">Nightfall</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">gpk</td> 
+    <td><img src="../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">DM</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-md" title="Moldova" alt="Moldova">Save-</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Kingslayer</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">boolk</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">boolk</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -530,17 +530,17 @@ In VP's defense, this is a young team (literally, their oldest player is DM at 2
 **What to spam in Twitch chat when VP are winning?** `I ALWAYS BELIEVED IN GPK STORM COPIUM`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/quincy.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/quincy.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Quincy Crew</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pk" title="Pakistan" alt="Pakistan">YawaR</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Quinn (CCnC)</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Lelis</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">MSS</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">LoA (SVG)</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-pk" title="Pakistan" alt="Pakistan">YawaR</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Quinn (CCnC)</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Lelis</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">MSS</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">LoA (SVG)</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">KheZu</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">KheZu</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -564,17 +564,17 @@ Actually, wait, scratch that. *Quincy Crew* becoming an esports powerhouse brand
 **What to spam in Twitch chat when QC is winning?** `EZ 4 [insert player name here]AO`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/ig.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/ig.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Invictus Gaming</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">flyfly</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Emo</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">JT-</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Kaka</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Oli</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">flyfly</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Emo</td> 
+    <td><img src="../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">JT-</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Kaka</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Oli</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">super</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">super</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -606,17 +606,17 @@ Their coach did have to stand-in for Oli at the AniMajor, but I prefer my interp
 You had to be there.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/t1.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/t1.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">T1</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">23savage</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Karl</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Kuku</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Xepher</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Whitemon</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">23savage</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Karl</td> 
+    <td><img src="../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Kuku</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Xepher</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Whitemon</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">March</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">March</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -636,17 +636,17 @@ But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be p
 **What to spam in Twitch chat when T1 is winning?** `MikeHogu MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/vici.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/vici.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Vici Gaming</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">poyoyo (Erica)</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ori</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">old eLeVeN</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Pyw</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Dy</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">poyoyo (Erica)</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ori</td> 
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">old eLeVeN</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Pyw</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Dy</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Fenrir</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Fenrir</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -670,7 +670,7 @@ I'm not gonna make a Fade pun here, but he's not at TI10.
 
 * ***CN DPC S1** - 3rd, **ONE Esports Singapore Major** - 7-8th, **CN DPC S2** - 3rd, **WePlay Kyiv AniMajor** - 4th*
 
-I could literally copy-paste what I wrote about Vici's TI8 squad [three years ago](https://howdoiplay.com/blog/2018/07/18/ti8-team-guide.html) and you would not be able to tell the difference.
+I could literally copy-paste what I wrote about Vici's TI8 squad [three years ago](https://howdoiplay.com../2018/07/18/ti8-team-guide.html) and you would not be able to tell the difference.
 
 <blockquote style="font-size: large;">Just some real solid Dotes. You know, a real focus on the fundamentals. The guys are gonna give it their all. Show some real hustle out there. <br><br>And not win.</blockquote>
 
@@ -681,17 +681,17 @@ What is with Vici and signing teams that are always *good* but never TI champion
 **What to spam in Twitch chat when Vici is winning?** `NECC GOD`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/secret.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/secret.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Secret</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">MATUMBAMAN</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pl" title="Poland" alt="Poland">Nisha</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">zai</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">YapzOr</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ee" title="Estonia" alt="Estonia">Puppey</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">MATUMBAMAN</td> 
+    <td><img src="../img/assets/blank.gif" class="flag flag-pl" title="Poland" alt="Poland">Nisha</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">zai</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">YapzOr</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-ee" title="Estonia" alt="Estonia">Puppey</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">Heen</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">Heen</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -715,15 +715,15 @@ Since Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in
 **What to spam in Twitch chat when Secret is winning?** `𝘗𝘳𝘢𝘬𝘢𝘴𝘩 "𝘗𝘶𝘱𝘱𝘦𝘺" 𝘠𝘢𝘥𝘢𝘷 (𝘣𝘰𝘳𝘯 6 𝘔𝘢𝘳𝘤𝘩 1990) 𝘪𝘴 𝘢𝘯 𝘐𝘯𝘥𝘪𝘢𝘯 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭 𝘋𝘰𝘵𝘢 2 𝘱𝘭𝘢𝘺𝘦𝘳 𝘸𝘩𝘰 𝘪𝘴 𝘵𝘩𝘦 𝘤𝘢𝘱𝘵𝘢𝘪𝘯 𝘰𝘧 𝘛𝘦𝘢𝘮 𝘚𝘩𝘢𝘬𝘵𝘪. 𝘏𝘦 𝘪𝘴 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘵𝘩𝘦 𝘵𝘢𝘭𝘭𝘦𝘴𝘵 𝘮𝘢𝘯 𝘪𝘯 𝘐𝘯𝘥𝘪𝘢.`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/alliance.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/alliance.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Alliance</h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">Nikobaby</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">LIMMP</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">s4</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Handsken</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">fng</td></tr>
+    <td><img src="../img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">Nikobaby</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">LIMMP</td> 
+    <td><img src="../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">s4</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Handsken</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">fng</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -747,17 +747,17 @@ Amusingly, the team seems to have taken the criticism to heart and, in the bigge
 **What to spam in Twitch chat when Alliance is winning?** `🦈 SPAM 🦈 THIS 🦈 SHARK 🦈 TO 🦈 HELP 🦈 NIKOBABY 🦈 SLARK 🦈`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/sg.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/sg.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">SG esports - <i>South America</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Costabile</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">4dr</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Tavo</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Thiolicor</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">KJ</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Costabile</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">4dr</td> 
+    <td><img src="../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Tavo</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Thiolicor</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">KJ</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-ro" title="Romania" alt="Romania">Mangusu</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-ro" title="Romania" alt="Romania">Mangusu</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -777,17 +777,17 @@ The SA regional qual was wacky as hell. Upsets left and right. SG must've gotten
 **What to spam in Twitch chat when SG is winning?** `4dr meu deus`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/elephant.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti10teams/elephant.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Elephant - <i>China</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Eurus (Paparazi灬)</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Somnus丶M (Maybe)</td> 
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Yang</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">fy</td>
-    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Super</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Eurus (Paparazi灬)</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Somnus丶M (Maybe)</td> 
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Yang</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">fy</td>
+    <td><img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Super</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="/blog/img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">rOtK</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">rOtK</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -871,7 +871,7 @@ Here are some fan favorites not playing at this TI whose current whereabouts you
 * Highly successful streamer in China. Completely MIA from the competitive scene this year.
 
 #### EHOME
-* [Has one of the funniest Liquipedia pages I've ever seen.](https://howdoiplay.com/blog/img/ti10teams/ehomeinactive.jpg) Lookin' more like a Retirement EHOME, amirite?
+* [Has one of the funniest Liquipedia pages I've ever seen.](https://howdoiplay.com../img/ti10teams/ehomeinactive.jpg) Lookin' more like a Retirement EHOME, amirite?
 
 #### BurNIng
 * Owns Team Aster. Kinda disliked in China now for some [dickish behavior.](https://www.reddit.com/r/DotA2/comments/nwmjoz/only_38_chinese_audience_support_aster/h1cxazo/?context=10000)
