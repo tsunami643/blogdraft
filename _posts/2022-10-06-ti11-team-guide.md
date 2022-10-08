@@ -1,7 +1,7 @@
 ﻿---
 layout: "post"
 title: "The International 2022: A Practical Guide to All 16 Playoff Teams"
-date: "2022-10-18 11:45"
+date: "2022-10-06 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
 feature-img: "img/ti10teams/ti10header.jpg"
 flags: true
