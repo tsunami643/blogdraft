@@ -885,27 +885,27 @@ Here are some fan favorites not playing at this TI whose current whereabouts you
 
 ## North America
 
-#### The rest of TI5 EG (ppd, Universe, Aui_2000)
-* After TI9, ppd and Universe reunited on NiP. They qualified for the March 2020 ESL Los Angeles major right before COVID hit. The tournament got canceled and they both promptly retired. Peter then un-retired, competed in the NA DPC S1, stopped doing that, became Alliance's coach for the EU DPC S2, stopped doing that, was invited to cast TI10, but also stopped doing that.<br><br>Universe *actually* retired and recently [got married!](https://twitter.com/UniverseDota/status/1426214388508233731)<br><br>Aui seems content with his current coach/caster trajectory and will also be joining the TI10 English broadcast.
+#### SVG
+
+* Imagine going from player to caster in one year
+
+#### Fear
+
+* Was actually at TI10 as a coach for Thunder Predator, but now a caster
 
 #### EternaLEnVy
-* I think they caught up with manga this year so instead we got some weird filler arc where Envy doesn't read the DPC rules and then acts surprised at the end of the season.<br><br>After floating around in the NA lower and upper divisions, Jacky Mao slapped together a team for the TI10 qualifier with Ryoya, Kingrd/Mr. Kingão, Zfreek, and Moo. Idk feels like the writers just ran out of ideas, not sure if I'll watch next season...
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">After watching Yatoro play/pick I’ve concluded I’m no longer good enough to compete at the level I want to. I’ve decided to chill for now and not play for the sake of playing and work on myself as being on a team comes with other obligations. GL to <a href="https://twitter.com/MooDota2?ref_src=twsrc%5Etfw">@MooDota2</a></p>&mdash; EternaLEnVy (@EternaLEnVy1991) <a href="https://twitter.com/EternaLEnVy1991/status/1453577086594166786?ref_src=twsrc%5Etfw">October 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-#### Mason
-
-* Now a professional speech writer on twitch dot tv.
+No one knows what it means, but it's provocative. It gets the people going.
 
 ## South America
 
-#### hFn
-* Got 1st on NoPing e-sports (w/ Darkmago, Oscar, Matthew, Panda) in the SA DPC S2, but got 4th in the SA TI10 regional qualifier.
-
-#### Duster
-* Did a stint in the EEU/CIS DPC S1 lower division on B8. [He also got married!](https://www.instagram.com/p/CSz15UKFClW/)
+#### hFn, 4dr, tavo, Kingrd, Duster
+* This star studded Brazilian lineup had middling results in the final SA Div 1 DPC Tour 3 and got eliminated early on in TI regional quals.
 
 ## Western Europe
 
-#### Miracle-, w33, MinD_ContRoL, GH, KuroKy, iLTW
+#### Miracle-, SumaiL, MinD_ContRoL, GH, KuroKy
 * Ah, you mean *Team Nigma*? Yes, that's their name. Well, actually, it's *Nigma Galaxy* now. After TI9, Kuro took the path of Secret/OG and decided to create his own organization. There were a few exciting victories for Nigma in 2020, but 2021 was mostly rocky. They attended the Singapore Major with a stand-in, bombed out, benched w33 for iLTW in season 2, got 5-6th at the AniMajor after being eliminated by EG, and landed 13th place in the DPC rankings. *One slot away* from being directly invited to TI through points. In the WEU regional qualifier, they got 3rd after narrowly losing to longtime rivals OG and bowed out of TI contention. <br><br>Their fans have not been coping with the loss particularly well. Rather than graciously accept defeat, some vocal Nigma diehards have been channeling their frustrations by: belittling the competitive integrity of other regions, condemning the DPC structure, trying to convince everyone this TI will suck because their favorite players aren't there, and eagerly licking their chops to sub-in when news broke that some Chinese teams in Bucharest have COVID. Some real *BERNIE CAN STILL WIN* vibes out in the Nigma camp.
 
 #### Team Liquid in general
