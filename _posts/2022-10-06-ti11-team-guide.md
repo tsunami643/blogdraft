@@ -131,7 +131,7 @@ In fact Ame, who may seem like the only connection to the TI9 LGD, traded spots 
 * **CN DPC Tour 1 Regional Final** - 1st 🥇
 * **CN DPC Tour 2** - 2nd 🥈
 * **CN DPC Tour 2 Regional Final** - 1st 🥇
-* **CN DPC Tour 3** - 4th 🥇
+* **CN DPC Tour 3** - 4th
 * **PGL Arlington Major** - 2nd 🥈
 
 As is tradition with LGDs past, they started the year off *cold*. Granted, the CN DPC is arguably the most competitive of all the six regional leagues, but they only narrowly won a 4/5th place tiebreaker against Elephant in the CN DPC S1 to even get the privilege of attending the Singapore Major. Since then, however, it's been hot, hot, hot. They've been damn good at Dota and fun as hell to watch too.
