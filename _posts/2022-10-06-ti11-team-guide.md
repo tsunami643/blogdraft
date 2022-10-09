@@ -159,11 +159,11 @@ As is tradition with LGDs past, they started the year off *cold*. Granted, the C
 <span class="twitter-dm">I saw you on the pannel about how we build the roster</span>
 <span class="twitter-dm twitter-dm-first">Misha was first</span>
 
-<span style ="margin-bottom: 0.5em;">Makes sense. Misha was OG's coach last year, so that's a reasonable foundation.</span>
+<p style ="margin-bottom: 0.5em;">Makes sense. Misha was OG's coach last year, so that's a reasonable foundation.</p>
 
 <span class="twitter-dm twitter-dm-first">Then taiga</span>
 
-<span style ="margin-bottom: 0.5em;">Pretty surprising, actually. Taiga was Team Liquid fam for the longest time</span>
+<p style ="margin-bottom: 0.5em;">Pretty surprising, actually. Taiga was Team Liquid fam for the longest time</p>
 
 **How was their DPC year?** 1930 Points
 
