@@ -154,7 +154,7 @@ As is tradition with LGDs past, they started the year off *cold*. Granted, the C
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Allow me to present this section in the form that I myself learned this information. Through a series of disjointed DMs I received from JMRLuna when I asked this question openly during an ESL Malaysia broadcast. , but I don't listen to podcasts because I'm cool
+**How did this roster happen?** Allow me to present this section in the form that I myself learned this information. Through a series of disjointed DMs I received from JMRLuna when I asked this question openly during an ESL Malaysia broadcast.
 
 <span class="twitter-dm">I saw you on the pannel about how we build the roster</span>
 <span class="twitter-dm twitter-dm-first">Misha was first</span>
@@ -170,12 +170,16 @@ Pretty surprising, actually. Taiga was a part of the Insania crew for the longes
 <span class="twitter-dm">Once we have taiga then Ammar decided to join us</span>
 <span class="twitter-dm twitter-dm-first">Ammar brought bzm</span>
 
-So ATF, also known as <abbr title="I'm not making this up, that's his actual handle">AMMAR_THE_FUCKER</abbr>, was on this Div 2 team last year called <i>Creepwave</i> along with bzm, so that adds up.
+So ATF, also known as <abbr title="I'm not making this up, that's what the acronym stands for">AMMAR_THE_FUCKER</abbr>, was on a WEU Div 2 team last year called Creepwave along with bzm, so that adds up.
 
-<span class="twitter-dm">And then we tried out s few carries and ended up with yuragi</span>
+<span class="twitter-dm">And then we tried out a few carries and ended up with yuragi</span>
 <span class="twitter-dm twitter-dm-first">And then we brought in the coach chu</span>
 
-You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professionally since 2019, but no notable results. And chu has actually been around for a while, but was also a player on Creepwave with ATF and bzm.
+You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professionally since 2019, but no notable results. And chu/chuvash has actually been around for a while, but was also a player on Creepwave with ATF and bzm.
+
+<span class="twitter-dm twitter-dm-first">This is public. We spoke about it on the monkey business show</span>
+
+I don't listen to podcasts. By the way, check out this episode of OG's Monkey Business podcast that I guest starred on!
 
 **How was their DPC year?** 1930 Points
 
