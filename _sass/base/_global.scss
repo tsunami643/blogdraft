@@ -100,6 +100,70 @@ ul, ol, dl {
   padding-left: 40px;
 }
 
+//Twitter DM CSS
+.twitter-dm {
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  pointer-events: auto;
+  user-select: text;
+  cursor: default;
+  -webkit-box-direction: normal;
+  unicode-bidi: isolate;
+  border: 0 solid black;
+  box-sizing: border-box;
+  display: inline;
+  font: 14px -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  white-space: pre-wrap;
+  overflow: hidden;
+  position: relative;
+  min-width: 0px;
+  word-wrap: break-word;
+  line-height: 20px;
+  font-size: 15px;
+  font-weight: 400;
+  font-family: TwitterChirp, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  word-break: break-word;
+}
+
+.twitter-dm-first {
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  pointer-events: auto;
+  user-select: text;
+  cursor: default;
+  -webkit-box-direction: normal;
+  text-align: left;
+  word-break: break-word;
+  border: 0 solid black;
+  box-sizing: border-box;
+  display: inline;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  color: inherit;
+  font: inherit;
+  white-space: inherit;
+  min-width: 0px;
+  word-wrap: break-word;
+  font-family: inherit;
+  color: white;
+}
+
 //Spoiler Text
 .spoiler {
   color: #000;

@@ -121,9 +121,7 @@ These are their stories.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?**  Just reading these names, how could you not get hype? Two of the Wings Gaming TI6 winning squad? Young hotshot 12k MMR midlaner? And xiao8 coaching? Jiayou!
-
-In fact Ame, who may seem like the only connection to the TI9 LGD, traded spots with AhJit on CDEC for most of 2020 before this roster was announced in September. Was he being given a lesson in humility? If he was, it worked. There's never been a better time to be an lgdamefan.
+**How did this roster happen?**  Oh it's been happening. Hap
 
 **How was their DPC year?** 2240 Points
 
@@ -136,9 +134,9 @@ In fact Ame, who may seem like the only connection to the TI9 LGD, traded spots 
 
 As is tradition with LGDs past, they started the year off *cold*. Granted, the CN DPC is arguably the most competitive of all the six regional leagues, but they only narrowly won a 4/5th place tiebreaker against Elephant in the CN DPC S1 to even get the privilege of attending the Singapore Major. Since then, however, it's been hot, hot, hot. They've been damn good at Dota and fun as hell to watch too.
 
-**What would success look like?** Statistically, [LGD has the highest probability of winning TI10.](https://noxville.github.io/ti10-probabilities/) Also statistically, the team with the highest probability of winning TI rarely ever does. RIP LGD.
+**What would success look like?** They have to win. Anything else is a total failure. I'm not being hyperbolic, that is literally where the bar is set for these guys.
 
-**What to spam in Twitch chat when LGD are winning?** `Translator winning mid Pog`
+**What to spam in Twitch chat when LGD are winning?** `WASH YOUR FACE`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/og.jpg" alt="Banner"></p>
@@ -156,9 +154,11 @@ As is tradition with LGDs past, they started the year off *cold*. Granted, the C
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** As intimidating as this roster looks, it hasn't been all sunflowers and rainbows for the two time reigning TI champs. After TI9, ana peaced out for another season and Jerax just straight up retired. Even Ceb intended to step down from active play and OG signed MidOne, Saksa, and Sumail to fill the empty shoes.
+**How did this roster happen?** Allow me to present this section in the form that I myself learned this information. Through a series of disjointed DMs I received from JMRLuna when I asked this question openly during an ESL Malaysia broadcast.
 
-Then COVID happened and Sumail vanished from competitive Dota for nearly an entire year. But see, I told you he'd be back in the third act. 
+<p class="twitter-dm">I saw you on the pannel about how we build the roster</p>
+<p class="twitter-dm">Misha was first</p>
+<p class="twitter-dm-first">Then taiga</p>
 
 **How was their DPC year?** 1930 Points
 
