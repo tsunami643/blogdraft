@@ -113,11 +113,12 @@ ul, ol, dl {
   max-width: 40%;
   background-color: rgb(47, 51, 54);
   color: white;
-  display: inline;
+  display: table;
 }
 
 .twitter-dm-first {
   border-bottom-left-radius: 4px;
+  margin-bottom: 5px;
 }
 
 //Spoiler Text
