@@ -158,7 +158,7 @@ As is tradition with LGDs past, they started the year off *cold*. Granted, the C
 
 <p class="twitter-dm">I saw you on the pannel about how we build the roster</p>
 <p class="twitter-dm">Misha was first</p>
-<p class="twitter-dm-first">Then taiga</p>
+<p class="twitter-dm twitter-dm-first">Then taiga</p>
 
 **How was their DPC year?** 1930 Points
 
