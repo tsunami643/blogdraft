@@ -102,7 +102,7 @@ ul, ol, dl {
 
 //Twitter DM CSS
 .twitter-dm {
-  //margin-bottom: 0px;
+  margin-bottom: 5px;
   margin-top: 0px;
   border-color: rgb(51, 54, 57);
   border-radius: 24px;
@@ -110,7 +110,7 @@ ul, ol, dl {
   padding-right: 16px;
   padding-bottom: 12px;
   padding-top: 12px;
-  max-width: 40%;
+  max-width: 500px;
   background-color: rgb(47, 51, 54);
   color: white;
   display: table;
@@ -118,7 +118,6 @@ ul, ol, dl {
 
 .twitter-dm-first {
   border-bottom-left-radius: 4px;
-  margin-bottom: 5px;
 }
 
 //Spoiler Text
