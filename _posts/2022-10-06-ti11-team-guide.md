@@ -157,7 +157,9 @@ As is tradition with LGDs past, they started the year off *cold*. Granted, the C
 **How did this roster happen?** Allow me to present this section in the form that I myself learned this information. Through a series of disjointed DMs I received from JMRLuna when I asked this question openly during an ESL Malaysia broadcast.
 
 <p class="twitter-dm">I saw you on the pannel about how we build the roster</p>
+<br><br>
 <p class="twitter-dm">Misha was first</p>
+<br><br>
 <p class="twitter-dm twitter-dm-first">Then taiga</p>
 
 **How was their DPC year?** 1930 Points
