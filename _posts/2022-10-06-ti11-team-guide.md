@@ -145,7 +145,7 @@ As is tradition with LGDs past, they started the year off *cold*. Granted, the C
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Yuragi</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">bzm</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">ATF</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">ATF (Ammar)</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-no" title="Norway" alt="Norway">Taiga</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia" style="">Misha</td>
     <td>&nbsp;</td>
@@ -154,16 +154,28 @@ As is tradition with LGDs past, they started the year off *cold*. Granted, the C
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Allow me to present this section in the form that I myself learned this information. Through a series of disjointed DMs I received from JMRLuna when I asked this question openly during an ESL Malaysia broadcast.
+**How did this roster happen?** Allow me to present this section in the form that I myself learned this information. Through a series of disjointed DMs I received from JMRLuna when I asked this question openly during an ESL Malaysia broadcast. , but I don't listen to podcasts because I'm cool
 
 <span class="twitter-dm">I saw you on the pannel about how we build the roster</span>
 <span class="twitter-dm twitter-dm-first">Misha was first</span>
 
-<p style ="margin-bottom: 0.5em;">Makes sense. Misha was OG's coach last year, so that's a reasonable foundation.</p>
+Makes sense. Misha was OG's coach last year, so that's a reasonable foundation.
 
-<span class="twitter-dm twitter-dm-first">Then taiga</span>
+<span class="twitter-dm">When we started doing the recruiting many people turned Misha down</span>
+<span class="twitter-dm">Always asking...."well who are the rest of the team"</span>
+<span class="twitter-dm twitter-dm-first">And taiga was the only one ready to take a chance on us</span>
 
-<p style ="margin-bottom: 0.5em;">Pretty surprising, actually. Taiga was Team Liquid fam for the longest time</p>
+Pretty surprising, actually. Taiga was a part of the Insania crew for the longest time. However, Insania and the boys knew a change had to be made after Liquid failed to qualify to TI last year and Taiga voluntarily fell on the sword. Guess Taiga and OG saw mutual potential in one another.
+
+<span class="twitter-dm">Once we have taiga then Ammar decided to join us</span>
+<span class="twitter-dm twitter-dm-first">Ammar brought bzm</span>
+
+So ATF, also known as <abbr title="I'm not making this up, that's his actual handle">AMMAR_THE_FUCKER</abbr>, was on this Div 2 team last year called <i>Creepwave</i> along with bzm, so that adds up.
+
+<span class="twitter-dm">And then we tried out s few carries and ended up with yuragi</span>
+<span class="twitter-dm twitter-dm-first">And then we brought in the coach chu</span>
+
+You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professionally since 2019, but no notable results. And chu has actually been around for a while, but was also a player on Creepwave with ATF and bzm.
 
 **How was their DPC year?** 1930 Points
 
