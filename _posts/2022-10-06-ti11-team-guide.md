@@ -3,7 +3,7 @@ layout: "post"
 title: "The International 2022: A Practical Guide to All 16 Playoff Teams"
 date: "2022-10-06 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
-feature-img: "img/ti10teams/ti10header.jpg"
+feature-img: "img/ti11teams/ti10header.jpg"
 flags: true
 ---
 
@@ -106,7 +106,7 @@ There are plenty of resources out there that'll [explain the system](https://liq
 These are their stories.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/lgd.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/lgd.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PSG.LGD</h2>
 <table>
   <tbody><tr>
@@ -125,9 +125,14 @@ These are their stories.
 
 In fact Ame, who may seem like the only connection to the TI9 LGD, traded spots with AhJit on CDEC for most of 2020 before this roster was announced in September. Was he being given a lesson in humility? If he was, it worked. There's never been a better time to be an lgdamefan.
 
-**How was their DPC year?** 1300 Points
+**How was their DPC year?** 2240 Points
 
-* ***CN DPC S1** - 4th, **ONE Esports Singapore Major** - 3rd, **CN DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 1st*
+* **CN DPC Tour 1** - 1st 🥇
+* **CN DPC Tour 1 Regional Final** - 1st 🥇
+* **CN DPC Tour 2** - 2nd 🥈
+* **CN DPC Tour 2 Regional Final** - 1st 🥇
+* **CN DPC Tour 3** - 4th 🥇
+* **PGL Arlington Major** - 2nd 🥈
 
 As is tradition with LGDs past, they started the year off *cold*. Granted, the CN DPC is arguably the most competitive of all the six regional leagues, but they only narrowly won a 4/5th place tiebreaker against Elephant in the CN DPC S1 to even get the privilege of attending the Singapore Major. Since then, however, it's been hot, hot, hot. They've been damn good at Dota and fun as hell to watch too.
 
@@ -136,7 +141,7 @@ As is tradition with LGDs past, they started the year off *cold*. Granted, the C
 **What to spam in Twitch chat when LGD are winning?** `Translator winning mid Pog`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/og.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/og.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">OG</h2>
 <table>
   <tbody><tr>
@@ -155,7 +160,7 @@ As is tradition with LGDs past, they started the year off *cold*. Granted, the C
 
 Then COVID happened and Sumail vanished from competitive Dota for nearly an entire year. But see, I told you he'd be back in the third act. 
 
-**How was their DPC year?** 36.13 Points
+**How was their DPC year?** 1930 Points
 
 * ***WEU DPC S1** - 5th, **ONE Esports Singapore Major** - Did not qualify, **WEU DPC S2** - 6th, **WePlay Kyiv AniMajor** - Did not qualify*
 
@@ -167,10 +172,10 @@ We in the business simply refer to this as OG getting into "TI form."
 
 **What would success look like?** Should be obvious.
 
-**What to spam in Twitch chat when OG is winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
+**What to spam in Twitch chat when OG are winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/spirit.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/spirit.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Spirit</h2>
 <table>
   <tbody><tr>
@@ -187,7 +192,7 @@ We in the business simply refer to this as OG getting into "TI form."
 
 **How did this roster happen?** You know how EEU/CIS always has those Empire-ass, Gambit-ass, Winstrike-ass, HellRaisers-ass, Yellow Submarine-ass teams that are always *around*? *Around,* like, playing some random ass tournament at some random ass time on some random ass channel? I love those teams. You just know that each one of them are a ticking timebomb of contempt with five different fingers on the disband trigger. But every once in a while, an EEU roster manages to not hate each other for *juuuust* long enough to make it to TI. Shine on you crazy Yellow Submarine boys.
 
-**How was their DPC year?** 585 Points
+**How was their DPC year?** 1810 Points
 
 * ***EEU DPC S1** - 4th, **ONE Esports Singapore Major** - Did not qualify, **EEU DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 7-8th*
 
@@ -195,10 +200,10 @@ VP have been going sicko mode on the region, so it's really hard to gauge how go
 
 **What would success look like?** Naruto running their way to the Aegis.
 
-**What to spam in Twitch chat when Spirit is winning?** `COLLAPSE GIGACHAD`
+**What to spam in Twitch chat when Spirit are winning?** `COLLAPSE GIGACHAD`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/beastcoast.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/beastcoast.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">beastcoast</h2>
 <table>
   <tbody><tr>
@@ -215,7 +220,7 @@ VP have been going sicko mode on the region, so it's really hard to gauge how go
 
 **How did this roster happen?** Remember TI9 Infamous? It's the same guys. Yes, a South American team stayed together as five for over *two years.*
 
-**How was their DPC year?** 800 Points
+**How was their DPC year?** 1810 Points
 
 * ***SA DPC S1** - 1st, **ONE Esports Singapore Major\*** - Did not attend, **SA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 14th*
 
@@ -225,10 +230,10 @@ VP have been going sicko mode on the region, so it's really hard to gauge how go
 
 Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 
-**What to spam in Twitch chat when beastcoast is winning?** `No vales ni un sol, estudia loco`
+**What to spam in Twitch chat when bc are winning?** `No vales ni un sol, estudia loco`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/aster.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/aster.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Aster</h2>
 <table>
   <tbody><tr>
@@ -245,7 +250,7 @@ Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 
 **How did this roster happen?** Borax and Xxs have been Aster fam for a long time, but the other three were brought in around, you guessed it, late 2020. 
 
-**How was their DPC year?** 800 Points
+**How was their DPC year?** 1610 Points
 
 * ***CN DPC S1** - 2nd, **ONE Esports Singapore Major\*** - 9-12th, **CN DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
 
@@ -257,10 +262,10 @@ Ironic. The jungle king could save others from ganks, but not himself.
 
 **What would success look like?** I have been scouring the internet for a single positive Chinese meme about Aster and it's literally just people shitting relentlessly on this team. If they can manage to change their public perception in the slightest, that'd be a massive dub for the Tea Masters.
 
-**What to spam in Twitch chat when Aster is winning?** `Winning from the hotel catJAM`
+**What to spam in Twitch chat when Aster are winning?** `Winning from the hotel catJAM`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/tp.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/thunder.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Thunder Awaken</h2>
 <table>
   <tbody><tr>
@@ -277,7 +282,7 @@ Ironic. The jungle king could save others from ganks, but not himself.
 
 **How did this roster happen?** Whoa, now. *Two* South American teams at TI? Hay talento, hay apoyo. This full Peruvian squad was put together pretty much right before the DPC started. Previously, MoOz had been beastcoast's coach/stand-in for most of 2020, but returned to full time play on TP. Also, yes, that is the Fear you're thinking of who's coaching.
 
-**How was their DPC year?** 800 Points
+**How was their DPC year?** 1540 Points
 
 * ***SA DPC S1** - 2nd, **ONE Esports Singapore Major** - 5-6th, **SA DPC S2** - 3rd, **WePlay Kyiv AniMajor** - Did not qualify*
 
@@ -285,10 +290,10 @@ After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own
 
 **What would success look like?** The Peruvian teams not having to commit country-on-country elimination in the bracket.
 
-**What to spam in Twitch chat when TP is winning?** `TE QUIERO MUCHO ARTURITO FrankerZ`
+**What to spam in Twitch chat when Thunder are winning?** `TE QUIERO MUCHO ARTURITO FrankerZ`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/fnatic.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/boom.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">BOOM Esports</h2>
 <table>
   <tbody><tr>
@@ -310,7 +315,7 @@ After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own
 * Fnatic bumbles their way through S2 to make this new roster work. It's not pretty.
 * Moon is ~~kicked~~ fired from Fnatic ~~for underperforming~~ in a hostile corporate takeover. Deth (an offlaner) is brought in to play offlane and ChYuan assumes mid duties.
 
-**How was their DPC year?** 446.25 Points
+**How was their DPC year?** 1482 Points
 
 ***SEA DPC S1** - 1st, **ONE Esports Singapore Major** - 9-12th, **SEA DPC S2** - 4th, **WePlay Kyiv AniMajor** - Did not qualify*
 
@@ -318,9 +323,9 @@ You got the gist of it. The Fnatic organization is a TI mainstay and has attende
 
 **What would success look like?** iceiceice bumps Deth up a tier or two, or six, in his [SEA offlaner power rankings.](https://afkgaming.com/dota2/news/7038-iceiceice-ranks-sea-dota-2-players-by-role)
 
-**What to spam in Twitch chat when Fnatic is winning?** `CEO MOON MADE A GREAT BUSINESS DECISION`
+**What to spam in Twitch chat when BOOM are winning?** `CEO MOON MADE A GREAT BUSINESS DECISION`
 
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/undying.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/tsm.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">TSM</h2>
 <table>
   <tbody><tr>
@@ -337,7 +342,7 @@ You got the gist of it. The Fnatic organization is a TI mainstay and has attende
 
 **How did this roster happen?** Honestly, I recommend reading [MoonMeander's heartfelt recap of the team's journey.](https://www.twitlonger.com/show/n_1srpctq)
 
-**How was their DPC year?** 400 Points
+**How was their DPC year?** 1380 Points
 
 * ***NA DPC S1** - 3rd, **ONE Esports Singapore Major** - Did not qualify, **NA DPC S2** - 3rd, **WePlay Kyiv AniMajor** - Did not qualify*
 
@@ -349,10 +354,10 @@ North America is Schrödinger's region. If you don't observe it, the cat could v
 <br><br><br><br>
 Take a game off Arkosh next year.
 
-**What to spam in Twitch chat when Undying is winning?** `SHINZO SASAGEYO CruW`
+**What to spam in Twitch chat when TSM are winning?** `SHINZO SASAGEYO CruW`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/og.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/tundra.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Tundra Esports</h2>
 <table>
   <tbody><tr>
@@ -371,7 +376,7 @@ Take a game off Arkosh next year.
 
 Then COVID happened and Sumail vanished from competitive Dota for nearly an entire year. But see, I told you he'd be back in the third act. 
 
-**How was their DPC year?** 36.13 Points
+**How was their DPC year?** 1212 Points
 
 * ***WEU DPC S1** - 5th, **ONE Esports Singapore Major** - Did not qualify, **WEU DPC S2** - 6th, **WePlay Kyiv AniMajor** - Did not qualify*
 
@@ -383,10 +388,10 @@ We in the business simply refer to this as OG getting into "TI form."
 
 **What would success look like?** Should be obvious.
 
-**What to spam in Twitch chat when OG is winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
+**What to spam in Twitch chat when Tundra are winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/og.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/gaimin.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Gaimin Gladiators</h2>
 <table>
   <tbody><tr>
@@ -405,7 +410,7 @@ We in the business simply refer to this as OG getting into "TI form."
 
 Then COVID happened and Sumail vanished from competitive Dota for nearly an entire year. But see, I told you he'd be back in the third act. 
 
-**How was their DPC year?** 36.13 Points
+**How was their DPC year?** 1130 Points
 
 * ***WEU DPC S1** - 5th, **ONE Esports Singapore Major** - Did not qualify, **WEU DPC S2** - 6th, **WePlay Kyiv AniMajor** - Did not qualify*
 
@@ -417,10 +422,10 @@ We in the business simply refer to this as OG getting into "TI form."
 
 **What would success look like?** Should be obvious.
 
-**What to spam in Twitch chat when OG is winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
+**What to spam in Twitch chat when GG are winning?** `VEGAN POWER`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/eg.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/eg.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Evil Geniuses</h2>
 <table>
   <tbody><tr>
@@ -435,17 +440,13 @@ We in the business simply refer to this as OG getting into "TI form."
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Many of you reading the list above are gonna be like: *Arteezy, of course, my boy. Abed? That's cool. Wait, where's Sumail? WHERE'S SUMAIL?!* Sumail's not on EG anymore. Wild, I know. Soon after TI9 ended, Sumail was benched and Abed was brought in. But don't worry, this is a Chekhov's Hassan. He'll be back in the third act.
+**How did this roster happen?** If you haven't watched Dota since TI10, you may look at this roster and think, "Oh they kicked iceiceice and got VP's carry to play offlane? That's weird." It is weird. But you know what's even weirder? Bringing Jerax out of retirement, having him take Fly's spot as a 5 position, and doing so mediocre he re-retires . That's right, ole' two time TI winning 4 position Jer-Bear 
 
-Iceiceice, meanwhile, finally got tired of floundering around in SEA and came to North America in November 2020 to replace Ramzes, who replaced s4 after TI9. Now you see why I chose that position to be your pro Dota familiarity barometer.
-
-Fun fact, for all abuse Arteezy once endured for being a treacherous team hopping bastard, he is currently on the longest continuous tenure of any team+player pairing at TI10 besides Crit, Secret's Puppey, and OG's Notail. They grow up so fast.
-
-**How was their DPC year?** 1700 points
+**How was their DPC year?** 1052 points
 
 * ***NA DPC S1** - 1st, **ONE Esports Singapore Major** - 2nd, **NA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 2nd*
 
-[You may recall that EG were once notorious for always getting third place at events.](https://howdoiplay.com../img/ti10teams/3teezy.png) Times have changed, though. That was a completely different roster, different meta, different era.
+[You may recall that EG were once notorious for always getting third place at events.](https://howdoiplay.com../img/ti11teams/3teezy.png) Times have changed, though. That was a completely different roster, different meta, different era.
 
 They've since moved up a digit.
 
@@ -456,7 +457,7 @@ Now for a normal person, 2nd place at two majors is pretty incredible. But Dota 
 **What to spam in Twitch chat when EG are winning?** `My streamer FeelsStrongMan`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/fnatic.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/fnatic.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Fnatic</h2>
 <table>
   <tbody><tr>
@@ -478,15 +479,19 @@ Now for a normal person, 2nd place at two majors is pretty incredible. But Dota 
 * Fnatic bumbles their way through S2 to make this new roster work. It's not pretty.
 * Moon is ~~kicked~~ fired from Fnatic ~~for underperforming~~ in a hostile corporate takeover. Deth (an offlaner) is brought in to play offlane and ChYuan assumes mid duties.
 
-**How was their DPC year?** 446.25 Points
+**How was their DPC year?** 1020 Points
 
 ***SEA DPC S1** - 1st, **ONE Esports Singapore Major** - 9-12th, **SEA DPC S2** - 4th, **WePlay Kyiv AniMajor** - Did not qualify*
 
 You got the gist of it. The Fnatic organization is a TI mainstay and has attended every single International since TI3. That streak got dangerously close to ending in the SEA regional qual grand finals, but they managed to reverse sweep TNC.
 
+<img src="../img/ti11teams/fnaticchest.jpg" alt="Ye Olde Unoffical Source" style="width: 500px;">
+
+https://www.reddit.com/r/DotA2/comments/wpd5z2/fnatic_qualify_to_ti_over_outsiders_ruling_from/
+
 **What would success look like?** iceiceice bumps Deth up a tier or two, or six, in his [SEA offlaner power rankings.](https://afkgaming.com/dota2/news/7038-iceiceice-ranks-sea-dota-2-players-by-role)
 
-**What to spam in Twitch chat when Fnatic is winning?** `CEO MOON MADE A GREAT BUSINESS DECISION`
+**What to spam in Twitch chat when Fnatic are winning?** `CEO MOON MADE A GREAT BUSINESS DECISION`
 
 ----
 
@@ -494,7 +499,7 @@ You got the gist of it. The Fnatic organization is a TI mainstay and has attende
 
 ----
 
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/quincy.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/soniqs.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Soniqs - <i>North America</i></h2>
 <table>
   <tbody><tr>
@@ -524,10 +529,10 @@ Quincy Crew not only gave EG a run for their money in both NA DPC seasons, but w
 
 Actually, wait, scratch that. *Quincy Crew* becoming an esports powerhouse brand would be the real success story. *QC FTX* when?
 
-**What to spam in Twitch chat when QC is winning?** `EZ 4 [insert player name here]AO`
+**What to spam in Twitch chat when Soniqs are winning?** `EZ 4 [insert player name here]AO`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/tp.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/hokori.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Hokori - <i>South America</i></h2>
 <table>
   <tbody><tr>
@@ -551,10 +556,10 @@ After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own
 
 **What would success look like?** The Peruvian teams not having to commit country-on-country elimination in the bracket.
 
-**What to spam in Twitch chat when TP is winning?** `TE QUIERO MUCHO ARTURITO FrankerZ`
+**What to spam in Twitch chat when Hokori are winning?** `TE QUIERO MUCHO ARTURITO FrankerZ`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/og.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/entity.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Entity - <i>Western Europe</i></h2>
 <table>
   <tbody><tr>
@@ -585,10 +590,10 @@ We in the business simply refer to this as OG getting into "TI form."
 
 **What would success look like?** Should be obvious.
 
-**What to spam in Twitch chat when OG is winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
+**What to spam in Twitch chat when Entity are winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/vp.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/betboom.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">BetBoom Team - <i>Eastern Europe</i></h2>
 <style type="text/css">table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}</style>
 <table>
@@ -620,10 +625,10 @@ In VP's defense, this is a young team (literally, their oldest player is DM at 2
 
 <p style="font-size: 0.85em;">Which means that TI10 should feel natural.</p>
 
-**What to spam in Twitch chat when VP are winning?** `I ALWAYS BELIEVED IN GPK STORM COPIUM`
+**What to spam in Twitch chat when BB are winning?** `I ALWAYS BELIEVED IN GPK STORM COPIUM`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/ig.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/rng.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Royal Never Give Up</h2>
 <table>
   <tbody><tr>
@@ -660,12 +665,12 @@ Their coach did have to stand-in for Oli at the AniMajor, but I prefer my interp
 
 **What would success look like?** Kaka avenges Newbee's TI7 silver medal and somewhere miles away Brother Sccc smiles.
 
-**What to spam in Twitch chat when iG is winning?** `?` That's all. Just `?`
+**What to spam in Twitch chat when RNG are winning?** `?` That's all. Just `?`
 
 You had to be there.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/t1.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/talon.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Talon Esports</h2>
 <table>
   <tbody><tr>
@@ -692,7 +697,7 @@ But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be p
 
 **What would success look like?** Placing higher than the T1 in Worlds 2021.
 
-**What to spam in Twitch chat when T1 is winning?** `MikeHogu MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
+**What to spam in Twitch chat when Talon are winning?** `MikeHogu MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
 
 ---
 
@@ -701,7 +706,7 @@ But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be p
 ---
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/vici.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/vici.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Vici Gaming</h2>
 <table>
   <tbody><tr>
@@ -746,7 +751,7 @@ What is with Vici and signing teams that are always *good* but never TI champion
 **What to spam in Twitch chat when Vici is winning?** `NECC GOD`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/secret.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/secret.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Secret</h2>
 <table>
   <tbody><tr>
@@ -780,7 +785,7 @@ Since Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in
 **What to spam in Twitch chat when Secret is winning?** `𝘗𝘳𝘢𝘬𝘢𝘴𝘩 "𝘗𝘶𝘱𝘱𝘦𝘺" 𝘠𝘢𝘥𝘢𝘷 (𝘣𝘰𝘳𝘯 6 𝘔𝘢𝘳𝘤𝘩 1990) 𝘪𝘴 𝘢𝘯 𝘐𝘯𝘥𝘪𝘢𝘯 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭 𝘋𝘰𝘵𝘢 2 𝘱𝘭𝘢𝘺𝘦𝘳 𝘸𝘩𝘰 𝘪𝘴 𝘵𝘩𝘦 𝘤𝘢𝘱𝘵𝘢𝘪𝘯 𝘰𝘧 𝘛𝘦𝘢𝘮 𝘚𝘩𝘢𝘬𝘵𝘪. 𝘏𝘦 𝘪𝘴 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘵𝘩𝘦 𝘵𝘢𝘭𝘭𝘦𝘴𝘵 𝘮𝘢𝘯 𝘪𝘯 𝘐𝘯𝘥𝘪𝘢.`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/alliance.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/alliance.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Alliance</h2>
 <table>
   <tbody><tr>
@@ -812,7 +817,7 @@ Amusingly, the team seems to have taken the criticism to heart and, in the bigge
 **What to spam in Twitch chat when Alliance is winning?** `🦈 SPAM 🦈 THIS 🦈 SHARK 🦈 TO 🦈 HELP 🦈 NIKOBABY 🦈 SLARK 🦈`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/sg.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/sg.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">SG esports - <i>South America</i></h2>
 <table>
   <tbody><tr>
@@ -842,7 +847,7 @@ The SA regional qual was wacky as hell. Upsets left and right. SG must've gotten
 **What to spam in Twitch chat when SG is winning?** `4dr meu deus`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../../../img/ti10teams/elephant.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/elephant.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Elephant - <i>China</i></h2>
 <table>
   <tbody><tr>
@@ -936,7 +941,7 @@ No one knows what it means, but it's provocative. It gets the people going.
 * Highly successful streamer in China. Completely MIA from the competitive scene this year.
 
 #### EHOME
-* [Has one of the funniest Liquipedia pages I've ever seen.](https://howdoiplay.com../img/ti10teams/ehomeinactive.jpg) Lookin' more like a Retirement EHOME, amirite?
+* [Has one of the funniest Liquipedia pages I've ever seen.](https://howdoiplay.com../img/ti11teams/ehomeinactive.jpg) Lookin' more like a Retirement EHOME, amirite?
 
 #### BurNIng
 * Owns Team Aster. Kinda disliked in China now for some [dickish behavior.](https://www.reddit.com/r/DotA2/comments/nwmjoz/only_38_chinese_audience_support_aster/h1cxazo/?context=10000)
