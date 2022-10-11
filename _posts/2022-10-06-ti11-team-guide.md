@@ -132,9 +132,9 @@ These are their stories.
 * **CN DPC Tour 3** - 4th
 * **PGL Arlington Major** - 2nd 🥈
 
-As is tradition with LGDs past, they started the year off *cold*. Granted, the CN DPC is arguably the most competitive of all the six regional leagues, but they only narrowly won a 4/5th place tiebreaker against Elephant in the CN DPC S1 to even get the privilege of attending the Singapore Major. Since then, however, it's been hot, hot, hot. They've been damn good at Dota and fun as hell to watch too.
+Due to escalating COVID concerns, Chinese Dota was locked away for most of this season. Even getting back to China after TI10 in Romania was a massive project for a lot of teams, so unsurprisingly . LGD only narrowly qualified to the Arlington Major after scraping through 
 
-**What would success look like?** They have to win. Anything else is a total failure. I'm not being hyperbolic, that is literally where the bar is set for these guys.
+**What would success look like?** They have to win. Literally anything other than lifting the Aegis is a complete failure. I'm not being hyperbolic, this is legitimately where the bar has been set for these guys.
 
 **What to spam in Twitch chat when LGD are winning?** `WASH YOUR FACE`
 
@@ -186,9 +186,9 @@ I don't listen to podcasts. By the way, check out this episode of OG's Monkey Bu
 * **WEU DPC Tour 1** - 4th
 * **WEU DPC Tour 1 Regional Final** - 3rd 🥉
 * **WEU DPC Tour 2** - 1st 🥇
-* **ESL Stockholm Major** - 1st 🥇
+* **ESL Stockholm Major** - 1st 🥇*
 * **WEU DPC Tour 3** - 3rd 🥉
-* **PGL Arlington Major** - 4th
+* **PGL Arlington Major** - 4th*
 
 Dude, it was so exciting. Notail called Alliance a bunch of cheaters during the coaching scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French for being mean. The brand appears to be slowly pivoting from esports teams to NFT manufacturers. It's been a ride.
 
@@ -196,7 +196,7 @@ Oh the Dota? The Dota wasn't that great. After a sluggish season 1, MidOne got t
 
 We in the business simply refer to this as OG getting into "TI form."
 
-**What would success look like?** Should be obvious.
+**What would success look like?** For the rest of the team? Eh, . For Misha? Oh boy. Misha, Misha, Misha. I don't even know if _he_ necessarily feels the pressure. But everyone putting the pressure on him has gotta be something
 
 **What to spam in Twitch chat when OG are winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
 
@@ -227,11 +227,13 @@ We in the business simply refer to this as OG getting into "TI form."
 * **WEU DPC Tour 3** - 3rd 🥉
 * **PGL Arlington Major** - 1st 🥇
 
-VP have been going sicko mode on the region, so it's really hard to gauge how good EEU truly is. Top 8 at the AniMajor is nothing to scoff at and Spirit also went to grand finals against PSG.LGD at the non-DPC OGA Dota PIT Invitational in September. Thas p gud.
+If you take a peek at the flags next to each of these player names, you may be able to deduce that last year's TI champions haven't had the smoothest year geopolitically speaking. Team Spirit as an organization is also Russian, but moved to Serbia after the war began. Given the circumstances, Valve put the entire EEU DPC Tour 2 on hold and replaced it with a compressed playoff bracket that would award DPC points, determine relegation slots, and figure out who goes to the Stockholm Major.
 
-**What would success look like?** Naruto running their way to the Aegis.
+**What would success look like?** Two-timing à la OG would be pretty sweet. The problem: they're still pretty good. Lest we forget, OG coming into TI9 were... well let's just say there's a reason why detractors branded both their wins as 'flukes.' Spirit, on the other hand, won the last major and [True Sight was just released](https://www.youtube.com/watch?v=NFEwN1N3vvA) so everyone just got a refresher on how sick they were/are. Safe to say there will be a lot more eyeballs on Spirit's drafts and gameplay this TI.
 
-**What to spam in Twitch chat when Spirit are winning?** `COLLAPSE GIGACHAD`
+A lot more eyeballs in the crowd, too. Because there's actually going to be one.
+
+**What to spam in Twitch chat when Spirit are winning?** Damn, has the Twitch meta not changed in 12 months? Well if it ain't broke, don't fix it. `COLLAPSE GIGACHAD`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/beastcoast.jpg" alt="Banner"></p>
@@ -249,7 +251,9 @@ VP have been going sicko mode on the region, so it's really hard to gauge how go
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Remember TI9 Infamous? It's the same guys. Yes, a South American team stayed together as five for over *two years.*
+**How did this roster happen?** Lemme just pop on over to [last year's article real quick.](https://howdoiplay.com/blog/2021/10/06/ti10-team-guide.html)
+
+> Remember TI9 Infamous? It's the same guys. Yes, a South American team stayed together as five for over <s>two</s> three years.*
 
 **How was their DPC year?** 1810 points
 
@@ -260,7 +264,7 @@ VP have been going sicko mode on the region, so it's really hard to gauge how go
 * **SA DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 5-6th
 
-*'1st place'* SA DPC S1 and a *'Did not attend'* for Singapore? What's that about? Well imagine missing TI because one of your teammates wan--. Nah, you know what, I'm not gonna go there. Honestly, it just makes it all the more impressive that these players have stuck together for as long as they have. All  you need to know is the team tested positive for COVID before Singapore and had to sit the entire event out. As for 14th place at the AniMajor, that's on them.
+Here's the thing. Longevity has a weird bell curve of success in Dota.
 
 **What would success look like?** ~~This roster's top 8 finish at TI9 was the highest placement a South American team has ever gotten in the history of TI. Given the consistent upwards trajectory of the region overperforming at TI, it's not outside the realm of possibility that they could break top 6 this year.~~
 
@@ -284,7 +288,7 @@ Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Borax and Xxs have been Aster fam for a long time, but the other three were brought in around, you guessed it, late 2020. 
+**How did this roster happen?** Monet, Xxs, and BoBoKa are the same as TI10 Aster, but this season they added longtime Vici Gaming midlaner Ori to the mix as well as Aster.Aries academy player 皮球. The direct translation is 'rubber ball,'
 
 **How was their DPC year?** 1610 points
 
@@ -303,7 +307,7 @@ Ironic. The jungle king could save others from ganks, but not himself.
 
 **What would success look like?** I have been scouring the internet for a single positive Chinese meme about Aster and it's literally just people shitting relentlessly on this team. If they can manage to change their public perception in the slightest, that'd be a massive dub for the Tea Masters.
 
-**What to spam in Twitch chat when Aster are winning?** `Winning from the hotel catJAM`
+**What to spam in Twitch chat when Aster are winning?** `ATF=ATM?`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/thunder.jpg" alt="Banner"></p>
@@ -330,7 +334,7 @@ Ironic. The jungle king could save others from ganks, but not himself.
 * **SA DPC Tour 2** - 1st 🥇
 * **ESL Stockholm Major** - 5-6th
 * **SA DPC Tour 3** - 1st 🥇
-* **PGL Arlington Major** - 15-16th
+* **PGL Arlington Major** - 15-16th*
 
 After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own hands. They had quite a few points with their surprise top 6 finish at the Singapore Major, but it wasn't enough to guarantee no other team could leapfrog them in Kyiv. Enter the Evil Genuises who punched TP's ticket by assassinating NoPing, TNC, and Nigma uno a uno at the AniMajor.
 
@@ -430,9 +434,7 @@ Take a game off Arkosh next year.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** As intimidating as this roster looks, it hasn't been all sunflowers and rainbows for the two time reigning TI champs. After TI9, ana peaced out for another season and Jerax just straight up retired. Even Ceb intended to step down from active play and OG signed MidOne, Saksa, and Sumail to fill the empty shoes.
-
-Then COVID happened and Sumail vanished from competitive Dota for nearly an entire year. But see, I told you he'd be back in the third act. 
+**How did this roster happen?** In a parallel universe, you _know_ how this roster happened. You know, because they showed up to TI10 . Instead, they lost in a 5 game series against OG in the WEU quals. But by golly they persevered.
 
 **How was their DPC year?** 1212 points
 
@@ -443,11 +445,7 @@ Then COVID happened and Sumail vanished from competitive Dota for nearly an enti
 * **WEU DPC Tour 3** - 1st 🥇
 * **PGL Arlington Major** - 15-16th
 
-Dude, it was so exciting. Notail called Alliance a bunch of cheaters during the coaching scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French for being mean. The brand appears to be slowly pivoting from esports teams to NFT manufacturers. It's been a ride.
-
-Oh the Dota? The Dota wasn't that great. After a sluggish season 1, MidOne got the boot and ana came back for season 2 under the tag *humblegod.* He proceeded to get so humbled he didn't even finish the season, probably said, "Yeah, I don't need this shit," and retired for realsies this time. OG then had to call up Madara to temporarily be their fifth in the three-way-hell-in-a-cell tiebreaker just to not get bumped down to lower division.
-
-We in the business simply refer to this as OG getting into "TI form."
+Pretty good!
 
 **What would success look like?** Should be obvious.
 
@@ -469,9 +467,7 @@ We in the business simply refer to this as OG getting into "TI form."
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** As intimidating as this roster looks, it hasn't been all sunflowers and rainbows for the two time reigning TI champs. After TI9, ana peaced out for another season and Jerax just straight up retired. Even Ceb intended to step down from active play and OG signed MidOne, Saksa, and Sumail to fill the empty shoes.
-
-Then COVID happened and Sumail vanished from competitive Dota for nearly an entire year. But see, I told you he'd be back in the third act. 
+**How did this roster happen?** BOOM and Seleri were veterans of tier 1.5-ish WEU team Vikin.gg for quite a while. Ace and tOfu were on another tier 1.5-ish WEU team Hellbear Smashers and faced off against Vikin.gg pretty regularly in officials. dyrachYO came out of nowhere. Dude was an EEU player, but was eager to leave the region and joined these guys and formed "Team Tickles" starting this season.
 
 **How was their DPC year?** 1130 points
 
@@ -482,11 +478,9 @@ Then COVID happened and Sumail vanished from competitive Dota for nearly an enti
 * **WEU DPC Tour 3** - 6th
 * **PGL Arlington Major** - Did not qualify
 
-Dude, it was so exciting. Notail called Alliance a bunch of cheaters during the coaching scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French for being mean. The brand appears to be slowly pivoting from esports teams to NFT manufacturers. It's been a ride.
+Keen eyed viewers may take a look at this list and say, "HEY! How does a new stack immediately join Division 1? Shouldn't they have to play through open qualifiers to join Division 2 and then place 1st or 2nd in Division 2 before being promoted to Division 1 in the subsequent tour?" To which I say: pppbbbbbbtttttt.
 
-Oh the Dota? The Dota wasn't that great. After a sluggish season 1, MidOne got the boot and ana came back for season 2 under the tag *humblegod.* He proceeded to get so humbled he didn't even finish the season, probably said, "Yeah, I don't need this shit," and retired for realsies this time. OG then had to call up Madara to temporarily be their fifth in the three-way-hell-in-a-cell tiebreaker just to not get bumped down to lower division.
-
-We in the business simply refer to this as OG getting into "TI form."
+It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve says that it's _not_ Liquipedia's job. This'll make more sense once you scroll down to Fnatic.
 
 **What would success look like?** Should be obvious.
 
@@ -545,12 +539,7 @@ Now for a normal person, 2nd place at two majors is pretty incredible. But Dota 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Painfully. I could write an essay on Fnatic's adventures this year, but it's more efficient to give the bullet point version:
-
-* Fnatic yoinks Thai rising star, Masaros, from Motivate.Trust at the end of 2020. Trust ends up winning a tournament while everybody knows that Masaros is about to leave. Kinda awkward.
-* Masaros leaves after Fnatic's disappointing Singapore Major finish and they bring in ChYuan (a mid player) to play offlane.
-* Fnatic bumbles their way through S2 to make this new roster work. It's not pretty.
-* Moon is ~~kicked~~ fired from Fnatic ~~for underperforming~~ in a hostile corporate takeover. Deth (an offlaner) is brought in to play offlane and ChYuan assumes mid duties.
+**How did this roster happen?** Fnatic had been struggling to fulfill their offlane and mid roles for quite a while. 
 
 **How was their DPC year?** 1020 points
 
@@ -673,7 +662,7 @@ Then COVID happened and Sumail vanished from competitive Dota for nearly an enti
 * **WEU DPC Tour 2** - 6th
 * **ESL Stockholm Major** - Did not qualify
 * **WEU DPC Tour 3** - 4th
-* **PGL Arlington Major** - 5-6th
+* **PGL Arlington Major** - 5-6th*
 
 Dude, it was so exciting. Notail called Alliance a bunch of cheaters during the coaching scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French for being mean. The brand appears to be slowly pivoting from esports teams to NFT manufacturers. It's been a ride.
 
@@ -681,7 +670,7 @@ Oh the Dota? The Dota wasn't that great. After a sluggish season 1, MidOne got t
 
 We in the business simply refer to this as OG getting into "TI form."
 
-**What would success look like?** Should be obvious.
+**What would success look like?** Fun fact: Every player in this team is popping their TI cherry this year. Wild!
 
 **What to spam in Twitch chat when Entity are winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
 
@@ -750,7 +739,7 @@ In VP's defense, this is a young team (literally, their oldest player is DM at 2
 * **CN DPC Tour 2** - 4th
 * **CN DPC Tour 2 Regional Final** - 4th
 * **CN DPC Tour 3** - 1st 🥇
-* **PGL Arlington Major** - 9-12th
+* **PGL Arlington Major** - 9-12th*
 
 This team's story is probably best told through greentext.
 
@@ -797,7 +786,7 @@ You had to be there.
 * **SEA DPC Tour 2 - _Division 2_** - 2nd 🥈
 * **ESL Stockholm Major** - Did not qualify
 * **SEA DPC Tour 3** - 2nd 🥈
-* **PGL Arlington Major** - 13-14th
+* **PGL Arlington Major** - 13-14th*
 
 SEA had an interesting conundrum this year. Since their leagues were so intra-regionally competitive, no single team was able to farm both seasons for enough DPC points to break the top 12 rank threshold. As a result, there was a very real possibility that only one SEA team would attend TI10.
 
@@ -807,15 +796,9 @@ But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be p
 
 **What to spam in Twitch chat when Talon are winning?** `MikeHogu MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
 
-----
-
-# The Last Chance Qualifier
-
-----
-
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/vici.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Vici Gaming</h2>
+<h2 style="margin: 0.25em 0;">TEST TEAM - <i>Last Chance Qualifier #1</i></h2>
 <table>
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">poyoyo (Erica)</td>
@@ -860,7 +843,7 @@ What is with Vici and signing teams that are always *good* but never TI champion
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/secret.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Secret</h2>
+<h2 style="margin: 0.25em 0;">Team Secret - <i>Last Chance Qualifier #2</i></h2>
 <table>
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">MATUMBAMAN</td> 
@@ -890,111 +873,13 @@ That ended up not happening and despite being given four slots at each major (ma
 
 Since Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in a row, it could very well happen.
 
-**What to spam in Twitch chat when Secret is winning?** `𝘗𝘳𝘢𝘬𝘢𝘴𝘩 "𝘗𝘶𝘱𝘱𝘦𝘺" 𝘠𝘢𝘥𝘢𝘷 (𝘣𝘰𝘳𝘯 6 𝘔𝘢𝘳𝘤𝘩 1990) 𝘪𝘴 𝘢𝘯 𝘐𝘯𝘥𝘪𝘢𝘯 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭 𝘋𝘰𝘵𝘢 2 𝘱𝘭𝘢𝘺𝘦𝘳 𝘸𝘩𝘰 𝘪𝘴 𝘵𝘩𝘦 𝘤𝘢𝘱𝘵𝘢𝘪𝘯 𝘰𝘧 𝘛𝘦𝘢𝘮 𝘚𝘩𝘢𝘬𝘵𝘪. 𝘏𝘦 𝘪𝘴 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘵𝘩𝘦 𝘵𝘢𝘭𝘭𝘦𝘴𝘵 𝘮𝘢𝘯 𝘪𝘯 𝘐𝘯𝘥𝘪𝘢.`
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/alliance.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Alliance</h2>
-<table>
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">Nikobaby</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">LIMMP</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">s4</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Handsken</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">fng</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** After Mineski's TI9 run, Nikobaby was a hot commodity in the post-TI shuffle period. He returned from his self-imposed European exile under Alliance's brand and Fata's captainship with LIMMP, 33, and Handsken. A few months later, s4 emerged from his post-EG purgatory and took the crown from Fata as well as rented fng for like six months from Gambit before finally signing him to lock this roster.
-
-**How was their DPC year?** 800 points
-
-* ***WEU DPC S1** - 2nd, **ONE Esports Singapore Major** - 13th, **WEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
-
-Season 1 they played some pretty good Dota and got 2nd place in Western Europe, I guess? That's great and all, but no one cares about season 1. It's season 2 where things got spicy. It was there that Alliance was *embroiled* in an intense *cheating scandal* that set Twitter *ablaze*. Damn this headline writing shit is fun, I should be a journalist.
-
-Basically, ESL inadvertently modified their WEU DPC S2 ruleset to allow coaches to participate *during* games, which is unheard of in Dota. Evidently, only Alliance, and their newly minted coach ppd, read the email informing all teams of the updated ruleset. It was only revealed halfway through the season that they were utilizing this weird rule when Alliance themselves uploaded a YouTube match recap where ppd could be clearly heard communicating information to the players in the middle of a game. Literally caught themselves in 4k.
-
-Officially? Not cheating. Unofficially? Alliance became pariahs in the eyes of other European teams and many viewers who felt their 1st place finish that season was illegitimate.
-
-Amusingly, the team seems to have taken the criticism to heart and, in the biggest flex possible, are the only team at TI10 **without** a coach.
-
-**What would success look like?** Beating a non-European team for the first time this year would be a good start.
-
-**What to spam in Twitch chat when Alliance is winning?** `🦈 SPAM 🦈 THIS 🦈 SHARK 🦈 TO 🦈 HELP 🦈 NIKOBABY 🦈 SLARK 🦈`
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/sg.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">SG esports - <i>South America</i></h2>
-<table>
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Costabile</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">4dr</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Tavo</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Thiolicor</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">KJ</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ro" title="Romania" alt="Romania">Mangusu</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** *THREE* SA teams at TI?! Peru *and* Brazil represented? It's a brave new world, amigos.
-
-The majority of this roster came from a much older NoPing e-sports that had been playing together since early 2020. NoPing, like many orgs in COVID times, had to drop their Dota 2 team due to a severe lack of *"The International."* The boys continued playing together as Team Brasil before finally signing to SG esports, an org that quit *all* of their operations 2019, in December 2020.
-
-**How was their DPC year?** 170 points
-
-* ***SA DPC S1** - 3rd, **ONE Esports Singapore Major** - Did not qualify, **SA DPC S2** - 6th, **WePlay Kyiv AniMajor** - Did not qualify*
-
-The SA regional qual was wacky as hell. Upsets left and right. SG must've gotten some kinda Festa Junina vinho quente power-up because they took the whole thing with ease.
-
-**What would success look like?** So South America's highest TI placement was TI9's Infamous top 8, but *Brazil's* highest TI placement is... last. 18th with TI8's paiN Gaming. That's also Brazil's *only* TI placement, so SG can really only impress.
-
-**What to spam in Twitch chat when SG is winning?** `4dr meu deus`
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/elephant.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Elephant - <i>China</i></h2>
-<table>
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Eurus (Paparazi灬)</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Somnus丶M (Maybe)</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Yang</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">fy</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Super</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">rOtK</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** It's a tale as old as time. *What if. We took. Five **SUPERSTAR** players. And made a team with them? It has to work.*
-
-It never works.
-
-*Okay, but what if we also brought in a **SUPERSTAR** coach for season 2?*
-
-Still doesn't work.
-
-Although, *five* superstar players isn't quite accurate. For both CN DPC seasons they had the relatively unknown RedPanda on support. Most everyone assumed he was just there to be the scapegoat and eventually got replaced by capital "S" *S*uper for regional quals.
-
-**How was their DPC year?** 85 points
-
-* ***CN DPC S1** - 5th, **ONE Esports Singapore Major** - Did not qualify, **CN DPC S2** - 5th, **WePlay Kyiv AniMajor** - Did not qualify*
-
-Lucky for Elephant, four Chinese teams directly qualified for TI through points. And would you look at that, guess who was always 5th.
-
-**What would success look like?** For the viewers? TI10 being a Rubick meta.
-
-**What to spam in Twitch chat when Elephant is winning?** `pregnant me fy Kreygasm`
+**What to spam in Twitch chat when Secret is winning?** `test123`
 
 ----
 
-# What about...?
+# Who else
 
-Here are some fan favorites not playing at this TI whose current whereabouts you might be curious of.
+Most of your faves were probably in the last chance qualifiers
 
 ## North America
 
@@ -1014,7 +899,7 @@ No one knows what it means, but it's provocative. It gets the people going.
 ## South America
 
 #### hFn, 4dr, tavo, Kingrd, Duster
-* This star studded Brazilian lineup had middling results in the final SA Div 1 DPC Tour 3 and got eliminated early on in TI regional quals.
+* This star studded Brazilian lineup had middling results in SA Div 1 DPC Tour 3 and got eliminated early on in TI regional quals.
 
 ## Western Europe
 
@@ -1056,8 +941,8 @@ No one knows what it means, but it's provocative. It gets the people going.
 
 ## Southeast Asia
 
-#### TNC Predator (Gabbi, Armel, Bok, Tims, Boomy, Coach: Mushi)
-* Did well, but just barely not well enough. 4th in SEA DPC S1, 2nd in SEA DPC S2, and top 8 at the AniMajor. Getting reverse sweeped by Fnatic in the grand finals of the regional quals has gotta be one of those losses that'll haunt them forever.
+#### iceiceice
+* Lol
 
 #### Team SMG (MidOne, Moon, kpii, ah fu, Roddgeee)
 * Dropped out of TI10 SEA quals pretty early in the mix. Poor kpii even flew out to their bootcamp and they got eliminated while he was mandatory quarantining.
