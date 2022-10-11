@@ -123,7 +123,7 @@ These are their stories.
 
 **How did this roster happen?**  Oh it's been happening. Hap
 
-**How was their DPC year?** 2240 Points
+**How was their DPC year?** 2240 points
 
 * **CN DPC Tour 1** - 1st 🥇
 * **CN DPC Tour 1 Regional Final** - 1st 🥇
@@ -162,7 +162,7 @@ As is tradition with LGDs past, they started the year off *cold*. Granted, the C
 Makes sense. Misha was OG's coach last year, so that's a reasonable foundation.
 
 <span class="twitter-dm">When we started doing the recruiting many people turned Misha down</span>
-<span class="twitter-dm">Always asking...."well who are the rest of the team"</span>
+<span class="twitter-dm">Always asking... "well who are the rest of the team"</span>
 <span class="twitter-dm twitter-dm-first">And taiga was the only one ready to take a chance on us</span>
 
 Pretty surprising, actually. Taiga was a part of the Insania crew for the longest time. However, Insania and the boys knew a change had to be made after Liquid failed to qualify to TI last year and Taiga voluntarily fell on the sword. Guess Taiga and OG saw mutual potential in one another.
@@ -181,9 +181,14 @@ You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professio
 
 I don't listen to podcasts. By the way, check out this episode of OG's Monkey Business podcast that I guest starred on!
 
-**How was their DPC year?** 1930 Points
+**How was their DPC year?** 1930 points
 
-* ***WEU DPC S1** - 5th, **ONE Esports Singapore Major** - Did not qualify, **WEU DPC S2** - 6th, **WePlay Kyiv AniMajor** - Did not qualify*
+* **WEU DPC Tour 1** - 4th
+* **WEU DPC Tour 1 Regional Final** - 3rd 🥉
+* **WEU DPC Tour 2** - 1st 🥇
+* **ESL Stockholm Major** - 1st 🥇
+* **WEU DPC Tour 3** - 3rd 🥉
+* **PGL Arlington Major** - 4th
 
 Dude, it was so exciting. Notail called Alliance a bunch of cheaters during the coaching scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French for being mean. The brand appears to be slowly pivoting from esports teams to NFT manufacturers. It's been a ride.
 
@@ -213,9 +218,14 @@ We in the business simply refer to this as OG getting into "TI form."
 
 **How did this roster happen?** You know how EEU/CIS always has those Empire-ass, Gambit-ass, Winstrike-ass, HellRaisers-ass, Yellow Submarine-ass teams that are always *around*? *Around,* like, playing some random ass tournament at some random ass time on some random ass channel? I love those teams. You just know that each one of them are a ticking timebomb of contempt with five different fingers on the disband trigger. But every once in a while, an EEU roster manages to not hate each other for *juuuust* long enough to make it to TI. Shine on you crazy Yellow Submarine boys.
 
-**How was their DPC year?** 1810 Points
+**How was their DPC year?** 1810 points
 
-* ***EEU DPC S1** - 4th, **ONE Esports Singapore Major** - Did not qualify, **EEU DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 7-8th*
+* **EEU DPC Tour 1** - 1st 🥇
+* **EEU DPC Tour 1 Regional Final** - 1st 🥇
+* **EEU DPC Tour 2 Playoff Tournament** - 2nd 🥈
+* **ESL Stockholm Major** - 9-12th
+* **WEU DPC Tour 3** - 3rd 🥉
+* **PGL Arlington Major** - 1st 🥇
 
 VP have been going sicko mode on the region, so it's really hard to gauge how good EEU truly is. Top 8 at the AniMajor is nothing to scoff at and Spirit also went to grand finals against PSG.LGD at the non-DPC OGA Dota PIT Invitational in September. Thas p gud.
 
@@ -241,9 +251,14 @@ VP have been going sicko mode on the region, so it's really hard to gauge how go
 
 **How did this roster happen?** Remember TI9 Infamous? It's the same guys. Yes, a South American team stayed together as five for over *two years.*
 
-**How was their DPC year?** 1810 Points
+**How was their DPC year?** 1810 points
 
-* ***SA DPC S1** - 1st, **ONE Esports Singapore Major\*** - Did not attend, **SA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 14th*
+* **SA DPC Tour 1** - 3rd 🥉
+* **SA DPC Tour 1 Regional Final** - 1st 🥇
+* **SA DPC Tour 2** - 2nd 🥈
+* **ESL Stockholm Major** - 5-6th
+* **SA DPC Tour 3** - 2nd 🥈
+* **PGL Arlington Major** - 5-6th
 
 *'1st place'* SA DPC S1 and a *'Did not attend'* for Singapore? What's that about? Well imagine missing TI because one of your teammates wan--. Nah, you know what, I'm not gonna go there. Honestly, it just makes it all the more impressive that these players have stuck together for as long as they have. All  you need to know is the team tested positive for COVID before Singapore and had to sit the entire event out. As for 14th place at the AniMajor, that's on them.
 
@@ -271,9 +286,14 @@ Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 
 **How did this roster happen?** Borax and Xxs have been Aster fam for a long time, but the other three were brought in around, you guessed it, late 2020. 
 
-**How was their DPC year?** 1610 Points
+**How was their DPC year?** 1610 points
 
-* ***CN DPC S1** - 2nd, **ONE Esports Singapore Major\*** - 9-12th, **CN DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
+* **CN DPC Tour 1** - 2nd 🥈
+* **CN DPC Tour 1 Regional Final** - 3rd 🥉
+* **CN DPC Tour 2** - 3rd 🥉
+* **CN DPC Tour 2 Regional Final** - 2nd 🥈
+* **CN DPC Tour 3** - 2nd 🥈
+* **PGL Arlington Major** - 3rd 🥉
 
 Aster is notorious in China for being civil war specialists. Playing against Chinese teams? Fantastic. International opponents? *[Sit tight and watch their performance!](https://www.reddit.com/r/DotA2/comments/nx9dpk/cn_thoughts_memes_on_aster/)* This has garnered them a pretty negative reputation in China since they effectively just keep wasting their slots at majors. It's not even a recent development. Aster have been getting roasted like this since The Chongqing Major in 2019.
 
@@ -303,9 +323,14 @@ Ironic. The jungle king could save others from ganks, but not himself.
 
 **How did this roster happen?** Whoa, now. *Two* South American teams at TI? Hay talento, hay apoyo. This full Peruvian squad was put together pretty much right before the DPC started. Previously, MoOz had been beastcoast's coach/stand-in for most of 2020, but returned to full time play on TP. Also, yes, that is the Fear you're thinking of who's coaching.
 
-**How was their DPC year?** 1540 Points
+**How was their DPC year?** 1540 points
 
-* ***SA DPC S1** - 2nd, **ONE Esports Singapore Major** - 5-6th, **SA DPC S2** - 3rd, **WePlay Kyiv AniMajor** - Did not qualify*
+* **SA DPC Tour 1** - 1st 🥇
+* **SA DPC Tour 1 Regional Final** - 3rd 🥉
+* **SA DPC Tour 2** - 1st 🥇
+* **ESL Stockholm Major** - 5-6th
+* **SA DPC Tour 3** - 1st 🥇
+* **PGL Arlington Major** - 15-16th
 
 After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own hands. They had quite a few points with their surprise top 6 finish at the Singapore Major, but it wasn't enough to guarantee no other team could leapfrog them in Kyiv. Enter the Evil Genuises who punched TP's ticket by assassinating NoPing, TNC, and Nigma uno a uno at the AniMajor.
 
@@ -336,7 +361,14 @@ After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own
 * Fnatic bumbles their way through S2 to make this new roster work. It's not pretty.
 * Moon is ~~kicked~~ fired from Fnatic ~~for underperforming~~ in a hostile corporate takeover. Deth (an offlaner) is brought in to play offlane and ChYuan assumes mid duties.
 
-**How was their DPC year?** 1482 Points
+**How was their DPC year?** 1482 points
+
+* **SEA DPC Tour 1** - 1st 🥇
+* **SEA DPC Tour 1 Regional Final** - 1st 🥇
+* **SEA DPC Tour 2** - 2nd 🥈
+* **ESL Stockholm Major** - 9-12th
+* **SEA DPC Tour 3** - 1st 🥇
+* **PGL Arlington Major** - 7-8th
 
 ***SEA DPC S1** - 1st, **ONE Esports Singapore Major** - 9-12th, **SEA DPC S2** - 4th, **WePlay Kyiv AniMajor** - Did not qualify*
 
@@ -363,9 +395,14 @@ You got the gist of it. The Fnatic organization is a TI mainstay and has attende
 
 **How did this roster happen?** Honestly, I recommend reading [MoonMeander's heartfelt recap of the team's journey.](https://www.twitlonger.com/show/n_1srpctq)
 
-**How was their DPC year?** 1380 Points
+**How was their DPC year?** 1380 points
 
-* ***NA DPC S1** - 3rd, **ONE Esports Singapore Major** - Did not qualify, **NA DPC S2** - 3rd, **WePlay Kyiv AniMajor** - Did not qualify*
+* **NA DPC Tour 1** - 1st 🥇
+* **NA DPC Tour 1 Regional Final** - 2nd 🥈
+* **NA DPC Tour 2** - 2nd 🥈
+* **ESL Stockholm Major** - 2nd 🥈
+* **NA DPC Tour 3** - 4th
+* **PGL Arlington Major** - Did not qualify
 
 North America is Schrödinger's region. If you don't observe it, the cat could very well be alive. But then you tune in to a few matches and think, "No wonder everyone's moving to Valorant." Shit wrong Valve esport.
 
@@ -397,9 +434,14 @@ Take a game off Arkosh next year.
 
 Then COVID happened and Sumail vanished from competitive Dota for nearly an entire year. But see, I told you he'd be back in the third act. 
 
-**How was their DPC year?** 1212 Points
+**How was their DPC year?** 1212 points
 
-* ***WEU DPC S1** - 5th, **ONE Esports Singapore Major** - Did not qualify, **WEU DPC S2** - 6th, **WePlay Kyiv AniMajor** - Did not qualify*
+* **WEU DPC Tour 1** - 3rd 🥉
+* **WEU DPC Tour 1 Regional Final** - 4th
+* **WEU DPC Tour 2** - 4th
+* **ESL Stockholm Major** - 3rd 🥉
+* **WEU DPC Tour 3** - 1st 🥇
+* **PGL Arlington Major** - 15-16th
 
 Dude, it was so exciting. Notail called Alliance a bunch of cheaters during the coaching scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French for being mean. The brand appears to be slowly pivoting from esports teams to NFT manufacturers. It's been a ride.
 
@@ -431,9 +473,14 @@ We in the business simply refer to this as OG getting into "TI form."
 
 Then COVID happened and Sumail vanished from competitive Dota for nearly an entire year. But see, I told you he'd be back in the third act. 
 
-**How was their DPC year?** 1130 Points
+**How was their DPC year?** 1130 points
 
-* ***WEU DPC S1** - 5th, **ONE Esports Singapore Major** - Did not qualify, **WEU DPC S2** - 6th, **WePlay Kyiv AniMajor** - Did not qualify*
+* **WEU DPC Tour 1** - 2nd 🥈
+* **WEU DPC Tour 1 Regional Final** - 1st 🥇
+* **WEU DPC Tour 2** - 2nd 🥈
+* **ESL Stockholm Major** - 4th
+* **WEU DPC Tour 3** - 6th
+* **PGL Arlington Major** - Did not qualify
 
 Dude, it was so exciting. Notail called Alliance a bunch of cheaters during the coaching scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French for being mean. The brand appears to be slowly pivoting from esports teams to NFT manufacturers. It's been a ride.
 
@@ -465,7 +512,12 @@ We in the business simply refer to this as OG getting into "TI form."
 
 **How was their DPC year?** 1052 points
 
-* ***NA DPC S1** - 1st, **ONE Esports Singapore Major** - 2nd, **NA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 2nd*
+* **NA DPC Tour 1** - 3rd 🥉
+* **NA DPC Tour 1 Regional Final** - 2nd 🥈
+* **NA DPC Tour 2** - 1st 🥇
+* **ESL Stockholm Major** - 13th
+* **NA DPC Tour 3** - 1st 🥇
+* **PGL Arlington Major** - 9-12th
 
 [You may recall that EG were once notorious for always getting third place at events.](https://howdoiplay.com../img/ti11teams/3teezy.png) Times have changed, though. That was a completely different roster, different meta, different era.
 
@@ -500,9 +552,14 @@ Now for a normal person, 2nd place at two majors is pretty incredible. But Dota 
 * Fnatic bumbles their way through S2 to make this new roster work. It's not pretty.
 * Moon is ~~kicked~~ fired from Fnatic ~~for underperforming~~ in a hostile corporate takeover. Deth (an offlaner) is brought in to play offlane and ChYuan assumes mid duties.
 
-**How was their DPC year?** 1020 Points
+**How was their DPC year?** 1020 points
 
-***SEA DPC S1** - 1st, **ONE Esports Singapore Major** - 9-12th, **SEA DPC S2** - 4th, **WePlay Kyiv AniMajor** - Did not qualify*
+* **SEA DPC Tour 1** - 2nd 🥈
+* **SEA DPC Tour 1 Regional Final** - 4th
+* **SEA DPC Tour 2** - 1st 🥇
+* **ESL Stockholm Major** - 7-8th
+* **SEA DPC Tour 3** - 3rd 🥉
+* **PGL Arlington Major** - 9-12th
 
 You got the gist of it. The Fnatic organization is a TI mainstay and has attended every single International since TI3. That streak got dangerously close to ending in the SEA regional qual grand finals, but they managed to reverse sweep TNC.
 
@@ -536,9 +593,14 @@ https://www.reddit.com/r/DotA2/comments/wpd5z2/fnatic_qualify_to_ti_over_outside
 
 **How did this roster happen?** Yawar, Quinn, and MSS have been together since 2019. It was as Forward Gaming, who got turned into TI9 Newbee, who got turned into Quincy Crew, who got turned into Chaos EC, who again turned into Quincy Crew and have remained so since early 2020. Along the way, they imported the Brazilian Lelis and brought LoA/SVG out of semi-retirement.
 
-**How was their DPC year?** 1100 Points
+**How was their DPC year?** 582 points
 
-* ***NA DPC S1** - 2nd, **ONE Esports Singapore Major\*** - 9-12th, **NA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 5-6th*
+* **NA DPC Tour 1** - 1st 🥇
+* **NA DPC Tour 1 Regional Final** - 3rd 🥉
+* **NA DPC Tour 2** - 3rd 🥉
+* **ESL Stockholm Major** - Did not qualify
+* **NA DPC Tour 3** - 2nd 🥈
+* **PGL Arlington Major** - 17th
 
 For most of 2020, practically everyone had written off North America as a region beyond saving and it was basically just EG's sandbox to stomp on kids.
 
@@ -569,9 +631,14 @@ Actually, wait, scratch that. *Quincy Crew* becoming an esports powerhouse brand
 
 **How did this roster happen?** Whoa, now. *Two* South American teams at TI? Hay talento, hay apoyo. This full Peruvian squad was put together pretty much right before the DPC started. Previously, MoOz had been beastcoast's coach/stand-in for most of 2020, but returned to full time play on TP. Also, yes, that is the Fear you're thinking of who's coaching.
 
-**How was their DPC year?** 800 Points
+**How was their DPC year?** 97 points
 
-* ***SA DPC S1** - 2nd, **ONE Esports Singapore Major** - 5-6th, **SA DPC S2** - 3rd, **WePlay Kyiv AniMajor** - Did not qualify*
+* **SA DPC Tour 1** - 6th
+* **SA DPC Tour 1 Regional Final** - Did not qualify
+* **SA DPC Tour 2** - 3rd 🥉
+* **ESL Stockholm Major** - Did not qualify
+* **SA DPC Tour 3** - 8th
+* **PGL Arlington Major** - Did not qualify
 
 After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own hands. They had quite a few points with their surprise top 6 finish at the Singapore Major, but it wasn't enough to guarantee no other team could leapfrog them in Kyiv. Enter the Evil Genuises who punched TP's ticket by assassinating NoPing, TNC, and Nigma uno a uno at the AniMajor.
 
@@ -599,9 +666,14 @@ After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own
 
 Then COVID happened and Sumail vanished from competitive Dota for nearly an entire year. But see, I told you he'd be back in the third act. 
 
-**How was their DPC year?** 36.13 Points
+**How was their DPC year?** 615 points
 
-* ***WEU DPC S1** - 5th, **ONE Esports Singapore Major** - Did not qualify, **WEU DPC S2** - 6th, **WePlay Kyiv AniMajor** - Did not qualify*
+* **WEU DPC Tour 1 - _Division 2_** - 1st 🥇
+* **WEU DPC Tour 1 Regional Final** - Did not qualify
+* **WEU DPC Tour 2** - 6th
+* **ESL Stockholm Major** - Did not qualify
+* **WEU DPC Tour 3** - 4th
+* **PGL Arlington Major** - 5-6th
 
 Dude, it was so exciting. Notail called Alliance a bunch of cheaters during the coaching scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French for being mean. The brand appears to be slowly pivoting from esports teams to NFT manufacturers. It's been a ride.
 
@@ -632,9 +704,14 @@ We in the business simply refer to this as OG getting into "TI form."
 
 **How did this roster happen?** This ain't your dad's VP. No, actually, this is your little brother's VP. This is a group of young players who had been wanting to form a team together for quite a while and were eventually assembled under the *VP.Prodigy* tag in April 2020. They had some stellar performances at a few online tournaments and were soon promoted to the main VP in November 2020.
 
-**How was their DPC year?** 1200 Points
+**How was their DPC year?** 629 points
 
-* ***EEU DPC S1** - 1st, **ONE Esports Singapore Major** - 7-8th, **EEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
+* **EEU DPC Tour 1 - _Division 2_** - 2nd 🥈
+* **EEU DPC Tour 1 Regional Final** - Did not qualify
+* **EEU DPC Tour 2 Playoff Tournament** - 1st 🥇
+* **ESL Stockholm Major** - 7-8th
+* **WEU DPC Tour 3** - 4th
+* **PGL Arlington Major** - Did not qualify
 
 By their own admission, their DPC leagues were FREEEEE. They literally only dropped three out of the thirty-one total games they played during both seasons. Put 'em on LAN though? Weelllll, then they don't look so hot. I liken it to how I never had to study at all during high school. Physics? Simple. World History? Cram the night before.
 
@@ -666,9 +743,14 @@ In VP's defense, this is a young team (literally, their oldest player is DM at 2
 
 **How did this roster happen?** Unlike most of the other Chinese teams at TI10, this roster was *not* frantically cobbled together in late 2020. Instead, it was a slow, methodical process that has had these five players together since September 2019.
 
-**How was their DPC year?** 1100 Points
+**How was their DPC year?** 738 points
 
-* ***CN DPC S1** - 1st, **ONE Esports Singapore Major** - 1st, **CN DPC S2** - 4th, **WePlay Kyiv AniMajor\*** - 15th*
+* **CN DPC Tour 1** - 3rd 🥉
+* **CN DPC Tour 1 Regional Final** - 2nd 🥈
+* **CN DPC Tour 2** - 4th
+* **CN DPC Tour 2 Regional Final** - 4th
+* **CN DPC Tour 3** - 1st 🥇
+* **PGL Arlington Major** - 9-12th
 
 This team's story is probably best told through greentext.
 
@@ -708,9 +790,14 @@ You had to be there.
 
 **How did this roster happen?** Yes, this is *that* T1. The Faker T1. The... tyler1 T1. The T1 brand that's a juggernaut in Korea. Originally announced in late 2019 with Forev at the center, T1 went through multiple iterations before finally putting together this impressively multinational SEA team right before the DPC started. Their last addition was 23savage who replaced JaCkky right before the Singapore Major.
 
-**How was their DPC year?** 1070 Points
+**How was their DPC year?** 300 points
 
-* ***SEA DPC S1** - 3rd, **ONE Esports Singapore Major\*** - 15th, **SEA DPC S2** - 1st, **WePlay Kyiv AniMajor** - 3rd*
+* **SEA DPC Tour 1 - _Division 2_** - 5th
+* **SEA DPC Tour 1 Regional Final** - Did not qualify
+* **SEA DPC Tour 2 - _Division 2_** - 2nd 🥈
+* **ESL Stockholm Major** - Did not qualify
+* **SEA DPC Tour 3** - 2nd 🥈
+* **PGL Arlington Major** - 13-14th
 
 SEA had an interesting conundrum this year. Since their leagues were so intra-regionally competitive, no single team was able to farm both seasons for enough DPC points to break the top 12 rank threshold. As a result, there was a very real possibility that only one SEA team would attend TI10.
 
@@ -757,7 +844,7 @@ You may also remember Fade. Fade ““““retired”””” from Dota after
 I'm not gonna make a Fade pun here, but he's not at TI10.
 </p>
 
-**How was their DPC year?** 950 Points
+**How was their DPC year?** 950 points
 
 * ***CN DPC S1** - 3rd, **ONE Esports Singapore Major** - 7-8th, **CN DPC S2** - 3rd, **WePlay Kyiv AniMajor** - 4th*
 
@@ -789,7 +876,7 @@ What is with Vici and signing teams that are always *good* but never TI champion
 
 **How did this roster happen?** Most of this team should look familiar to you aside from Matumbaman instead of MidOne. Funny enough, Matu was actually planning on taking a break from Dota after a disappointing TI9 on Chaos. But when the Estonian president calls, you answer.
 
-**How was their DPC year?** 950 Points
+**How was their DPC year?** 950 points
 
 * ***WEU DPC S1** - 1st, **ONE Esports Singapore Major** - 4th, **WEU DPC S2** - 4th, **WePlay Kyiv AniMajor** - 16th*
 
@@ -821,7 +908,7 @@ Since Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in
 
 **How did this roster happen?** After Mineski's TI9 run, Nikobaby was a hot commodity in the post-TI shuffle period. He returned from his self-imposed European exile under Alliance's brand and Fata's captainship with LIMMP, 33, and Handsken. A few months later, s4 emerged from his post-EG purgatory and took the crown from Fata as well as rented fng for like six months from Gambit before finally signing him to lock this roster.
 
-**How was their DPC year?** 800 Points
+**How was their DPC year?** 800 points
 
 * ***WEU DPC S1** - 2nd, **ONE Esports Singapore Major** - 13th, **WEU DPC S2** - 1st, **WePlay Kyiv AniMajor** - 9-12th*
 
@@ -857,7 +944,7 @@ Amusingly, the team seems to have taken the criticism to heart and, in the bigge
 
 The majority of this roster came from a much older NoPing e-sports that had been playing together since early 2020. NoPing, like many orgs in COVID times, had to drop their Dota 2 team due to a severe lack of *"The International."* The boys continued playing together as Team Brasil before finally signing to SG esports, an org that quit *all* of their operations 2019, in December 2020.
 
-**How was their DPC year?** 170 Points
+**How was their DPC year?** 170 points
 
 * ***SA DPC S1** - 3rd, **ONE Esports Singapore Major** - Did not qualify, **SA DPC S2** - 6th, **WePlay Kyiv AniMajor** - Did not qualify*
 
@@ -893,7 +980,7 @@ Still doesn't work.
 
 Although, *five* superstar players isn't quite accurate. For both CN DPC seasons they had the relatively unknown RedPanda on support. Most everyone assumed he was just there to be the scapegoat and eventually got replaced by capital "S" *S*uper for regional quals.
 
-**How was their DPC year?** 85 Points
+**How was their DPC year?** 85 points
 
 * ***CN DPC S1** - 5th, **ONE Esports Singapore Major** - Did not qualify, **CN DPC S2** - 5th, **WePlay Kyiv AniMajor** - Did not qualify*
 
