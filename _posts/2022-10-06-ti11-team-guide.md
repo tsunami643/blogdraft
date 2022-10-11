@@ -727,7 +727,7 @@ In VP's defense, this is a young team (literally, their oldest player is DM at 2
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/rng.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Royal Never Give Up</h2>
+<h2 style="margin: 0.25em 0;">Royal Never Give Up - <i>China</i></h2>
 <table>
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Ghost</td>
@@ -774,7 +774,7 @@ You had to be there.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/talon.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Talon Esports</h2>
+<h2 style="margin: 0.25em 0;">Talon Esports - <i>Southeast Asia</i></h2>
 <table>
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">23savage</td>
@@ -807,11 +807,11 @@ But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be p
 
 **What to spam in Twitch chat when Talon are winning?** `MikeHogu MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
 
----
+----
 
-# WHAT
+# The Last Chance Qualifier
 
----
+----
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/vici.jpg" alt="Banner"></p>
