@@ -29,17 +29,6 @@ DPC Changelog
 • Changed terminology of Upper/Lower Division to Division 1/2
 <br>
 </span>
-<span style='background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>BROADCAST UPDATES</span>
-<span style=' font-family: "Radiance","Noto Sans",sans-serif; font-size: 20px; color: #bbbbbbee; line-height: 30px; font-weight: 200; margin-bottom: 20px'>
-<br>
-• EEU DPC broadcasting rights changed from ESL to Epic Esports Events
-<br>
-• NA DPC broadcasting rights changed from BTS to ESL
-<br>
-• SEA DPC broadcasting rights changed from PGL to BTS
-<br>
-• SA DPC broadcasting rights changed from OGA (Dota Pit) to 4D Esports
-</span>
 </div>
 
 Alright, fair enough. At least this is closer to Valve's original vision of the DPC when they [initially pitched the regional league format.](https://web.archive.org/web/20210212054111/http://blog.dota2.com/2020/02/introducing-regional-leagues/) 3 regional leagues, 3 majors, 6 opportunities total to earn points. Still six weeks per league, still the same prize pools (albeit with another full 6 region league and major added to the season), and still the same major slot allocations per region.
@@ -87,6 +76,10 @@ DPC Changelog
 <br>
 </span>
 </div>
+
+That's right. If you look at the title of this blog, you'll see I mentioned *20* teams. 20 TEAM TI, BABY! TWO GROUPS OF 10. 4 TEAMS ELIMINATED AFTER GROUPS.
+
+This is also just a pretty optimized summary of what all happened during the year. China had a whole bunch of difficulties competing this year as did EEU, but we'll get into that.
 
 Also, looking back at that last blog, I couldn't help but notice: `We expect the rest of the year to go as planned`
 
