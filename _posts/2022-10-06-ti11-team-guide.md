@@ -521,7 +521,7 @@ Now for a normal person, 2nd place at two majors is pretty incredible. But Dota 
 
 **What would success look like?** How funny would it be if, after eight years of competing in professional Dota, Arteezy's first Valve LAN event win was TI10.
 
-**What to spam in Twitch chat when EG are winning?** `My streamer FeelsStrongMan`
+**What to spam in Twitch chat when EG are winning?** You can spam pretty much whatever you want, but under no circumstances whatsoever are you allowed to praise Bulba. Doesn't matter if he mindgamed the enemy team into picking Phoenix and Night Stalker
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/fnatic.jpg" alt="Banner"></p>
@@ -699,7 +699,7 @@ We in the business simply refer to this as OG getting into "TI form."
 * **EEU DPC Tour 1 Regional Final** - Did not qualify
 * **EEU DPC Tour 2 Playoff Tournament** - 1st 🥇
 * **ESL Stockholm Major** - 7-8th
-* **WEU DPC Tour 3** - 4th
+* **EEU DPC Tour 3** - 4th
 * **PGL Arlington Major** - Did not qualify
 
 By their own admission, their DPC leagues were FREEEEE. They literally only dropped three out of the thirty-one total games they played during both seasons. Put 'em on LAN though? Weelllll, then they don't look so hot. I liken it to how I never had to study at all during high school. Physics? Simple. World History? Cram the night before.
@@ -797,59 +797,14 @@ But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be p
 **What to spam in Twitch chat when Talon are winning?** `MikeHogu MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/vici.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">TEST TEAM - <i>Last Chance Qualifier #1</i></h2>
-<table>
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">poyoyo (Erica)</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ori</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">old eLeVeN</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Pyw</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Dy</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Fenrir</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** It's probably easier to explain how the old roster un-happened. Ori has been on Vici since the dawn of time, but what about the rest of these names? You may remember Eurus (Paparazi灬) and Yang as being Vici boys for a while, but they were dropped in 2020 for 23savage and old eLeVeN. 23savage got kinda screwed by VG and COVID, didn't play a single game with the team, and poyoyo joined the fray in his place.
-
-You may also remember Fade. Fade ““““retired”””” from Dota after TI9, enjoyed a day at the beach, and then un-retired two weeks later to join Team Aster. Even by Chinese retirement standards, that's pretty quick.
-
-<p class="faded-text" style="
-    -webkit-background-clip: text;
-    background-image: 
-      linear-gradient(
-        currentColor 0%, 
-        transparent
-      );
-    -webkit-text-fill-color: rgba(255,255,255,0.01);}}">
-I'm not gonna make a Fade pun here, but he's not at TI10.
-</p>
-
-**How was their DPC year?** 950 points
-
-* ***CN DPC S1** - 3rd, **ONE Esports Singapore Major** - 7-8th, **CN DPC S2** - 3rd, **WePlay Kyiv AniMajor** - 4th*
-
-I could literally copy-paste what I wrote about Vici's TI8 squad [three years ago](https://howdoiplay.com../2018/07/18/ti8-team-guide.html) and you would not be able to tell the difference.
-
-<blockquote style="font-size: large;">Just some real solid Dotes. You know, a real focus on the fundamentals. The guys are gonna give it their all. Show some real hustle out there. <br><br>And not win.</blockquote>
-
-What is with Vici and signing teams that are always *good* but never TI championship material.
-
-**What would success look like?** ...being TI championship material. Alley-oop.
-
-**What to spam in Twitch chat when Vici is winning?** `NECC GOD`
-
-<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/secret.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Secret - <i>Last Chance Qualifier #2</i></h2>
+<h2 style="margin: 0.25em 0;">Team Secret - <i>Last Chance Qualifier #1</i></h2>
 <table>
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">MATUMBAMAN</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-nl" title="Netherlands" alt="Netherlands">Crystallis</td> 
     <td><img src="../../../img/assets/blank.gif" class="flag flag-pl" title="Poland" alt="Poland">Nisha</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">zai</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">YapzOr</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Resolut1on</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-kg" title="Kyrgyzstan" alt="Kyrgyzstan">YapzOr</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ee" title="Estonia" alt="Estonia">Puppey</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">Heen</td></tr>
@@ -859,9 +814,14 @@ What is with Vici and signing teams that are always *good* but never TI champion
 
 **How did this roster happen?** Most of this team should look familiar to you aside from Matumbaman instead of MidOne. Funny enough, Matu was actually planning on taking a break from Dota after a disappointing TI9 on Chaos. But when the Estonian president calls, you answer.
 
-**How was their DPC year?** 950 points
+**How was their DPC year?** 78 points
 
-* ***WEU DPC S1** - 1st, **ONE Esports Singapore Major** - 4th, **WEU DPC S2** - 4th, **WePlay Kyiv AniMajor** - 16th*
+* **WEU DPC Tour 1** - 5th
+* **WEU DPC Tour 1 Regional Final** - Did not qualify
+* **WEU DPC Tour 2** - 5th
+* **ESL Stockholm Major** - Did not qualify
+* **WEU DPC Tour 3** - 5th
+* **PGL Arlington Major** - Did not qualify
 
 In the world of 2020 online COVID Dota, Secret were kings. If there was a tournament, they e-attended it, obliterated everyone in it, and gave some surprisingly personable winners' interviews afterwards. They were so insanely dominant, in fact, many English/Western-biased viewers extrapolated that European Dota as a whole had simply eclipsed all other regions in terms of game knowledge and mechanics. There wasn't just going to be a skill gap, but rather a skill canyon once international competition with the DPC majors returned.
 
@@ -873,7 +833,46 @@ That ended up not happening and despite being given four slots at each major (ma
 
 Since Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in a row, it could very well happen.
 
-**What to spam in Twitch chat when Secret is winning?** `test123`
+**What to spam in Twitch chat when Secret are winning?** `test123`
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/secret.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Team Liquid - <i>Last Chance Qualifier #2</i></h2>
+<table>
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">MATUMBAMAN</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">miCKe</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">zai</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Boxi</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">iNSaNiA</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Blitz</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** Most of this team should look familiar to you aside from Matumbaman instead of MidOne. Funny enough, Matu was actually planning on taking a break from Dota after a disappointing TI9 on Chaos. But when the Estonian president calls, you answer.
+
+**How was their DPC year?** 890 points
+
+* **WEU DPC Tour 1** - 1st 🥇
+* **WEU DPC Tour 1 Regional Final** - 2nd 🥈
+* **WEU DPC Tour 2** - 3rd 🥉
+* **ESL Stockholm Major** - 9-12th
+* **WEU DPC Tour 3** - 2nd 🥈
+* **PGL Arlington Major** - 9-12th
+
+In the world of 2020 online COVID Dota, Secret were kings. If there was a tournament, they e-attended it, obliterated everyone in it, and gave some surprisingly personable winners' interviews afterwards. They were so insanely dominant, in fact, many English/Western-biased viewers extrapolated that European Dota as a whole had simply eclipsed all other regions in terms of game knowledge and mechanics. There wasn't just going to be a skill gap, but rather a skill canyon once international competition with the DPC majors returned.
+
+That ended up not happening and despite being given four slots at each major (many viewers argued there should be *five*), only two European teams qualified for TI through points. Lucky for Secret, they scooped up enough of those points in the first half of the season so they could finally be kinda bad before TI for once.
+
+**What would success look like?**
+
+<blockquote class="twitter-tweet tw-align-center" data-dnt="true"><p lang="en" dir="ltr">My only purpose in 2020 is to make sure the Finnish president knows who Lasse Urpalainen is.</p>&mdash; Heen (@Heen1337) <a href="https://twitter.com/Heen1337/status/1191536445485277184?ref_src=twsrc%5Etfw">November 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Since Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in a row, it could very well happen.
+
+**What to spam in Twitch chat when Liquid are winning?** `test123`
 
 ----
 
