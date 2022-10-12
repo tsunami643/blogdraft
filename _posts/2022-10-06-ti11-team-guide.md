@@ -9,25 +9,33 @@ flags: true
 
 ### TEST ONE TWO THREE
 
-A lot of people were expecting a big patch. You know maybe some map changes? Instead we kinda just got some letter patches.
+After last year, a lot of people were expecting a big patch for how the competitive season operates. You know maybe some calendar shifts? Economy changes? Instead we just got some number buffs.
 
 <div style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 100%; background-color: #000; padding: 15px 25px; min-height: 0; margin-bottom: 1em; display: flex; flex-direction: column; position: relative;'>
 <span style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 32px; letter-spacing: 4px;'>
 DPC Changelog
 </span>
-<span style='font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 49px; font-weight: bold; letter-spacing: 8px;'>
+<span style='font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 72px; font-weight: bold; letter-spacing: 8px;'>
 2021-2022
 </span>
 <span style=' background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>GENERAL UPDATES</span>
 <br>
-<span style=' font-family: "Radiance","Noto Sans",sans-serif; font-size: 20px; color: #bbbbbbee; line-height: 30px; font-weight: 200;'>
-• Buffed number of leagues/tours from 2 to 3
+<span style=' font-family: "Radiance","Noto Sans",sans-serif; font-size: 20px; color: #bbbbbbee; line-height: 30px; font-weight: 200; margin-bottom: 20px'>
+• Buffed number of Regional Leagues/Tours from 2 to 3
 <br>
-• Buffed number of leagues/tours from 2 to 3
+• Reworked DPC points formula. Leagues and Majors now scale the closer they are to TI. For example, first place in a Regional League now gets 300/400/500 points for Tour 1/2/3 instead of a flat 500 each Tour
 <br>
-• Buffed number of leagues/tours from 2 to 3
+</span>
+<span style='background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>BROADCAST UPDATES</span>
+<span style=' font-family: "Radiance","Noto Sans",sans-serif; font-size: 20px; color: #bbbbbbee; line-height: 30px; font-weight: 200; margin-bottom: 20px'>
 <br>
-• Buffed number of leagues/tours from 2 to 3
+• EEU DPC broadcasting rights changed from ESL to Epic Esports Events
+<br>
+• NA DPC broadcasting rights changed from BTS to ESL
+<br>
+• SEA DPC broadcasting rights changed from PGL to BTS
+<br>
+• SA DPC broadcasting rights changed from OGA (Dota Pit) to 4D Esports
 </span>
 </div>
 
@@ -37,7 +45,7 @@ Then COVID popped off
 <span style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 32px; letter-spacing: 4px;'>
 DPC Changelog
 </span>
-<span style='font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 49px; font-weight: bold; letter-spacing: 8px;'>
+<span style='font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 72px; font-weight: bold; letter-spacing: 8px;'>
 2021-2022.b
 </span>
 <span style=' background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>GENERAL UPDATES</span>
