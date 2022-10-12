@@ -804,7 +804,7 @@ But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be p
     <td><img src="../../../img/assets/blank.gif" class="flag flag-nl" title="Netherlands" alt="Netherlands">Crystallis</td> 
     <td><img src="../../../img/assets/blank.gif" class="flag flag-pl" title="Poland" alt="Poland">Nisha</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Resolut1on</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-kg" title="Kyrgyzstan" alt="Kyrgyzstan">YapzOr</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-kg" title="Kyrgyzstan" alt="Kyrgyzstan">Zayac</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ee" title="Estonia" alt="Estonia">Puppey</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">Heen</td></tr>
@@ -836,7 +836,7 @@ Since Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in
 **What to spam in Twitch chat when Secret are winning?** `test123`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/secret.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="../img/ti11teams/liquid.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Liquid - <i>Last Chance Qualifier #2</i></h2>
 <table>
   <tbody><tr>
@@ -846,7 +846,9 @@ Since Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Boxi</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">iNSaNiA</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Blitz</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Blitz</td>
+    <td><i style="font-size: smaller;">Other Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">JerAx</td>
+    <td><i style="font-size: smaller;">Third Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Jabbz</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -872,7 +874,7 @@ That ended up not happening and despite being given four slots at each major (ma
 
 Since Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in a row, it could very well happen.
 
-**What to spam in Twitch chat when Liquid are winning?** `test123`
+**What to spam in Twitch chat when Liquid are winning?** <img src="../img/ti11teams/zaij.png" alt="Banner" style= "width: 30px">
 
 ----
 
