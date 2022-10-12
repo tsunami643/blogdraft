@@ -12,6 +12,7 @@ flags: true
 After last year, a lot of people were expecting a big patch for how the competitive season operates. You know maybe some calendar shifts? Economy changes? Instead we just got some number buffs.
 
 <div style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 100%; background-color: #000; padding: 15px 25px; min-height: 0; margin-bottom: 1em; display: flex; flex-direction: column; position: relative;'>
+
 <span style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 32px; letter-spacing: 4px;'>
 DPC Changelog
 </span>
@@ -21,9 +22,11 @@ DPC Changelog
 <span style=' background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>GENERAL UPDATES</span>
 <br>
 <span style=' font-family: "Radiance","Noto Sans",sans-serif; font-size: 20px; color: #bbbbbbee; line-height: 30px; font-weight: 200; margin-bottom: 20px'>
-• Buffed number of Regional Leagues/Tours from 2 to 3
+• Increased number of Regional Leagues/Tours from 2 to 3
 <br>
-• Reworked DPC points formula. Leagues and Majors now scale the closer they are to TI. For example, first place in a Regional League now gets 300/400/500 points for Tour 1/2/3 instead of a flat 500 each Tour
+• Reworked DPC points formula. Leagues and Majors now scale the closer they are to TI. For example, 1st place in a Regional League now earns 300/400/500 points for Tour 1/2/3 instead of a flat 500 points each Tour
+<br>
+• Changed terminology of Upper/Lower Division to Division 1/2
 <br>
 </span>
 <span style='background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>BROADCAST UPDATES</span>
@@ -39,23 +42,55 @@ DPC Changelog
 </span>
 </div>
 
-Then COVID popped off
+Alright, fair enough. At least this is closer to Valve's original vision of the DPC when they [initially pitched the regional league format.](https://web.archive.org/web/20210212054111/http://blog.dota2.com/2020/02/introducing-regional-leagues/) 3 regional leagues, 3 majors, 6 opportunities total to earn points. Still six weeks per league, still the same prize pools (albeit with another full 6 region league and major added to the season), and still the same major slot allocations per region.
+
+The first regional tour started near the end of November and things were going along swimmingly. _"I wonder where the first major is?"_ the Dota scene very openly wondered. Well on January 11th, [we found out.](https://web.archive.org/web/20220112065038/https://www.dota2.com/newsentry/3110298479118085517)
 
 <div style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 100%; background-color: #000; padding: 15px 25px; min-height: 0; margin-bottom: 1em; display: flex; flex-direction: column; position: relative;'>
+
 <span style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 32px; letter-spacing: 4px;'>
 DPC Changelog
 </span>
 <span style='font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 72px; font-weight: bold; letter-spacing: 8px;'>
 2021-2022.b
 </span>
-<span style=' background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>GENERAL UPDATES</span>
+<span style=' background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>PANIC UPDATES</span>
 <br>
-<span style=' font-family: "Radiance","Noto Sans",sans-serif; font-size: 20px; color: #bbbbbbee; line-height: 30px; font-weight: 200;'>
-• Fixed some neutral creeps casting their abilities at night when they should be sleeping (Centaurs, Hellbears, Ogre Bruisers, Ancient Thunderhides)
+<span style=' font-family: "Radiance","Noto Sans",sans-serif; font-size: 20px; color: #bbbbbbee; line-height: 30px; font-weight: 200; margin-bottom: 20px'>
+• Due to escalating COVID concerns, the first major has been canceled
+<br>
+• DPC Points that would have been awarded during the first major will now be reallocated to Major 2 and Major 3
+<br>
 </span>
 </div>
 
-Test one two three
+And that was... kind of it? As it is, players were already not particularly jazzed about burning six weeks of their time only having 2 Bo3s a week in these leagues. But they had to grin and bear it to make it to the major. Well, now there's no major. Thanks for playing. Literally.
+
+People were piiiiiiissed.
+
+So Valve went [back to the drawing board.](https://web.archive.org/web/20220122075926/https://www.dota2.com/newsentry/3104670157387376084)
+
+<div style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 100%; background-color: #000; padding: 15px 25px; min-height: 0; margin-bottom: 1em; display: flex; flex-direction: column; position: relative;'>
+
+<span style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 32px; letter-spacing: 4px;'>
+DPC Changelog
+</span>
+<span style='font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 72px; font-weight: bold; letter-spacing: 8px;'>
+2021-2022.c
+</span>
+<span style=' background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>APPEASEMENT UPDATES</span>
+<br>
+<span style=' font-family: "Radiance","Noto Sans",sans-serif; font-size: 20px; color: #bbbbbbee; line-height: 30px; font-weight: 200; margin-bottom: 20px'>
+• An online Regional Finals will replace the Major and award DPC points and prize money
+<br>
+• This year's International will feature a Last Chance Qualifier. During the regional qualifiers, each first place team will be directly invited to TI. Each region's second and third place teams will play a tournament on LAN to determine two more invites to compete at TI
+<br>
+</span>
+</div>
+
+Also, looking back at that last blog, I couldn't help but notice: `We expect the rest of the year to go as planned`
+
+Honestly, I appreciate the optimism.
 
 ---
 
@@ -435,7 +470,7 @@ Pretty good!
 * **WEU DPC Tour 3** - 6th
 * **PGL Arlington Major** - Did not qualify
 
-Keen eyed viewers may take a look at this list and say, "HEY! How does a new stack immediately join Division 1? Shouldn't they have to play through open qualifiers to join Division 2 and then place 1st or 2nd in Division 2 before being promoted to Division 1 in the subsequent tour?" To which I say: pppbbbbbbtttttt.
+Keen eyed viewers may take a look at this list and say, "HEY! How does a new stack immediately join Division 1? Shouldn't they have to play through open qualifiers to join Division 2 and then place 1st or 2nd in Division 2 before being promoted to Division 1 in the subsequent tour?" To which I say: **pppbbbbbbtttttt**.
 
 It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve says that it's _not_ Liquipedia's job. This'll make more sense once you scroll down to Fnatic.
 
