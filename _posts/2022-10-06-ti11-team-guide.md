@@ -1,9 +1,9 @@
 ﻿---
 layout: "post"
-title: "The International 2022: A Practical Guide to All 16 Playoff Teams"
+title: "The International 2022: A Practical Guide to All 20 Teams"
 date: "2022-10-06 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
-feature-img: "img/ti11teams/ti10header.jpg"
+feature-img: "img/ti11teams/ti11header.jpg"
 flags: true
 ---
 
@@ -11,142 +11,34 @@ flags: true
 
 A lot of people were expecting a big patch. You know maybe some map changes? Instead we kinda just got some letter patches.
 
-<div style='    --indent-level: 0;
-    --field-negative-horizontal-margin: 0px;
-    --field-row-children-spacing: 0px;
-    --basicui-header-height: 0px;
-    box-sizing: border-box;
-    font-family: "Radiance","Noto Sans",sans-serif;
-    width: 100%;
-    background-color: #000;
-    padding: 30px 30px;
-    min-height: 0;
-    margin-bottom: 1em;
-    display: flex;
-    flex-direction: column;
-    position: relative;'>
-<span style='    --indent-level: 0;
-    --field-negative-horizontal-margin: 0px;
-    --field-row-children-spacing: 0px;
-    --basicui-header-height: 0px;
-    box-sizing: border-box;
-    font-family: "Radiance","Noto Sans",sans-serif;
-    width: 900px;
-    color: #ed3b1c;
-    font-size: 32px;
-    letter-spacing: 4px;'>DPC Changelog</span>
-<span style='    --indent-level: 0;
-    --field-negative-horizontal-margin: 0px;
-    --field-row-children-spacing: 0px;
-    --basicui-header-height: 0px;
-    box-sizing: border-box;
-    font-family: "Radiance","Noto Sans",sans-serif;
-    width: 900px;
-    color: #ed3b1c;
-    font-size: 72px;
-    font-weight: bold;
-    letter-spacing: 8px;'>
-    2.020b
+<div style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 100%; background-color: #000; padding: 30px 30px; min-height: 0; margin-bottom: 1em; display: flex; flex-direction: column; position: relative;'>
+<span style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 900px; color: #ed3b1c; font-size: 32px; letter-spacing: 4px;'>
+DPC Changelog
 </span>
-<span style='    --indent-level: 0;
-    --field-negative-horizontal-margin: 0px;
-    --field-row-children-spacing: 0px;
-    --basicui-header-height: 0px;
-    box-sizing: border-box;
-    background: linear-gradient(to right, #833312FF, #83331200);
-    border-left: 2px solid #ff5005;
-    font-size: 30px;
-    font-weight: 600;
-    font-family: "Reaver",serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    color: #fff;
-    text-shadow: 0px 0px 5px #000;
-    box-shadow: 0px 0px 30px #000;
-    padding: 12px 20px;'>GENERAL UPDATES</span>
+<span style='font-family: "Radiance","Noto Sans",sans-serif; width: 900px; color: #ed3b1c; font-size: 72px; font-weight: bold; letter-spacing: 8px;'>
+2021-2022
+</span>
+<span style=' background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>GENERAL UPDATES</span>
 <br>
-<span style='    --indent-level: 0;
-    --field-negative-horizontal-margin: 0px;
-    --field-row-children-spacing: 0px;
-    --basicui-header-height: 0px;
-    box-sizing: border-box;
-    font-family: "Radiance","Noto Sans",sans-serif;
-    font-size: 20px;
-    color: #bbbbbbee;
-    line-height: 30px;
-    font-weight: 200;'>
-    • Fixed some neutral creeps casting their abilities at night when they should be sleeping (Centaurs, Hellbears, Ogre Bruisers, Ancient Thunderhides)
-    </span>
+<span style=' font-family: "Radiance","Noto Sans",sans-serif; font-size: 20px; color: #bbbbbbee; line-height: 30px; font-weight: 200;'>
+• Fixed some neutral creeps casting their abilities at night when they should be sleeping (Centaurs, Hellbears, Ogre Bruisers, Ancient Thunderhides)
+</span>
 </div>
 
 Then COVID popped off
 
-<div style='    --indent-level: 0;
-    --field-negative-horizontal-margin: 0px;
-    --field-row-children-spacing: 0px;
-    --basicui-header-height: 0px;
-    box-sizing: border-box;
-    font-family: "Radiance","Noto Sans",sans-serif;
-    width: 100%;
-    background-color: #000;
-    padding: 30px 30px;
-    min-height: 0;
-    margin-bottom: 1em;
-    display: flex;
-    flex-direction: column;
-    position: relative;'>
-<span style='    --indent-level: 0;
-    --field-negative-horizontal-margin: 0px;
-    --field-row-children-spacing: 0px;
-    --basicui-header-height: 0px;
-    box-sizing: border-box;
-    font-family: "Radiance","Noto Sans",sans-serif;
-    width: 900px;
-    color: #ed3b1c;
-    font-size: 32px;
-    letter-spacing: 4px;'>DPC Changelog</span>
-<span style='    --indent-level: 0;
-    --field-negative-horizontal-margin: 0px;
-    --field-row-children-spacing: 0px;
-    --basicui-header-height: 0px;
-    box-sizing: border-box;
-    font-family: "Radiance","Noto Sans",sans-serif;
-    width: 900px;
-    color: #ed3b1c;
-    font-size: 72px;
-    font-weight: bold;
-    letter-spacing: 8px;'>
-    2.020b
+<div style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 100%; background-color: #000; padding: 30px 30px; min-height: 0; margin-bottom: 1em; display: flex; flex-direction: column; position: relative;'>
+<span style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 900px; color: #ed3b1c; font-size: 32px; letter-spacing: 4px;'>
+DPC Changelog
 </span>
-<span style='    --indent-level: 0;
-    --field-negative-horizontal-margin: 0px;
-    --field-row-children-spacing: 0px;
-    --basicui-header-height: 0px;
-    box-sizing: border-box;
-    background: linear-gradient(to right, #833312FF, #83331200);
-    border-left: 2px solid #ff5005;
-    font-size: 30px;
-    font-weight: 600;
-    font-family: "Reaver",serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    color: #fff;
-    text-shadow: 0px 0px 5px #000;
-    box-shadow: 0px 0px 30px #000;
-    padding: 12px 20px;'>GENERAL UPDATES</span>
+<span style='font-family: "Radiance","Noto Sans",sans-serif; width: 900px; color: #ed3b1c; font-size: 72px; font-weight: bold; letter-spacing: 8px;'>
+2021-2022.b
+</span>
+<span style=' background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>GENERAL UPDATES</span>
 <br>
-<span style='    --indent-level: 0;
-    --field-negative-horizontal-margin: 0px;
-    --field-row-children-spacing: 0px;
-    --basicui-header-height: 0px;
-    box-sizing: border-box;
-    font-family: "Radiance","Noto Sans",sans-serif;
-    font-size: 20px;
-    color: #bbbbbbee;
-    line-height: 30px;
-    font-weight: 200;'>
-    • Fixed some neutral creeps casting their abilities at night when they should be sleeping (Centaurs, Hellbears, Ogre Bruisers, Ancient Thunderhides)
-    </span>
+<span style=' font-family: "Radiance","Noto Sans",sans-serif; font-size: 20px; color: #bbbbbbee; line-height: 30px; font-weight: 200;'>
+• Fixed some neutral creeps casting their abilities at night when they should be sleeping (Centaurs, Hellbears, Ogre Bruisers, Ancient Thunderhides)
+</span>
 </div>
 
 Test one two three
