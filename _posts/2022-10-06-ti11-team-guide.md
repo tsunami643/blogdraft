@@ -21,7 +21,13 @@ DPC Changelog
 <span style=' background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>GENERAL UPDATES</span>
 <br>
 <span style=' font-family: "Radiance","Noto Sans",sans-serif; font-size: 20px; color: #bbbbbbee; line-height: 30px; font-weight: 200;'>
-• Fixed some neutral creeps casting their abilities at night when they should be sleeping (Centaurs, Hellbears, Ogre Bruisers, Ancient Thunderhides)
+• Buffed number of leagues/tours from 2 to 3
+
+• Buffed number of leagues/tours from 2 to 3
+
+• Buffed number of leagues/tours from 2 to 3
+
+• Buffed number of leagues/tours from 2 to 3
 </span>
 </div>
 
