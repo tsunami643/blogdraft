@@ -9,103 +9,154 @@ flags: true
 
 ### TEST ONE TWO THREE
 
-Against all odds, The International 2021 is finally upon us. But you're looking a little lost. Have you not been keeping up with the DPC? The teams, the patches, the meta, the drama? Has everything between March 2020 to October 2021 simply been a blur? Relax, you're in the right place. I just need one quick favor from you to calibrate your Dota esports MMR.
+A lot of people were expecting a big patch. You know maybe some map changes? Instead we kinda just got some letter patches.
 
-Please answer the following question:
-
-<p style="font-size: 1.3em; font-weight: bold;">Who is the current offlaner for EG?
-
-<select id="dropDown" onchange="test()" style="font-weight: 100;">
- <option value="default" selected="selected">Select offlaner</option>
- <option value="one" id="RAMZES666">RAMZES666</option>
- <option value="two" id="iceiceice">iceiceice</option>
- <option value="three" id="s4">s4</option>
- <option value="four" id="UNiVeRsE">UNiVeRsE</option>
- <option value="five" id="what">What's an offlaner?</option>
-</select>
-</p>
-
-<p style="font-size: 1.38em; font-weight: bold;">You stopped watching Dota:
-<span id="wrapperOne" style="display: none;font-weight: 100;">Riiiight before COVID</span>
-<span id="wrapperTwo" style="display: none;font-weight: 100;">Never, you fiend</span>
-<span id="wrapperThree" style="display: none;font-weight: 100;">After TI9</span>
-<span id="wrapperFour" style="display: none;font-weight: 100;">This is awkward</span>
-<span id="wrapperFive" style="display: none;font-weight: 100;">You never started</span>
-</p>
-
-<div id="paragraphOne" style="display: none; line-height:1.5em;">
-World goes to hell in a handbasket and you just <i>leave Dota?</i> After everything we've been through? You know we still had tournaments going on in 2020! You really missed out. Sort of. Well at least you're here now. Please don't leave again, our player count numbers can't take it.
+<div style='    --indent-level: 0;
+    --field-negative-horizontal-margin: 0px;
+    --field-row-children-spacing: 0px;
+    --basicui-header-height: 0px;
+    box-sizing: border-box;
+    font-family: "Radiance","Noto Sans",sans-serif;
+    width: 100%;
+    background-color: #000;
+    padding: 30px 30px;
+    min-height: 0;
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: column;
+    position: relative;'>
+<span style='    --indent-level: 0;
+    --field-negative-horizontal-margin: 0px;
+    --field-row-children-spacing: 0px;
+    --basicui-header-height: 0px;
+    box-sizing: border-box;
+    font-family: "Radiance","Noto Sans",sans-serif;
+    width: 900px;
+    color: #ed3b1c;
+    font-size: 32px;
+    letter-spacing: 4px;'>DPC Changelog</span>
+<span style='    --indent-level: 0;
+    --field-negative-horizontal-margin: 0px;
+    --field-row-children-spacing: 0px;
+    --basicui-header-height: 0px;
+    box-sizing: border-box;
+    font-family: "Radiance","Noto Sans",sans-serif;
+    width: 900px;
+    color: #ed3b1c;
+    font-size: 72px;
+    font-weight: bold;
+    letter-spacing: 8px;'>
+    2.020b
+</span>
+<span style='    --indent-level: 0;
+    --field-negative-horizontal-margin: 0px;
+    --field-row-children-spacing: 0px;
+    --basicui-header-height: 0px;
+    box-sizing: border-box;
+    background: linear-gradient(to right, #833312FF, #83331200);
+    border-left: 2px solid #ff5005;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Reaver",serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #fff;
+    text-shadow: 0px 0px 5px #000;
+    box-shadow: 0px 0px 30px #000;
+    padding: 12px 20px;'>GENERAL UPDATES</span>
+<br>
+<span style='    --indent-level: 0;
+    --field-negative-horizontal-margin: 0px;
+    --field-row-children-spacing: 0px;
+    --basicui-header-height: 0px;
+    box-sizing: border-box;
+    font-family: "Radiance","Noto Sans",sans-serif;
+    font-size: 20px;
+    color: #bbbbbbee;
+    line-height: 30px;
+    font-weight: 200;'>
+    • Fixed some neutral creeps casting their abilities at night when they should be sleeping (Centaurs, Hellbears, Ogre Bruisers, Ancient Thunderhides)
+    </span>
 </div>
-<div id="paragraphTwo" style="display: none; line-height:1.5em;">
-You're not the demographic for this guide, get outta here. Go watch a Jenkins video and post your first rampage on <i>/r/dota2</i> for 27 upvotes.
-</div>
-<div id="paragraphThree" style="display: none; line-height:1.5em;">
-...ever heard of a "neutral item" before? No? How about the term <i>'sunmommy'</i>? Nothing? Well this is gonna be one confusing TI for you.</div>
-<div id="paragraphFour" style="display: none; line-height:1.5em; font-size:large;">
-Just a second, let me get into character.<br><blockquote style="font-size: 1.1 em;">Whoa, long time no see. What have you been up to? You got married? No way, that's awesome! One on the way too? Wow. Congratulations. Our old stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one game we won with your Storm Spirit after you snatched the Aegis? Good times. Anyway, n-nice catching up with you.</blockquote></div>
-<div id="paragraphFive" style="display: none; line-height:1.5em; font-size:large;">
-Trying to impress somebody? Talk about relationship goals, you're a keeper. Ok so in the current 7.30d meta an offlaner, also known as the '3', is usually a tanky initiat--<br><br>Actually, forget it. All you need to know is if your special someone starts stressing out in the first few minutes of a game just say, "It's ok, babe. Laning phase doesn't matter."</div>
 
-<script>
-  var dropDown = document.getElementById("dropDown"),
-   myWrappers = [
-      document.getElementById("wrapperOne"),
-      document.getElementById("wrapperTwo"),
-      document.getElementById("wrapperThree"),
-      document.getElementById("wrapperFour"),
-      document.getElementById("wrapperFive")
-   ];
-   myParagraphs = [
-      document.getElementById("paragraphOne"),
-      document.getElementById("paragraphTwo"),
-      document.getElementById("paragraphThree"),
-      document.getElementById("paragraphFour"),
-      document.getElementById("paragraphFive")
-   ];
-function test() {
-for (i=0; i<myWrappers.length; i++){
-    if(dropDown.value === "default"){ 
-       myWrappers[i].style.display = "none";
-       myParagraphs[i].style.display = "none";
-     } else if(dropDown.value === "one"){
-       myWrappers[i].style.display = "none";
-       myParagraphs[i].style.display = "none";
-       myWrappers[0].style.display = "inline";
-       myParagraphs[0].style.display = "block";
-      } else if(dropDown.value === "two"){
-       myWrappers[i].style.display = "none";
-       myParagraphs[i].style.display = "none";
-       myWrappers[1].style.display = "inline";
-       myParagraphs[1].style.display = "block";
-      } else if(dropDown.value === "three"){
-       myWrappers[i].style.display = "none";
-       myParagraphs[i].style.display = "none";
-       myWrappers[2].style.display = "inline";
-       myParagraphs[2].style.display = "block";
-      } else if(dropDown.value === "four"){
-       myWrappers[i].style.display = "none";
-       myParagraphs[i].style.display = "none";
-       myWrappers[3].style.display = "inline";
-       myParagraphs[3].style.display = "block";
-      } else if(dropDown.value === "five"){
-       myWrappers[i].style.display = "none";
-       myParagraphs[i].style.display = "none";
-       myWrappers[4].style.display = "inline";
-       myParagraphs[4].style.display = "block";
-      }
- }
-}
-</script>
+Then COVID popped off
+
+<div style='    --indent-level: 0;
+    --field-negative-horizontal-margin: 0px;
+    --field-row-children-spacing: 0px;
+    --basicui-header-height: 0px;
+    box-sizing: border-box;
+    font-family: "Radiance","Noto Sans",sans-serif;
+    width: 100%;
+    background-color: #000;
+    padding: 30px 30px;
+    min-height: 0;
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: column;
+    position: relative;'>
+<span style='    --indent-level: 0;
+    --field-negative-horizontal-margin: 0px;
+    --field-row-children-spacing: 0px;
+    --basicui-header-height: 0px;
+    box-sizing: border-box;
+    font-family: "Radiance","Noto Sans",sans-serif;
+    width: 900px;
+    color: #ed3b1c;
+    font-size: 32px;
+    letter-spacing: 4px;'>DPC Changelog</span>
+<span style='    --indent-level: 0;
+    --field-negative-horizontal-margin: 0px;
+    --field-row-children-spacing: 0px;
+    --basicui-header-height: 0px;
+    box-sizing: border-box;
+    font-family: "Radiance","Noto Sans",sans-serif;
+    width: 900px;
+    color: #ed3b1c;
+    font-size: 72px;
+    font-weight: bold;
+    letter-spacing: 8px;'>
+    2.020b
+</span>
+<span style='    --indent-level: 0;
+    --field-negative-horizontal-margin: 0px;
+    --field-row-children-spacing: 0px;
+    --basicui-header-height: 0px;
+    box-sizing: border-box;
+    background: linear-gradient(to right, #833312FF, #83331200);
+    border-left: 2px solid #ff5005;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Reaver",serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #fff;
+    text-shadow: 0px 0px 5px #000;
+    box-shadow: 0px 0px 30px #000;
+    padding: 12px 20px;'>GENERAL UPDATES</span>
+<br>
+<span style='    --indent-level: 0;
+    --field-negative-horizontal-margin: 0px;
+    --field-row-children-spacing: 0px;
+    --basicui-header-height: 0px;
+    box-sizing: border-box;
+    font-family: "Radiance","Noto Sans",sans-serif;
+    font-size: 20px;
+    color: #bbbbbbee;
+    line-height: 30px;
+    font-weight: 200;'>
+    • Fixed some neutral creeps casting their abilities at night when they should be sleeping (Centaurs, Hellbears, Ogre Bruisers, Ancient Thunderhides)
+    </span>
+</div>
+
+Test one two three
+
+---
 
 # The Invites
 
-Remember the *Dota Pro Circuit/DPC*? It's back. In league form.
+---
 
-There are plenty of resources out there that'll [explain the system](https://liquipedia.net/dota2/Dota_Pro_Circuit/2021) in all its gory details, so I'm not gonna bother. All you really need to know is each team had four opportunities to earn DPC points this year: Their regional league season 1 *(Jan-Mar 2021)*, the Singapore Major *(Apr 2021)*, their regional league season 2 *(Apr-May 2021)*, and the Kyiv AniMajor *(May 2021)*. The top 12 teams with the most DPC points at the end of the year got directly invited to TI10.
-
-These are their stories.
-
-<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/lgd.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PSG.LGD</h2>
 <table>
@@ -874,7 +925,7 @@ That ended up not happening and despite being given four slots at each major (ma
 
 Since Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in a row, it could very well happen.
 
-**What to spam in Twitch chat when Liquid are winning?** <img src="../img/ti11teams/zaij.png" alt="Banner" style= "width: 30px">
+**What to spam in Twitch chat when Liquid are winning?** <img src="../img/ti11teams/zaij.png" alt="zaiJ" style= "width: 30px">
 
 ----
 
