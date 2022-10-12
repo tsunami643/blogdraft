@@ -11,33 +11,33 @@ flags: true
 
 A lot of people were expecting a big patch. You know maybe some map changes? Instead we kinda just got some letter patches.
 
-<div style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 100%; background-color: #000; padding: 30px 30px; min-height: 0; margin-bottom: 1em; display: flex; flex-direction: column; position: relative;'>
-<span style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 900px; color: #ed3b1c; font-size: 32px; letter-spacing: 4px;'>
+<div style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 100%; background-color: #000; padding: 15px 25px; min-height: 0; margin-bottom: 1em; display: flex; flex-direction: column; position: relative;'>
+<span style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 32px; letter-spacing: 4px;'>
 DPC Changelog
 </span>
-<span style='font-family: "Radiance","Noto Sans",sans-serif; width: 900px; color: #ed3b1c; font-size: 72px; font-weight: bold; letter-spacing: 8px;'>
+<span style='font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 49px; font-weight: bold; letter-spacing: 8px;'>
 2021-2022
 </span>
 <span style=' background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>GENERAL UPDATES</span>
 <br>
 <span style=' font-family: "Radiance","Noto Sans",sans-serif; font-size: 20px; color: #bbbbbbee; line-height: 30px; font-weight: 200;'>
 • Buffed number of leagues/tours from 2 to 3
-
+<br>
 • Buffed number of leagues/tours from 2 to 3
-
+<br>
 • Buffed number of leagues/tours from 2 to 3
-
+<br>
 • Buffed number of leagues/tours from 2 to 3
 </span>
 </div>
 
 Then COVID popped off
 
-<div style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 100%; background-color: #000; padding: 30px 30px; min-height: 0; margin-bottom: 1em; display: flex; flex-direction: column; position: relative;'>
-<span style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 900px; color: #ed3b1c; font-size: 32px; letter-spacing: 4px;'>
+<div style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 100%; background-color: #000; padding: 15px 25px; min-height: 0; margin-bottom: 1em; display: flex; flex-direction: column; position: relative;'>
+<span style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 32px; letter-spacing: 4px;'>
 DPC Changelog
 </span>
-<span style='font-family: "Radiance","Noto Sans",sans-serif; width: 900px; color: #ed3b1c; font-size: 72px; font-weight: bold; letter-spacing: 8px;'>
+<span style='font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 49px; font-weight: bold; letter-spacing: 8px;'>
 2021-2022.b
 </span>
 <span style=' background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>GENERAL UPDATES</span>
