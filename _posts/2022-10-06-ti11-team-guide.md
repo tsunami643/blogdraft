@@ -53,7 +53,7 @@ DPC Changelog
 </span>
 </div>
 
-And that was... kind of it? As it is, players were already not particularly jazzed about burning six weeks of their time only having 2 Bo3s a week in these leagues. But they had to grin and bear it to make it to the major. Well, now there's no major. Thanks for playing. Literally.
+And then that was... kind of it? As it is, players were already not particularly jazzed about burning six weeks of their time only having 2 Bo3s a week in these leagues. But they had to grin and bear it to make it to the major. Well, now there's no major. Thanks for playing. Literally.
 
 People were piiiiiiissed.
 
@@ -79,7 +79,7 @@ DPC Changelog
 
 That's right. If you look at the title of this blog, you'll see I mentioned *20* teams. 20 TEAM TI, BABY! TWO GROUPS OF 10. 4 TEAMS ELIMINATED AFTER GROUPS.
 
-This is also just a pretty optimized summary of what all happened during the year. China had a whole bunch of difficulties competing this year as did EEU, but we'll get into that.
+This is also just a pretty optimized summary of what all happened during the year. China had a whole bunch of difficulties competing internationally this year as did EEU, but we'll get into that.
 
 Also, looking back at that last blog, I couldn't help but notice: `We expect the rest of the year to go as planned`
 
