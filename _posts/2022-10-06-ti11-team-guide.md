@@ -558,9 +558,9 @@ They played some Dota and got some placements. Doesn't matter. The only part tha
 
 This year, Fnatic were **0.05** DPC points behind Outsiders/VP to qualify for the last spot at TI. Exciting! Okay, so Arlington Major time. Fnatic lose to Team Aster in upper bracket. Oh no! But Outsiders also lose to Team Spirit! Then Outsiders beat RNG in lower bracket! Oh man! Fnatic then lose to beastcoast, thus eliminating them from TI contention. Wow, that's crazy. Congrats to Outsiders, though, they're going to TI.
 
-<p style="font-family: Georgia; font-size: 2em;">[EXTREMELY LOUD INCORRECT BUZZER]</p>
+<p style="font-family: Georgia; font-size: 1.8em; font-weight: 600; text-align: center;">[EXTREMELY LOUD INCORRECT BUZZER]</p>
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">We are aware of a discrepancy regarding how the DPC standings are calculated when compared to unofficial sources. The DPC website <a href="https://t.co/lqfXMpOBmD">https://t.co/lqfXMpOBmD</a> reflects the official standings for the 2021-2022 season.</p>&mdash; DOTA 2 (@DOTA2) <a href="https://twitter.com/DOTA2/status/1559303263572283392?ref_src=twsrc%5Etfw">August 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-dnt="true"><p lang="en" dir="ltr">We are aware of a discrepancy regarding how the DPC standings are calculated when compared to unofficial sources. The DPC website <a href="https://t.co/lqfXMpOBmD">https://t.co/lqfXMpOBmD</a> reflects the official standings for the 2021-2022 season.</p>&mdash; DOTA 2 (@DOTA2) <a href="https://twitter.com/DOTA2/status/1559303263572283392?ref_src=twsrc%5Etfw">August 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Or as the community saw it.
 
