@@ -717,7 +717,7 @@ That being said, they still played well throughout the SA qualifier and actually
 <span id="wrapperThree" style="display: none; font-size: larger; font-weight: 600;">Let's get you to bed, grandpa.</span>
 <span id="wrapperFour" style="display: none; font-size: larger; font-weight: 600;">DING DING DING! YOU WIN! Where'd Iceberg go? Your guess is as good as mine.</span>
 <span id="wrapperFive" style="display: none; font-size: larger; font-weight: 600;">Oooh, so close.</span>
-<span id="wrapperSix" style="display: none; font-size: larger; font-weight: 600;">Incorrect. But pour one out for my boy Dondo, he's finally retired.</span>
+<span id="wrapperSix" style="display: none; font-size: larger; font-weight: 600;">Incorrect. But pour one out for my boy Dondo. He finally retired!</span>
 
 <script>
   var dropDown = document.getElementById("dropDown"),
