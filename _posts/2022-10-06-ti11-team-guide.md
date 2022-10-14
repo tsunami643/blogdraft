@@ -552,11 +552,13 @@ Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of 
 * **SEA DPC Tour 2** - 1st 🥇
 * **ESL Stockholm Major** - 7-8th
 * **SEA DPC Tour 3** - 3rd 🥉
-* **PGL Arlington Major** - 9-12th
+* **PGL Arlington Major** - 9-12th*
 
 They played some Dota and got some placements. Doesn't matter. The only part that does matter is that 9-12th you see at the bottom of that list.
 
-Before the Arlington Major started, Fnatic were **0.05** DPC points behind Outsiders/VP to qualify for the last spot at TI. Exciting! Okay, so Fnatic lose to Team Aster in upper bracket. Not good! But Outsiders also lose to Team Spirit. Then Outsiders beat RNG in lower bracket! Oh man! Fnatic then lose to beastcoast, thus eliminating them from TI contention. Oh nooo! Congrats to Outsiders, though, they're going to TI!
+Before the Arlington Major started, Fnatic were **0.05** DPC points behind Outsiders/VP to qualify for the last spot at TI. Exciting! Massive visa issues happen and only Jabz and DJ can make it. Not good! It's fine, they're allowed to get 3 of TSM's players to stand-in. Great! Wait, what? Who cares, they can play! Fnatic lose to Team Aster in upper bracket. Uh oh! But Outsiders also lose to Team Spirit. Then Outsiders beat RNG in lower bracket! Oh man! Fnatic then lose to beastcoast, thus eliminating them from TI contention. Oh nooo!
+
+Congrats to Outsiders, though, they're going to TI!
 
 <p style="font-family: Georgia; font-size: 1.8em; font-weight: 600; text-align: center;">[EXTREMELY LOUD INCORRECT BUZZER]</p>
 
@@ -566,7 +568,7 @@ Or as the community saw it.
 
 <p style="text-align: center;"><img src="../img/ti11teams/fnaticchest.jpg" alt="Ye Olde Unoffical Source" style="width: 500px;"></p>
 
-[It turns out Valve uses a *different* metric for calculating partial points that Liquipedia was not privy to.](https://www.reddit.com/r/DotA2/comments/wpd5z2/fnatic_qualify_to_ti_over_outsiders_ruling_from/ikgad8h/) Obviously the official source should be the most trusted one, but Dota fans haven't exactly been able to count on Valve for regularly maintained documentation. In fact, at the time of this ruling, there were still some errors calculating other teams' point values on the official Valve ranking site.
+[It turns out Valve uses a different metric for calculating partial points that Liquipedia was not privy to.](https://www.reddit.com/r/DotA2/comments/wpd5z2/fnatic_qualify_to_ti_over_outsiders_ruling_from/ikgad8h/) Now obviously the official source should be the most trusted one, but Dota fans haven't exactly been able to count on Valve for regularly maintained documentation. In fact, at the time of this ruling, there were still some errors calculating other teams' point values on the official Valve ranking site.
 
 Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liquipedia was branded as an 'unofficial source.' Crazy stuff.
 
@@ -608,9 +610,7 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 
 
 
-**What would success look like?** Getting a sponsor.
-
-Actually, wait, scratch that. *Quincy Crew* becoming an esports powerhouse brand would be the real success story. *QC FTX* when?
+**What would success look like?** XXXX
 
 **What to spam in Twitch chat when Soniqs are winning?** `HATERS SUCK MY NUTS ccncBayed`
 
@@ -664,9 +664,11 @@ That being said, they still played well throughout the SA qualifier and actually
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** 
+**How did this roster happen?** Fishman and Crystallis were a part of the same Creepwave roster as ATF, bzm, and Chuvash. After those three left for OG, the remaining members joined up with Stormstormer, Tobi, and Kataomi. They dominated Div 2 Tour 1, got promoted, and did well enough to not get relegated after Tour 2. They did so well, in fact, Puppey was like, "Hey nice carry. Mind if I yoink him?" It was probably more complicated than that, but the end result is Entity were looking to be carryless coming into Tour 3.
 
-The replacement, 18 year old Russian 'Pure,' is a bit of a sore spot for people wanting to root for the team. Formerly playing for VP in EEU, [he drew a Russian militarist 'Z' on the minimap during a pause.](https://dotesports.com/dota-2/news/virtus-pro-dota-disqualified-dpc-regional-playoffs-pure-draws-z-on-mini-map) VP promptly released him a day later. [He later apologized upon joining Entity,](https://twitter.com/puredota187/status/1533128464244609025) but 
+A replacement happened to present itself in the form of 18 year old Russian core player, Pure. Now the reason he happened to suddenly become a free agent is a sore spot for people wanting to root for this team. Formerly playing for VP in EEU during Tour 2, [he drew a Russian militarist 'Z' on the minimap during a pause.](https://dotesports.com/dota-2/news/virtus-pro-dota-disqualified-dpc-regional-playoffs-pure-draws-z-on-mini-map) VP promptly released him a day later. [He later apologized after joining Entity,](https://twitter.com/puredota187/status/1533128464244609025) but many people either doubted the sincerity or considered the bridge to already be burned beyond repair.
+
+He is quite good at Dota, though. In the reductive and sarcastic words of Zack Fox, ["What's a couple of lives when you got bars?"](https://youtu.be/xzAOODb2124?t=132)
 
 **How was their DPC year?** 615 points
 
@@ -677,9 +679,9 @@ The replacement, 18 year old Russian 'Pure,' is a bit of a sore spot for people 
 * **WEU DPC Tour 3** - 4th
 * **PGL Arlington Major** - 5-6th*
 
+Fun fact: Even if they won the Arlington Major, they still wouldn't have had enough points to get directly invited to TI. Flaw in the system or working as intended? Pure wasn't able to attend Arlington so TSM's offlaner Saberlight actually stood in on his behalf and had a grand old time playing carry.
 
-
-**What would success look like?** Fun fact: Every player in this team is popping their TI cherry this year. Wild!
+**What would success look like?** Another fun fact: Every player on this team is popping their TI cherry this year.
 
 **What to spam in Twitch chat when Entity are winning?** `ENTITY INDIAN PRIDE`
 
@@ -700,11 +702,11 @@ The replacement, 18 year old Russian 'Pure,' is a bit of a sore spot for people 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** IT'S TIME FOR GUESS. THAT. EEU. TEAAAAAAM.
+**How did this roster happen?** IT'S TIME FOR GUESS. THAT. TEAAAAAAM.
 
 <p style="font-size: 1.3em; font-weight: bold;">Reader, for $0...</p>
 
-<p style="font-size: 1.3em; font-weight: bold;">Name the tag that this roster played under before being acquired by BetBoom</p>
+<p style="font-size: 1.3em; font-weight: bold;">Name the EEU brand this roster played under before being acquired by BetBoom</p>
 
 <select id="dropDown" onchange="test()" style="font-weight: 100;">
  <option value="default" selected="selected">Select team</option>
@@ -719,7 +721,7 @@ The replacement, 18 year old Russian 'Pure,' is a bit of a sore spot for people 
 <span id="wrapperOne" style="display: none; font-size: larger; font-weight: 600;">It usually is, right? But not this time!</span>
 <span id="wrapperTwo" style="display: none; font-size: larger; font-weight: 600;">Nope, but nice try.</span>
 <span id="wrapperThree" style="display: none; font-size: larger; font-weight: 600;">Let's get you to bed, grandpa.</span>
-<span id="wrapperFour" style="display: none; font-size: larger; font-weight: 600;">DING DING DING! YOU WIN! Where'd Iceberg go? Your guess is as good as mine.</span>
+<span id="wrapperFour" style="display: none; font-size: larger; font-weight: 600;">DING DING DING! YOU WIN! Where'd Iceberg go? Your guess is as good as mine!</span>
 <span id="wrapperFive" style="display: none; font-size: larger; font-weight: 600;">Oooh, so close.</span>
 <span id="wrapperSix" style="display: none; font-size: larger; font-weight: 600;">Incorrect. But pour one out for my boy Dondo. He finally retired!</span>
 
@@ -960,10 +962,10 @@ That makes 4 times that VP were one series away from qualifying to TI. Pain.
 
 Congratulations! More and more people have told me they actually use these blogs as legitimate primers to catch up on the latest year of Dota esports, so I actually tried to give more real information this time rather than vomiting 70000 characters of unfiltered memes and inside jokes.
 
-As always, my sincerest thanks to the many volunteers who <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/2021-22">keep Liquipedia up to date.</a> You may be an unofficial source in Valve's eyes, but this wiki has vandalized my heart.
+As always, my sincerest thanks to the many volunteers who [keep Liquipedia up to date.](https://liquipedia.net/dota2/Dota_Pro_Circuit/2021-22) You may be an unofficial source in Valve's eyes, but this wiki has vandalized my heart.
 
 If you enjoyed this article and want to keep up with me, I'm around on [Twitter](https://twitter.com/tsunami643), [Twitch](https://twitch.tv/tsunami643), or [Instagram](https://instagram.com/tsunami643).
 
 Also, feel free to [buy my TI11 voiceline](https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s) or hit up the [howdoiplay merch store](https://shop.howdoiplay.com/) to support me!
 
-<p style="font-size: 1.5em;"><a href="https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s"><b>Discussion for this article on /r/dota2.</a></p>
+<p style="font-size: 1.5em;"><a href="https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s"><b>Discussion for this article on /r/dota2.</b></a></p>
