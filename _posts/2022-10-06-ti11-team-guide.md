@@ -524,7 +524,7 @@ It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve s
 
 I'm not gonna sugarcoat it, the Jerax 5 experiment was not pleasant. It was like watching a roster [generated through Dall-E mini.](../img/ti11teams/jeraxdalle.jpg) At first glance, "Whoa, this is so cool!" But the longer you stare at it, the more horrifying it gets. EG got away with it for a while because Jerax is still incredibly gifted and... well because it was the NA DPC, but it wasn't pretty.
 
-After the Stockholm Major, Jerax left and Fly was brought back in. The team gelled pretty much immediately and yet somehow got destroyed all over again in Arlington. EG's TI invitation fate wasn't even in their hands near the end, but beastcoast repaid their TI10 debt and eliminated the next closest point teams, Fnatic and Outsiders/VP, in Arlington. Te quiero mucho Arturito goes both ways.
+After a disappointing Stockholm Major finish, Jerax left and Fly was brought back in. The team gelled pretty much immediately and yet somehow got destroyed all over again in Arlington. EG's TI invitation fate wasn't even in their hands near the end, but beastcoast repaid their TI10 debt and eliminated the next closest point teams, Fnatic and Outsiders/VP, in Arlington. Te quiero mucho Arturito goes both ways.
 
 **What would success look like?** I don't even know anymore. As brutal as it sounds, I think Arteezy fans would almost prefer him to become a full time streamer at this point. Given these LAN performances, they'd probably see more of him.
 
@@ -830,6 +830,35 @@ Anything else worth mentioning? Oh yeah, Ghost was unable to make it to Arlingto
 * TI3 - 5
 * TI2 - 5
 * TI1 - 4
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+<body>
+
+<canvas id="myChart" style="width:100%;max-width:600px"></canvas>
+
+<script>
+var xValues = ["TI1", "TI2", "TI3", "TI4", "TI5"];
+var yValues = [4, 5, 5, 6, 6];
+var barColors = ["red", "green","blue","orange","brown"];
+
+new Chart("myChart", {
+  type: "bar",
+  data: {
+    labels: xValues,
+    datasets: [{
+      backgroundColor: barColors,
+      data: yValues
+    }]
+  },
+  options: {
+    legend: {display: false},
+    title: {
+      display: true,
+      text: "Chinese Teams at TI"
+    }
+  }
+});
+</script>
 
 Even TI1, which many Chinese teams supposedly skipped because they didn't think it was real, had higher representation.
 
