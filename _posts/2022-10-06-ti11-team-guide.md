@@ -831,7 +831,7 @@ Anything else worth mentioning? Oh yeah, Ghost was unable to make it to Arlingto
 * TI2 - 5
 * TI1 - 4
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/Chart.min.js"></script>
 
 <canvas id="myChart" style="width:100%;max-width:600px"></canvas>
 
