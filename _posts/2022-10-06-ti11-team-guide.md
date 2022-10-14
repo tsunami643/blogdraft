@@ -124,7 +124,7 @@ Better pray TI grand finals isn't the 30%.
 
 Due to heavy COVID restrictions, Chinese Dota was locked away for most of this season. Even getting back to China after TI10 in Romania was a massive project for a lot of teams, which led to their first tour being delayed. So CN Doto remained in its own little bubble for most of the year.
 
-LGD only narrowly qualified to the Arlington Major after scraping through their Tour 3 tiebreaker, but came in to their second international LAN of the year with an axe to grind. Second LAN, because they had shown up to the non-DPC Riyadh Masters LAN a few weeks prior to Arlington and took the trophy after defeating Team Spirit.
+LGD only narrowly qualified to the Arlington Major after scraping through their Tour 3 tiebreaker, but came in to their second international LAN of the year with an axe to grind. *Second* LAN, because they had shown up to the non-DPC Riyadh Masters LAN a few weeks prior to Arlington and took the trophy after defeating Team Spirit.
 
 Guess who beat them in Arlington?
 
@@ -148,7 +148,7 @@ Guess who beat them in Arlington?
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After TI10 ended, OG, as we knew it, scattered across the seven seas\*. No former members remained as active players\*, so they had to start from scratch. How did they do it? Allow me to present this section in the form that I myself learned this information.
+**How did this roster happen?** After TI10 ended, OG, as we knew it, scattered across the seven seas\*. No former members remained as active players\*, so the brand had to start from scratch. How did they do it? Allow me to present this section in the same form that I myself learned this information.
 
 Through a series of disjointed DMs I received from OG's CEO JMR Luna.
 
@@ -201,7 +201,7 @@ You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professio
 
 On paper, this is the kind of roster that grows into its own after a year or two. In execution? OG is **BUILT DIFFERENT.**
 
-They didn't pop off immediately, but they definitely hit their stride way quicker than anyone expected. And while these DPC results may not be as decorated as LGD's, this team* had strong showings at third party tournaments, including a recent 1st 🥇* place at ESL Malaysia near the end of August.
+They didn't set the world on fire immediately, but they definitely hit their stride waaay quicker than anyone expected. And while these DPC results may not be as decorated as LGD's, this team* had strong showings at third party tournaments, including a recent 1st 🥇* place at ESL Malaysia near the end of August.
 
 *ALRIGHT TSUNAMI, WHAT'S WITH ALL THE ASTERISKS?* Well, our good friend Misha had quite a bit of difficulty getting visas this year. As a result, OG spent a lot of time this year playing musical chairs with substitutes when they traveled internationally for LANs. Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came back for another one last ride in Arlington. Got fourth. And then coach Chuvash stood in for Misha at ESL Malaysia. Which they won.
 
@@ -236,7 +236,7 @@ They didn't pop off immediately, but they definitely hit their stride way quicke
 * **WEU DPC Tour 3** - 3rd 🥉
 * **PGL Arlington Major** - 1st 🥇
 
-If you take a peek at the flags next to each of these player names, you may be able to deduce that last year's TI champions haven't had the smoothest year, geopolitically speaking. Team Spirit as an organization is also Russian, but moved to Serbia after the war began. Given the situation, Valve put the entire EEU DPC Tour 2 on hold and replaced it with a compressed playoff bracket that would award DPC points, determine relegation slots, and figure out who goes to the Stockholm Major.
+If you take a peek at the flags next to each of these player names, you may be able to deduce that last year's TI champions haven't had the smoothest year, geopolitically speaking. As the war began, Valve put the entire EEU DPC Tour 2 on hold and replaced it with a playoff bracket that would award DPC points, determine relegation slots, and figure out who goes to the Stockholm Major.
 
 Stockholm was a wash for Spirit, understandably so, but they got their bearings come Arlington. And what a time to do it, because their last match was against eternal foe PSG.LGD. If you didn't catch this grand final series, [I highly recommend watching game 2.](https://www.twitch.tv/videos/1561728844?t=6h45m16s) Instant hall of fame contender.
 
@@ -273,11 +273,11 @@ A lot more eyeballs in the crowd, too. Because there's actually going to be one.
 * **SA DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 5-6th
 
-Here's the thing. Longevity should beget success, right? In Dota, that's not always the case. There's usually a bell curve of . It's tough to say where beastcoast currently falls on that curve. On the one hand, their DPC major placements were better this year than any year prior. On the other hand, 
+While intra-regionally they're not as dominant in SA as they once were, inter-regionally this was their best year yet.
 
-**What would success look like?** ~~This roster's top 8 finish at TI9 was the highest placement a South American team has ever gotten in the history of TI. Given the consistent upwards trajectory of the region overperforming at TI, it's not outside the realm of possibility that they could break top 6 this year.~~
+I'm pretty sure I used those prefixes correctly.
 
-Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
+**What would success look like?** Guess what the most represented country at this TI is? It's not China. It's not Philippines. It's Peru with 13 players (tied with Russia).
 
 **What to spam in Twitch chat when bc are winning?** `No vales ni un sol, estudia loco`
 
@@ -484,7 +484,7 @@ Keen eyed viewers may take a look at this list and say, "HEY! How does a new sta
 
 It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve says that it's _not_ Liquipedia's job. This'll make more sense once you scroll down to Fnatic.
 
-**What would success look like?** They've been off the grid in official matches for so long, we have no idea where they currently stand. Based off the trajectory of the their last DPC? Probably not good. But then again, WEU is the most represented region at this TI, so how bad is 6th place really?
+**What would success look like?** They've been off the grid for so long, we have no idea where they currently stand. Based off the trajectory of the their last DPC Tour... probably not good? But then again, WEU is the most represented region at this TI, so how bad is 6th place really?
 
 **What to spam in Twitch chat when GG are winning?** `VEGAN POWER`
 
@@ -525,7 +525,7 @@ EG's TI invitation fate wasn't even in their hands near the end, but beastcoast 
 
 **What to spam in Twitch chat when EG are winning?** Whatever you want, but under no circumstances are you allowed to praise Bulba. Doesn't matter if it's the world's greatest Storm Spirit game or if he masterminded a strategy that somehow forced the enemy team into only picking 4 heroes. The first rule and only rule of EG twitch discourse is: everything is Bulba's fault.
 
-Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of my environment and North American Dota... we... we've had a rough couple of years.
+Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of my environment and North American Dota... we... we've had a rough couple of years. Let's go EG! ~~#BleedBlue~~ #LIVEEVIL.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/fnatic.jpg" alt="Banner"></p>
@@ -554,7 +554,7 @@ Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of 
 * **SEA DPC Tour 3** - 3rd 🥉
 * **PGL Arlington Major** - 9-12th
 
-They played some Dota and got some placements. Doesn't matter. The only part that does matter is that last 9-12th you see on the list. The Arlington Major was the last opportunity for teams to earn DPC points this season. So direct TI invitation dominos start falling left and right with each elimination.
+They played some Dota and got some placements. Doesn't matter. The only part that does matter is that 9-12th you see at the bottom of that list. The Arlington Major was the last opportunity for teams to earn DPC points this season. So direct TI invitation dominos start falling left and right with each elimination.
 
 This year, Fnatic were **0.05** DPC points behind Outsiders/VP to qualify for the last spot at TI. Exciting! Okay, so Arlington Major time. Fnatic lose to Team Aster in upper bracket. Oh no! But Outsiders also lose to Team Spirit! Then Outsiders beat RNG in lower bracket! Oh man! Fnatic then lose to beastcoast, thus eliminating them from TI contention. Wow, that's crazy. Congrats to Outsiders, though, they're going to TI.
 
@@ -589,7 +589,8 @@ Anyway, long story short, Fnatic qualified to TI and Outsiders/VP didn't. Crazy 
     <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">LESLÃO</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">MSS</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Fata</td>
-    </tr>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Clairvoyance</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
