@@ -9,7 +9,7 @@ flags: true
 
 ### Not a moment too soon
 
-After last year, a lot of people were expecting a big patch for how the competitive season operates. You know maybe some calendar shifts? Economy reworks? Instead we just got some number buffs.
+After last year, a lot of people were expecting a big patch for how the DPC operates. You know maybe some calendar shifts? Economy reworks? Instead we just got some number buffs.
 
 <style>
   @font-face{font-family:"Radiance";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.eot");src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.eot?#iefix") format("embedded-opentype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.ttf") format("truetype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.svg#ywftsvg") format("svg");font-weight:normal;font-style:normal}@font-face{font-family:"Radiance";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.eot");src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.eot?#iefix") format("embedded-opentype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.ttf") format("truetype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.svg#ywftsvg") format("svg");font-weight:900;font-style:normal}@font-face{font-family:"Radiance";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.eot");src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.eot?#iefix") format("embedded-opentype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.ttf") format("truetype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.svg#ywftsvg") format("svg");font-weight:700;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular.ttf") format("truetype");font-weight:400;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Light.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Light.ttf") format("truetype");font-weight:200;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-SemiBold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-SemiBold.ttf") format("truetype");font-weight:600;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Bold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Bold.ttf") format("truetype");font-weight:700;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Black.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Black.ttf") format("truetype");font-weight:800;font-style:normal}
@@ -32,9 +32,9 @@ DPC Changelog
 </span>
 </div>
 
-Alright, fair enough. At least this is closer to Valve's original vision of the DPC when they [initially pitched the regional league format.](https://web.archive.org/web/20210212054111/http://blog.dota2.com/2020/02/introducing-regional-leagues/) 3 regional leagues, 3 majors, 6 opportunities total to earn points. Still six weeks per league, still the same prize pools (albeit with another full 6 region league and major added to the season), and still the same major slot allocations per region.
+Alright, fair enough. At least this is closer to Valve's original vision of the DPC when they [initially pitched the regional league format.](https://web.archive.org/web/20210212054111/http://blog.dota2.com/2020/02/introducing-regional-leagues/) 3 regional leagues, 3 majors, 6 opportunities total to earn points. Still six weeks per league, still the same prize pools, and still the same major slot allocations per region, but progress nonetheless.
 
-The first regional tour started near the <abbr title="For every region besides China">end of November</abbr> and things were going along swimmingly. _"I wonder where the first major is?"_ the Dota scene very openly wondered. Well on January 11th, [we found out.](https://web.archive.org/web/20220112065038/https://www.dota2.com/newsentry/3110298479118085517)
+The first regional tour for this season started near the <abbr title="For every region besides China">end of November 2021</abbr> and things were going along swimmingly. _"I wonder where the first major will be?"_ the Dota scene very openly wondered. Well on January 11th, [we found out.](https://web.archive.org/web/20220112065038/https://www.dota2.com/newsentry/3110298479118085517)
 
 <div style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 100%; background-color: #000; padding: 15px 25px; min-height: 0; margin-bottom: 1em; display: flex; flex-direction: column; position: relative;'>
 
@@ -54,7 +54,7 @@ DPC Changelog
 </span>
 </div>
 
-And then that was... kind of it? As it is, players were not particularly thrilled about burning six weeks of their time competing in a 2-Bo3-a-week league, but they had to grin and bear it to make it to the major. Well, now there's no major. Thanks for playing. Literally.
+And that was... kind of it? As it is, players were not particularly thrilled about burning six weeks of their time competing in a 2-Bo3-a-week league, but they had to grin and bear it to make it to the major. Well, now there's no major. Thanks for playing. Literally.
 
 People were piiiiiiissed.
 
@@ -78,11 +78,13 @@ DPC Changelog
 </span>
 </div>
 
-That's right. If you look at the title of this blog, you'll see I mentioned *20* teams. 20 TEAM TI, BABY! TWO GROUPS OF 10. 4 TEAMS ELIMINATED AFTER GROUPS.
+Now we're talking. If you look at the title of this blog, you'll see I mentioned *20* teams. In an effort to make sure that visas/COVID/war complicating travel for teams didn't stop them from reaching TI, a Last Chance Qualifier was implemented this year. 20 TEAM TI, BABY! TWO GROUPS OF 10. 4 TEAMS ELIMINATED AFTER GROUPS.
 
-This is also just a pretty optimized summary of what all happened during the year. China had a whole bunch of difficulties competing internationally this year as did EEU, but we'll get into that.
+Anyway, this is a pretty abridged version of all the complications that occurred during the season. China had a whole bunch of difficulties competing internationally this year as did EEU, but we'll get into that. No one ever reads these preambles anyway, so I'll stop talking and get to the teams.
 
-Also, looking back at that last blog, I couldn't help but notice: `We expect the rest of the year to go as planned`
+Also, looking back at that last blog, I couldn't help but notice.
+
+> We expect the rest of the year to go as planned
 
 Honestly, I appreciate the optimism.
 
