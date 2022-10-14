@@ -80,7 +80,7 @@ DPC Changelog
 
 Now we're talking. If you look at the title of this blog, you'll see I mentioned *20* teams. In an effort to make sure that visas/COVID/war complicating travel for teams didn't stop them from reaching TI, a Last Chance Qualifier was implemented this year. 20 TEAM TI, BABY! TWO GROUPS OF 10. 4 TEAMS ELIMINATED AFTER GROUPS.
 
-Anyway, this is a pretty abridged version of all the complications that occurred during the season. China had a whole bunch of difficulties competing internationally this year as did EEU, but we'll get into that. No one ever reads these preambles anyway, so I'll stop talking and get to the teams.
+Anyway, this is a pretty abridged version of all the complications that occurred during the season. China had a whole bunch of difficulties competing internationally this year, as did EEU, but we'll get into that.
 
 Also, looking back at that last blog, I couldn't help but notice.
 
@@ -109,7 +109,7 @@ Honestly, I appreciate the optimism.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?**  Oh it's been happening. Hap
+**How did this roster happen?**  Oh, it's *been* happening. As of now, they are currently the [8th most played roster of all time](../img/ti11teams/lgdwinrate.jpg) (credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2011&before=14%2F10%2F2022&duration=0%3B200&duration-value-from=0&duration-value-to=200)) with an insane 70% winrate together to boot.
 
 **How was their DPC year?** 2240 points
 
@@ -120,9 +120,11 @@ Honestly, I appreciate the optimism.
 * **CN DPC Tour 3** - 4th
 * **PGL Arlington Major** - 2nd 🥈
 
-Due to escalating COVID concerns, Chinese Dota was locked away for most of this season. Even getting back to China after TI10 in Romania was a massive project for a lot of teams, so unsurprisingly . LGD only narrowly qualified to the Arlington Major after scraping through 
+Due to extremely heavy COVID restrictions, Chinese Dota was locked away for most of this season. Even getting back to China after TI10 in Romania was a massive project for a lot of teams, which led to their first tour being delayed, so CN Doto remained in its own little bubble for most of the year.
 
-**What would success look like?** They have to win. Literally anything other than lifting the Aegis is a complete failure. I'm not being hyperbolic, this is legitimately where the bar has been set for these guys.
+LGD only narrowly qualified to the Arlington Major after scraping through 
+
+**What would success look like?** They have to win. That's it. Literally any placement that doesn't involve them lifting the Aegis at the end of this tournament is a complete failure. I'm not being hyperbolic. This is where the bar has been set for this team.
 
 **What to spam in Twitch chat when LGD are winning?** `WASH YOUR FACE`
 
@@ -178,15 +180,15 @@ I don't listen to podcasts. By the way, check out this episode of OG's Monkey Bu
 * **WEU DPC Tour 3** - 3rd 🥉
 * **PGL Arlington Major** - 4th*
 
-Dude, it was so exciting. Notail called Alliance a bunch of cheaters during the coaching scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French for being mean. The brand appears to be slowly pivoting from esports teams to NFT manufacturers. It's been a ride.
+On paper, this is the kind of roster that grows into its own after a year or two. In execution? OG is **BUILT DIFFERENT.**
 
-Oh the Dota? The Dota wasn't that great. After a sluggish season 1, MidOne got the boot and ana came back for season 2 under the tag *humblegod.* He proceeded to get so humbled he didn't even finish the season, probably said, "Yeah, I don't need this shit," and retired for realsies this time. OG then had to call up Madara to temporarily be their fifth in the three-way-hell-in-a-cell tiebreaker just to not get bumped down to lower division.
+They didn't necessarily hit the ground *running* running, but they definitely drafted behind everyone else in the race. And while these DPC results may not be as decorated as LGD's, this team* had pretty consistently strong showings at third party tournaments as well, including a recent 1st 🥇* place at ESL Malaysia near the end of August.
 
-We in the business simply refer to this as OG getting into "TI form."
+What's with all the asterisks, you ask? Well, our good friend Misha had quite a bit of difficulty traveling internationally this year.
 
 **What would success look like?** For the rest of the team? Eh, . For Misha? Oh boy. Misha, Misha, Misha. I don't even know if _he_ necessarily feels the pressure. But everyone putting the pressure on him has gotta be something
 
-**What to spam in Twitch chat when OG are winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
+**What to spam in Twitch chat when OG are winning?** `ATF=ALWAYS TAKES FIRST`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/spirit.jpg" alt="Banner"></p>
@@ -215,13 +217,15 @@ We in the business simply refer to this as OG getting into "TI form."
 * **WEU DPC Tour 3** - 3rd 🥉
 * **PGL Arlington Major** - 1st 🥇
 
-If you take a peek at the flags next to each of these player names, you may be able to deduce that last year's TI champions haven't had the smoothest year geopolitically speaking. Team Spirit as an organization is also Russian, but moved to Serbia after the war began. Given the circumstances, Valve put the entire EEU DPC Tour 2 on hold and replaced it with a compressed playoff bracket that would award DPC points, determine relegation slots, and figure out who goes to the Stockholm Major.
+If you take a peek at the flags next to each of these player names, you may be able to deduce that last year's TI champions haven't had the smoothest year, geopolitically speaking. Team Spirit as an organization is also Russian, but moved to Serbia after the war began. Given the situation, Valve put the entire EEU DPC Tour 2 on hold and replaced it with a compressed playoff bracket that would award DPC points, determine relegation slots, and figure out who goes to the Stockholm Major.
 
-**What would success look like?** Two-timing à la OG would be pretty sweet. The problem: they're still pretty good. Lest we forget, OG coming into TI9 were... well let's just say there's a reason why detractors branded both their wins as 'flukes.' Spirit, on the other hand, won the last major and [True Sight was just released](https://www.youtube.com/watch?v=NFEwN1N3vvA) so everyone just got a refresher on how sick they were/are. Safe to say there will be a lot more eyeballs on Spirit's drafts and gameplay this TI.
+Stockholm was a wash for Spirit, understandably so, but they got their bearings come Arlington. And what a time to do it, because their last match was against eternal foe PSG.LGD. If you didn't catch this grand final series, [I highly recommend watching game 2.](https://www.twitch.tv/videos/1561728844?t=6h45m16s) It was instantly inducted into the hall of fame of grand final performances.
+
+**What would success look like?** Two-timing à la OG would be pretty sweet. The problem: they're still pretty good. Lest we forget, OG coming into TI9 were... well let's just say there's a reason why detractors branded both their wins as 'flukes.' Spirit, on the other hand, won the last major and [True Sight was just released](https://www.youtube.com/watch?v=NFEwN1N3vvA) so everyone just got a refresher on how sick they were/are/will be. Safe to say there will be a lot more eyeballs on Spirit's drafts and gameplay this TI.
 
 A lot more eyeballs in the crowd, too. Because there's actually going to be one.
 
-**What to spam in Twitch chat when Spirit are winning?** Damn, has the Twitch meta not changed in 12 months? Well if it ain't broke, don't fix it. `COLLAPSE GIGACHAD`
+**What to spam in Twitch chat when Spirit are winning?** Has the Twitch meta really not evolved in the 12 months [since I last wrote this?](https://howdoiplay.com/blog/2021/10/06/ti10-team-guide.html#:~:text=What%20to%20spam%20in%20Twitch%20chat%20when%20Spirit%20is%20winning%3F%20COLLAPSE%20GIGACHAD) Well if it ain't broke, don't fix it: `COLLAPSE GIGACHAD`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/beastcoast.jpg" alt="Banner"></p>
@@ -239,9 +243,7 @@ A lot more eyeballs in the crowd, too. Because there's actually going to be one.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Lemme just pop on over to [last year's article real quick.](https://howdoiplay.com/blog/2021/10/06/ti10-team-guide.html)
-
-> Remember TI9 Infamous? It's the same guys. Yes, a South American team stayed together as five for over <s>two</s> three years.*
+**How did this roster happen?** Would you believe that the Anvorgesa stack from 2019 is *still* together? They've actually been with each other for so long, they've also broken into the [top 10 most played rosters of all time](../img/ti11teams/beastcoastwinrate.jpg) (credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2011&before=14%2F10%2F2022&duration=0%3B200&duration-value-from=0&duration-value-to=200)) right after PSG.LGD. The next highest SA roster on that list is 2020's Thunder Predator squad with a mere 208 matches together.
 
 **How was their DPC year?** 1810 points
 
@@ -252,7 +254,7 @@ A lot more eyeballs in the crowd, too. Because there's actually going to be one.
 * **SA DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 5-6th
 
-Here's the thing. Longevity has a weird bell curve of success in Dota.
+Here's the thing. Longevity should beget success, right?
 
 **What would success look like?** ~~This roster's top 8 finish at TI9 was the highest placement a South American team has ever gotten in the history of TI. Given the consistent upwards trajectory of the region overperforming at TI, it's not outside the realm of possibility that they could break top 6 this year.~~
 
@@ -276,7 +278,7 @@ Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Monet, Xxs, and BoBoKa are the same as TI10 Aster, but this season they added longtime Vici Gaming midlaner Ori to the mix as well as Aster.Aries academy player 皮球. The direct translation is 'rubber ball,'
+**How did this roster happen?** Monet, Xxs, and BoBoKa are the same as TI10 Aster, but this season they added longtime Vici Gaming midlaner Ori to the mix as well as Aster.Aries academy player 皮球. The direct translation is 'rubber ball,' but you're more likely to hear him be referred to as *píqiú* (kinda sounds like the Pokémon *Pichu*) or *Siamese Cat.*
 
 **How was their DPC year?** 1610 points
 
@@ -287,11 +289,7 @@ Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 * **CN DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 3rd 🥉
 
-Aster is notorious in China for being civil war specialists. Playing against Chinese teams? Fantastic. International opponents? *[Sit tight and watch their performance!](https://www.reddit.com/r/DotA2/comments/nx9dpk/cn_thoughts_memes_on_aster/)* This has garnered them a pretty negative reputation in China since they effectively just keep wasting their slots at majors. It's not even a recent development. Aster have been getting roasted like this since The Chongqing Major in 2019.
-
-You may also notice that their Singapore Major result has an *aster*isk beside it. Did you ever hear the tragedy of Borax The Thirsty? I thought not. It’s not a story Liquipedia would tell you. How do I explain this? Basically one day our boy boboka was roaming the map looking for... that good Spirit Siphon... but didn't realize he was in the cops' ward vision. He got caught out of position and couldn't buyback in time for the major, so their coach Mad had to stand-in.
-
-Ironic. The jungle king could save others from ganks, but not himself.
+The moment I saw these placements I thought, "Wow, those are some pretty great performances. But does Aster ever win?" The answer is no, they don't. But they always get *really close.* Heavily reminscent of an [old Vici Gaming squad.](https://howdoiplay.com/blog/2018/07/18/ti8-team-guide.html#:~:text=Notable%20tournament%20placings%20A,And%20not%20win.) Is Ori just allergic to gold? 
 
 **What would success look like?** I have been scouring the internet for a single positive Chinese meme about Aster and it's literally just people shitting relentlessly on this team. If they can manage to change their public perception in the slightest, that'd be a massive dub for the Tea Masters.
 
