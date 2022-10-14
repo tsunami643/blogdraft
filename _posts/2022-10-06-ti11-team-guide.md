@@ -279,7 +279,7 @@ I'm pretty sure I used those prefixes correctly.
 
 **What would success look like?** Guess what the most represented country at this TI is? It's not China. It's not Philippines. It's Peru with 13 players (tied with Russia).
 
-**What to spam in Twitch chat when bc are winning?** `No vales ni un sol, estudia loco`
+**What to spam in Twitch chat when bc are winning?** I think at one point SA was trying to move on from it, but it's just too good of a battle cry to abandon. `GAAAAAAAAAAAAAAAAA`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/aster.jpg" alt="Banner"></p>
