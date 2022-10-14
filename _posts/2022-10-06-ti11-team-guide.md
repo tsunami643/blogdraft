@@ -148,11 +148,12 @@ Guess who beat them in Arlington?
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After TI10 ended, OG, as we knew it, scattered across the seven seas\*. No former members\* remained as active players\*, so they had to start from scratch. How did they do it? Allow me to present this section in the form that I myself learned this information.
+**How did this roster happen?** After TI10 ended, OG, as we knew it, scattered across the seven seas\*. No former members remained as active players\*, so they had to start from scratch. How did they do it? Allow me to present this section in the form that I myself learned this information.
 
 Through a series of disjointed DMs I received from OG's CEO JMR Luna.
 
 <span class="twitter-dm">I saw you on the pannel about how we build the roster</span>
+<span class="twitter-dm">This is public. We spoke about it on the [monkey business show](https://www.youtube.com/playlist?list=PLQRJUuILzZKUMNpwSmOUJRm6hgUbW-0Me)</span>
 <span class="twitter-dm twitter-dm-first">Misha was first</span>
 
 Makes sense. Misha was OG's coach last year, so that's a reasonable foundation.
@@ -172,10 +173,6 @@ So ATF, also known as <abbr title="I'm not making this up, that's what the acron
 <span class="twitter-dm twitter-dm-first">And then we brought in the coach chuvash</span>
 
 You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professionally since 2019, but no notable results. And Chuvash has actually been around for a while, but was also a player on Creepwave with ATF and bzm.
-
-And before anyone besmirches my journalistic integrity.
-
-<span class="twitter-dm twitter-dm-first">This is public. We spoke about it on the monkey business show</span>
 
 **How was their DPC year?** 1930 points
 
