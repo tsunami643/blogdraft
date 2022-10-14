@@ -9,7 +9,7 @@ flags: true
 
 ### Not a moment too soon
 
-After last year, a lot of people were expecting a big patch for how the DPC operates. You know maybe some calendar shifts? Economy reworks? Instead we just got some number buffs.
+After last year, a lot of people were expecting a big patch for how the DPC operates. You know maybe some calendar changes? Economy reworks? Instead we just got some number buffs.
 
 <style>
   @font-face{font-family:"Radiance";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.eot");src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.eot?#iefix") format("embedded-opentype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.ttf") format("truetype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.svg#ywftsvg") format("svg");font-weight:normal;font-style:normal}@font-face{font-family:"Radiance";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.eot");src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.eot?#iefix") format("embedded-opentype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.ttf") format("truetype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.svg#ywftsvg") format("svg");font-weight:900;font-style:normal}@font-face{font-family:"Radiance";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.eot");src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.eot?#iefix") format("embedded-opentype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.ttf") format("truetype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.svg#ywftsvg") format("svg");font-weight:700;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular.ttf") format("truetype");font-weight:400;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Light.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Light.ttf") format("truetype");font-weight:200;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-SemiBold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-SemiBold.ttf") format("truetype");font-weight:600;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Bold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Bold.ttf") format("truetype");font-weight:700;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Black.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Black.ttf") format("truetype");font-weight:800;font-style:normal}
@@ -32,7 +32,7 @@ DPC Changelog
 </span>
 </div>
 
-Alright, fair enough. At least this is closer to Valve's original vision of the DPC when they [initially pitched the regional league format.](https://web.archive.org/web/20210212054111/http://blog.dota2.com/2020/02/introducing-regional-leagues/) 3 regional leagues, 3 majors, 6 opportunities total to earn points. Still six weeks per league, still the same prize pools, and still the same major slot allocations per region, but progress nonetheless.
+Well at least this is closer to Valve's original vision of the DPC when they [initially pitched this Dota Pro Circuit format.](https://web.archive.org/web/20210212054111/http://blog.dota2.com/2020/02/introducing-regional-leagues/) 3 regional leagues, 3 majors, 6 opportunities total to earn points. Still six weeks per league, still the same prize pools, and still the same major slot allocations per region, but progress nonetheless.
 
 The first regional tour for this season started near the <abbr title="For every region besides China">end of November 2021</abbr> and things were going along swimmingly. _"I wonder where the first major will be?"_ the Dota scene very openly wondered. Well on January 11th, [we found out.](https://web.archive.org/web/20220112065038/https://www.dota2.com/newsentry/3110298479118085517)
 
@@ -122,9 +122,9 @@ Better pray TI grand finals isn't the 30%.
 * **CN DPC Tour 3** - 4th
 * **PGL Arlington Major** - 2nd 🥈
 
-Due to heavy COVID restrictions, Chinese Dota was locked away for most of this season. Even getting back to China after TI10 in Romania was a massive project for a lot of teams, which led to their first tour being delayed. So CN Doto remained in its own little bubble for most of the year.
+Due to heavy COVID restrictions, Chinese Dota was locked away for most of this season. Even getting back to China after TI10 in Romania was a massive project for a lot of teams, which led to their first tour being delayed, so CN Doto remained in its own little bubble for most of the year.
 
-LGD only narrowly qualified to the Arlington Major after scraping through their Tour 3 tiebreaker, but came in to their second international LAN of the year with an axe to grind. *Second* LAN, because they had shown up to the non-DPC Riyadh Masters LAN a few weeks prior to Arlington and took the trophy after defeating Team Spirit.
+LGD only narrowly qualified to the Arlington Major after scraping through their Tour 3 tiebreaker, but came in to their second international LAN of the year with an axe to grind. *Second* LAN, because they had shown up to the non-DPC Riyadh Masters LAN a few weeks prior to Arlington and took that trophy after defeating Team Spirit.
 
 Guess who beat them in Arlington?
 
@@ -205,7 +205,7 @@ They didn't set the world on fire immediately, but they definitely hit their str
 
 *ALRIGHT TSUNAMI, WHAT'S WITH ALL THE ASTERISKS?* Well, our good friend Misha had quite a bit of difficulty getting visas this year. As a result, OG spent a lot of time this year playing musical chairs with substitutes when they traveled internationally for LANs. Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came back for another one last ride in Arlington. Got fourth. And then coach Chuvash stood in for Misha at ESL Malaysia. Which they won.
 
-**What would success look like?** A top 6 finish would be perfectly respectable for such a fresh roster. For Misha? Oh boy. I don't even know if _he_ necessarily feels the pressure. But the public at large putting the pressure on him has gotta be something else.
+**What would success look like?** A top 6 finish would be perfectly respectable for such a fresh roster. For Misha, though? Oh boy. I don't even know if _he_ necessarily feels the pressure. But the public at large putting the pressure on him has gotta be something else.
 
 **What to spam in Twitch chat when OG are winning?** `ATF=ALWAYS TAKES FIRST`
 
@@ -236,11 +236,11 @@ They didn't set the world on fire immediately, but they definitely hit their str
 * **WEU DPC Tour 3** - 3rd 🥉
 * **PGL Arlington Major** - 1st 🥇
 
-If you take a peek at the flags next to each of these player names, you may be able to deduce that last year's TI champions haven't had the smoothest year, geopolitically speaking. As the war began, Valve put the entire EEU DPC Tour 2 on hold and replaced it with a playoff bracket that would award DPC points, determine relegation slots, and figure out who goes to the Stockholm Major.
+If you take a peek at the flags next to each of those player names, you may be able to deduce that last year's TI champions haven't had the smoothest year, geopolitically speaking. As the war began, Valve put the entire EEU DPC Tour 2 on hold and replaced it with a playoff bracket that would award DPC points, determine relegation slots, and figure out who goes to the major.
 
-Stockholm was a wash for Spirit, understandably so, but they got their bearings come Arlington. And what a time to do it, because their last match was against eternal foe PSG.LGD. If you didn't catch this grand final series, [I highly recommend watching game 2.](https://www.twitch.tv/videos/1561728844?t=6h45m16s) Instant hall of fame contender.
+Stockholm was a wash for Spirit, understandably so, but they got their bearings come Arlington. And what a time to do it, because their grand final opponent was eternal foe, PSG.LGD. If you didn't catch this series, [I highly recommend watching game 2.](https://www.twitch.tv/videos/1561728844?t=6h45m16s) Instant hall of fame contender.
 
-**What would success look like?** Two-timing à la OG would be pretty sweet. The problem: they're still pretty good. Lest we forget, OG coming into TI9 were... well let's just say there's a reason why detractors branded both their wins as 'flukes.' Spirit, on the other hand, won the last major and [True Sight was just released](https://www.youtube.com/watch?v=NFEwN1N3vvA) so everyone just got a refresher on how sick they were/are/will be. Safe to say there will be a lot more eyeballs on Spirit's drafts and gameplay this TI.
+**What would success look like?** Two-timing à la OG would be pretty sweet. The problem: they're still very good. Lest we forget, OG coming into TI9 were... well let's just say there's a reason why detractors branded both their wins as 'flukes.' Spirit, on the other hand, won the last major and [TI10's True Sight was just released](https://www.youtube.com/watch?v=NFEwN1N3vvA) so everyone just got a refresher on how sick they were/are/will be. Safe to say there will be a lot more eyeballs on Spirit's drafts and gameplay this TI.
 
 A lot more eyeballs in the crowd, too. Because there's actually going to be one.
 
@@ -277,7 +277,7 @@ While intra-regionally they're not as dominant in SA as they once were, inter-re
 
 I'm pretty sure I used those prefixes correctly.
 
-**What would success look like?** Guess what the most represented country at this TI is? It's not China. It's not Philippines. It's Peru with 13 players (tied with Russia).
+**What would success look like?** Guess what the most represented country at this TI is? It's not China. It's not Philippines. It's Peru with 13 players (tied with Russia). Last TI had two South American teams, Thunder Predator and SG esports, being eliminated in group stage. This year, *four* teams will be eliminated for groups. Making it to Suntec for playoffs would be a feat, but making it to the Singapore Indoor Stadium for top 4 would be new ground for SA.
 
 **What to spam in Twitch chat when bc are winning?** I think at one point SA was trying to move on from it, but it's just too good of a battle cry to abandon: `GAAAAAAAAAAAAAAAAA`
 
@@ -347,7 +347,10 @@ Move over beastcoast, there's a new regional king in South America. In fact, out
 
 Unfortunately, DarkMago had visa issues getting to Arlington and the team subsequently bombed out in Texas.
 
-**What would success look like?** Last TI had two South American teams, Thunder Predator and SG esports, being eliminated in group stage. This year, *four* teams will be eliminated for groups. Making it to Suntec for playoffs would be a feat, but making it to the Singapore Indoor Stadium for top 4 would be new ground for SA.
+**What would success look like?** I was looking for a interview Slacks did with Pandaboo during Stockholm for research, but searching 'slacks dota panda' on YouTube only yielded this video.
+
+<div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/60nq0t1oEio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
+<p></p>
 
 **What to spam in Twitch chat when Thunder are winning?** `DOCTOR GOTITO`
 
@@ -946,7 +949,7 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 * **WEU DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 9-12th
 
-It's kind of wild how good this team can be online and how comically bad they are on LAN. It's not just this roster, either. Last season they got 4th and 2nd during the leagues. And during the majors? 9-12th in Singapore and 13th and the AniMajor. Like, how? And I'm not even listing their non-DPC LAN placements this year. Guess what? <span class="spoiler">Those were also bad.</span>
+It's kind of wild how good this team can be online and how comically bad they are on LAN. It's not just this roster, either. Last season they got 4th and 2nd during the leagues. And during the majors? 9-12th in Singapore and 13th and the AniMajor. Like, how? And I'm not even listing their non-DPC LAN placements this year. <span class="spoiler">Those were also bad.</span>
 
 Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? And then again when BetBoom beat them? And then again again when Secret beat them? Liquid also also beat them to take the final LCQ slot.
 
