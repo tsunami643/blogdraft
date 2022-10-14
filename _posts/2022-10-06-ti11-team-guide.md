@@ -696,7 +696,135 @@ That being said, they still played well throughout the SA qualifier and actually
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** 
+**How did this roster happen?** IT'S TIME FOR GUESS. THAT. EEU .
+
+Reader, for $0, name the team that this roster played under before being acquired by BetBoom.
+
+<p style="font-size: 1.3em; font-weight: bold;">Who is the current offlaner for EG?
+
+<select id="dropDown" onchange="test()" style="font-weight: 100;">
+ <option value="default" selected="selected">Select offlaner</option>
+ <option value="one" id="RAMZES666">RAMZES666</option>
+ <option value="two" id="iceiceice">iceiceice</option>
+ <option value="three" id="s4">s4</option>
+ <option value="four" id="UNiVeRsE">UNiVeRsE</option>
+ <option value="five" id="what">What's an offlaner?</option>
+</select>
+</p>
+
+<p style="font-size: 1.38em; font-weight: bold;">You stopped watching Dota:
+<input type="radio" id="wrapperOne" style="display: none;font-weight: 100;"><label for="wrapperOne">Riiiight before COVID</label>
+<span id="wrapperTwo" style="display: none;font-weight: 100;">Never, you fiend</span>
+<span id="wrapperThree" style="display: none;font-weight: 100;">After TI9</span>
+<span id="wrapperFour" style="display: none;font-weight: 100;">This is awkward</span>
+<span id="wrapperFive" style="display: none;font-weight: 100;">You never started</span>
+</p>
+
+  <input type="radio" id="team1">
+  <label for="team1">HellRaisers</label><br>
+  <input type="radio" id="team2">
+  <label for="team2">Team Empire</label><br>  
+  <input type="radio" id="team3">
+  <label for="team3">Na`vi</label><br>
+  <input type="radio" id="team4">
+  <label for="team4">Moscow 5</label><br>
+
+
+  <p>Select your size:</p>
+    <div id="group">
+    </div>
+
+<p id="output"></p>
+
+<script>
+    const sizes = ['XS', 'S', 'M', 'L', 'XL', 'XXL'];
+
+    // generate the radio groups        
+    const group = document.querySelector("#group");
+    group.innerHTML = sizes.map((size) => `<div>
+            <input type="radio" name="size" value="${size}" id="${size}">
+              <label for="${size}">${size}</label>
+        </div>`).join(' ');
+    
+    // add an event listener for the change event
+    const radioButtons = document.querySelectorAll('input[name="size"]');
+    for(const radioButton of radioButtons){
+        radioButton.addEventListener('change', showSelected);
+    }        
+    
+    function showSelected(e) {
+        console.log(e);
+        if (this.checked) {
+            document.querySelector('#output').innerText = `You selected ${this.value}`;
+        }
+    }
+</script>
+
+<div id="paragraphOne" style="display: none; line-height:1.5em;">
+World goes to hell in a handbasket and you just <i>leave Dota?</i> After everything we've been through? You know we still had tournaments going on in 2020! You really missed out. Sort of. Well at least you're here now. Please don't leave again, our player count numbers can't take it.
+</div>
+<div id="paragraphTwo" style="display: none; line-height:1.5em;">
+You're not the demographic for this guide, get outta here. Go watch a Jenkins video and post your first rampage on <i>/r/dota2</i> for 27 upvotes.
+</div>
+<div id="paragraphThree" style="display: none; line-height:1.5em;">
+...ever heard of a "neutral item" before? No? How about the term <i>'sunmommy'</i>? Nothing? Well this is gonna be one confusing TI for you.</div>
+<div id="paragraphFour" style="display: none; line-height:1.5em; font-size:large;">
+Just a second, let me get into character.<br><blockquote style="font-size: 1.1 em;">Whoa, long time no see. What have you been up to? You got married? No way, that's awesome! One on the way too? Wow. Congratulations. Our old stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one game we won with your Storm Spirit after you snatched the Aegis? Good times. Anyway, n-nice catching up with you.</blockquote></div>
+<div id="paragraphFive" style="display: none; line-height:1.5em; font-size:large;">
+Trying to impress somebody? Talk about relationship goals, you're a keeper. Ok so in the current 7.30d meta an offlaner, also known as the '3', is usually a tanky initiat--<br><br>Actually, forget it. All you need to know is if your special someone starts stressing out in the first few minutes of a game just say, "It's ok, babe. Laning phase doesn't matter."</div>
+
+<script>
+  var dropDown = document.getElementById("dropDown"),
+   myWrappers = [
+      document.getElementById("wrapperOne"),
+      document.getElementById("wrapperTwo"),
+      document.getElementById("wrapperThree"),
+      document.getElementById("wrapperFour"),
+      document.getElementById("wrapperFive")
+   ];
+   myParagraphs = [
+      document.getElementById("paragraphOne"),
+      document.getElementById("paragraphTwo"),
+      document.getElementById("paragraphThree"),
+      document.getElementById("paragraphFour"),
+      document.getElementById("paragraphFive")
+   ];
+function test() {
+for (i=0; i<myWrappers.length; i++){
+    if(dropDown.value === "default"){ 
+       myWrappers[i].style.display = "none";
+       myParagraphs[i].style.display = "none";
+     } else if(dropDown.value === "one"){
+       myWrappers[i].style.display = "none";
+       myParagraphs[i].style.display = "none";
+       myWrappers[0].style.display = "inline";
+       myParagraphs[0].style.display = "block";
+      } else if(dropDown.value === "two"){
+       myWrappers[i].style.display = "none";
+       myParagraphs[i].style.display = "none";
+       myWrappers[1].style.display = "inline";
+       myParagraphs[1].style.display = "block";
+      } else if(dropDown.value === "three"){
+       myWrappers[i].style.display = "none";
+       myParagraphs[i].style.display = "none";
+       myWrappers[2].style.display = "inline";
+       myParagraphs[2].style.display = "block";
+      } else if(dropDown.value === "four"){
+       myWrappers[i].style.display = "none";
+       myParagraphs[i].style.display = "none";
+       myWrappers[3].style.display = "inline";
+       myParagraphs[3].style.display = "block";
+      } else if(dropDown.value === "five"){
+       myWrappers[i].style.display = "none";
+       myParagraphs[i].style.display = "none";
+       myWrappers[4].style.display = "inline";
+       myParagraphs[4].style.display = "block";
+      }
+ }
+}
+</script>
+
+The majority of this team was assembled under the Winstrike tag before the season began. Rodjer replaced Forcemajor after Tour 3 ended.
 
 **How was their DPC year?** 629 points
 
@@ -709,9 +837,9 @@ That being said, they still played well throughout the SA qualifier and actually
 
 
 
-**What would success look like?** 
+**What would success look like?** Spirit winning TI10 lit a fire in the EEU region. The fire being fueled by, "Wait, *those* scrubs won? I'm definitely better than them." BetBoom was the strongest product of this initiative. And not just because Daxak could probably bench 90% of the players at TI.
 
-<p style="font-size: 0.85em;">Which means that TI10 should feel natural.</p>
+Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? Well BetBoom beat them 3-0 in the EEU TI11 quals to take this slot.
 
 **What to spam in Twitch chat when BB are winning?** `Punch them Daxao💪🏻😈🤙🏻Fight them Daxao💪🏻😈🤙🏻Break them Daxao👿🤜🏻💀🤛🏻🤬Bully them Daxao👊🏻😼👊🏻Stomp them Daxao👊🏻🤬Crush them Daxao👊🏻😾🤜🏻🐷🤛🏻😤Incinerate them Daxao💪🏻🦍`
 
@@ -744,9 +872,24 @@ That being said, they still played well throughout the SA qualifier and actually
 
 
 
-**What would success look like?** 
+**What would success look like?** Would you believe that this is the third and final Chinese team left to talk about? THREE CHINESE TEAMS. For reference, here's the number from previous TIs.
 
-**What to spam in Twitch chat when RNG are winning?** 
+* TI10 - 5
+* TI9 - 4
+* TI8 - 6
+* TI7 - 5
+* TI6 - 5
+* TI5 - 6
+* TI4 - 6
+* TI3 - 5
+* TI2 - 5
+* TI1 - 4
+
+Even TI1, which many Chinese teams supposedly skipped because they didn't think it was real, had higher representation.
+
+Now if we were running an OMG 4+2 tournament? Totally different story.
+
+**What to spam in Twitch chat when RNG are winning?** <code><a href="https://www.reddit.com/r/DotA2/comments/wpown1/hoping_to_share_some_insights_about_chinese_teams/#:~:text=chat%20would%20be%20spamming%20'natural'%20regardless">natural</a></code>
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/talon.jpg" alt="Banner"></p>
