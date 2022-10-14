@@ -698,7 +698,9 @@ That being said, they still played well throughout the SA qualifier and actually
 
 **How did this roster happen?** IT'S TIME FOR GUESS. THAT. EEU. TEAAAAAAM.
 
-<p style="font-size: 1.3em; font-weight: bold;">Reader, for $0. Name the tag that this roster played under before being acquired by BetBoom
+<p style="font-size: 1.3em; font-weight: bold;">Reader, for $0...</p>
+
+<p style="font-size: 1.3em; font-weight: bold;">Name the tag that this roster played under before being acquired by BetBoom</p>
 
 <select id="dropDown" onchange="test()" style="font-weight: 100;">
  <option value="default" selected="selected">Select team</option>
