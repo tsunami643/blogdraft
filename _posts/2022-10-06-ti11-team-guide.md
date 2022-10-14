@@ -712,12 +712,12 @@ That being said, they still played well throughout the SA qualifier and actually
  <option value="six" id="b8">B8</option>
 </select>
 
-<span id="wrapperOne" style="display: none;">It usually is, right? But not this time!</span>
-<span id="wrapperTwo" style="display: none;">Nope, but nice try.</span>
-<span id="wrapperThree" style="display: none;">Let's get you to bed, grandpa.</span>
-<span id="wrapperFour" style="display: none;">DING DING DING! YOU WIN! Where'd Iceberg go? Your guess is as good as mine.</span>
-<span id="wrapperFive" style="display: none;">Oooh, so close, but no.</span>
-<span id="wrapperSix" style="display: none;">Incorrect. But pour one out for my boy Dondo, he's finally retired.</span>
+<span id="wrapperOne" style="display: none; font-size: larger; font-weight: 600;">It usually is, right? But not this time!</span>
+<span id="wrapperTwo" style="display: none; font-size: larger; font-weight: 600;">Nope, but nice try.</span>
+<span id="wrapperThree" style="display: none; font-size: larger; font-weight: 600;">Let's get you to bed, grandpa.</span>
+<span id="wrapperFour" style="display: none; font-size: larger; font-weight: 600;">DING DING DING! YOU WIN! Where'd Iceberg go? Your guess is as good as mine.</span>
+<span id="wrapperFive" style="display: none; font-size: larger; font-weight: 600;">Oooh, so close.</span>
+<span id="wrapperSix" style="display: none; font-size: larger; font-weight: 600;">Incorrect. But pour one out for my boy Dondo, he's finally retired.</span>
 
 <script>
   var dropDown = document.getElementById("dropDown"),
@@ -727,8 +727,7 @@ That being said, they still played well throughout the SA qualifier and actually
       document.getElementById("wrapperThree"),
       document.getElementById("wrapperFour"),
       document.getElementById("wrapperFive"),
-      document.getElementById("wrapperSix"),
-      document.getElementById("wrapperSeven")
+      document.getElementById("wrapperSix")
    ];
 function test() {
 for (i=0; i<myWrappers.length; i++){
@@ -749,12 +748,9 @@ for (i=0; i<myWrappers.length; i++){
       } else if(dropDown.value === "five"){
        myWrappers[i].style.display = "none";
        myWrappers[4].style.display = "inline";
-      } else if(dropDown.value === "five"){
+      } else if(dropDown.value === "six"){
        myWrappers[i].style.display = "none";
        myWrappers[5].style.display = "inline";
-      } else if(dropDown.value === "five"){
-       myWrappers[i].style.display = "none";
-       myWrappers[6].style.display = "inline";
       }
  }
 }
