@@ -225,7 +225,7 @@ They didn't pop off immediately, but they definitely hit their stride way quicke
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** You know how EEU/CIS always has those Empire-ass, Gambit-ass, Winstrike-ass, HellRaisers-ass, Yellow Submarine-ass teams that are always *around*? *Around,* like, playing some random ass tournament at some random ass time on some random ass channel? I love those teams. You just know that each one of them are a ticking timebomb of contempt with five different fingers on the disband trigger. But every once in a while, an EEU roster manages to not hate each other for *juuuust* long enough to make it to TI. Shine on you crazy Yellow Submarine boys.
+**How did this roster happen?** No.
 
 **How was their DPC year?** 1810 points
 
@@ -262,7 +262,7 @@ A lot more eyeballs in the crowd, too. Because there's actually going to be one.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Would you believe that the Anvorgesa stack from 2019 is *still* together? They've actually been with each other for so long, they've also broken into the [top 10 most played rosters of all time](../img/ti11teams/beastcoastwinrate.jpg) (credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2011&before=14%2F10%2F2022&duration=0%3B200&duration-value-from=0&duration-value-to=200)) right after PSG.LGD. The next highest SA roster on that list is 2020's Thunder Predator squad with a mere 208 matches together.
+**How did this roster happen?** Would you believe that the Anvorgesa stack from 2019 is *still* together? They've actually been with each other for so long, they've also broken into the [top 10 most played rosters of all time](../img/ti11teams/beastcoastwinrate.jpg) (credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2011&before=14%2F10%2F2022&duration=0%3B200&duration-value-from=0&duration-value-to=200)) right after PSG.LGD. The next highest SA roster on that list is 2020's Thunder Predator squad with a mere 208 games together.
 
 **How was their DPC year?** 1810 points
 
@@ -345,7 +345,7 @@ As long as they eliminate non-Chinese teams, they should be fine. But it'll be a
 
 Move over beastcoast, there's a new regional king in South America. In fact, out of the 21 series they played throughout 3 tours, Thunder only dropped *5* games. Stockholm is where the majority of English speaking Dota fans were exposed to the sicknasty gameplay of Pakazs and energetic charisma of Pandaboo. Unfortunately, DarkMago had visa issues getting to Arlington and the team subsequently bombed out in Texas.
 
-**What would success look like?** Last TI had two South American teams, Thunder Predator and SG esports, being eliminated in group stage. This year, *four* teams will be eliminated for groups. Making it to Suntec for playoffs would be a feat, but making it to the Singapore Indoor Stadium for top 4 would be making history for SA.
+**What would success look like?** Last TI had two South American teams, Thunder Predator and SG esports, being eliminated in group stage. This year, *four* teams will be eliminated for groups. Making it to Suntec for playoffs would be a feat, but making it to the Singapore Indoor Stadium for top 4 would be new ground for SA.
 
 **What to spam in Twitch chat when Thunder are winning?** `DOCTOR GOTITO`
 
@@ -385,6 +385,7 @@ BOOM showed up on everyone's radar pretty early in the season when they won the 
 
 **What to spam in Twitch chat when BOOM are winning?** `JAPOY IS MY IDOL`
 
+<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/tsm.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">TSM</h2>
 <table>
@@ -400,7 +401,7 @@ BOOM showed up on everyone's radar pretty early in the season when they won the 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Honestly, I recommend reading [MoonMeander's heartfelt recap of the team's journey.](https://www.twitlonger.com/show/n_1srpctq)
+**How did this roster happen?** TSM? In *my* Dota 2? It's more likely than you think. This is the exact same roster as Undying from TI10. After their 13-16th place finish in Romania, Moonmeander contemplated moving to a coach role this season, but decided to play for a little longer.
 
 **How was their DPC year?** 1380 points
 
@@ -411,13 +412,11 @@ BOOM showed up on everyone's radar pretty early in the season when they won the 
 * **NA DPC Tour 3** - 4th
 * **PGL Arlington Major** - Did not qualify
 
-North America is Schrödinger's region. If you don't observe it, the cat could very well be alive. But then you tune in to a few matches and think, "No wonder everyone's moving to Valorant." Shit wrong Valve esport.
+A pretty consistent trend this year in North America has been getting a sponsor and then immediately popping off. Wildcard signed D2 Hustlers and then beat EG in Tour 1. Nouns signed 4Zoomers and they won a BTS Pro Series. And TSM signed Undying and they suddenly became the best team in North America.
 
- While coming just barely short of qualifying to both majors, Undying plowed through the NA regional qualifier without dropping a single game. Does that actually mean anything? Your guess is as good as mine.
+For... half the year. Let's ignore the second half.
 
-**What would success look like?** Acquiring enough practice and experience to maybe, just *maybe*...
-<br><br><br><br>
-Take a game off Arkosh next year.
+**What would success look like?** [DuBu's YouTube channel hitting 100k subscribers.](https://www.youtube.com/channel/UCK1C6nGjd-gLX4K898wgNVw/videos) Show me another player that would vlog themselves during TI grand finals. You can't.
 
 **What to spam in Twitch chat when TSM are winning?** `SHINZO SASAGEYO CruW`
 
@@ -437,7 +436,7 @@ Take a game off Arkosh next year.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** In a parallel universe, you _know_ how this roster happened. You know, because they showed up to TI10 . Instead, they lost in a 5 game series against OG in the WEU quals. But by golly they persevered.
+**How did this roster happen?** In a parallel universe, you _know_ how this roster happened. You'd know, because they showed up to TI10 and made HISTORY. Instead, they lost in a 5 game series against OG in the TI10 WEU quals and was nearly forgotten to time. Thankfully, they persevered. Well most of them. Fata was formerly a member of this team but was un-amicably removed after Tour 1 Regional Finals and replaced with Saksa.
 
 **How was their DPC year?** 1212 points
 
@@ -470,7 +469,7 @@ Pretty good!
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** BOOM and Seleri were veterans of tier 1.5-ish WEU team Vikin.gg for quite a while. Ace and tOfu were on another tier 1.5-ish WEU team Hellbear Smashers and faced off against Vikin.gg pretty regularly in officials. dyrachYO came out of nowhere. Dude was an EEU player, but was eager to leave the region and joined these guys and formed "Team Tickles" starting this season.
+**How did this roster happen?** BOOM and Seleri were veterans of tier 1.5-ish WEU team Vikin.gg for quite a while. Ace and tOfu were on another tier 1.5-ish WEU team Hellbear Smashers and faced off against Vikin.gg pretty regularly in officials. dyrachYO came out of nowhere. Dude was an EEU player, but was eager to leave the region and joined these guys to form "Team Tickles" starting this season.
 
 **How was their DPC year?** 1130 points
 
@@ -485,7 +484,7 @@ Keen eyed viewers may take a look at this list and say, "HEY! How does a new sta
 
 It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve says that it's _not_ Liquipedia's job. This'll make more sense once you scroll down to Fnatic.
 
-**What would success look like?** Should be obvious.
+**What would success look like?** They've been off the grid in official matches for so long, we have no idea where they currently stand. Based off the trajectory of the their last DPC? Probably not good. But then again, WEU is the most represented region at this TI, so how bad is 6th place really?
 
 **What to spam in Twitch chat when GG are winning?** `VEGAN POWER`
 
@@ -505,7 +504,7 @@ It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve s
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** If you haven't watched Dota since TI10, you may look at this roster and think, "Oh they kicked iceiceice and got VP's carry to play offlane? That's weird." It is weird. But you know what's even weirder? Bringing Jerax out of retirement, having him take Fly's spot as a 5 position, and doing so mediocre he re-retires . That's right, ole' two time TI winning 4 position Jer-Bear 
+**How did this roster happen?** If you haven't watched Dota since TI10, you may look at this roster and think, "Oh they kicked iceiceice and got VP's carry to play offlane? That's weird." It is weird. But you know what's even weirder? Jerax being on this team at one point. You know what's even weirder than that? Jerax being on this team at one point and not playing his most famous role. That's right, ole' two time TI winning 4 position Jer-Bear came out of retirement at the beginning of this season, came to North America, and took... Fly's hard support spot.
 
 **How was their DPC year?** 1052 points
 
@@ -516,15 +515,17 @@ It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve s
 * **NA DPC Tour 3** - 1st 🥇
 * **PGL Arlington Major** - 9-12th
 
-[You may recall that EG were once notorious for always getting third place at events.](https://howdoiplay.com../img/ti11teams/3teezy.png) Times have changed, though. That was a completely different roster, different meta, different era.
+I'm not gonna sugarcoat it, the Jerax 5 experiment was not pleasant. It was like watching a roster [generated through Dall-E mini.](../img/ti11teams/jeraxdalle.jpg) At first glance, "Whoa, this is so cool!" But the longer you stare at it and look at the details, the more horrifying it gets. EG got away with it for a while because Jerax is still incredibly gifted and... well because it was the NA DPC, but it wasn't pretty.
 
-They've since moved up a digit.
+After the Stockholm Major, Jerax left and Fly was brought back in. The team gelled pretty much immediately and yet somehow got destroyed all over again in Arlington. Amusingly, one of the few teams they *did* beat in Texas was Team Spirit in groups.
 
-Now for a normal person, 2nd place at two majors is pretty incredible. But Dota players, and fans, are not normal people. And in true Ricky Bobby fashion, if you ain't first, you're last. *What a joke of a year. Abed Storm for five games? 1 position NP in grand finals? smh can we finally kick LULba please?*
+EG's TI invitation fate wasn't even in their hands near the end, but beastcoast repaid their TI10 debt and eliminated the next closest point teams, Fnatic and Outsiders/VP, in Arlington. Te quiero mucho Arturito goes both ways.
 
-**What would success look like?** How funny would it be if, after eight years of competing in professional Dota, Arteezy's first Valve LAN event win was TI10.
+**What would success look like?** I don't even know anymore. As brutal as it sounds, I almost think Arteezy fans would almost prefer him to become a full time streamer at this point. Given these LAN performances, they'd probably see more of him.
 
-**What to spam in Twitch chat when EG are winning?** You can spam pretty much whatever you want, but under no circumstances whatsoever are you allowed to praise Bulba. Doesn't matter if he mindgamed the enemy team into picking Phoenix and Night Stalker
+**What to spam in Twitch chat when EG are winning?** Whatever you want, but under no circumstances are you allowed to praise Bulba. Doesn't matter if it's the world's greatest Storm Spirit game or if he masterminded a strategy that somehow forced the enemy team into only picking 4 heroes. The first rule and only rule of EG twitch discourse is: everything is Bulba's fault.
+
+Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of my environment and North American Dota... we... we've had a rough couple of years.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/fnatic.jpg" alt="Banner"></p>
@@ -542,7 +543,7 @@ Now for a normal person, 2nd place at two majors is pretty incredible. But Dota 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Fnatic had been struggling to fulfill their offlane and mid roles for quite a while. 
+**How did this roster happen?** Raven, Jabz, and DJ were on the TI10 Fnatic, but the team had been struggling to fulfill their offlane and mid roles for quite a while. Armel left TNC after they failed to qualify to TI last year and Jaunuel was made available from Neon. Perfect fit.
 
 **How was their DPC year?** 1020 points
 
@@ -553,11 +554,15 @@ Now for a normal person, 2nd place at two majors is pretty incredible. But Dota 
 * **SEA DPC Tour 3** - 3rd 🥉
 * **PGL Arlington Major** - 9-12th
 
-You got the gist of it. The Fnatic organization is a TI mainstay and has attended every single International since TI3. That streak got dangerously close to ending in the SEA regional qual grand finals, but they managed to reverse sweep TNC.
+They played some Dota and got some placements. Doesn't matter. The only part that does matter is that last 9-12th you see on the list. The Arlington Major was the last opportunity for teams to earn DPC points this season. So direct TI invitation dominos start falling left and right with each elimination.
+
+This year, Fnatic were **0.05** DPC points behind Outsiders/VP to qualify for the last spot at TI. Exciting, right? Arlington Major time. Fnatic lose to Team Aster in upper bracket. Oh no! But Outsiders also lost to Team Spirit! Then Outsiders beat RNG in lower bracket! Oh man! Fnatic lose to beastcoast thus eliminating them from TI contention. Wow, that's crazy. Congrats to Outsiders, though, they're going to TI.
+
+<p style="font-family: Georgia; font-size: 2em;">[EXTREMELY LOUD INCORRECT BUZZER]</p>
 
 <img src="../img/ti11teams/fnaticchest.jpg" alt="Ye Olde Unoffical Source" style="width: 500px;">
 
-https://www.reddit.com/r/DotA2/comments/wpd5z2/fnatic_qualify_to_ti_over_outsiders_ruling_from/
+PSYCHE! YOU THOUGHT. [It turns out Valve has always used a *different* metric for calculating partial points that Liquipedia was not privy to.](https://www.reddit.com/r/DotA2/comments/wpd5z2/fnatic_qualify_to_ti_over_outsiders_ruling_from/) 
 
 **What would success look like?** iceiceice bumps Deth up a tier or two, or six, in his [SEA offlaner power rankings.](https://afkgaming.com/dota2/news/7038-iceiceice-ranks-sea-dota-2-players-by-role)
 
