@@ -885,7 +885,7 @@ No need to panic. Zayac knows a guy. He'll make the call.
 ```
 Zayac - Roman, it's Zayac.
 Resolution - Baqyt, you old hare, how the hell are you?
-Zayac - We need you.
+Zayac - You're needed.
 Resolution - Only one man could make me end my Bali vacation. And it's you. I'm in.
 Zayac - Excellent. We'll meet in Riyadh.
 Resolution - What about iceiceice?
@@ -966,4 +966,4 @@ If you enjoyed this article and want to keep up with me, I'm around on [Twitter]
 
 Also, feel free to [buy my TI11 voiceline](https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s) or hit up the [howdoiplay merch store](https://shop.howdoiplay.com/) to support me!
 
-<p style="font-size: 1.5em;"><a href=""><b>Discussion for this article on /r/dota2.</a></p>
+<p style="font-size: 1.5em;"><a href="https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s"><b>Discussion for this article on /r/dota2.</a></p>
