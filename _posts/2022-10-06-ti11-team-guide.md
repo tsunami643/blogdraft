@@ -556,7 +556,7 @@ Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of 
 
 They played some Dota and got some placements. Doesn't matter. The only part that does matter is that last 9-12th you see on the list. The Arlington Major was the last opportunity for teams to earn DPC points this season. So direct TI invitation dominos start falling left and right with each elimination.
 
-This year, Fnatic were **0.05** DPC points behind Outsiders/VP to qualify for the last spot at TI. Exciting, right? Arlington Major time. Fnatic lose to Team Aster in upper bracket. Oh no! But Outsiders also lost to Team Spirit! Then Outsiders beat RNG in lower bracket! Oh man! Fnatic lose to beastcoast thus eliminating them from TI contention. Wow, that's crazy. Congrats to Outsiders, though, they're going to TI.
+This year, Fnatic were **0.05** DPC points behind Outsiders/VP to qualify for the last spot at TI. Exciting! Okay, so Arlington Major time. Fnatic lose to Team Aster in upper bracket. Oh no! But Outsiders also lose to Team Spirit! Then Outsiders beat RNG in lower bracket! Oh man! Fnatic then lose to beastcoast, thus eliminating them from TI contention. Wow, that's crazy. Congrats to Outsiders, though, they're going to TI.
 
 <p style="font-family: Georgia; font-size: 2em;">[EXTREMELY LOUD INCORRECT BUZZER]</p>
 
@@ -568,9 +568,9 @@ Or as the community saw it.
 
 [It turns out Valve has always used a *different* metric for calculating partial points that Liquipedia was not privy to.](https://www.reddit.com/r/DotA2/comments/wpd5z2/fnatic_qualify_to_ti_over_outsiders_ruling_from/ikgad8h/) Obviously the official source should be the most trusted one, but Dota fans haven't exactly been able to count on Valve for regularly maintained documentation. In fact, even at the time of this ruling, there were errors on some other teams' point values on the official Valve ranking site.
 
-Anyway, long story short, Fnatic qualified to TI and Outsiders/VP didn't.
+Anyway, long story short, Fnatic qualified to TI and Outsiders/VP didn't. Crazy stuff.
 
-**What would success look like?** iceiceice bumps Deth up a tier or two, or six, in his [SEA offlaner power rankings.](https://afkgaming.com/dota2/news/7038-iceiceice-ranks-sea-dota-2-players-by-role)
+**What would success look like?** Jaunuel's mullet is added to the list of "greatest TI winning haircuts."
 
 **What to spam in Twitch chat when Fnatic are winning?** `CEO MOON MADE A GREAT BUSINESS DECISION`
 
