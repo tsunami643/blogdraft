@@ -148,7 +148,7 @@ Guess who beat them in Arlington?
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After TI10 ended, OG, as we knew it, scattered across the seven seas*. No former members* remained as active players*, so they had to start from scratch. How did they do it? Allow me to present this section in the form that I myself learned this information.
+**How did this roster happen?** After TI10 ended, OG, as we knew it, scattered across the seven seas\*. No former members\* remained as active players\*, so they had to start from scratch. How did they do it? Allow me to present this section in the form that I myself learned this information.
 
 Through a series of disjointed DMs I received from OG's CEO JMR Luna.
 
@@ -169,13 +169,13 @@ Pretty surprising, actually. Taiga was a part of the Insania crew for the longes
 So ATF, also known as <abbr title="I'm not making this up, that's what the acronym stands for">AMMAR_THE_FUCKER</abbr>, was on a WEU Div 2 team last year called Creepwave along with bzm, so that adds up.
 
 <span class="twitter-dm">And then we tried out a few carries and ended up with yuragi</span>
-<span class="twitter-dm twitter-dm-first">And then we brought in the coach chu</span>
+<span class="twitter-dm twitter-dm-first">And then we brought in the coach chuvash</span>
 
-You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professionally since 2019, but no notable results. And chu/chuvash has actually been around for a while, but was also a player on Creepwave with ATF and bzm.
+You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professionally since 2019, but no notable results. And Chuvash has actually been around for a while, but was also a player on Creepwave with ATF and bzm.
+
+And before anyone besmirches my journalistic integrity.
 
 <span class="twitter-dm twitter-dm-first">This is public. We spoke about it on the monkey business show</span>
-
-I don't listen to podcasts. By the way, check out this episode of OG's Monkey Business podcast that I guest starred on!
 
 **How was their DPC year?** 1930 points
 
@@ -188,11 +188,11 @@ I don't listen to podcasts. By the way, check out this episode of OG's Monkey Bu
 
 On paper, this is the kind of roster that grows into its own after a year or two. In execution? OG is **BUILT DIFFERENT.**
 
-They didn't necessarily hit the ground *running* running, but they definitely drafted behind everyone else in the race. And while these DPC results may not be as decorated as LGD's, this team* had pretty consistently strong showings at third party tournaments as well, including a recent 1st 🥇* place at ESL Malaysia near the end of August.
+They didn't pop off immediately, but they definitely hit their stride way quicker than anyone expected. And while these DPC results may not be as decorated as LGD's, this team* had strong showings at third party tournaments, including a recent 1st 🥇* place at ESL Malaysia near the end of August.
 
-What's with all the asterisks in this section, you ask? Well, our good friend Misha had quite a bit of difficulty traveling internationally this year.
+*ALRIGHT TSUNAMI, WHAT'S WITH ALL THE ASTERISKS?* Well, our good friend Misha had quite a bit of difficulty getting visas this year. As a result, OG spent a lot of time this year playing musical chairs for substitutes on LAN. Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came back for another one last ride in Arlington. Got fourth. And then coach Chuvash stood in for Misha at ESL Malaysia. Which they won.
 
-**What would success look like?** For the rest of the team? Eh, . For Misha? Oh boy. Misha, Misha, Misha. I don't even know if _he_ necessarily feels the pressure. But everyone putting the pressure on him has gotta be something
+**What would success look like?** A top 6 finish would be perfectly respectable for such a fresh roster. For Misha? Oh boy. I don't even know if _he_ necessarily feels the pressure. But the public at large putting the pressure on him has gotta be something else.
 
 **What to spam in Twitch chat when OG are winning?** `ATF=ALWAYS TAKES FIRST`
 
@@ -780,7 +780,7 @@ You had to be there.
 * **SEA DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 13-14th*
 
-SEA had an interesting conundrum this year. Since their leagues were so intra-regionally competitive, no single team was able to farm both seasons for enough DPC points to break the top 12 rank threshold. As a result, there was a very real possibility that only one SEA team would attend TI10.
+SEA had an interesting conundrum this year. Since their leagues were so intra-regionally competitive, no single team was able to farm both seasons for enough DPC points to break the top 12 rank threshold. There was a very real possibility that only one SEA team would attend TI10.
 
 But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be pretty cool to go to TI directly," and then proceeded to smash their way through the rest of the league and the AniMajor.
 
