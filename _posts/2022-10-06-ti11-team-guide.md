@@ -158,21 +158,35 @@ Through a series of disjointed DMs I received from OG's CEO JMR Luna.
 <span class="twitter-dm">This is public. We spoke about it on the [monkey business show](https://www.youtube.com/playlist?list=PLQRJUuILzZKUMNpwSmOUJRm6hgUbW-0Me)</span>
 <span class="twitter-dm twitter-dm-first">Misha was first</span>
 
+---
+
 Makes sense. Misha was OG's coach last year, so that's a reasonable foundation.
+
+---
 
 <span class="twitter-dm">When we started doing the recruiting many people turned Misha down</span>
 <span class="twitter-dm">Always asking... "well who are the rest of the team"</span>
 <span class="twitter-dm twitter-dm-first">And taiga was the only one ready to take a chance on us</span>
 
+---
+
 Pretty surprising, actually. Taiga was a part of the Insania crew for the longest time. However, the Liquid boys knew a change had to be made after they failed to qualify to TI last year and Taiga voluntarily fell on the sword. Guess he and OG saw mutual potential in one another.
+
+---
 
 <span class="twitter-dm">Once we have taiga then Ammar decided to join us</span>
 <span class="twitter-dm twitter-dm-first">Ammar brought bzm</span>
 
+---
+
 So ATF, also known as <abbr title="I'm not making this up, that's what the acronym stands for">AMMAR_THE_FUCKER</abbr>, was on a WEU Div 2 team last year called Creepwave along with bzm, so that adds up.
+
+---
 
 <span class="twitter-dm">And then we tried out a few carries and ended up with yuragi</span>
 <span class="twitter-dm twitter-dm-first">And then we brought in the coach chuvash</span>
+
+---
 
 You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professionally since 2019, but no notable results. And Chuvash has actually been around for a while, but was also a player on Creepwave with ATF and bzm.
 
