@@ -837,9 +837,9 @@ Anything else worth mentioning? Oh yeah, Ghost was unable to make it to Arlingto
 <canvas id="myChart" style="width:100%;max-width:600px"></canvas>
 
 <script>
-var xValues = ["TI1", "TI2", "TI3", "TI4", "TI5"];
-var yValues = [4, 5, 5, 6, 6];
-var barColors = ["red", "green","blue","orange","brown"];
+var xValues = ["TI1", "TI2", "TI3", "TI4", "TI5", "TI6", "TI7", "TI8", "TI9", "TI10", "TI11"];
+var yValues = [4, 5, 5, 6, 6, 5, 5, 6, 4, 5, 3];
+var barColors = ["red", "blue", "green", "purple", "gold", "red", "blue", "green", "purple", "gold", "red"];
 
 new Chart("myChart", {
   type: "bar",
@@ -855,6 +855,11 @@ new Chart("myChart", {
     title: {
       display: true,
       text: "Chinese Teams at TI"
+    },
+    scales: {
+      y: {
+        beginAtZero: true
+      }
     }
   }
 });
