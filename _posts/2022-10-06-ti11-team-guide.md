@@ -109,7 +109,9 @@ Honestly, I appreciate the optimism.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?**  Oh, it's *been* happening. As of now, they are currently the [8th most played roster of all time](../img/ti11teams/lgdwinrate.jpg) (credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2011&before=14%2F10%2F2022&duration=0%3B200&duration-value-from=0&duration-value-to=200)) with an insane 70% winrate together to boot.
+**How did this roster happen?**  It's *been* happening. As of now, they are currently the [8th most played roster of all time](../img/ti11teams/lgdwinrate.jpg) (credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2011&before=14%2F10%2F2022&duration=0%3B200&duration-value-from=0&duration-value-to=200)) with an insane 70% winrate together to boot.
+
+Better pray grand finals isn't the 30%.
 
 **How was their DPC year?** 2240 points
 
@@ -120,11 +122,13 @@ Honestly, I appreciate the optimism.
 * **CN DPC Tour 3** - 4th
 * **PGL Arlington Major** - 2nd 🥈
 
-Due to extremely heavy COVID restrictions, Chinese Dota was locked away for most of this season. Even getting back to China after TI10 in Romania was a massive project for a lot of teams, which led to their first tour being delayed, so CN Doto remained in its own little bubble for most of the year.
+Due to heavy COVID restrictions, Chinese Dota was locked away for most of this season. Even getting back to China after TI10 in Romania was a massive project for a lot of teams, which led to their first tour being delayed, so CN Doto remained in its own little bubble for most of the year.
 
-LGD only narrowly qualified to the Arlington Major after scraping through 
+LGD only narrowly qualified to the Arlington Major after scraping through their Tour 3 tiebreaker, but came in to their second international LAN of the year with an axe to grind. Second LAN, because they had shown up to the non-DPC Riyadh Masters LAN a few weeks prior to Arlington and took the trophy after defeating Team Spirit.
 
-**What would success look like?** They have to win. That's it. Literally any placement that doesn't involve them lifting the Aegis at the end of this tournament is a complete failure. I'm not being hyperbolic. This is where the bar has been set for this team.
+Guess who beat them in Arlington?
+
+**What would success look like?** They have to win. That's it. Literally any placement that doesn't involve them lifting the Aegis at the end of this tournament is a complete failure. I'm not being hyperbolic. This is legitimately where the bar has been set for this team.
 
 **What to spam in Twitch chat when LGD are winning?** `WASH YOUR FACE`
 
@@ -144,7 +148,9 @@ LGD only narrowly qualified to the Arlington Major after scraping through
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Allow me to present this section in the form that I myself learned this information. Through a series of disjointed DMs I received from JMRLuna when I asked this question openly during an ESL Malaysia broadcast.
+**How did this roster happen?** After TI10 ended, OG, as we knew it, scattered across the seven seas*. No former members* remained as active players*, so they had to start from scratch. How did they do it? Allow me to present this section in the form that I myself learned this information.
+
+Through a series of disjointed DMs I received from OG's CEO JMR Luna.
 
 <span class="twitter-dm">I saw you on the pannel about how we build the roster</span>
 <span class="twitter-dm twitter-dm-first">Misha was first</span>
@@ -155,7 +161,7 @@ Makes sense. Misha was OG's coach last year, so that's a reasonable foundation.
 <span class="twitter-dm">Always asking... "well who are the rest of the team"</span>
 <span class="twitter-dm twitter-dm-first">And taiga was the only one ready to take a chance on us</span>
 
-Pretty surprising, actually. Taiga was a part of the Insania crew for the longest time. However, Insania and the boys knew a change had to be made after Liquid failed to qualify to TI last year and Taiga voluntarily fell on the sword. Guess Taiga and OG saw mutual potential in one another.
+Pretty surprising, actually. Taiga was a part of the Insania crew for the longest time. However, the Liquid boys knew a change had to be made after they failed to qualify to TI last year and Taiga voluntarily fell on the sword. Guess he and OG saw mutual potential in one another.
 
 <span class="twitter-dm">Once we have taiga then Ammar decided to join us</span>
 <span class="twitter-dm twitter-dm-first">Ammar brought bzm</span>
@@ -184,7 +190,7 @@ On paper, this is the kind of roster that grows into its own after a year or two
 
 They didn't necessarily hit the ground *running* running, but they definitely drafted behind everyone else in the race. And while these DPC results may not be as decorated as LGD's, this team* had pretty consistently strong showings at third party tournaments as well, including a recent 1st 🥇* place at ESL Malaysia near the end of August.
 
-What's with all the asterisks, you ask? Well, our good friend Misha had quite a bit of difficulty traveling internationally this year.
+What's with all the asterisks in this section, you ask? Well, our good friend Misha had quite a bit of difficulty traveling internationally this year.
 
 **What would success look like?** For the rest of the team? Eh, . For Misha? Oh boy. Misha, Misha, Misha. I don't even know if _he_ necessarily feels the pressure. But everyone putting the pressure on him has gotta be something
 
@@ -219,7 +225,7 @@ What's with all the asterisks, you ask? Well, our good friend Misha had quite a 
 
 If you take a peek at the flags next to each of these player names, you may be able to deduce that last year's TI champions haven't had the smoothest year, geopolitically speaking. Team Spirit as an organization is also Russian, but moved to Serbia after the war began. Given the situation, Valve put the entire EEU DPC Tour 2 on hold and replaced it with a compressed playoff bracket that would award DPC points, determine relegation slots, and figure out who goes to the Stockholm Major.
 
-Stockholm was a wash for Spirit, understandably so, but they got their bearings come Arlington. And what a time to do it, because their last match was against eternal foe PSG.LGD. If you didn't catch this grand final series, [I highly recommend watching game 2.](https://www.twitch.tv/videos/1561728844?t=6h45m16s) It was instantly inducted into the hall of fame of grand final performances.
+Stockholm was a wash for Spirit, understandably so, but they got their bearings come Arlington. And what a time to do it, because their last match was against eternal foe PSG.LGD. If you didn't catch this grand final series, [I highly recommend watching game 2.](https://www.twitch.tv/videos/1561728844?t=6h45m16s) Instant hall of fame contender.
 
 **What would success look like?** Two-timing à la OG would be pretty sweet. The problem: they're still pretty good. Lest we forget, OG coming into TI9 were... well let's just say there's a reason why detractors branded both their wins as 'flukes.' Spirit, on the other hand, won the last major and [True Sight was just released](https://www.youtube.com/watch?v=NFEwN1N3vvA) so everyone just got a refresher on how sick they were/are/will be. Safe to say there will be a lot more eyeballs on Spirit's drafts and gameplay this TI.
 
@@ -291,7 +297,7 @@ Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 
 The moment I saw these placements I thought, "Wow, those are some pretty great performances. But does Aster ever win?" The answer is no, they don't. But they always get *really close.* Heavily reminscent of an [old Vici Gaming squad.](https://howdoiplay.com/blog/2018/07/18/ti8-team-guide.html#:~:text=Notable%20tournament%20placings%20A,And%20not%20win.) Is Ori just allergic to gold? 
 
-**What would success look like?** I have been scouring the internet for a single positive Chinese meme about Aster and it's literally just people shitting relentlessly on this team. If they can manage to change their public perception in the slightest, that'd be a massive dub for the Tea Masters.
+**What would success look like?** Aster's reputation within China has been slowly getting repaired compared to last year's 'civil war specialist' stereotype, but unfortunately they fumbled the bag at ESL Malaysia and lost to OG in grand finals. Cue the ridicule all over again.
 
 **What to spam in Twitch chat when Aster are winning?** `ATF=ATM?`
 
