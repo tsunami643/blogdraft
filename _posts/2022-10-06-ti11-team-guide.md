@@ -884,14 +884,14 @@ No need to panic. Zayac knows a guy. He'll make the call.
 
 ```
 Zayac - Roman, it's Zayac.
-Resolution - You old hare, how the hell are you?
+Resolution - Baqyt, you old hare, how the hell are you?
 Zayac - We need you.
-Resolution - Only one man could make me end my Bali vacation, Baqyt. And it's you. I'm in.
-Zayac - Excellent. We'll meet you in Riyadh.
+Resolution - Only one man could make me end my Bali vacation. And it's you. I'm in.
+Zayac - Excellent. We'll meet in Riyadh.
 Resolution - What about iceiceice?
 Zayac - He'll be fine. He's going deep undercover to make the ultimate sacrifice. Ninjaboogie sends his regards.
 
-*Resolution dons sunglasses and smiles. Fortunate Son starts playing as we see a montage of him unboxing his mouse and keyboard and preparing for his flight to Saudi Arabia*
+*Resolution dons a pair of sunglasses and smiles. Fortunate Son starts playing as we begin a montage of him preparing to fly to Saudi Arabia.*
 ```
 
 I like to imagine that's how it went down.
