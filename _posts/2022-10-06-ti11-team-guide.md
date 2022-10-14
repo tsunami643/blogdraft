@@ -203,7 +203,7 @@ On paper, this is the kind of roster that grows into its own after a year or two
 
 They didn't pop off immediately, but they definitely hit their stride way quicker than anyone expected. And while these DPC results may not be as decorated as LGD's, this team* had strong showings at third party tournaments, including a recent 1st 🥇* place at ESL Malaysia near the end of August.
 
-*ALRIGHT TSUNAMI, WHAT'S WITH ALL THE ASTERISKS?* Well, our good friend Misha had quite a bit of difficulty getting visas this year. As a result, OG spent a lot of time this year playing musical chairs for substitutes on LAN. Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came back for another one last ride in Arlington. Got fourth. And then coach Chuvash stood in for Misha at ESL Malaysia. Which they won.
+*ALRIGHT TSUNAMI, WHAT'S WITH ALL THE ASTERISKS?* Well, our good friend Misha had quite a bit of difficulty getting visas this year. As a result, OG spent a lot of time this year playing musical chairs with substitutes when they traveled internationally for LANs. Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came back for another one last ride in Arlington. Got fourth. And then coach Chuvash stood in for Misha at ESL Malaysia. Which they won.
 
 **What would success look like?** A top 6 finish would be perfectly respectable for such a fresh roster. For Misha? Oh boy. I don't even know if _he_ necessarily feels the pressure. But the public at large putting the pressure on him has gotta be something else.
 
@@ -273,7 +273,7 @@ A lot more eyeballs in the crowd, too. Because there's actually going to be one.
 * **SA DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 5-6th
 
-Here's the thing. Longevity should beget success, right?
+Here's the thing. Longevity should beget success, right? In Dota, that's not always the case. There's usually a bell curve of . It's tough to say where beastcoast currently falls on that curve. On the one hand, their DPC major placements were better this year than any year prior. On the other hand, 
 
 **What would success look like?** ~~This roster's top 8 finish at TI9 was the highest placement a South American team has ever gotten in the history of TI. Given the consistent upwards trajectory of the region overperforming at TI, it's not outside the realm of possibility that they could break top 6 this year.~~
 
@@ -312,6 +312,8 @@ The moment I saw these placements I thought, "Wow, those are some pretty great p
 
 **What would success look like?** Aster's reputation within China has been slowly getting repaired compared to last year's 'civil war specialist' stereotype, but unfortunately they fumbled the bag at ESL Malaysia and lost to OG in grand finals. Cue the ridicule all over again.
 
+As long as they eliminate non-Chinese teams, they should be fine. But it'll be a dark day if they face LGD in bracket, eliminate them, and then _don't_ get the Aegis.
+
 **What to spam in Twitch chat when Aster are winning?** `ATF=ATM?`
 
 <hr style="margin-bottom: 1.2em;">
@@ -341,11 +343,11 @@ The moment I saw these placements I thought, "Wow, those are some pretty great p
 * **SA DPC Tour 3** - 1st 🥇
 * **PGL Arlington Major** - 15-16th*
 
-After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own hands. They had quite a few points with their surprise top 6 finish at the Singapore Major, but it wasn't enough to guarantee no other team could leapfrog them in Kyiv. Enter the Evil Genuises who punched TP's ticket by assassinating NoPing, TNC, and Nigma uno a uno at the AniMajor.
+Move over beastcoast, there's a new regional king in South America. In fact, out of the 21 series they played throughout 3 tours, Thunder only dropped *5* games. Stockholm is where the majority of English speaking Dota fans were exposed to the sicknasty gameplay of Pakazs and energetic charisma of Pandaboo. Unfortunately, DarkMago had visa issues getting to Arlington and the team subsequently bombed out in Texas.
 
-**What would success look like?** The Peruvian teams not having to commit country-on-country elimination in the bracket.
+**What would success look like?** Last TI had two South American teams, Thunder Predator and SG esports, being eliminated in group stage. This year, *four* teams will be eliminated for groups. Making it to Suntec for playoffs would be a feat, but making it to the Singapore Indoor Stadium for top 4 would be making history for SA.
 
-**What to spam in Twitch chat when Thunder are winning?** `TE QUIERO MUCHO ARTURITO FrankerZ`
+**What to spam in Twitch chat when Thunder are winning?** `DOCTOR GOTITO`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/boom.jpg" alt="Banner"></p>
@@ -358,17 +360,15 @@ After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">TIMS</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">skem</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Mushi</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Mushi</td>
+    <td><i style="font-size: smaller;">Analyst</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Ohaiyo</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Painfully. I could write an essay on Fnatic's adventures this year, but it's more efficient to give the bullet point version:
+**How did this roster happen?** After failing to qualify for TI10, BOOM dropped their full-Indo squad, aside from Fbz, and brought in Pinoys Yopaj, Tims, skem, and Tino. Tino played Tour 1, but was replaced by JaCkky for the Regional Final onwards.
 
-* Fnatic yoinks Thai rising star, Masaros, from Motivate.Trust at the end of 2020. Trust ends up winning a tournament while everybody knows that Masaros is about to leave. Kinda awkward.
-* Masaros leaves after Fnatic's disappointing Singapore Major finish and they bring in ChYuan (a mid player) to play offlane.
-* Fnatic bumbles their way through S2 to make this new roster work. It's not pretty.
-* Moon is ~~kicked~~ fired from Fnatic ~~for underperforming~~ in a hostile corporate takeover. Deth (an offlaner) is brought in to play offlane and ChYuan assumes mid duties.
+Test your geographical knowledge. What flag is next to Jackky's name?
 
 **How was their DPC year?** 1482 points
 
@@ -379,13 +379,11 @@ After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own
 * **SEA DPC Tour 3** - 1st 🥇
 * **PGL Arlington Major** - 7-8th
 
-***SEA DPC S1** - 1st, **ONE Esports Singapore Major** - 9-12th, **SEA DPC S2** - 4th, **WePlay Kyiv AniMajor** - Did not qualify*
+BOOM showed up on everyone's radar pretty early in the season when they won the non-DPC GAMERS GALAXY: Dubai tournament in March. They quietly eliminated Secret, Spirit, Nigma in playoffs and beat Tundra in grand finals. Perhaps they peaked a bit too soon, however, as their major performances were decidedly less impressive.
 
-You got the gist of it. The Fnatic organization is a TI mainstay and has attended every single International since TI3. That streak got dangerously close to ending in the SEA regional qual grand finals, but they managed to reverse sweep TNC.
+**What would success look like?** Southeast Asian teams have been *struggling* when it comes to TI. No team from the region has broken top 6 since TI6's Fnatic. That being said, this is the first ever International in SEA. We're about to learn just how strong a crowd buff can truly get.
 
-**What would success look like?** iceiceice bumps Deth up a tier or two, or six, in his [SEA offlaner power rankings.](https://afkgaming.com/dota2/news/7038-iceiceice-ranks-sea-dota-2-players-by-role)
-
-**What to spam in Twitch chat when BOOM are winning?** `CEO MOON MADE A GREAT BUSINESS DECISION`
+**What to spam in Twitch chat when BOOM are winning?** `BOYS OUT OF [INSERT-M-WORD-HERE]`
 
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/tsm.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">TSM</h2>
