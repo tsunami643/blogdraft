@@ -696,11 +696,9 @@ That being said, they still played well throughout the SA qualifier and actually
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** IT'S TIME FOR GUESS. THAT. EEU .
+**How did this roster happen?** IT'S TIME FOR GUESS. THAT. EEU. TEAAAAAAM.
 
-Reader, for $0:
-
-<p style="font-size: 1.3em; font-weight: bold;">Name the tag that this roster played under before being acquired by BetBoom
+<p style="font-size: 1.3em; font-weight: bold;">Reader, for $0. Name the tag that this roster played under before being acquired by BetBoom
 
 <select id="dropDown" onchange="test()" style="font-weight: 100;">
  <option value="default" selected="selected">Select team</option>
@@ -708,14 +706,17 @@ Reader, for $0:
  <option value="two" id="hr">HellRaisers</option>
  <option value="three" id="m5">Moscow 5</option>
  <option value="four" id="winstrike">Winstrike</option>
+ <option value="five" id="gambit">Gambit Esports</option>
+ <option value="six" id="b8">B8</option>
 </select>
 </p>
 
-<span id="wrapperOne" style="display: none;font-weight: 100;">You'd think so, but not this time</span>
-<span id="wrapperTwo" style="display: none;font-weight: 100;">Nope, but nice try</span>
-<span id="wrapperThree" style="display: none;font-weight: 100;">Let's get you to bed, grandpa</span>
-<span id="wrapperFour" style="display: none;font-weight: 100;">DING DING DING! YOU WIN!</span>
-</p>
+<span id="wrapperOne" style="display: none;"><b><i>It usually is, right? But not this time</b></i></span>
+<span id="wrapperTwo" style="display: none;"><b><i>Nope, but nice try</b></i></span>
+<span id="wrapperThree" style="display: none;"><b><i>Let's get you to bed, grandpa</b></i></span>
+<span id="wrapperFour" style="display: none;"><b><i>DING DING DING! YOU WIN!</b></i></span>
+<span id="wrapperFive" style="display: none;"><b><i>Oooh, so close, but no</b></i></span>
+<span id="wrapperSix" style="display: none;"><b><i>Incorrect. But pour one out for my boy Dondo, he's finally retired</b></i></span>
 
 <script>
   var dropDown = document.getElementById("dropDown"),
@@ -724,7 +725,9 @@ Reader, for $0:
       document.getElementById("wrapperTwo"),
       document.getElementById("wrapperThree"),
       document.getElementById("wrapperFour"),
-      document.getElementById("wrapperFive")
+      document.getElementById("wrapperFive"),
+      document.getElementById("wrapperSix"),
+      document.getElementById("wrapperSeven")
    ];
 function test() {
 for (i=0; i<myWrappers.length; i++){
@@ -745,6 +748,12 @@ for (i=0; i<myWrappers.length; i++){
       } else if(dropDown.value === "five"){
        myWrappers[i].style.display = "none";
        myWrappers[4].style.display = "inline";
+      } else if(dropDown.value === "five"){
+       myWrappers[i].style.display = "none";
+       myWrappers[5].style.display = "inline";
+      } else if(dropDown.value === "five"){
+       myWrappers[i].style.display = "none";
+       myWrappers[6].style.display = "inline";
       }
  }
 }
