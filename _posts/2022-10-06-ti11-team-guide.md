@@ -152,6 +152,8 @@ Guess who beat them in Arlington?
 
 Through a series of disjointed DMs I received from OG's CEO JMR Luna.
 
+---
+
 <span class="twitter-dm">I saw you on the pannel about how we build the roster</span>
 <span class="twitter-dm">This is public. We spoke about it on the [monkey business show](https://www.youtube.com/playlist?list=PLQRJUuILzZKUMNpwSmOUJRm6hgUbW-0Me)</span>
 <span class="twitter-dm twitter-dm-first">Misha was first</span>
