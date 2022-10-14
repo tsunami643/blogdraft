@@ -279,7 +279,7 @@ I'm pretty sure I used those prefixes correctly.
 
 **What would success look like?** Guess what the most represented country at this TI is? It's not China. It's not Philippines. It's Peru with 13 players (tied with Russia).
 
-**What to spam in Twitch chat when bc are winning?** I think at one point SA was trying to move on from it, but it's just too good of a battle cry to abandon. `GAAAAAAAAAAAAAAAAA`
+**What to spam in Twitch chat when bc are winning?** I think at one point SA was trying to move on from it, but it's just too good of a battle cry to abandon: `GAAAAAAAAAAAAAAAAA`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/aster.jpg" alt="Banner"></p>
@@ -314,7 +314,7 @@ The moment I saw these placements I thought, "Wow, those are some pretty great p
 
 As long as they eliminate non-Chinese teams, they should be fine. But it'll be a dark day if they face LGD in bracket, eliminate them, and then _don't_ get the Aegis.
 
-**What to spam in Twitch chat when Aster are winning?** `ATF=ATM?`
+**What to spam in Twitch chat when Aster are winning?** `XXXX`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/thunder.jpg" alt="Banner"></p>
@@ -332,7 +332,7 @@ As long as they eliminate non-Chinese teams, they should be fine. But it'll be a
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Whoa, now. *Two* South American teams at TI? Hay talento, hay apoyo. This full Peruvian squad was put together pretty much right before the DPC started. Previously, MoOz had been beastcoast's coach/stand-in for most of 2020, but returned to full time play on TP. Also, yes, that is the Fear you're thinking of who's coaching.
+**How did this roster happen?** XXXX
 
 **How was their DPC year?** 1540 points
 
@@ -343,7 +343,9 @@ As long as they eliminate non-Chinese teams, they should be fine. But it'll be a
 * **SA DPC Tour 3** - 1st 🥇
 * **PGL Arlington Major** - 15-16th*
 
-Move over beastcoast, there's a new regional king in South America. In fact, out of the 21 series they played throughout 3 tours, Thunder only dropped *5* games. Stockholm is where the majority of English speaking Dota fans were exposed to the sicknasty gameplay of Pakazs and energetic charisma of Pandaboo. Unfortunately, DarkMago had visa issues getting to Arlington and the team subsequently bombed out in Texas.
+Move over beastcoast, there's a new regional king in South America. In fact, out of the 21 series they played throughout 3 tours, Thunder only dropped *5* games. Stockholm is where the majority of English speaking Dota fans were exposed to the sicknasty carry gameplay of Pakazs and energetic charisma of Pandaboo.
+
+Unfortunately, DarkMago had visa issues getting to Arlington and the team subsequently bombed out in Texas.
 
 **What would success look like?** Last TI had two South American teams, Thunder Predator and SG esports, being eliminated in group stage. This year, *four* teams will be eliminated for groups. Making it to Suntec for playoffs would be a feat, but making it to the Singapore Indoor Stadium for top 4 would be new ground for SA.
 
@@ -418,7 +420,7 @@ For... half the year. Let's ignore the second half.
 
 **What would success look like?** [DuBu's YouTube channel hitting 100k subscribers.](https://www.youtube.com/channel/UCK1C6nGjd-gLX4K898wgNVw/videos) Show me another player that would vlog themselves during TI grand finals. You can't.
 
-**What to spam in Twitch chat when TSM are winning?** `SHINZO SASAGEYO CruW`
+**What to spam in Twitch chat when TSM are winning?** `XXXX`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/tundra.jpg" alt="Banner"></p>
@@ -447,11 +449,11 @@ For... half the year. Let's ignore the second half.
 * **WEU DPC Tour 3** - 1st 🥇
 * **PGL Arlington Major** - 15-16th
 
-After a super dominant group stage in Stockholm, they were pretty much favorites to win the whole major. Then TSM rattled them in upper bracket finals and they've never really seemed the same on LAN ever since.
+After a super dominant group stage in Stockholm, they were pretty much favorites to win the whole major. Then TSM rattled them something fierce in upper bracket finals and they've never really seemed the same on LAN ever since.
 
-**What would success look like?**  How could such a fate befall a boy that pure? Everything deserves to go Kurtis's way.
+**What would success look like?** There are a handful of TI veterans in this roster, including a winner, coach Aui_2000. Would you have the heart to eliminate him? Who could say no to a face that pure? Everything deserves to go Kurtis's way.
 
-**What to spam in Twitch chat when Tundra are winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
+**What to spam in Twitch chat when Tundra are winning?** `XXXX`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/gaimin.jpg" alt="Banner"></p>
@@ -480,7 +482,7 @@ After a super dominant group stage in Stockholm, they were pretty much favorites
 * **WEU DPC Tour 3** - 6th
 * **PGL Arlington Major** - Did not qualify
 
-Keen eyed viewers may take a look at this list and say, "HEY! How does a new stack immediately join Division 1? Shouldn't they have to play through open qualifiers to join Division 2 and then place 1st or 2nd in Division 2 before being promoted to Division 1 in the subsequent tour?" To which I say: **pppbbbbbbtttttt**.
+Keen eyed viewers may take a look at this list and say, "HEY! How does a new stack immediately join Division 1? Shouldn't they have to play through open qualifiers to join Division 2 and then place 1st or 2nd in Division 2 before being promoted to Division 1 in the following tour?" To which I say: **pppbbbbbbtttttt**.
 
 It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve says that it's _not_ Liquipedia's job. This'll make more sense once you scroll down to Fnatic.
 
@@ -664,6 +666,8 @@ That being said, they still played well throughout the SA qualifier and actually
 
 **How did this roster happen?** 
 
+The replacement, 18 year old Russian 'Pure,' is a bit of a sore spot for people wanting to root for the team. Formerly playing for VP in EEU, [he drew a Russian militarist 'Z' on the minimap during a pause.](https://dotesports.com/dota-2/news/virtus-pro-dota-disqualified-dpc-regional-playoffs-pure-draws-z-on-mini-map) VP promptly released him a day later. [He later apologized upon joining Entity,](https://twitter.com/puredota187/status/1533128464244609025) but 
+
 **How was their DPC year?** 615 points
 
 * **WEU DPC Tour 1 - _Division 2_** - 1st 🥇
@@ -677,7 +681,7 @@ That being said, they still played well throughout the SA qualifier and actually
 
 **What would success look like?** Fun fact: Every player in this team is popping their TI cherry this year. Wild!
 
-**What to spam in Twitch chat when Entity are winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
+**What to spam in Twitch chat when Entity are winning?** `ENTITY INDIAN PRIDE`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/betboom.jpg" alt="Banner"></p>
