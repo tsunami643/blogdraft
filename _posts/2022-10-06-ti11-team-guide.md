@@ -560,9 +560,15 @@ This year, Fnatic were **0.05** DPC points behind Outsiders/VP to qualify for th
 
 <p style="font-family: Georgia; font-size: 2em;">[EXTREMELY LOUD INCORRECT BUZZER]</p>
 
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">We are aware of a discrepancy regarding how the DPC standings are calculated when compared to unofficial sources. The DPC website <a href="https://t.co/lqfXMpOBmD">https://t.co/lqfXMpOBmD</a> reflects the official standings for the 2021-2022 season.</p>&mdash; DOTA 2 (@DOTA2) <a href="https://twitter.com/DOTA2/status/1559303263572283392?ref_src=twsrc%5Etfw">August 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Or as the community saw it.
+
 <img src="../img/ti11teams/fnaticchest.jpg" alt="Ye Olde Unoffical Source" style="width: 500px;">
 
-PSYCHE! YOU THOUGHT. [It turns out Valve has always used a *different* metric for calculating partial points that Liquipedia was not privy to.](https://www.reddit.com/r/DotA2/comments/wpd5z2/fnatic_qualify_to_ti_over_outsiders_ruling_from/) 
+[It turns out Valve has always used a *different* metric for calculating partial points that Liquipedia was not privy to.](https://www.reddit.com/r/DotA2/comments/wpd5z2/fnatic_qualify_to_ti_over_outsiders_ruling_from/ikgad8h/) Obviously the official source should be the most trusted one, but Dota fans haven't exactly been able to count on Valve for regularly maintained documentation. In fact, even at the time of this ruling, there were errors on some other teams' point values on the official Valve ranking site.
+
+Anyway, long story short, Fnatic qualified to TI and Outsiders/VP didn't.
 
 **What would success look like?** iceiceice bumps Deth up a tier or two, or six, in his [SEA offlaner power rankings.](https://afkgaming.com/dota2/news/7038-iceiceice-ranks-sea-dota-2-players-by-role)
 
