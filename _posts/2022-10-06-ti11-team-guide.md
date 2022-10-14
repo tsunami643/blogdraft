@@ -94,7 +94,7 @@ Honestly, I appreciate the optimism.
 
 ---
 
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/lgd.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/lgd.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PSG.LGD</h2>
 <table>
   <tbody><tr>
@@ -133,7 +133,7 @@ Guess who beat them in Arlington?
 **What to spam in Twitch chat when LGD are winning?** `WASH YOUR FACE`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/og.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/og.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">OG</h2>
 <table>
   <tbody><tr>
@@ -205,12 +205,12 @@ They didn't set the world on fire immediately, but they definitely hit their str
 
 *ALRIGHT TSUNAMI, WHAT'S WITH ALL THE ASTERISKS?* Well, our good friend Misha had quite a bit of difficulty getting visas this year. As a result, OG spent a lot of time this year playing musical chairs with substitutes when they traveled internationally for LANs. Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came back for another one last ride in Arlington. Got fourth. And then coach Chuvash stood in for Misha at ESL Malaysia. Which they won.
 
-**What would success look like?** A top 6 finish would be perfectly respectable for such a fresh roster. For Misha, though? Oh boy. I don't even know if _he_ necessarily feels the pressure. But the public at large putting the pressure on him has gotta be something else.
+**What would success look like?** A top 6 finish would be perfectly respectable for such a fresh roster. For Misha, though? Oh boy. I don't even know if _he_ necessarily feels the pressure. But the public at large putting the "Haha all your stand-ins won their tournaments" has gotta be something else.
 
 **What to spam in Twitch chat when OG are winning?** `ATF=ALWAYS TAKES FIRST`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/spirit.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/spirit.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Spirit</h2>
 <table>
   <tbody><tr>
@@ -225,7 +225,7 @@ They didn't set the world on fire immediately, but they definitely hit their str
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** No.
+**How did this roster happen?** These guys won a cool $18 milli around this time last year and thought, "We might be pretty good at Dota. Let's keep doing this together."
 
 **How was their DPC year?** 1810 points
 
@@ -247,7 +247,7 @@ A lot more eyeballs in the crowd, too. Because there's actually going to be one.
 **What to spam in Twitch chat when Spirit are winning?** Has the Twitch meta really not evolved in the 12 months [since I last wrote this?](https://howdoiplay.com/blog/2021/10/06/ti10-team-guide.html#:~:text=What%20to%20spam%20in%20Twitch%20chat%20when%20Spirit%20is%20winning%3F%20COLLAPSE%20GIGACHAD) Well if it ain't broke, don't fix it: `COLLAPSE GIGACHAD`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/beastcoast.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/beastcoast.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">beastcoast</h2>
 <table>
   <tbody><tr>
@@ -282,7 +282,7 @@ I'm pretty sure I used those prefixes correctly.
 **What to spam in Twitch chat when bc are winning?** I think at one point SA was trying to move on from it, but it's just too good of a battle cry to abandon: `GAAAAAAAAAAAAAAAAA`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/aster.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/aster.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Aster</h2>
 <table>
   <tbody><tr>
@@ -317,7 +317,7 @@ As long as they eliminate non-Chinese teams, they should be fine. But it'll be a
 **What to spam in Twitch chat when Aster are winning?** `XXXX`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/thunder.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/thunder.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Thunder Awaken</h2>
 <table>
   <tbody><tr>
@@ -332,7 +332,7 @@ As long as they eliminate non-Chinese teams, they should be fine. But it'll be a
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** XXXX
+**How did this roster happen?** The brand formerly known as Thunder Predator ported these guys over from 2021's NoPing e-sports roster. After the Tour 1 Regional Final, Oscar was replaced with Sacred.
 
 **How was their DPC year?** 1540 points
 
@@ -355,7 +355,7 @@ Unfortunately, DarkMago had visa issues getting to Arlington and the team subseq
 **What to spam in Twitch chat when Thunder are winning?** `DOCTOR GOTITO`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/boom.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/boom.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">BOOM Esports</h2>
 <table>
   <tbody><tr>
@@ -384,14 +384,16 @@ Test your geographical knowledge. What flag is next to Jackky's name? <span clas
 * **SEA DPC Tour 3** - 1st 🥇
 * **PGL Arlington Major** - 7-8th
 
-BOOM showed up on everyone's radar pretty early in the season when they won the non-DPC GAMERS GALAXY: Dubai tournament in March. They quietly eliminated Secret, Spirit, Nigma in playoffs and beat Tundra in grand finals. Perhaps they peaked a bit too soon, however, as their major performances were decidedly less impressive.
+BOOM showed up on everyone's radar pretty early in the season when they won the non-DPC GAMERS GALAXY: Dubai tournament in March. They quietly eliminated Secret, Spirit, Nigma in playoffs and beat Tundra in grand finals. Perhaps they peaked a bit too soon, though, as their major performances were decidedly less impressive. Granted, skem literally showed up in Stockholm 3 hours before BOOM's group stage matches started due to visa complications, so maybe that event gets a pass.
 
-**What would success look like?** Southeast Asian teams have been *struggling* when it comes to TI. No team from the region has broken top 6 since TI6's Fnatic. That being said, this is the first ever International in SEA. We're about to learn just how strong a crowd buff can truly get.
+**What would success look like?** Southeast Asian teams have been *struggling* when it comes to TI. No team from the region has broken top 6 since TI6's Fnatic. That being said, this is the first ever International in SEA.
+
+We're about to learn just how strong a crowd buff can truly get.
 
 **What to spam in Twitch chat when BOOM are winning?** `JAPOY IS MY IDOL`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/tsm.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/tsm.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">TSM</h2>
 <table>
   <tbody><tr>
@@ -406,12 +408,12 @@ BOOM showed up on everyone's radar pretty early in the season when they won the 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** TSM? In *my* Dota 2? It's more likely than you think. This is the exact same roster as Undying from TI10. After their 13-16th place finish in Romania, Moonmeander contemplated moving to a coach role this season, but decided to play for a little longer.
+**How did this roster happen?** TSM? In *my* Dota 2? It's more likely than you think. One of League's flagship brands came over to our humble game and signed the Undying roster from TI10. After their 13-16th place finish in Romania, Moonmeander contemplated moving to a coach role this season, but decided to play for a little longer.
 
 **How was their DPC year?** 1380 points
 
 * **NA DPC Tour 1** - 1st 🥇
-* **NA DPC Tour 1 Regional Final** - 2nd 🥈
+* **NA DPC Tour 1 Regional Final** - 1st 🥇
 * **NA DPC Tour 2** - 2nd 🥈
 * **ESL Stockholm Major** - 2nd 🥈
 * **NA DPC Tour 3** - 4th
@@ -426,7 +428,7 @@ For... half the year. Let's ignore the second half.
 **What to spam in Twitch chat when TSM are winning?** `XXXX`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/tundra.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/tundra.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Tundra Esports</h2>
 <table>
   <tbody><tr>
@@ -441,7 +443,7 @@ For... half the year. Let's ignore the second half.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** In a parallel universe, you _know_ how this roster happened. You'd know, because they showed up to TI10 and made HISTORY. Instead, they lost in a 5 game series against OG in the TI10 WEU quals and were nearly forgotten to time. Thankfully, they persevered. Well most of them. Fata was formerly a member of this team but was un-amicably removed after Tour 1 Regional Finals and replaced with Saksa.
+**How did this roster happen?** In a parallel universe, you _know_ how this roster happened. You'd know, because they showed up to TI10 and made HISTORY. Instead, they lost in a 5 game series against OG in the TI10 WEU quals and were nearly forgotten to time. Thankfully, they persevered. Well most of them. Fata was a founding member of this team but was un-amicably removed after Tour 1 Regional Finals and replaced with Saksa.
 
 **How was their DPC year?** 1212 points
 
@@ -452,14 +454,14 @@ For... half the year. Let's ignore the second half.
 * **WEU DPC Tour 3** - 1st 🥇
 * **PGL Arlington Major** - 15-16th
 
-After a super dominant group stage in Stockholm, they were pretty much favorites to win the whole major. Then TSM rattled them something fierce in upper bracket finals and they've never really seemed the same on LAN ever since.
+Following a super dominant group stage in Stockholm, they were pretty much favorites to win the whole major. Then TSM rattled them something fierce in upper bracket finals and they've never really seemed the same on LAN ever since.
 
 **What would success look like?** There are a handful of TI veterans in this roster, including a winner, coach Aui_2000. Would you have the heart to eliminate him? Who could say no to a face that pure? Everything deserves to go Kurtis's way.
 
 **What to spam in Twitch chat when Tundra are winning?** `XXXX`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/gaimin.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/gaimin.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Gaimin Gladiators</h2>
 <table>
   <tbody><tr>
@@ -494,7 +496,7 @@ It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve s
 **What to spam in Twitch chat when GG are winning?** `VEGAN POWER`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/eg.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/eg.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Evil Geniuses</h2>
 <table>
   <tbody><tr>
@@ -524,14 +526,14 @@ I'm not gonna sugarcoat it, the Jerax 5 experiment was not pleasant. It was like
 
 After the Stockholm Major, Jerax left and Fly was brought back in. The team gelled pretty much immediately and yet somehow got destroyed all over again in Arlington. EG's TI invitation fate wasn't even in their hands near the end, but beastcoast repaid their TI10 debt and eliminated the next closest point teams, Fnatic and Outsiders/VP, in Arlington. Te quiero mucho Arturito goes both ways.
 
-**What would success look like?** I don't even know anymore. As brutal as it sounds, I almost think Arteezy fans would almost prefer him to become a full time streamer at this point. Given these LAN performances, they'd probably see more of him.
+**What would success look like?** I don't even know anymore. As brutal as it sounds, I think Arteezy fans would almost prefer him to become a full time streamer at this point. Given these LAN performances, they'd probably see more of him.
 
 **What to spam in Twitch chat when EG are winning?** Whatever you want, but under no circumstances are you allowed to praise Bulba. Doesn't matter if it's the world's greatest Storm Spirit game or if he masterminded a strategy that somehow forced the enemy team into only picking 4 heroes. The first rule and only rule of EG twitch discourse is: everything is Bulba's fault.
 
 Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of my environment and North American Dota... we... we've had a rough couple of years. Let's go EG! ~~#BleedBlue~~ #LIVEEVIL.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/fnatic.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/fnatic.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Fnatic</h2>
 <table>
   <tbody><tr>
@@ -569,7 +571,7 @@ Congrats to Outsiders, though, they're going to TI!
 
 Or as the community saw it.
 
-<p style="text-align: center;"><img src="../img/ti11teams/fnaticchest.jpg" alt="Ye Olde Unoffical Source" style="width: 500px;"></p>
+<p style="text-align: center;"><img src="./../../../img/ti11teams/fnaticchest.jpg" alt="Ye Olde Unoffical Source" style="width: 500px;"></p>
 
 [It turns out Valve uses a different metric for calculating partial points that Liquipedia was not privy to.](https://www.reddit.com/r/DotA2/comments/wpd5z2/fnatic_qualify_to_ti_over_outsiders_ruling_from/ikgad8h/) Now obviously the official source should be the most trusted one, but Dota fans haven't exactly been able to count on Valve for regularly maintained documentation. In fact, at the time of this ruling, there were still some errors calculating other teams' point values on the official Valve ranking site.
 
@@ -585,7 +587,7 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 
 ----
 
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/soniqs.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/soniqs.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Soniqs - <i>North America</i></h2>
 <table>
   <tbody><tr>
@@ -600,7 +602,7 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Yawar, Quinn, and MSS have been together since 2019. It was as Forward Gaming, who got turned into TI9 Newbee, who got turned into Quincy Crew, who got turned into Chaos EC, who again turned into Quincy Crew and have remained so since early 2020. Along the way, they imported the Brazilian Lelis and brought LoA/SVG out of semi-retirement.
+**How did this roster happen?** This is basically the same as their TI10 . 'They' being Quincy Crew. This is Quincy Crew.
 
 **How was their DPC year?** 582 points
 
@@ -613,12 +615,12 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 
 
 
-**What would success look like?** XXXX
+**What would success look like?** Jack being happy with the state of the Dota Pro Circuit.
 
 **What to spam in Twitch chat when Soniqs are winning?** `HATERS SUCK MY NUTS ccncBayed`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/hokori.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/hokori.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Hokori - <i>South America</i></h2>
 <table>
   <tbody><tr>
@@ -652,7 +654,7 @@ Hokori still played well throughout the SA qualifier and actually recently beat 
 **What to spam in Twitch chat when Hokori are winning?** `lumiere es mi pastor nada me faltarar`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/entity.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/entity.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Entity - <i>Western Europe</i></h2>
 <table>
   <tbody><tr>
@@ -669,9 +671,9 @@ Hokori still played well throughout the SA qualifier and actually recently beat 
 
 **How did this roster happen?** Fishman and Crystallis were a part of the same Creepwave roster as ATF, bzm, and Chuvash. After those three left for OG, the remaining members joined up with Stormstormer, Tobi, and Kataomi. They dominated Div 2 Tour 1, got promoted, and did well enough to not get relegated after Tour 2. They did so well, in fact, Puppey was like, "Hey nice carry. Mind if I yoink him?" It was probably more complicated than that, but the end result is Entity were looking to be carryless coming into Tour 3.
 
-A replacement happened to present itself in the form of 18 year old Russian core player, Pure. Now the reason he happened to suddenly become a free agent is a sore spot for people wanting to root for this team. Formerly playing for VP in EEU during Tour 2, [he drew a Russian militarist 'Z' on the minimap during a pause.](https://dotesports.com/dota-2/news/virtus-pro-dota-disqualified-dpc-regional-playoffs-pure-draws-z-on-mini-map) VP promptly released him a day later. [He later apologized after joining Entity,](https://twitter.com/puredota187/status/1533128464244609025) but many people either doubted the sincerity or considered the bridge to already be burned beyond repair.
+A replacement happened to present itself in the form of 18 year old Russian core player, Pure. The reason he suddenly became a free agent is a sore spot for many people wanting to root for this team. Formerly playing for VP in EEU during Tour 2, [Pure drew a Russian militarist 'Z' symbol on the minimap during a pause.](https://dotesports.com/dota-2/news/virtus-pro-dota-disqualified-dpc-regional-playoffs-pure-draws-z-on-mini-map) VP promptly released him a day later. [He later apologized after joining Entity,](https://twitter.com/puredota187/status/1533128464244609025) but many people either doubted his sincerity or considered the bridge to already be burned beyond repair.
 
-He is quite good at Dota, though. In the reductive and sarcastic words of Zack Fox, ["What's a couple of lives when you got bars?"](https://youtu.be/xzAOODb2124?t=132)
+An edgy teenager mistake or an actual war advocate? Up for you to decide. He is quite good at Dota, though.
 
 **How was their DPC year?** 615 points
 
@@ -689,7 +691,7 @@ Fun fact: Even if they won the Arlington Major, they still wouldn't have had eno
 **What to spam in Twitch chat when Entity are winning?** `ENTITY INDIAN PRIDE`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/betboom.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/betboom.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">BetBoom Team - <i>Eastern Europe</i></h2>
 <style type="text/css">table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}</style>
 <table>
@@ -705,7 +707,7 @@ Fun fact: Even if they won the Arlington Major, they still wouldn't have had eno
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** IT'S TIME FOR GUESS. THAT. TEAAAAAAM.
+**How did this roster happen?** IT'S TIME TO PLAY GUESS. THAT. TEAAAAAAM.
 
 <p style="font-size: 1.3em; font-weight: bold;">Reader, for $0...</p>
 
@@ -724,7 +726,7 @@ Fun fact: Even if they won the Arlington Major, they still wouldn't have had eno
 <span id="wrapperOne" style="display: none; font-size: larger; font-weight: 600;">It usually is, right? But not this time!</span>
 <span id="wrapperTwo" style="display: none; font-size: larger; font-weight: 600;">Nope, but nice try.</span>
 <span id="wrapperThree" style="display: none; font-size: larger; font-weight: 600;">Let's get you to bed, grandpa.</span>
-<span id="wrapperFour" style="display: none; font-size: larger; font-weight: 600;">DING DING DING! YOU WIN! Where'd Iceberg go? Your guess is as good as mine!</span>
+<span id="wrapperFour" style="display: none; font-size: larger; font-weight: 600;">A Winstrike without Iceberg? DING DING DING! YOU'RE CORRECT!</span>
 <span id="wrapperFive" style="display: none; font-size: larger; font-weight: 600;">Oooh, so close.</span>
 <span id="wrapperSix" style="display: none; font-size: larger; font-weight: 600;">Incorrect. But pour one out for my boy Dondo. He finally retired!</span>
 
@@ -785,7 +787,7 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 **What to spam in Twitch chat when BB are winning?** `Punch them Daxao💪🏻😈🤙🏻Fight them Daxao💪🏻😈🤙🏻Break them Daxao👿🤜🏻💀🤛🏻🤬Bully them Daxao👊🏻😼👊🏻Stomp them Daxao👊🏻🤬Crush them Daxao👊🏻😾🤜🏻🐷🤛🏻😤Incinerate them Daxao💪🏻🦍`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/rng.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/rng.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Royal Never Give Up - <i>China</i></h2>
 <table>
   <tbody><tr>
@@ -800,7 +802,7 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** 
+**How did this roster happen?** Somnus, Chalice, and xNova were brought on to RNG as the season began. After Tour 2, God King and FelixCiaoBa were replaced with relatively unknown SEA player Ghost and extremely well known Chinese player kaka.
 
 **How was their DPC year?** 738 points
 
@@ -811,10 +813,13 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 * **CN DPC Tour 3** - 1st 🥇
 * **PGL Arlington Major** - 9-12th*
 
+Nothing too special. This year's top 4 in the CN DPC was consistently some shuffling of LGD, Aster, RNG and then either EHOME or Xtreme. And RNG bopped Xtreme 3-0 in the CN regional qual to make it to TI.
 
+Anything else worth mentioning? Oh yeah, Ghost was unable to make it to Arlington and ana, yes *that* ana, stood in. That was pretty neat.
 
-**What would success look like?** Would you believe that this is the third and final Chinese team left to talk about? THREE CHINESE TEAMS. For reference, here's the number from previous TIs.
+**What would success look like?** Would you believe that this is the third and final Chinese team left to talk about? Three Chinese teams at a TI! For reference, here's the comparison to previous TIs.
 
+* TI11 - 3
 * TI10 - 5
 * TI9 - 4
 * TI8 - 6
@@ -833,7 +838,7 @@ Now if we were running an OMG 4+2 tournament? Totally different story.
 **What to spam in Twitch chat when RNG are winning?** <code><a href="https://www.reddit.com/r/DotA2/comments/wpown1/hoping_to_share_some_insights_about_chinese_teams/#:~:text=chat%20would%20be%20spamming%20'natural'%20regardless">natural</a></code>
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/talon.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/talon.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Talon Esports - <i>Southeast Asia</i></h2>
 <table>
   <tbody><tr>
@@ -848,7 +853,7 @@ Now if we were running an OMG 4+2 tournament? Totally different story.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** 
+**How did this roster happen?** Mikoto, kpii, and Hyde were brought together at the start of the season. 23savage and Q were added before Tour 2 began to replace Gabbi and Fly. Yeah, Fly. Remember how I mentioned Jerax took his spot on EG? Homie came to to SEA Div 2 to keep busy.
 
 **How was their DPC year?** 300 points
 
@@ -859,14 +864,16 @@ Now if we were running an OMG 4+2 tournament? Totally different story.
 * **SEA DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 13-14th*
 
+Going from 2nd place Div 2 to 2nd place Div 1 has to be the biggest DPC glow up of the year. Does that mean SEA is unpredictable or is Talon strong? Based on this team's disappointing Arlington, GAMERS GALAXY: Thailand, and ESL Malaysia performances, probably the former.
 
+They had a nail-biter 5 game series against Polaris Esports to take this regional TI slot. In fact, SEA was the *only* regional grand final to not be a 3-0. Does that mean SEA is strong or is Talon unpredictable?
 
-**What would success look like?** 
+**What would success look like?** I'm just happy to see my boy kpii back at a TI. After his SMG struggles last year, he deserves it.
 
-**What to spam in Twitch chat when Talon are winning?** Doesn't matter what you spam, it's going to get drowned out with `KUKU FAULT`, I guarantee it.
+**What to spam in Twitch chat when Talon are winning?** Doesn't matter what you spam, it's going to get drowned out with multiple variations of `KUKU FAULT`, I guarantee it.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/secret.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/secret.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Secret - <i>Last Chance Qualifier #1</i></h2>
 <table>
   <tbody><tr>
@@ -918,7 +925,7 @@ I like to imagine that's how it went down.
 
 After 2020, Secret realized they love online Dota so much they decided to not go to a single major.
 
-They lost 3-0 to Entity in the WEU Regional Qualifiers and had to go through the cutthroat Last Chance Qualifier to make it to TI. But ain't no way Puppey is breaking his all-TI-attendance streak. Not this year.
+They got revenged 3-0 by Entity in the WEU Regional Qualifiers and had to go through the cutthroat Last Chance Qualifier to make it to TI. But ain't no way Puppey was breaking his all-TI-attendance streak. Not this year.
 
 Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? And then again when BetBoom beat them? Secret also beat them to take the first LCQ slot.
 
@@ -927,7 +934,7 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 **What to spam in Twitch chat when Secret are winning?** `For the past 3-4 years, almost every time i watch secret i heard this, "Nisha is having an outstanding game", this guy has been overperforming for so long, even this season when secret was not playing well, Nisha was still performing, that guy is unbelivable, and for some reason, people don't talk that much about him. He’s just very unassuming, he tends to disappear whenever he’s not at LANs, doesn’t have a real presence if you get me. He comes in, smokes everyone, then leaves.`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti11teams/liquid.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/liquid.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Liquid - <i>Last Chance Qualifier #2</i></h2>
 <table>
   <tbody><tr>
@@ -963,7 +970,7 @@ That makes 4 times that VP were one series away from qualifying to TI. Pain.
 
 **What would success look like?** Matumbaman has made it quite clear that this will be his last year of competitive Dota. So I hope for his sake any Gyrocopter picks at this event are premeditated.
 
-**What to spam in Twitch chat when Liquid are winning?** <img src="../img/ti11teams/zaij.png" alt="zaiJ" style= "width: 30px">
+**What to spam in Twitch chat when Liquid are winning?** <img src="./../../../img/ti11teams/zaij.png" alt="zaiJ" style= "width: 30px">
 
 ----
 
@@ -971,10 +978,10 @@ That makes 4 times that VP were one series away from qualifying to TI. Pain.
 
 Congratulations! More and more people have told me they actually use these blogs as legitimate primers to catch up on the latest year of Dota esports, so I actually tried to give more real information this time rather than vomiting 70000 characters of unfiltered memes and inside jokes.
 
-As always, my sincerest thanks to the many volunteers who [keep Liquipedia up to date.](https://liquipedia.net/dota2/Dota_Pro_Circuit/2021-22) You may be an unofficial source in Valve's eyes, but this wiki has vandalized my heart.
+As always, my sincerest thanks to the many volunteers who [keep Liquipedia up to date.](https://liquipedia.net/dota2/Dota_Pro_Circuit/2021-22) You may be an unofficial source in Valve's eyes, but this is one wiki that's vandalized my heart.
 
 If you enjoyed this article and want to keep up with me, I'm around on [Twitter](https://twitter.com/tsunami643), [Twitch](https://twitch.tv/tsunami643), or [Instagram](https://instagram.com/tsunami643).
 
-Also, feel free to [buy my TI11 voiceline](https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s) or hit up the [howdoiplay merch store](https://shop.howdoiplay.com/) to support me!
+Also, feel free to pay money and [buy my TI11 voiceline](https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s) or hit up the [howdoiplay merch store.](https://shop.howdoiplay.com/)
 
 <p style="font-size: 1.5em;"><a href="https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s"><b>Discussion for this article on /r/dota2.</b></a></p>
