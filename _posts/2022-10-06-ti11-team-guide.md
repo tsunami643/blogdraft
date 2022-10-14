@@ -368,7 +368,7 @@ Move over beastcoast, there's a new regional king in South America. In fact, out
 
 **How did this roster happen?** After failing to qualify for TI10, BOOM dropped their full-Indo squad, aside from Fbz, and brought in Pinoys Yopaj, Tims, skem, and Tino. Tino played Tour 1, but was replaced by JaCkky for the Regional Final onwards.
 
-Test your geographical knowledge. What flag is next to Jackky's name?
+Test your geographical knowledge. What flag is next to Jackky's name? <span class="spoiler">It's Laos! First ever Lao at TI.</span>
 
 **How was their DPC year?** 1482 points
 
@@ -383,7 +383,7 @@ BOOM showed up on everyone's radar pretty early in the season when they won the 
 
 **What would success look like?** Southeast Asian teams have been *struggling* when it comes to TI. No team from the region has broken top 6 since TI6's Fnatic. That being said, this is the first ever International in SEA. We're about to learn just how strong a crowd buff can truly get.
 
-**What to spam in Twitch chat when BOOM are winning?** `BOYS OUT OF [INSERT-M-WORD-HERE]`
+**What to spam in Twitch chat when BOOM are winning?** `JAPOY IS MY IDOL`
 
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/tsm.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">TSM</h2>
