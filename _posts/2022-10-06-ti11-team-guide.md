@@ -645,7 +645,7 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 
 Not a very standout performance during the year and was among the darkest of horses to qualify through the SA regionals. Lucky for them, a lot things went their way. In lower bracket finals, Tempest had massive internet issues and basically had to forfeit the entire series. And for grand finals, Leostyle answered [who was in Paris.](https://www.reddit.com/r/DotA2/comments/x8457w/lmao/)
 
-That being said, they still played well throughout the SA qualifier and actually recently beat Fnatic in the BTS Pro Series S12 while bootcamping in SEA.
+Hokori still played well throughout the SA qualifier and actually recently beat Fnatic in the BTS Pro Series S12 while bootcamping in SEA.
 
 **What would success look like?** How funny would it be if they win TI and then have to play in Divison 2 DPC next year.
 
@@ -889,11 +889,17 @@ No need to panic. Zayac knows a guy. He'll make the call.
 
 ```
 Zayac - Roman, it's Zayac.
+
 Resolution - Baqyt, you old hare, how the hell are you?
-Zayac - You're needed.
+
+Zayac - I've got an opening for you.
+
 Resolution - Only one man could make me end my Bali vacation. And it's you. I'm in.
+
 Zayac - Excellent. We'll meet in Riyadh.
+
 Resolution - What about iceiceice?
+
 Zayac - He'll be fine. He's going deep undercover to make the ultimate sacrifice. Ninjaboogie sends his regards.
 
 *Resolution dons a pair of sunglasses and smiles. Fortunate Son starts playing as we begin a montage of him preparing to fly to Saudi Arabia.*
