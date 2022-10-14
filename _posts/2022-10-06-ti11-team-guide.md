@@ -711,12 +711,12 @@ That being said, they still played well throughout the SA qualifier and actually
 </select>
 </p>
 
-<span id="wrapperOne" style="display: none;"><b><i>It usually is, right? But not this time</b></i></span>
-<span id="wrapperTwo" style="display: none;"><b><i>Nope, but nice try</b></i></span>
-<span id="wrapperThree" style="display: none;"><b><i>Let's get you to bed, grandpa</b></i></span>
-<span id="wrapperFour" style="display: none;"><b><i>DING DING DING! YOU WIN!</b></i></span>
-<span id="wrapperFive" style="display: none;"><b><i>Oooh, so close, but no</b></i></span>
-<span id="wrapperSix" style="display: none;"><b><i>Incorrect. But pour one out for my boy Dondo, he's finally retired</b></i></span>
+<span id="wrapperOne" style="display: none;"><b><i> It usually is, right? But not this time! </b></i></span>
+<span id="wrapperTwo" style="display: none;"><b><i> Nope, but nice try. </b></i></span>
+<span id="wrapperThree" style="display: none;"><b><i> Let's get you to bed, grandpa. </b></i></span>
+<span id="wrapperFour" style="display: none;"><b><i> DING DING DING! YOU WIN! </b></i></span>
+<span id="wrapperFive" style="display: none;"><b><i> Oooh, so close, but no. </b></i></span>
+<span id="wrapperSix" style="display: none;"><b><i> Incorrect. But pour one out for my boy Dondo, he's finally retired. </b></i></span>
 
 <script>
   var dropDown = document.getElementById("dropDown"),
@@ -759,7 +759,7 @@ for (i=0; i<myWrappers.length; i++){
 }
 </script>
 
-The majority of this team was assembled under the Winstrike tag before the season began. Rodjer replaced Forcemajor after Tour 3 ended.
+The majority of this team was assembled before the season began. The last addition was Rodjer who replaced Forcemajor after Tour 3 ended.
 
 **How was their DPC year?** 629 points
 
