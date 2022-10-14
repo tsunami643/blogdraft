@@ -836,90 +836,28 @@ Anything else worth mentioning? Oh yeah, Ghost was unable to make it to Arlingto
 <canvas id="myChart" style="width:100%;max-width:600px;max-height:350px;"></canvas>
 
 <script>
-  /*
 var xValues = ["TI1", "TI2", "TI3", "TI4", "TI5", "TI6", "TI7", "TI8", "TI9", "TI10", "TI11"];
 var yValues = [4, 5, 5, 6, 6, 5, 5, 6, 4, 5, 3];
 var barColors = ["red", "blue", "green", "purple", "gold", "red", "blue", "green", "purple", "gold", "red"];
-
-const config = {
-  type: 'bar',
-  data: data,
-  options: {
-    scales: {
-      y: {
-        beginAtZero: true
-      }
-    }
-  },
-};
 
 new Chart("myChart", {
   type: "bar",
   data: {
     labels: xValues,
     datasets: [{
+      label: "Chinese Teams at TI",
       backgroundColor: barColors,
       data: yValues
     }]
   },
   options: {
-    legend: {display: false},
-    title: {
-      display: true,
-      text: "Chinese Teams at TI"
-    },
     scales: {
       y: {
         beginAtZero: true
       }
     }
   }
-});*/
-const config = {
-  type: 'bar',
-  data: data,
-  options: {
-    scales: {
-      y: {
-        beginAtZero: true
-      }
-    }
-  },
-};
-
-const data = {
-  labels: ["TI1", "TI2", "TI3", "TI4", "TI5", "TI6", "TI7", "TI8", "TI9", "TI10", "TI11"],
-  datasets: [{
-    label: 'My First Dataset',
-    data: [4, 5, 5, 6, 6, 5, 5, 6, 4, 5, 3],
-    backgroundColor: [
-      'rgba(255, 99, 132, 0.2)',
-      'rgba(255, 159, 64, 0.2)',
-      'rgba(255, 205, 86, 0.2)',
-      'rgba(75, 192, 192, 0.2)',
-      'rgba(54, 162, 235, 0.2)',
-      'rgba(153, 102, 255, 0.2)',
-      'rgba(201, 203, 207, 0.2)'
-    ],
-    borderColor: [
-      'rgb(255, 99, 132)',
-      'rgb(255, 159, 64)',
-      'rgb(255, 205, 86)',
-      'rgb(75, 192, 192)',
-      'rgb(54, 162, 235)',
-      'rgb(153, 102, 255)',
-      'rgb(201, 203, 207)'
-    ],
-    borderWidth: 1
-  }]
-};
-</script>
-
-<script>
-  const myChart = new Chart(
-    document.getElementById('myChart'),
-    config
-  );
+});
 </script>
 
 Even TI1, which many Chinese teams supposedly skipped because they didn't think it was real, had higher representation.
