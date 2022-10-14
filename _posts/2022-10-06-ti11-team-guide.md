@@ -148,7 +148,7 @@ Guess who beat them in Arlington?
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After TI10 ended, OG, as we knew it, scattered across the seven seas\*. No former members remained as active players\*, so the brand had to start from scratch. How did they do it? Allow me to present this section in the same form that I myself learned this information.
+**How did this roster happen?** After TI10 ended, OG, as we knew it, scattered across the seven seas. No former members remained as active players\*, so the brand had to start from scratch. How did they do it? Allow me to present this section in the same form that I myself learned this information.
 
 Through a series of disjointed DMs I received from OG's CEO JMR Luna.
 
@@ -449,7 +449,7 @@ For... half the year. Let's ignore the second half.
 
 After a super dominant group stage in Stockholm, they were pretty much favorites to win the whole major. Then TSM rattled them in upper bracket finals and they've never really seemed the same on LAN ever since.
 
-**What would success look like?** most pure. Everything's coming up Tundra.
+**What would success look like?**  How could such a fate befall a boy that pure? Everything deserves to go Kurtis's way.
 
 **What to spam in Twitch chat when Tundra are winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
 
@@ -504,7 +504,7 @@ It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve s
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** If you haven't watched Dota since TI10, you may look at this roster and think, "Oh they kicked iceiceice and got VP's carry to play offlane? That's weird." It is weird. But you know what's even weirder? Jerax being on this team at one point. You know what's even weirder than that? Jerax being on this team at one point and not playing his most famous role. That's right, ole' two time TI winning 4 position Jer-Bear came out of retirement at the beginning of this season, came to North America, and took... Fly's hard support spot.
+**How did this roster happen?** If you haven't watched Dota since TI10, you may look at this roster and think, "Oh they kicked iceiceice and got VP's carry to play offlane? That's weird." It is weird. But you know what's even weirder? Jerax being on this team at one point. You know what's even weirder than that? Jerax being on this team at one point and not playing his most famous role. That's right, ole' two time TI winning 4 position Jer-Bear came out of retirement at the beginning of this season, shipped off to North America, and took... Fly's hard support spot.
 
 **How was their DPC year?** 1052 points
 
@@ -552,9 +552,9 @@ Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of 
 * **SEA DPC Tour 3** - 3rd 🥉
 * **PGL Arlington Major** - 9-12th
 
-They played some Dota and got some placements. Doesn't matter. The only part that does matter is that 9-12th you see at the bottom of that list. The Arlington Major was the last opportunity for teams to earn DPC points this season. So direct TI invitation dominos start falling left and right with each elimination.
+They played some Dota and got some placements. Doesn't matter. The only part that does matter is that 9-12th you see at the bottom of that list.
 
-This year, Fnatic were **0.05** DPC points behind Outsiders/VP to qualify for the last spot at TI. Exciting! Okay, so Arlington Major time. Fnatic lose to Team Aster in upper bracket. Oh no! But Outsiders also lose to Team Spirit! Then Outsiders beat RNG in lower bracket! Oh man! Fnatic then lose to beastcoast, thus eliminating them from TI contention. Wow, that's crazy. Congrats to Outsiders, though, they're going to TI!
+Before the Arlington Major started, Fnatic were **0.05** DPC points behind Outsiders/VP to qualify for the last spot at TI. Exciting! Okay, so Fnatic lose to Team Aster in upper bracket. Not good! But Outsiders also lose to Team Spirit. Then Outsiders beat RNG in lower bracket! Oh man! Fnatic then lose to beastcoast, thus eliminating them from TI contention. Oh nooo! Congrats to Outsiders, though, they're going to TI!
 
 <p style="font-family: Georgia; font-size: 1.8em; font-weight: 600; text-align: center;">[EXTREMELY LOUD INCORRECT BUZZER]</p>
 
@@ -570,7 +570,7 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 
 **What would success look like?** Jaunuel's mullet is added to the list of "greatest TI winning haircuts."
 
-**What to spam in Twitch chat when Fnatic are winning?** `CEO MOON MADE A GREAT BUSINESS DECISION`
+**What to spam in Twitch chat when Fnatic are winning?** `lol bro`
 
 ----
 
@@ -604,17 +604,13 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 * **NA DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 17th
 
-For most of 2020, practically everyone had written off North America as a region beyond saving and it was basically just EG's sandbox to stomp on kids.
 
-In 2021, we learned that North America *is* indeed mostly beyond saving, but there are in fact two bullies at the playground with Quincy Crew too.
-
-Quincy Crew not only gave EG a run for their money in both NA DPC seasons, but was also looking to be worthy competition at international LANs. Their Singapore Major result has an asterisk because QC had to use a stand-in of Poloson due to MSS contracting COVID.
 
 **What would success look like?** Getting a sponsor.
 
 Actually, wait, scratch that. *Quincy Crew* becoming an esports powerhouse brand would be the real success story. *QC FTX* when?
 
-**What to spam in Twitch chat when Soniqs are winning?** `EZ 4 [insert player name here]AO`
+**What to spam in Twitch chat when Soniqs are winning?** `HATERS SUCK MY NUTS ccncBayed`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/hokori.jpg" alt="Banner"></p>
@@ -644,7 +640,7 @@ Actually, wait, scratch that. *Quincy Crew* becoming an esports powerhouse brand
 
 Not a very standout performance during the year and was among the darkest of horses to qualify through the SA regionals. Lucky for them, a lot things went their way. In lower bracket finals, Tempest had massive internet issues and basically had to forfeit the entire series. And for grand finals, Leostyle answered [who was in Paris.](https://www.reddit.com/r/DotA2/comments/x8457w/lmao/)
 
-That being said, they still played well throughout the SA qualifier and actually recently beat Fnatic in BTS Pro Series S12 while bootcamping in SEA.
+That being said, they still played well throughout the SA qualifier and actually recently beat Fnatic in the BTS Pro Series S12 while bootcamping in SEA.
 
 **What would success look like?** How funny would it be if they win TI and then have to play in Divison 2 DPC next year.
 
@@ -666,9 +662,7 @@ That being said, they still played well throughout the SA qualifier and actually
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** As intimidating as this roster looks, it hasn't been all sunflowers and rainbows for the two time reigning TI champs. After TI9, ana peaced out for another season and Jerax just straight up retired. Even Ceb intended to step down from active play and OG signed MidOne, Saksa, and Sumail to fill the empty shoes.
-
-Then COVID happened and Sumail vanished from competitive Dota for nearly an entire year. But see, I told you he'd be back in the third act. 
+**How did this roster happen?** 
 
 **How was their DPC year?** 615 points
 
@@ -679,11 +673,7 @@ Then COVID happened and Sumail vanished from competitive Dota for nearly an enti
 * **WEU DPC Tour 3** - 4th
 * **PGL Arlington Major** - 5-6th*
 
-Dude, it was so exciting. Notail called Alliance a bunch of cheaters during the coaching scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French for being mean. The brand appears to be slowly pivoting from esports teams to NFT manufacturers. It's been a ride.
 
-Oh the Dota? The Dota wasn't that great. After a sluggish season 1, MidOne got the boot and ana came back for season 2 under the tag *humblegod.* He proceeded to get so humbled he didn't even finish the season, probably said, "Yeah, I don't need this shit," and retired for realsies this time. OG then had to call up Madara to temporarily be their fifth in the three-way-hell-in-a-cell tiebreaker just to not get bumped down to lower division.
-
-We in the business simply refer to this as OG getting into "TI form."
 
 **What would success look like?** Fun fact: Every player in this team is popping their TI cherry this year. Wild!
 
@@ -706,7 +696,7 @@ We in the business simply refer to this as OG getting into "TI form."
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** This ain't your dad's VP. No, actually, this is your little brother's VP. This is a group of young players who had been wanting to form a team together for quite a while and were eventually assembled under the *VP.Prodigy* tag in April 2020. They had some stellar performances at a few online tournaments and were soon promoted to the main VP in November 2020.
+**How did this roster happen?** 
 
 **How was their DPC year?** 629 points
 
@@ -717,13 +707,9 @@ We in the business simply refer to this as OG getting into "TI form."
 * **EEU DPC Tour 3** - 4th
 * **PGL Arlington Major** - Did not qualify
 
-By their own admission, their DPC leagues were FREEEEE. They literally only dropped three out of the thirty-one total games they played during both seasons. Put 'em on LAN though? Weelllll, then they don't look so hot. I liken it to how I never had to study at all during high school. Physics? Simple. World History? Cram the night before.
 
-Then I roll up to university and get punched in the mouth by Organic Chemistry. Still have nightmares of S<sub>N</sub>2 reaction mechanisms.
 
-In VP's defense, this is a young team (literally, their oldest player is DM at 21) with minimal LAN experience to begin with. Additionally, they were also operating with no coach until now for TI.
-
-**What would success look like?** The EEU/CIS region hasn't even had a team place top 4 at TI since TI3 Na`Vi, so anything near there would be impressive. No one is really doubting if this squad is good, but what we don't know is if they can handle pressure. This roster hasn't ever even played in front of a crowd before.
+**What would success look like?** 
 
 <p style="font-size: 0.85em;">Which means that TI10 should feel natural.</p>
 
@@ -745,7 +731,7 @@ In VP's defense, this is a young team (literally, their oldest player is DM at 2
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Unlike most of the other Chinese teams at TI10, this roster was *not* frantically cobbled together in late 2020. Instead, it was a slow, methodical process that has had these five players together since September 2019.
+**How did this roster happen?** 
 
 **How was their DPC year?** 738 points
 
@@ -756,25 +742,11 @@ In VP's defense, this is a young team (literally, their oldest player is DM at 2
 * **CN DPC Tour 3** - 1st 🥇
 * **PGL Arlington Major** - 9-12th*
 
-This team's story is probably best told through greentext.
 
-```
->walks into the dpc
->decides to reverse sweep singapore grand finals
->gets enough points for TI
->refuses to elaborate further
->leaves
-```
 
-It's like pottery.
+**What would success look like?** 
 
-Their coach did have to stand-in for Oli at the AniMajor, but I prefer my interpretation.
-
-**What would success look like?** Kaka avenges Newbee's TI7 silver medal and somewhere miles away Brother Sccc smiles.
-
-**What to spam in Twitch chat when RNG are winning?** `?` That's all. Just `?`
-
-You had to be there.
+**What to spam in Twitch chat when RNG are winning?** 
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/talon.jpg" alt="Banner"></p>
@@ -792,7 +764,7 @@ You had to be there.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Yes, this is *that* T1. The Faker T1. The... tyler1 T1. The T1 brand that's a juggernaut in Korea. Originally announced in late 2019 with Forev at the center, T1 went through multiple iterations before finally putting together this impressively multinational SEA team right before the DPC started. Their last addition was 23savage who replaced JaCkky right before the Singapore Major.
+**How did this roster happen?** 
 
 **How was their DPC year?** 300 points
 
@@ -803,13 +775,11 @@ You had to be there.
 * **SEA DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 13-14th*
 
-SEA had an interesting conundrum this year. Since their leagues were so intra-regionally competitive, no single team was able to farm both seasons for enough DPC points to break the top 12 rank threshold. There was a very real possibility that only one SEA team would attend TI10.
 
-But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be pretty cool to go to TI directly," and then proceeded to smash their way through the rest of the league and the AniMajor.
 
-**What would success look like?** Placing higher than the T1 in Worlds 2021.
+**What would success look like?** 
 
-**What to spam in Twitch chat when Talon are winning?** `MikeHogu MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
+**What to spam in Twitch chat when Talon are winning?** Doesn't matter what you spam, it's going to get drowned out with `KUKU FAULT`, I guarantee it.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="../img/ti11teams/secret.jpg" alt="Banner"></p>
@@ -829,7 +799,7 @@ But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be p
 
 **How did this roster happen?** Strap in, this one's complicated. Despite a pretty stellar TI10 3rd place finish, Zai and Matu were ready to move on from Secret and Puppey had to find replacements. How about iceiceice and Sumail? Those sound pretty good, yeah? You'd think so, but no.
 
-Tour 1 and Tour 2 were worthy attempts at getting the roster to work, but it just wasn't happening. Sumail was so unconvinced, he jumped ship to Division 2 Nigma Galaxy for Tour 3 and Puppey poached Entity player Crystallis as a replacement. At the same time, Yapzor was mysteriously missing every week and Zayac was plucked by Puppey from pubs to stand-in. Still 5th place, which means no way to get to TI through points.
+Tour 1 and Tour 2 were worthy attempts at getting the roster to work, but it just wasn't happening. Sumail was so unconvinced, he jumped ship to Division 2 Nigma Galaxy for Tour 3 and Puppey poached Entity player Crystallis as a replacement. At the same time, Yapzor was mysteriously missing every week and Zayac was plucked by Puppey from pubs to stand-in. Another 5th place in Tour 3, which means no way to get to TI through points.
 
 No need to panic. Zayac knows a guy. He'll make the call.
 
@@ -842,7 +812,7 @@ Zayac - Excellent. We'll meet you in Riyadh.
 Resolution - What about iceiceice?
 Zayac - He'll be fine. He's going deep undercover to make the ultimate sacrifice. Ninjaboogie sends his regards.
 
-*Resolution dons sunglasses. Fortunate Son starts playing as we see a montage of him packing*
+*Resolution dons sunglasses and smiles. Fortunate Son starts playing as we see a montage of him unboxing his mouse and keyboard and preparing for his flight to Saudi Arabia*
 ```
 
 I like to imagine that's how it went down.
@@ -901,7 +871,7 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 
 That makes 4 times that VP were one series away from qualifying to TI. Pain.
 
-**What would success look like?** Matumbaman has made it quite clear that this will be his last year of competitive Dota. So for his sake I hope any Gyrocopter picks at this event are premeditated.
+**What would success look like?** Matumbaman has made it quite clear that this will be his last year of competitive Dota. So I hope for his sake any Gyrocopter picks at this event are premeditated.
 
 **What to spam in Twitch chat when Liquid are winning?** <img src="../img/ti11teams/zaij.png" alt="zaiJ" style= "width: 30px">
 
@@ -913,8 +883,8 @@ Congratulations! More and more people have told me they actually use these blogs
 
 As always, my sincerest thanks to the many volunteers who <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/2021-22">keep Liquipedia up to date.</a> You may be an unofficial source in Valve's eyes, but this wiki has vandalized my heart.
 
-If you enjoyed this article and want to keep up with me, check my [Twitter](https://twitter.com/tsunami643), [Twitch](https://twitch.tv/tsunami643), or [Instagram](https://instagram.com/tsunami643).
+If you enjoyed this article and want to keep up with me, I'm around on [Twitter](https://twitter.com/tsunami643), [Twitch](https://twitch.tv/tsunami643), or [Instagram](https://instagram.com/tsunami643).
 
-Also, feel free to [buy my TI11 voiceline](https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s) or hit up the [howdoiplay merch store.](https://shop.howdoiplay.com/)
+Also, feel free to [buy my TI11 voiceline](https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s) or hit up the [howdoiplay merch store](https://shop.howdoiplay.com/) to support me!
 
-## [**Discussion for this article on /r/dota2.**](https://www.reddit.com/r/DotA2/comments/q2l6hv/the_international_2021_a_practical_guide_to_all/?)
+<p style="font-size: 1.5em;"><a href=""><b>Discussion for this article on /r/dota2.</a></p>
