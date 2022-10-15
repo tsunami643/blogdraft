@@ -833,7 +833,7 @@ new Chart("myChart", {
   data: {
     labels: xValues,
     datasets: [{
-      label: "Chinese Teams at TI",
+      label: "Chinese Teams",
       backgroundColor: barColors,
       data: yValues
     }]
@@ -855,9 +855,45 @@ new Chart("myChart", {
 });
 </script>
 
-Even TI1, which many Chinese teams supposedly skipped because they didn't think it was real, had higher representation.
+Now if I cross reference that with my in-game pen
 
-Now if we were running an OMG 4+2 tournament? Totally different story.
+<div style="padding-bottom:10px;margin:auto;max-width:100%;"><canvas id="radar-chart" style="width:600px;max-width:100%;max-height:350px;margin:auto;"></canvas></div>
+<script>
+new Chart(document.getElementById("radar-chart"), {
+    type: 'radar',
+    data: {
+      labels: ["Africa", "Asia", "Europe", "Latin America", "North America"],
+      datasets: [
+        {
+          label: "1950",
+          fill: true,
+          backgroundColor: "rgba(179,181,198,0.2)",
+          borderColor: "rgba(179,181,198,1)",
+          pointBorderColor: "#fff",
+          pointBackgroundColor: "rgba(179,181,198,1)",
+          data: [8.77,55.61,21.69,6.62,6.82]
+        }, {
+          label: "2050",
+          fill: true,
+          backgroundColor: "rgba(255,99,132,0.2)",
+          borderColor: "rgba(255,99,132,1)",
+          pointBorderColor: "#fff",
+          pointBackgroundColor: "rgba(255,99,132,1)",
+          pointBorderColor: "#fff",
+          data: [25.48,54.16,7.61,8.06,4.45]
+        }
+      ]
+    },
+    options: {
+      title: {
+        display: true,
+        text: 'Distribution in % of world population'
+      }
+    }
+});
+</script>
+
+My god. By these calculations... We should be a dead game 18 years ago.
 
 **What to spam in Twitch chat when RNG are winning?** <code><a href="https://www.reddit.com/r/DotA2/comments/wpown1/hoping_to_share_some_insights_about_chinese_teams/#:~:text=chat%20would%20be%20spamming%20'natural'%20regardless">natural</a></code>
 
