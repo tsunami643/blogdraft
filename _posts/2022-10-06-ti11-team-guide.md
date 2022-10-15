@@ -610,7 +610,7 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** This is basically the same as their TI10 roster except with SVG swapped out for Fata. 'They' being Quincy Crew. This is Quincy Crew. This was not always Quincy Crew, however. During Tour 1 and 2 the Quinn and Yawar crew had Khezu, Milan, and ponlo by their side. They did not #StayCrew for long. Starting Tour 3, MSS and Lelis returned from hiatus and Fata needed somewhere to go after getting the boot from Tundra.
+**How did this roster happen?** This is basically the same as their TI10 roster except with SVG's retirement void being filled with Fata. 'They' being Quincy Crew. This is Quincy Crew. This was not always Quincy Crew, however. During Tour 1 and 2 the Quinn and Yawar crew had Khezu, Milan, and ponlo by their side. They did not #StayCrew for long. Starting Tour 3, MSS and Lelis returned from hiatus and Fata needed somewhere to go after getting the boot from Tundra.
 
 **How was their DPC year?** 582 points
 
