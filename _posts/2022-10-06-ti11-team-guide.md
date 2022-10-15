@@ -821,7 +821,7 @@ Anything else worth mentioning? Oh yeah, Ghost was unable to make it to Arlingto
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
 
-<canvas id="myChart" style="width:100%;max-width:600px;max-height:350px;margin:auto;"></canvas>
+<div class="responsivevideo"><canvas id="myChart" style="max-width:600px;max-height:350px;margin:auto;"></canvas></div>
 
 <script>
 var xValues = ["TI1", "TI2", "TI3", "TI4", "TI5", "TI6", "TI7", "TI8", "TI9", "TI10", "TI11"];
