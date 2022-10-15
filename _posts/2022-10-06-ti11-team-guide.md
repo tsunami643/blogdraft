@@ -723,7 +723,7 @@ Fun fact: Even if they won the Arlington Major, they still wouldn't have had eno
 
 <p style="font-size: 1.3em; font-weight: bold;">Reader, for $0... Name the EEU brand this roster played under before being acquired by BetBoom</p>
 
-<select id="dropDown" onchange="test()" style="font-weight: 100;">
+<select id="dropDown" onchange="test()" style="font-weight: 100; font-size: 1.5em;">
  <option value="default" selected="selected">Select team</option>
  <option value="one" id="empire">Team Empire</option>
  <option value="two" id="hr">HellRaisers</option>
