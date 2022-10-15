@@ -819,26 +819,14 @@ Anything else worth mentioning? Oh yeah, Ghost was unable to make it to Arlingto
 
 **What would success look like?** Would you believe that this is the third and final Chinese team left to talk about? Three Chinese teams at a TI! For reference, here's the comparison to previous TIs.
 
-* TI11 - 3
-* TI10 - 5
-* TI9 - 4
-* TI8 - 6
-* TI7 - 5
-* TI6 - 5
-* TI5 - 6
-* TI4 - 6
-* TI3 - 5
-* TI2 - 5
-* TI1 - 4
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
 
-<canvas id="myChart" style="width:100%;max-width:600px;max-height:350px;"></canvas>
+<canvas id="myChart" style="width:100%;max-width:600px;max-height:350px;margin:auto;"></canvas>
 
 <script>
 var xValues = ["TI1", "TI2", "TI3", "TI4", "TI5", "TI6", "TI7", "TI8", "TI9", "TI10", "TI11"];
 var yValues = [4, 5, 5, 6, 6, 5, 5, 6, 4, 5, 3];
-var barColors = ["red", "blue", "green", "purple", "gold", "red", "blue", "green", "purple", "gold", "red"];
+var barColors = ["darkred", "darkblue", "darkgreen", "rebeccapurple", "goldenrod", "darkred", "darkblue", "darkgreen", "rebeccapurple", "goldenrod", "darkred"];
 
 new Chart("myChart", {
   type: "bar",
