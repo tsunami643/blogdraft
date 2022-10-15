@@ -975,7 +975,7 @@ Resolution - What about iceiceice?
 
 Zayac - He'll be fine. He's going deep undercover to make the ultimate sacrifice. Ninjaboogie sends his regards.
 
-*Resolution dons a pair of sunglasses and smiles. Fortunate Son starts playing as montage of him preparing to fly to Saudi Arabia begins.*
+*Resolution dons a pair of sunglasses and smiles. Fortunate Son starts playing.*
 ```
 
 I like to imagine that's how it went down.
