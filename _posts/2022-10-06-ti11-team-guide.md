@@ -581,7 +581,7 @@ Or as the community saw it.
 
 <p style="text-align: center;"><img src="./../../../img/ti11teams/fnaticchest.jpg" alt="Ye Olde Unoffical Source" style="width: 500px;"></p>
 
-[It turns out Valve uses a different metric for calculating partial points that Liquipedia was not privy to.](https://www.reddit.com/r/DotA2/comments/wpd5z2/fnatic_qualify_to_ti_over_outsiders_ruling_from/ikgad8h/) Now obviously the official source should be the most trusted one, but Dota fans haven't exactly been able to count on Valve for regularly maintained documentation. In fact, at the time of this ruling, there were still some errors calculating other teams' point values on the official Valve ranking site.
+[It turns out Valve uses a different metric for calculating partial points that Liquipedia was not privy to.](https://www.reddit.com/r/DotA2/comments/wpd5z2/fnatic_qualify_to_ti_over_outsiders_ruling_from/ikgad8h/) Now obviously the official source should be the most trusted one, but Dota fans haven't exactly been able to count on Valve for regularly maintained documentation. In fact, at the time of the ruling, there were still some errors calculating other teams' point values on the official Valve ranking site.
 
 Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liquipedia was branded as an 'unofficial source.' Crazy stuff.
 
