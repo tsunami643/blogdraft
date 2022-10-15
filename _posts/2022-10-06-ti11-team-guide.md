@@ -316,7 +316,7 @@ You just learned the difference between those prefixes.
 
 The moment I saw these placements I thought, "Wow, those are some pretty great performances. But does Aster ever win?" The answer is no, they don't. But they always get *really close.* [Heavily reminscent](https://howdoiplay.com/blog/2018/07/18/ti8-team-guide.html#:~:text=Notable%20tournament%20placings%20A,And%20not%20win.) of some [old Vici Gaming squads.](https://howdoiplay.com/blog/2021/10/06/ti10-team-guide.html#:~:text=I%20could%20literally,TI%20championship%20material.) Is Ori just allergic to gold? 
 
-**What would success look like?** Aster's reputation within China has been slowly getting repaired compared to last year's 'civil war specialist' stereotype, but unfortunately they fumbled the bag at ESL Malaysia and lost to OG in grand finals. Cue the ridicule all over again.
+**What would success look like?** Aster's reputation within China has slowly been getting repaired after last year's 'civil war specialist' stereotype. Unfortunately, they fumbled the bag at *ESL Malaysia* and lost to OG in grand finals. Cue the ridicule all over again.
 
 As long as they eliminate non-Chinese teams, they should be fine. But it'll be a dark day if they face LGD in bracket, eliminate them, and then _don't_ get the Aegis.
 
@@ -928,7 +928,7 @@ My god. By these calculations... We should be a dead game 14 years ago.
 * **SEA DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 13-14th*
 
-Going from 2nd place Div 2 to 2nd place Div 1 has to be the biggest DPC glow up of the year. Does that mean SEA is unpredictable or is Talon strong? Based on this team's underwhelming Arlington, GAMERS GALAXY: Thailand, and ESL Malaysia performances, probably the former.
+Going from 2nd place Div 2 to 2nd place Div 1 has to be the biggest DPC glow up of the year. Does that mean SEA is unpredictable or is Talon strong? Based on this team's underwhelming Arlington, *GAMERS GALAXY: Thailand*, and *ESL Malaysia* performances, probably the former.
 
 They had a nail-biter 5 game series against Polaris Esports to take this regional TI slot. In fact, SEA was the *only* regional grand final to not be a 3-0. Does that mean SEA is strong or is Talon unpredictable?
 
