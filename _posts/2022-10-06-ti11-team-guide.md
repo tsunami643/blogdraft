@@ -661,7 +661,7 @@ Not a very standout performance during the year and was among the darkest of hor
 
 Despite all that, Hokori still did play well throughout the SA qualifier and actually recently beat Fnatic in the BTS Pro Series S12 while bootcamping in SEA.
 
-**What would success look like?** How funny would it be if they win TI and then have to play in Divison 2 DPC next year.
+**What would success look like?** Imagine the memes if they win TI and then have to play in Divison 2 DPC next year.
 
 **What to spam in Twitch chat when Hokori are winning?** `lumiere es mi pastor nada me faltarar`
 
