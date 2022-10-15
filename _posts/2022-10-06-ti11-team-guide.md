@@ -825,7 +825,7 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 
 Nothing too special. This year's top 4 in the CN DPC was consistently some shuffling of LGD, Aster, RNG and then either EHOME or Xtreme. And RNG bopped Xtreme 3-0 in the CN regional qual to make it to TI.
 
-Anything else worth mentioning? Oh yeah, Ghost was unable to make it to Arlington and ana, yes *that* ana, stood in. That was pretty neat.
+Anything else worth mentioning? Oh yeah, Ghost was unable to make it to Arlington and ana, yes *that* ana, stood in. That was pretty neat. They didn't do well, but it was still neat.
 
 **What would success look like?** It may be hard to believe, but this is the third and final Chinese team left to talk about. Three Chinese teams at a TI! Unprecedented. Here's the comparison to previous TIs.
 
