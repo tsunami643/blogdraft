@@ -126,7 +126,7 @@ Better pray TI grand finals isn't the 30%.
 * **CN DPC Tour 3** - 4th
 * **PGL Arlington Major** - 2nd 🥈
 
-Due to heavy COVID lockdowns, Chinese Dota was hidden away for most of this season. Even getting back to China after TI10 in Romania was a massive project for a lot of teams, which led to their first tour being delayed, so CN Doto remained in its own little bubble for most of the year.
+Due to heavy COVID lockdowns, Chinese Dota was hidden away for most of this season. Even getting back to China after TI10 in Romania was a massive project for a lot of teams, which led to their Tour 1 being delayed, so CN Doto remained in its own little bubble for most of the year.
 
 LGD only narrowly qualified to the Arlington Major after scraping through their Tour 3 tiebreaker, but came in to their second international LAN of the year with an axe to grind. *Second* LAN, because they had shown up to the non-DPC Riyadh Masters LAN a few weeks prior to Arlington and took that trophy after defeating Team Spirit.
 
@@ -152,7 +152,7 @@ Guess who beat them in Arlington?
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After TI10 ended, OG, as we knew it, scattered across the seven seas. No former members remained as active players\*, so the brand had to start from scratch. How did they do it? Allow me to present this section in the same form that I myself learned this information.
+**How did this roster happen?** After TI10 ended, OG, as we knew it, scattered to the four winds. No former members remained as active players\*, so the brand had to start from scratch. How did they do it? Allow me to present this section in the same form that I myself learned this information.
 
 Through a series of disjointed DMs I received from OG's CEO JMR Luna.
 
@@ -174,7 +174,7 @@ Makes sense. Misha was OG's coach last year, so that's a reasonable foundation.
 
 ---
 
-Pretty surprising, actually. Taiga was a part of the Insania crew for the longest time. However, the Liquid boys knew a change had to be made after they failed to qualify to TI last year and Taiga voluntarily fell on the sword. Guess he and OG saw mutual potential in one another.
+Pretty surprising, actually. Taiga was a part of the Insania crew for the longest time. However, those Liquid boys knew a change had to be made after they failed to qualify to TI last year and Taiga voluntarily fell on the sword. Guess he and OG saw mutual potential in one another.
 
 ---
 
@@ -207,9 +207,11 @@ On paper, this is the kind of roster that grows into its own after a year or two
 
 They didn't set the world on fire immediately, but they definitely hit their stride waaay quicker than anyone expected. And while these DPC results may not be as decorated as LGD's, this team* had strong showings at third party tournaments, including a recent 1st 🥇* place at ESL Malaysia near the end of August.
 
-*ALRIGHT TSUNAMI, WHAT'S WITH ALL THE ASTERISKS?* Well, our good friend Misha had quite a bit of difficulty getting visas this year. As a result, OG spent a lot of time this year playing musical chairs with substitutes when they traveled internationally for LANs. Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came back for another one last ride in Arlington. Got fourth. And then coach Chuvash stood in for Misha at ESL Malaysia. Which they won.
+*Say mister, what's with all the asterisks?* Well, our good friend Misha had quite a bit of difficulty getting visas this year. As a result, OG spent a lot of time this year playing musical chairs with substitutes when they traveled internationally for LANs.
 
-**What would success look like?** A top 6 finish would be perfectly respectable for such a fresh roster. For Misha, though? Oh boy. I don't even know if _he_ necessarily feels the pressure, but the public at large putting the "Haha all your stand-ins won their tournaments" has gotta be something else.
+Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came back for another one last ride in Arlington. Got fourth. And then coach Chuvash stood in for Misha at ESL Malaysia. Which they won.
+
+**What would success look like?** A top 6 finish would be perfectly respectable for such a fresh, but accomplished, roster. For Misha, though? Oh boy. I don't even know if _he_ necessarily feels the pressure, but the public at large putting all the "Haha all your stand-ins won *their* tournaments" has gotta be something else.
 
 **What to spam in Twitch chat when OG are winning?** `ATF=ALWAYS TAKES FIRST`
 
