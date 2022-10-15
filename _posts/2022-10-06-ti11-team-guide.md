@@ -449,7 +449,7 @@ For... half the year. Let's ignore the second half.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** In a parallel universe, you _know_ how this roster happened. You'd know, because they showed up to TI10, made history, and everyone in the world became Tundra fans aka *Tundries*. Instead, they lost in a 5 game series against OG in the TI10 WEU quals and were nearly forgotten to time. Thankfully, they persevered. Well most of them. Fata was a founding member of this team but was un-amicably removed after Tour 1 Regional Finals and replaced with Saksa.
+**How did this roster happen?** In a parallel universe, you know how this roster happened. You'd know, because they showed up to TI10, made history, and everyone in the world became Tundra fans aka *Tundries*. Instead, they lost in a 5 game series against OG in the TI10 WEU quals and were nearly forgotten to time. Thankfully, they persevered. Well most of them. Fata was a founding member of this team but was un-amicably removed after Tour 1 Regional Finals and replaced with Saksa.
 
 **How was their DPC year?** 1212 points
 
@@ -460,7 +460,7 @@ For... half the year. Let's ignore the second half.
 * **WEU DPC Tour 3** - 1st 🥇
 * **PGL Arlington Major** - 15-16th
 
-Following a super dominant group stage in Stockholm, they were pretty much favorites to win the whole major. Then TSM rattled them something fierce in upper bracket finals and they've never really seemed the same on LAN ever since.
+Following a super dominant group stage in Stockholm, they were pretty much favorites to win the whole major. Then TSM rattled them something fierce in upper bracket finals and they've never been the same on LAN ever since.
 
 **What would success look like?** There are a handful of TI veterans in this roster, including a winner, coach Aui_2000. Would you have the heart to eliminate him? Who could say no to a face that pure? Everything deserves to go Kurtis's way.
 
@@ -482,7 +482,7 @@ Following a super dominant group stage in Stockholm, they were pretty much favor
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** BOOM and Seleri were veterans of tier 1.5-ish WEU team Vikin.gg for quite a while. Ace and tOfu were on another tier 1.5-ish WEU team Hellbear Smashers and faced off against Vikin.gg pretty regularly in officials. dyrachYO came out of nowhere. Dude was an EEU player, but was eager to leave the region and joined these guys to form "Team Tickles" starting this season.
+**How did this roster happen?** BOOM and Seleri were veterans of tier 1.5-ish WEU team Vikin.gg for quite a while. Ace and tOfu were on another tier 1.5-ish WEU team Hellbear Smashers. dyrachYO came out of nowhere. Dude was an EEU player, but was eager to leave the region and joined these guys to form "Team Tickles" starting this season. Tough to say which name I prefer.
 
 **How was their DPC year?** 1130 points
 
