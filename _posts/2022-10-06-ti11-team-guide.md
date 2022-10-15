@@ -681,7 +681,7 @@ Despite all that, Hokori still did play well throughout the SA qualifier and act
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Fishman and Crystallis were a part of the same Creepwave roster as ATF, bzm, and Chuvash. After those three left for OG, the remaining members joined up with Stormstormer, Tobi, and Kataomi. They dominated Div 2 Tour 1, got promoted, and did well enough to not get relegated after Tour 2. They did so well, in fact, Puppey was like, "Hey nice carry. Mind if I yoink him?" It was probably more complicated than that, but the end result is Entity were looking to be carryless coming into Tour 3.
+**How did this roster happen?** Fishman and Crystallis were a part of the same Creepwave roster as ATF, bzm, and Chuvash. After those three left for OG, the remaining members joined up with Stormstormer, Tobi, and Kataomi. They dominated Div 2 Tour 1, got promoted, and did well enough to not get relegated after Tour 2. They did so well, in fact, Puppey was like, "Hey nice carry. Mind if I yoink him?" It was probably more complicated than that, but the end result is Entity were looking to be carryless without Crystallis coming into Tour 3.
 
 A replacement happened to present itself in the form of 18 year old Russian core player, Pure. The reason he suddenly became a free agent is a sore spot for many people wanting to root for this team. Formerly playing for VP in EEU during Tour 2, [Pure drew a Russian militarist 'Z' symbol on the minimap during a pause.](https://dotesports.com/dota-2/news/virtus-pro-dota-disqualified-dpc-regional-playoffs-pure-draws-z-on-mini-map) VP promptly released him a day later. [He later apologized after joining Entity,](https://twitter.com/puredota187/status/1533128464244609025) but many people either doubted his sincerity or considered the bridge to already be burned beyond repair.
 
@@ -696,9 +696,9 @@ An edgy teenager mistake or an actual war advocate? Up for you to decide. He is 
 * **WEU DPC Tour 3** - 4th
 * **PGL Arlington Major** - 5-6th*
 
-Fun fact: Even if they won the Arlington Major, they still wouldn't have had enough points to get directly invited to TI. Flaw in the system or working as intended? Pure wasn't able to attend Arlington so TSM's offlaner Saberlight actually stood in on his behalf and had a grand old time playing carry.
+Fun fact: Even if they won the Arlington Major, they still wouldn't have had enough DPC points to get directly invited to TI. Flaw in the system or working as intended? Pure wasn't able to attend Arlington so TSM's offlaner Saberlight actually stood in on his behalf and had a grand old time playing carry.
 
-**What would success look like?** Another fun fact: Entity is the only team in which every player on the roster is playing at TI for the very first time.
+**What would success look like?** Another fun fact: Entity is the only team this TI in which every player on the roster is participating at an International for the very first time. Expectations are low, but sky's the limit.
 
 **What to spam in Twitch chat when Entity are winning?** `ENTITY INDIAN PRIDE`
 
