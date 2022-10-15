@@ -839,6 +839,11 @@ new Chart("myChart", {
     }]
   },
   options: {
+    legend: { display: false },
+      title: {
+        display: true,
+        text: 'Chinese Teams at TI'
+      },
     scales: {
       y: {
         beginAtZero: true
