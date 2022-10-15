@@ -1028,7 +1028,7 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 * **WEU DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 9-12th
 
-It's kind of wild how good this team can be online and how comically bad they are on LAN. It's not just this roster, either. Last season they got 4th and 2nd during the leagues. And during the majors? 9-12th in Singapore and 13th and the AniMajor. Like, how? And I'm not even listing their non-DPC LAN placements this year. <span class="spoiler">Those were also bad.</span>
+It's kind of wild how good this team can be online and how comically bad they are on LAN. It's not just this roster, either. Last season, they got 4th and 2nd during the leagues. And during the majors? 9-12th in Singapore and 13th and the AniMajor. Like, how? And I'm not even listing their non-DPC LAN placements this year. <span class="spoiler">Those were also bad.</span>
 
 Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? And then again when BetBoom beat them? And then again again when Secret beat them? Liquid also also beat them to take the final LCQ slot.
 
