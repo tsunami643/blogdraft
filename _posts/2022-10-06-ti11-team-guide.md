@@ -231,7 +231,7 @@ Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came b
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** These guys won a cool $18 milli around this time last year and thought, "We might be pretty good at Dota. Let's keep doing this together."
+**How did this roster happen?** These guys collectively won a cool $18 milli this time last year and thought, "We might be pretty good at this Dota thing. Let's keep playing together."
 
 **How was their DPC year?** 1810 points
 
