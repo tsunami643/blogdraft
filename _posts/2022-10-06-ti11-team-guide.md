@@ -855,32 +855,32 @@ new Chart("myChart", {
 });
 </script>
 
-Now if I cross reference that with my in-game pen
+Now if I cross reference that with my schematics from the turbo encabulator 
 
 <div style="padding-bottom:10px;margin:auto;max-width:100%;"><canvas id="radar-chart" style="width:600px;max-width:100%;max-height:350px;margin:auto;"></canvas></div>
 <script>
 new Chart(document.getElementById("radar-chart"), {
     type: 'radar',
     data: {
-      labels: ["Africa", "Asia", "Europe", "Latin America", "North America"],
+      labels: ["Fighting", "Farming", "Supporting", "Pushing", "Carry"],
       datasets: [
         {
-          label: "1950",
+          label: "Me",
           fill: true,
           backgroundColor: "rgba(179,181,198,0.2)",
           borderColor: "rgba(179,181,198,1)",
           pointBorderColor: "#fff",
           pointBackgroundColor: "rgba(179,181,198,1)",
-          data: [8.77,55.61,21.69,6.62,6.82]
+          data: [3,7,1,9,4]
         }, {
-          label: "2050",
+          label: "Your Mom",
           fill: true,
           backgroundColor: "rgba(255,99,132,0.2)",
           borderColor: "rgba(255,99,132,1)",
           pointBorderColor: "#fff",
           pointBackgroundColor: "rgba(255,99,132,1)",
           pointBorderColor: "#fff",
-          data: [25.48,54.16,7.61,8.06,4.45]
+          data: [7,6,5,2,4]
         }
       ]
     },
