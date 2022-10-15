@@ -821,7 +821,7 @@ Anything else worth mentioning? Oh yeah, Ghost was unable to make it to Arlingto
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
 
-<div class="responsivevideo"><canvas id="myChart" style="max-width:600px;max-height:350px;margin:auto;"></canvas></div>
+<div style="padding-bottom:10px;margin:auto;max-width:100%;"><canvas id="myChart" style="width:600px;max-width:100%;max-height:350px;margin:auto;"></canvas></div>
 
 <script>
 var xValues = ["TI1", "TI2", "TI3", "TI4", "TI5", "TI6", "TI7", "TI8", "TI9", "TI10", "TI11"];
@@ -994,7 +994,7 @@ That makes 4 times that VP were one series away from qualifying to TI. Pain.
 
 **What would success look like?** Matumbaman has made it quite clear that this will be his last year of competitive Dota. So I hope for his sake any Gyrocopter picks at this event are premeditated.
 
-**What to spam in Twitch chat when Liquid are winning?** <img src="./../../../img/ti11teams/zaij.png" alt="zaiJ" style= "width: 30px">
+**What to spam in Twitch chat when Liquid are winning?** <img src="./../../../img/ti11teams/zaij.png" alt="zaiJ" style= "width: 30px;vertical-align: bottom;">
 
 ----
 
