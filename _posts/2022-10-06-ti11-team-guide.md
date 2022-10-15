@@ -532,11 +532,13 @@ I'm not gonna sugarcoat it, the Jerax 5 experiment was not pleasant. It was like
 
 After a disappointing Stockholm Major finish, Jerax left and the hatchet was buried with Fly. The team gelled pretty much immediately and yet somehow got destroyed all over again in Arlington. EG's TI invitation fate wasn't even in their hands near the end, but beastcoast repaid their TI10 debt and eliminated the next closest point teams, Fnatic and Outsiders/VP, in Arlington. Te quiero mucho Arturito goes both ways.
 
-**What would success look like?** I don't even know anymore. As brutal as it sounds, I think Arteezy fans would almost prefer him to become a full time streamer at this point. Given these LAN performances, they'd probably see more of him.
+**What would success look like?** ~~*I don't even know anymore. As brutal as it sounds, I think Arteezy fans would almost prefer him to become a full time streamer at this point. Given these LAN performances, they'd probably see more of him.*~~
+
+Since I'm releasing this article after day 1 group stage where EG just 2-0'd LGD, OG, and Soniqs, I'm now changing my answer. ANOTHER NA TI, BABY. THIS IS OUR YEAR. ONE BULBILLION DOLLAR PRIZE POOL. #BULBASWEEP.
 
 **What to spam in Twitch chat when EG are winning?** Whatever you want, but under no circumstances are you allowed to praise Bulba. Doesn't matter if it's the world's greatest Storm Spirit game or if he masterminded a strategy that somehow forced the enemy team into only picking 4 heroes. The first rule and only rule of EG twitch/reddit discourse is: everything is Bulba's fault.
 
-Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of my environment and North American Dota... we... we've had a rough couple of years. Let's go EG! ~~#BleedBlue~~ #LIVEEVIL.
+Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of my environment and North American Dota... we... we've had a rough couple of years.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/fnatic.jpg" alt="Banner"></p>
