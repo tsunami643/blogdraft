@@ -1,7 +1,7 @@
 ﻿---
 layout: "post"
 title: "The International 2022: A Practical Guide to All 20 Teams"
-date: "2022-10-06 11:45"
+date: "2022-10-15 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
 feature-img: "img/ti11teams/ti11header.jpg"
 flags: true
@@ -9,11 +9,11 @@ flags: true
 
 ### Yeah, yeah, I'm late.
 
-With the weird TI format this year I couldn't decide when to release this article. I was originally going to finish it once my part of the broadcast began with playoffs, but I'm a sucker for traditions, so let's get started.
+With the weird TI format this year I couldn't decide when to finish this article. I was originally going to release it once my part of the broadcast began after group stage, but then I realized I'd be 4 teams lighter. Let's get started.
 
 ---
 
-Welcome to another DPC season! After last year, a lot of people were expecting a big patch for how the DPC operates. You know maybe some calendar changes? Economy reworks? Instead we just got some number buffs.
+Welcome to another DPC season! After last year, a lot of people were expecting a big patch for how the DPC operates. You know maybe some calendar changes? Economy reworks? Instead we just got number buffs.
 
 <style>
   @font-face{font-family:"Radiance";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.eot");src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.eot?#iefix") format("embedded-opentype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.ttf") format("truetype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.svg#ywftsvg") format("svg");font-weight:normal;font-style:normal}@font-face{font-family:"Radiance";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.eot");src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.eot?#iefix") format("embedded-opentype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.ttf") format("truetype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.svg#ywftsvg") format("svg");font-weight:900;font-style:normal}@font-face{font-family:"Radiance";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.eot");src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.eot?#iefix") format("embedded-opentype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.ttf") format("truetype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.svg#ywftsvg") format("svg");font-weight:700;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular.ttf") format("truetype");font-weight:400;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Light.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Light.ttf") format("truetype");font-weight:200;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-SemiBold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-SemiBold.ttf") format("truetype");font-weight:600;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Bold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Bold.ttf") format("truetype");font-weight:700;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Black.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Black.ttf") format("truetype");font-weight:800;font-style:normal}
@@ -36,7 +36,7 @@ DPC Changelog
 </span>
 </div>
 
-Well at least this is closer to Valve's original vision of the DPC when they [initially pitched this Dota Pro Circuit format.](https://web.archive.org/web/20210212054111/http://blog.dota2.com/2020/02/introducing-regional-leagues/) 3 regional leagues, 3 majors, 6 opportunities total to earn points. Still six weeks per league, still the same prize pools, and still the same major slot allocations per region, but progress nonetheless.
+At least this is closer to Valve's original vision of the DPC when they [initially pitched the league format.](https://web.archive.org/web/20210212054111/http://blog.dota2.com/2020/02/introducing-regional-leagues/) 3 regional tours, 3 majors, 6 opportunities total to earn points. Still six weeks per tour, still the same prize pools, still the same number of major slots per region, but progress nonetheless.
 
 The first regional tour for this season started near the <abbr title="For every region besides China">end of November 2021</abbr> and things were going along swimmingly. _"I wonder where the first major will be?"_ the Dota scene very openly wondered. Well on January 11th, [we found out.](https://web.archive.org/web/20220112065038/https://www.dota2.com/newsentry/3110298479118085517)
 
@@ -58,7 +58,7 @@ DPC Changelog
 </span>
 </div>
 
-And that was... kind of it? As it is, players were not particularly thrilled about burning six weeks of their time competing in a 2-Bo3-a-week league, but they had to grin and bear it to make it to the major. Well, now there's no major. Thanks for playing. Literally.
+And that was... kind of it? As it is, players were not particularly enthused about burning six weeks of their time competing in a 2-Bo3-a-week league, but they had to grin and bear it to make it to the major. Well, now there's no major. Thanks for playing. Literally.
 
 People were piiiiiiissed.
 
@@ -82,11 +82,11 @@ DPC Changelog
 </span>
 </div>
 
-Now we're talking. If you look at the title of this blog, you'll see I mentioned *20* teams. In an effort to make sure that visas/COVID/war complicating travel for teams didn't stop them from reaching TI, a Last Chance Qualifier was implemented this year. 20 TEAM TI, BABY! TWO GROUPS OF 10. 4 TEAMS ELIMINATED AFTER GROUPS.
+If you look back at the title of this article, you'll see I mentioned *20* teams. In an effort to make sure that visas/COVID/war restrictions didn't prohibit teams from reaching TI, a Last Chance Qualifier was implemented this year. 20 TEAM TI, BABY! TWO GROUPS OF 10. 4 TEAMS ELIMINATED AFTER GROUPS.
 
-Anyway, this is a pretty abridged version of all the complications that occurred during the season. China had a whole bunch of difficulties competing internationally this year, as did EEU, but we'll get into that.
+No one reads these preambles anyway, so this is an abridged version of all the complications that occurred during the season. China had a whole bunch of difficulties competing internationally this year, as did EEU, but we'll get into that.
 
-Also, looking back at that last blog, I couldn't help but notice.
+Also, looking back at that last Valve blog, I couldn't help but notice.
 
 > We expect the rest of the year to go as planned
 
@@ -113,7 +113,7 @@ Honestly, I appreciate the optimism.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?**  It's *been* happening. As of now, they are currently the [8th most played roster of all time](../img/ti11teams/lgdwinrate.jpg) (credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2011&before=14%2F10%2F2022&duration=0%3B200&duration-value-from=0&duration-value-to=200)) with an insane 70% winrate together to boot.
+**How did this roster happen?**  It's *been* happening. As of now, they are currently the [8th most played roster of all time](../img/ti11teams/lgdwinrate.jpg) *(credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2011&before=14%2F10%2F2022&duration=0%3B200&duration-value-from=0&duration-value-to=200))* with an insane 70% winrate together to boot.
 
 Better pray TI grand finals isn't the 30%.
 
@@ -126,7 +126,7 @@ Better pray TI grand finals isn't the 30%.
 * **CN DPC Tour 3** - 4th
 * **PGL Arlington Major** - 2nd 🥈
 
-Due to heavy COVID restrictions, Chinese Dota was locked away for most of this season. Even getting back to China after TI10 in Romania was a massive project for a lot of teams, which led to their first tour being delayed, so CN Doto remained in its own little bubble for most of the year.
+Due to heavy COVID lockdowns, Chinese Dota was hidden away for most of this season. Even getting back to China after TI10 in Romania was a massive project for a lot of teams, which led to their first tour being delayed, so CN Doto remained in its own little bubble for most of the year.
 
 LGD only narrowly qualified to the Arlington Major after scraping through their Tour 3 tiebreaker, but came in to their second international LAN of the year with an axe to grind. *Second* LAN, because they had shown up to the non-DPC Riyadh Masters LAN a few weeks prior to Arlington and took that trophy after defeating Team Spirit.
 
@@ -266,7 +266,7 @@ A lot more eyeballs in the crowd, too. Because there's actually going to be one.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Would you believe that the Anvorgesa stack from 2019 is *still* together? They've actually been with each other for so long, they've also broken into the [top 10 most played rosters of all time](../img/ti11teams/beastcoastwinrate.jpg) (credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2011&before=14%2F10%2F2022&duration=0%3B200&duration-value-from=0&duration-value-to=200)) right after PSG.LGD. The next highest SA roster on that list is 2020's Thunder Predator squad with a mere 208 games together.
+**How did this roster happen?** Would you believe that the Anvorgesa stack from 2019 is *still* together? They've actually been with each other for so long, they've also broken into the [top 10 most played rosters of all time](../img/ti11teams/beastcoastwinrate.jpg) *(credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2011&before=14%2F10%2F2022&duration=0%3B200&duration-value-from=0&duration-value-to=200))* right after PSG.LGD. The next highest SA roster on that list is 2020's Thunder Predator squad with a mere 208 games together.
 
 **How was their DPC year?** 1810 points
 
