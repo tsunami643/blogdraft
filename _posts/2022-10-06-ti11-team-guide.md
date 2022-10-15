@@ -855,7 +855,7 @@ new Chart("myChart", {
 });
 </script>
 
-Now if I cross reference that with my schematics from the turbo encabulator 
+Now if I cross reference that with my schematics...
 
 <div style="padding-bottom:10px;margin:auto;max-width:100%;"><canvas id="radar-chart" style="width:600px;max-width:100%;max-height:350px;margin:auto;"></canvas></div>
 <script>
@@ -871,7 +871,7 @@ new Chart(document.getElementById("radar-chart"), {
           borderColor: "rgba(179,181,198,1)",
           pointBorderColor: "#fff",
           pointBackgroundColor: "rgba(179,181,198,1)",
-          data: [3,7,1,9,4]
+          data: [5.4,7,1.9,6.2,4]
         }, {
           label: "Your Mom",
           fill: true,
@@ -880,7 +880,7 @@ new Chart(document.getElementById("radar-chart"), {
           pointBorderColor: "#fff",
           pointBackgroundColor: "rgba(255,99,132,1)",
           pointBorderColor: "#fff",
-          data: [7,6,5,2,4]
+          data: [3.9,6,3.5,2,4]
         }
       ]
     },
