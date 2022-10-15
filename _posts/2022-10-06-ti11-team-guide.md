@@ -954,7 +954,7 @@ They had a nail-biter 5 game series against Polaris Esports to take this regiona
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Strap in, this one's complicated. Despite a pretty stellar TI10 3rd place finish, Zai and Matu were ready to move on from Secret and Puppey had to find replacements. How about iceiceice and Sumail? Those sound pretty good, yeah? You'd think so, but no.
+**How did this roster happen?** Strap in, this one's complicated. Despite a pretty stellar TI10 3rd place finish, Matu and Zai were ready to move on from Secret and Puppey had to find replacements. How about Sumail and iceiceice? Those sound pretty good, yeah? You'd think so, but no.
 
 Tour 1 and Tour 2 were worthy attempts at getting the roster to work, but it just wasn't happening. Sumail was so unconvinced, he jumped ship to Division 2 Nigma Galaxy for Tour 3 and Puppey poached Entity player Crystallis as a replacement. At the same time, Yapzor was mysteriously missing every week and Zayac was plucked by Puppey from pubs to stand-in. All those gyrations netted them... another 5th place in Tour 3. Zero possibility of getting to TI through points.
 
