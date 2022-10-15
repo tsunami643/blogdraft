@@ -9,7 +9,7 @@ flags: true
 
 ### Yeah, yeah, I'm late.
 
-With the weird TI format this year I couldn't decide when to release this article. I love procrastinating nearly as much as I love clout, but I had to study all these teams anyway, so let's get started.
+With the weird TI format this year I couldn't decide when to release this article. I was originally going to finish it once my part of the broadcast began with playoffs, but I'm a sucker for traditions, so let's get started.
 
 ---
 
@@ -619,7 +619,7 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 
 When the first major was unceremoniously canceled, [Quinn was one of the first players to vocalize his dissatisfaction.](https://esports.gg/news/dota-2/valve-cancels-major-quinn/) And rightfully so. This first tour that QC fought to get a top placement in would basically be a footnote in the grand scheme of DPC points. Additionally, it also removed the possibility of making more prize money at a major. Which, for an unsponsored team, is *pretty important*.
 
-The band-aid Regional Final was applied, but TSM was now turning NA Dota into a three-horse-race. QC fell just short in Tour 2 with NA only getting 2 slots per major. No idea what happened in Arlington, though, they got slaughtered. Which is weird because I just talked about how NA teams usually got a power-up after being signed. They better hope the Soniqs buff is time released.
+The band-aid Regional Final was applied, but TSM was now turning NA Dota into a three-horse-race. QC fell just short in Tour 2 with NA only getting 2 slots per major. No idea what happened in Arlington, though, they got slaughtered. Which is weird because I just talked about how NA teams usually got a power-up after being signed. I hope for their sake the Soniqs buff is time delayed.
 
 **What would success look like?** Well, they finally got a sponsor. So that's progress. I'd say the next success would be Jack being at ease with the state and future of the Dota Pro Circuit.
 
@@ -915,7 +915,7 @@ My god. By these calculations... We should be a dead game 14 years ago.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Mikoto, kpii, and Hyde were brought together at the start of the season. 23savage and Q were added before Tour 2 began to replace Gabbi and Fly. Yeah, Fly. Remember how I mentioned Jerax took his spot on EG? Homie came to to SEA Div 2 to keep busy.
+**How did this roster happen?** Mikoto, kpii, and Hyde were brought together at the start of the season. 23savage and Q were added before Tour 2 began to replace Gabbi and Fly. Yeah, Fly. Remember how I mentioned Jerax took his spot on EG? Homie hopped regions and divisions just to keep busy.
 
 **How was their DPC year?** 300 points
 
@@ -926,7 +926,7 @@ My god. By these calculations... We should be a dead game 14 years ago.
 * **SEA DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 13-14th*
 
-Going from 2nd place Div 2 to 2nd place Div 1 has to be the biggest DPC glow up of the year. Does that mean SEA is unpredictable or is Talon strong? Based on this team's disappointing Arlington, GAMERS GALAXY: Thailand, and ESL Malaysia performances, probably the former.
+Going from 2nd place Div 2 to 2nd place Div 1 has to be the biggest DPC glow up of the year. Does that mean SEA is unpredictable or is Talon strong? Based on this team's underwhelming Arlington, GAMERS GALAXY: Thailand, and ESL Malaysia performances, probably the former.
 
 They had a nail-biter 5 game series against Polaris Esports to take this regional TI slot. In fact, SEA was the *only* regional grand final to not be a 3-0. Does that mean SEA is strong or is Talon unpredictable?
 
@@ -952,7 +952,7 @@ They had a nail-biter 5 game series against Polaris Esports to take this regiona
 
 **How did this roster happen?** Strap in, this one's complicated. Despite a pretty stellar TI10 3rd place finish, Zai and Matu were ready to move on from Secret and Puppey had to find replacements. How about iceiceice and Sumail? Those sound pretty good, yeah? You'd think so, but no.
 
-Tour 1 and Tour 2 were worthy attempts at getting the roster to work, but it just wasn't happening. Sumail was so unconvinced, he jumped ship to Division 2 Nigma Galaxy for Tour 3 and Puppey poached Entity player Crystallis as a replacement. At the same time, Yapzor was mysteriously missing every week and Zayac was plucked by Puppey from pubs to stand-in. Another 5th place in Tour 3, which means no way to get to TI through points.
+Tour 1 and Tour 2 were worthy attempts at getting the roster to work, but it just wasn't happening. Sumail was so unconvinced, he jumped ship to Division 2 Nigma Galaxy for Tour 3 and Puppey poached Entity player Crystallis as a replacement. At the same time, Yapzor was mysteriously missing every week and Zayac was plucked by Puppey from pubs to stand-in. All those gyrations netted them... another 5th place in Tour 3. Zero possibility of getting to TI through points.
 
 No need to panic. Zayac knows a guy. He'll make the call.
 
@@ -991,7 +991,7 @@ They got revenged 3-0 by Entity in the WEU Regional Qualifiers and had to go thr
 
 Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? And then again when BetBoom beat them? Secret also beat them to take the first LCQ slot.
 
-**What would success look like?** Given the state of this team all year long, just making it to TI was a success in and of itself.
+**What would success look like?** Given the state of this team all year long, just making it to TI was a success in and of itself. The Zayac + Reso honeymoon period does seem strong, though.
 
 **What to spam in Twitch chat when Secret are winning?** `For the past 3-4 years, almost every time i watch secret i heard this, "Nisha is having an outstanding game", this guy has been overperforming for so long, even this season when secret was not playing well, Nisha was still performing, that guy is unbelivable, and for some reason, people don't talk that much about him. He’s just very unassuming, he tends to disappear whenever he’s not at LANs, doesn’t have a real presence if you get me. He comes in, smokes everyone, then leaves.`
 
