@@ -414,7 +414,7 @@ We're about to learn just how strong a crowd buff can truly get.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** TSM? In *my* Dota 2? It's more likely than you think. One of League's flagship brands came over to our humble game and signed the Undying roster from TI10. After their 13-16th place finish in Romania, Moonmeander contemplated moving to a coach role this season, but decided to play for a little longer.
+**How did this roster happen?** TSM? In *my* Dota 2? It's more likely than you think. Another one of League's flagship brands has come over to our humble indie game and signed the Undying roster from TI10. After their 13-16th place finish in Romania, Moonmeander contemplated moving to a coach role this season, but decided to play for a little longer.
 
 **How was their DPC year?** 1380 points
 
