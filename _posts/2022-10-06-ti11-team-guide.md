@@ -528,9 +528,9 @@ It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve s
 * **NA DPC Tour 3** - 1st 🥇
 * **PGL Arlington Major** - 9-12th
 
-I'm not gonna sugarcoat it, the Jerax 5 experiment was not pleasant. It was like watching a roster [generated through Dall-E mini.](../img/ti11teams/jeraxdalle.jpg) At first glance, "Whoa, this is so cool!" But the longer you stare at it, the more horrifying it gets. EG got away with it for a while because Jerax is still incredibly gifted and... well because it was the NA DPC, but it wasn't pretty.
+I'm not gonna sugarcoat it, the Jerax 5 experiment was not pleasant. It was like watching a roster [generated through Dall-E mini.](../img/ti11teams/jeraxdalle.jpg) At first glance, "Whoa, this is so cool!" But the longer you stare at it and look at the details, the more horrifying it gets. EG got away with it for a while because Jerax is still incredibly gifted and... well because it's the NA DPC, but it wasn't pretty.
 
-After a disappointing Stockholm Major finish, Jerax left and the hatchet was buried with Fly. The team gelled pretty much immediately and yet somehow got destroyed all over again in Arlington. EG's TI invitation fate wasn't even in their hands near the end, but beastcoast repaid their TI10 debt and eliminated the next closest point teams, Fnatic and Outsiders/VP, in Arlington. Te quiero mucho Arturito goes both ways.
+After a disappointing Stockholm Major finish, Jerax left and the hatchet was buried with Fly. He came back for Tour 3 and the team gelled pretty much immediately. Yet somehow they got destroyed all over again in Arlington? EG's TI invitation fate wasn't even in their hands near the end, but beastcoast repaid their TI10 debt and eliminated the next closest point teams, Fnatic and Outsiders/VP, in Arlington. Te quiero mucho Arturito goes both ways.
 
 **What would success look like?** ~~*I don't even know anymore. As brutal as it sounds, I think Arteezy fans would almost prefer him to become a full time streamer at this point. Given these LAN performances, they'd probably see more of him.*~~
 
