@@ -314,7 +314,7 @@ The moment I saw these placements I thought, "Wow, those are some pretty great p
 
 As long as they eliminate non-Chinese teams, they should be fine. But it'll be a dark day if they face LGD in bracket, eliminate them, and then _don't_ get the Aegis.
 
-**What to spam in Twitch chat when Aster are winning?** `XXXX`
+**What to spam in Twitch chat when Aster are winning?** Every year. Every year I struggle to find positive Chinese discourse surrounding this team. And every year I come up empty handed. I dunno, spam something about Lanm and his enormous... draft knowledge.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/thunder.jpg" alt="Banner"></p>
@@ -458,7 +458,7 @@ Following a super dominant group stage in Stockholm, they were pretty much favor
 
 **What would success look like?** There are a handful of TI veterans in this roster, including a winner, coach Aui_2000. Would you have the heart to eliminate him? Who could say no to a face that pure? Everything deserves to go Kurtis's way.
 
-**What to spam in Twitch chat when Tundra are winning?** `XXXX`
+**What to spam in Twitch chat when Tundra are winning?** `TUNDRA IMMORTALS IN FRONT OF CROWD`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/gaimin.jpg" alt="Banner"></p>
@@ -602,7 +602,7 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** This is basically the same as their TI10 . 'They' being Quincy Crew. This is Quincy Crew.
+**How did this roster happen?** This is basically the same as their TI10 roster except with SVG swapped out for Fata. 'They' being Quincy Crew. This is Quincy Crew. This was not always Quincy Crew, however. During Tour 1 and 2 the Quinn and Yawar crew had Khezu, Milan, and ponlo by their side. They did not #StayCrew for long. Starting Tour 3, MSS and Lelis returned from hiatus and Fata needed somewhere to go after getting the boot from Tundra.
 
 **How was their DPC year?** 582 points
 
@@ -613,9 +613,11 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 * **NA DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 17th
 
+When the first major was unceremoniously canceled, [Quinn was one of the first players to vocalize his dissatisfaction.](https://esports.gg/news/dota-2/valve-cancels-major-quinn/) And rightfully so. This first tour that QC fought to get a top placement in would basically be a footnote in the grand scheme of DPC points. Additionally, it also removed the possibility of making more prize money at a major. Which, for an unsponsored team, is *pretty important*.
 
+The band-aid Regional Final was applied, but TSM was now turning NA Dota into a three-horse-race. QC fell just short in Tour 2 with NA only getting 2 slots per major. No idea what happened in Arlington, though, they got slaughtered. Which is weird because I just talked about how NA teams usually got a power-up after being signed. They better hope the Soniqs buff is time released.
 
-**What would success look like?** Jack being happy with the state of the Dota Pro Circuit.
+**What would success look like?** Well, they finally got a sponsor. So that's progress. I'd say the next success would be Jack being at ease with the state and future of the Dota Pro Circuit.
 
 **What to spam in Twitch chat when Soniqs are winning?** `HATERS SUCK MY NUTS ccncBayed`
 
@@ -871,7 +873,7 @@ new Chart(document.getElementById("radar-chart"), {
           borderColor: "rgba(179,181,198,1)",
           pointBorderColor: "#fff",
           pointBackgroundColor: "rgba(179,181,198,1)",
-          data: [5.4,7,1.9,6.2,4]
+          data: [5.4,3.8,5.5,6.2,4]
         }, {
           label: "Your Mom",
           fill: true,
