@@ -240,7 +240,7 @@ They didn't set the world on fire immediately, but they definitely hit their str
 * **WEU DPC Tour 3** - 3rd 🥉
 * **PGL Arlington Major** - 1st 🥇
 
-If you take a peek at the flags next to each of those player names, you may be able to deduce that last year's TI champions haven't had the smoothest year, geopolitically speaking. As the war began, Valve put the entire EEU DPC Tour 2 on hold and replaced it with a playoff bracket that would award DPC points, determine relegation slots, and figure out who goes to the major.
+If you take a peek at the flags next to each of those player names, you could probably surmise that last year's TI champions haven't had the smoothest year, geopolitically speaking. As the war began, Valve put the entire EEU DPC Tour 2 on hold and replaced it with a playoff bracket that would award DPC points, determine relegation slots, and figure out who goes to the major.
 
 Stockholm was a wash for Spirit, understandably so, but they got their bearings come Arlington. And what a time to do it, because their grand final opponent was eternal foe, PSG.LGD. If you didn't catch this series, [I highly recommend watching game 2.](https://www.twitch.tv/videos/1561728844?t=6h45m16s) Instant hall of fame contender.
 
