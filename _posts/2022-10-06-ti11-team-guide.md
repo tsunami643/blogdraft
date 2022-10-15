@@ -205,11 +205,11 @@ You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professio
 
 On paper, this is the kind of roster that grows into its own after a year or two. In execution? OG is **BUILT DIFFERENT.**
 
-They didn't set the world on fire immediately, but they definitely hit their stride waaay quicker than anyone expected. And while these DPC results may not be as decorated as LGD's, this team* had strong showings at third party tournaments, including a recent 1st 🥇* place at ESL Malaysia near the end of August.
+They didn't set the world on fire immediately, but they definitely hit their stride waaay quicker than anyone expected. And while these DPC results may not be as decorated as LGD's, this team* had strong showings at third party tournaments, including a recent 1st 🥇* place at *ESL Malaysia* near the end of August.
 
-*Say mister, what's with all the asterisks?* Well, our good friend Misha had quite a bit of difficulty getting visas this year. As a result, OG spent a lot of time this year playing musical chairs with substitutes when they traveled internationally for LANs.
+***Say mister, what's with all the asterisks?*** Well, our good friend Misha had quite a bit of difficulty getting visas this year. As a result, OG spent a lot of time this year playing musical chairs with substitutes when they traveled internationally for LANs.
 
-Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came back for another one last ride in Arlington. Got fourth. And then coach Chuvash stood in for Misha at ESL Malaysia. Which they won.
+Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came back for another one last ride in Arlington. Got fourth. And then coach Chuvash stood in for Misha at *ESL Malaysia*. Which they won.
 
 **What would success look like?** A top 6 finish would be perfectly respectable for such a fresh, but accomplished, roster. For Misha, though? Oh boy. I don't even know if _he_ necessarily feels the pressure, but the public at large putting all the "Haha all your stand-ins won *their* tournaments" has gotta be something else.
 
@@ -281,7 +281,7 @@ A lot more eyeballs in the crowd, too. Because there's actually going to be one.
 
 While intra-regionally they're not as dominant in SA as they once were, inter-regionally this was their best year yet.
 
-I'm pretty sure I used those prefixes correctly.
+You just learned the difference between those prefixes.
 
 **What would success look like?** Guess what the most represented country at this TI is? It's not China. It's not Philippines. It's Peru with 13 players (tied with Russia). Last TI had two South American teams, Thunder Predator and SG esports, being eliminated in group stage. This year, *four* teams will be eliminated for groups. Making it to Suntec for playoffs would be a feat, but making it to the Singapore Indoor Stadium for top 4 would be new ground for SA.
 
@@ -314,13 +314,13 @@ I'm pretty sure I used those prefixes correctly.
 * **CN DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 3rd 🥉
 
-The moment I saw these placements I thought, "Wow, those are some pretty great performances. But does Aster ever win?" The answer is no, they don't. But they always get *really close.* Heavily reminscent of an [old Vici Gaming squad.](https://howdoiplay.com/blog/2018/07/18/ti8-team-guide.html#:~:text=Notable%20tournament%20placings%20A,And%20not%20win.) Is Ori just allergic to gold? 
+The moment I saw these placements I thought, "Wow, those are some pretty great performances. But does Aster ever win?" The answer is no, they don't. But they always get *really close.* [Heavily reminscent](https://howdoiplay.com/blog/2018/07/18/ti8-team-guide.html#:~:text=Notable%20tournament%20placings%20A,And%20not%20win.) of some [old Vici Gaming squads.](https://howdoiplay.com/blog/2021/10/06/ti10-team-guide.html#:~:text=I%20could%20literally,TI%20championship%20material.) Is Ori just allergic to gold? 
 
 **What would success look like?** Aster's reputation within China has been slowly getting repaired compared to last year's 'civil war specialist' stereotype, but unfortunately they fumbled the bag at ESL Malaysia and lost to OG in grand finals. Cue the ridicule all over again.
 
 As long as they eliminate non-Chinese teams, they should be fine. But it'll be a dark day if they face LGD in bracket, eliminate them, and then _don't_ get the Aegis.
 
-**What to spam in Twitch chat when Aster are winning?** Every year. Every year I struggle to find positive Chinese discourse surrounding this team. And every year I come up empty handed. I dunno, spam something about Lanm and his enormous... draft knowledge.
+**What to spam in Twitch chat when Aster are winning?** Every year. Every year I struggle to find positive Chinese discourse surrounding this team. And every year I come up empty handed. I have plenty of ammo if you want to spam something when they're *losing*. But winning? I dunno, spam something about Lanm and his enormous... draft knowledge.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/thunder.jpg" alt="Banner"></p>
@@ -349,7 +349,7 @@ As long as they eliminate non-Chinese teams, they should be fine. But it'll be a
 * **SA DPC Tour 3** - 1st 🥇
 * **PGL Arlington Major** - 15-16th*
 
-Move over beastcoast, there's a new regional king in South America. In fact, out of the 21 series they played throughout 3 tours, Thunder only dropped *5* games. Stockholm is where the majority of English speaking Dota fans were exposed to the sicknasty carry gameplay of Pakazs and energetic charisma of Pandaboo.
+Move over beastcoast, there's a new regional king in South America. In fact, out of the 21 series they played throughout 3 tours, Thunder only dropped *5* games. Games, not series. Stockholm is where the majority of English speaking Dota fans were exposed to the siknasty carry gameplay of Pakazs and energetic charisma of Pandaboo.
 
 Unfortunately, DarkMago had visa issues getting to Arlington and the team subsequently bombed out in Texas.
 
@@ -379,7 +379,7 @@ Unfortunately, DarkMago had visa issues getting to Arlington and the team subseq
 
 **How did this roster happen?** After failing to qualify for TI10, BOOM dropped their full-Indo squad, aside from Fbz, and brought in Pinoys Yopaj, Tims, skem, and Tino. Tino played Tour 1, but was replaced by JaCkky for the Regional Final onwards.
 
-Test your geographical knowledge. What flag is next to Jackky's name? <span class="spoiler">It's Laos! First ever Lao at TI.</span>
+Test your geographical knowledge. What flag is next to Jackky's name? <span class="spoiler">It's Laos. First ever Lao at TI!</span>
 
 **How was their DPC year?** 1482 points
 
@@ -390,7 +390,7 @@ Test your geographical knowledge. What flag is next to Jackky's name? <span clas
 * **SEA DPC Tour 3** - 1st 🥇
 * **PGL Arlington Major** - 7-8th
 
-BOOM showed up on everyone's radar pretty early in the season when they won the non-DPC GAMERS GALAXY: Dubai tournament in March. They quietly eliminated Secret, Spirit, Nigma in playoffs and beat Tundra in grand finals. Perhaps they peaked a bit too soon, though, as their major performances were decidedly less impressive. Granted, skem literally showed up in Stockholm 3 hours before BOOM's group stage matches started due to visa complications, so maybe that event gets a pass.
+BOOM showed up on everyone's radar pretty early on in the season when they won the non-DPC *GAMERS GALAXY: Dubai* tournament in March. They quietly eliminated Secret, Spirit, Nigma in playoffs and beat Tundra in grand finals. Perhaps they peaked a bit too soon, though, as their major performances were decidedly less impressive. Granted, skem literally showed up in Stockholm 3 hours before BOOM's group stage matches started due to visa complications, so maybe that event gets a pass.
 
 **What would success look like?** Southeast Asian teams have been *struggling* when it comes to TI. No team from the region has broken top 6 since TI6's Fnatic. That being said, this is the first ever International in SEA.
 
