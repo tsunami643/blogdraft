@@ -449,7 +449,7 @@ For... half the year. Let's ignore the second half.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** In a parallel universe, you _know_ how this roster happened. You'd know, because they showed up to TI10 and made HISTORY. Instead, they lost in a 5 game series against OG in the TI10 WEU quals and were nearly forgotten to time. Thankfully, they persevered. Well most of them. Fata was a founding member of this team but was un-amicably removed after Tour 1 Regional Finals and replaced with Saksa.
+**How did this roster happen?** In a parallel universe, you _know_ how this roster happened. You'd know, because they showed up to TI10, made history, and everyone in the world became Tundra fans aka *Tundries*. Instead, they lost in a 5 game series against OG in the TI10 WEU quals and were nearly forgotten to time. Thankfully, they persevered. Well most of them. Fata was a founding member of this team but was un-amicably removed after Tour 1 Regional Finals and replaced with Saksa.
 
 **How was their DPC year?** 1212 points
 
