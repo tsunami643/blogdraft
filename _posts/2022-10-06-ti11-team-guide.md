@@ -515,7 +515,7 @@ It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve s
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** If you haven't watched Dota since TI10, you may look at this roster and think, "Oh they kicked iceiceice and got VP's carry to play offlane? That's weird." It is weird. But you know what's even weirder? Jerax being on this team at one point. You know what's even weirder than that? Jerax being on this team at one point and not playing his most famous role. That's right, ole' two time TI winning 4 position Jer-Bear came out of retirement at the beginning of this season, shipped off to North America, and took... Fly's hard support spot.
+**How did this roster happen?** If you haven't watched Dota since TI10, you may look at this roster and think, "Oh they kicked iceiceice and got VP's carry to play offlane? That's weird." It is weird. But you know what's even weirder? Jerax being on this team at one point. You know what's even weirder than that? Jerax being on this team at one point and not playing his most famous role. That's right, ole' two-time TI winning 4 position Jer-Bear came out of retirement at the beginning of this season, shipped off to North America, and took... Fly's hard support spot.
 
 **How was their DPC year?** 1052 points
 
@@ -528,11 +528,11 @@ It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve s
 
 I'm not gonna sugarcoat it, the Jerax 5 experiment was not pleasant. It was like watching a roster [generated through Dall-E mini.](../img/ti11teams/jeraxdalle.jpg) At first glance, "Whoa, this is so cool!" But the longer you stare at it, the more horrifying it gets. EG got away with it for a while because Jerax is still incredibly gifted and... well because it was the NA DPC, but it wasn't pretty.
 
-After a disappointing Stockholm Major finish, Jerax left and Fly was brought back in. The team gelled pretty much immediately and yet somehow got destroyed all over again in Arlington. EG's TI invitation fate wasn't even in their hands near the end, but beastcoast repaid their TI10 debt and eliminated the next closest point teams, Fnatic and Outsiders/VP, in Arlington. Te quiero mucho Arturito goes both ways.
+After a disappointing Stockholm Major finish, Jerax left and the hatchet was buried with Fly. The team gelled pretty much immediately and yet somehow got destroyed all over again in Arlington. EG's TI invitation fate wasn't even in their hands near the end, but beastcoast repaid their TI10 debt and eliminated the next closest point teams, Fnatic and Outsiders/VP, in Arlington. Te quiero mucho Arturito goes both ways.
 
 **What would success look like?** I don't even know anymore. As brutal as it sounds, I think Arteezy fans would almost prefer him to become a full time streamer at this point. Given these LAN performances, they'd probably see more of him.
 
-**What to spam in Twitch chat when EG are winning?** Whatever you want, but under no circumstances are you allowed to praise Bulba. Doesn't matter if it's the world's greatest Storm Spirit game or if he masterminded a strategy that somehow forced the enemy team into only picking 4 heroes. The first rule and only rule of EG twitch discourse is: everything is Bulba's fault.
+**What to spam in Twitch chat when EG are winning?** Whatever you want, but under no circumstances are you allowed to praise Bulba. Doesn't matter if it's the world's greatest Storm Spirit game or if he masterminded a strategy that somehow forced the enemy team into only picking 4 heroes. The first rule and only rule of EG twitch/reddit discourse is: everything is Bulba's fault.
 
 Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of my environment and North American Dota... we... we've had a rough couple of years. Let's go EG! ~~#BleedBlue~~ #LIVEEVIL.
 
@@ -617,9 +617,11 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 * **NA DPC Tour 3** - 2nd 🥈
 * **PGL Arlington Major** - 17th
 
-When the first major was unceremoniously canceled, [Quinn was one of the first players to vocalize his dissatisfaction.](https://esports.gg/news/dota-2/valve-cancels-major-quinn/) And rightfully so. This first tour that QC fought to get a top placement in would basically be a footnote in the grand scheme of DPC points. Additionally, it also removed the possibility of making more prize money at a major. Which, for an unsponsored team, is *pretty important*.
+When the first major was unceremoniously canceled, [Quinn was one of the first players to vocalize his dissatisfaction.](https://esports.gg/news/dota-2/valve-cancels-major-quinn/) And rightfully so. This first tour that QC fought to get a top placement in would ultimately be a footnote in the grand scheme of DPC points. Additionally, it also removed the possibility of making more prize money at a major. Which, for an unsponsored team, is *pretty important*.
 
-The band-aid Regional Final was applied, but TSM was now turning NA Dota into a three-horse-race. QC fell just short in Tour 2 with NA only getting 2 slots per major. No idea what happened in Arlington, though, they got slaughtered. Which is weird because I just talked about how NA teams usually got a power-up after being signed. I hope for their sake the Soniqs buff is time delayed.
+The band-aid Regional Final was applied, but TSM was now turning NA Dota into a three-horse-race. QC fell just short in Tour 2 with NA only getting 2 slots per major, but bounced back for Tour 3.
+
+No idea what happened in Arlington, though, they got slaughtered. Which is weird because I just talked about how NA teams usually got a power-up after being signed. I hope for their sake the Soniqs buff is time delayed.
 
 **What would success look like?** Well, they finally got a sponsor. So that's progress. I'd say the next success would be Jack being at ease with the state and future of the Dota Pro Circuit.
 
@@ -651,9 +653,9 @@ The band-aid Regional Final was applied, but TSM was now turning NA Dota into a 
 * **SA DPC Tour 3** - 8th
 * **PGL Arlington Major** - Did not qualify
 
-Not a very standout performance during the year and was among the darkest of horses to qualify through the SA regionals. Lucky for them, a lot things went their way. In lower bracket finals, Tempest had massive internet issues and basically had to forfeit the entire series. And for grand finals, Leostyle answered [who was in Paris.](https://www.reddit.com/r/DotA2/comments/x8457w/lmao/)
+Not a very standout performance during the year and was among the darkest of horses to qualify through the SA regionals. Lucky for them, a lot things went their way. In lower bracket finals, Tempest had massive internet issues and basically had to forfeit the entire series. And for grand finals, Infamous's Leostyle answered [who was in Paris.](https://www.reddit.com/r/DotA2/comments/x8457w/lmao/)
 
-Hokori still played well throughout the SA qualifier and actually recently beat Fnatic in the BTS Pro Series S12 while bootcamping in SEA.
+Despite all that, Hokori still did play well throughout the SA qualifier and actually recently beat Fnatic in the BTS Pro Series S12 while bootcamping in SEA.
 
 **What would success look like?** How funny would it be if they win TI and then have to play in Divison 2 DPC next year.
 
@@ -692,7 +694,7 @@ An edgy teenager mistake or an actual war advocate? Up for you to decide. He is 
 
 Fun fact: Even if they won the Arlington Major, they still wouldn't have had enough points to get directly invited to TI. Flaw in the system or working as intended? Pure wasn't able to attend Arlington so TSM's offlaner Saberlight actually stood in on his behalf and had a grand old time playing carry.
 
-**What would success look like?** Another fun fact: Every player on this team is popping their TI cherry this year.
+**What would success look like?** Another fun fact: Entity is the only team in which every player on the roster is playing at TI for the very first time.
 
 **What to spam in Twitch chat when Entity are winning?** `ENTITY INDIAN PRIDE`
 
@@ -715,9 +717,7 @@ Fun fact: Even if they won the Arlington Major, they still wouldn't have had eno
 
 **How did this roster happen?** IT'S TIME TO PLAY GUESS. THAT. TEAAAAAAM.
 
-<p style="font-size: 1.3em; font-weight: bold;">Reader, for $0...</p>
-
-<p style="font-size: 1.3em; font-weight: bold;">Name the EEU brand this roster played under before being acquired by BetBoom</p>
+<p style="font-size: 1.3em; font-weight: bold;">Reader, for $0... Name the EEU brand this roster played under before being acquired by BetBoom</p>
 
 <select id="dropDown" onchange="test()" style="font-weight: 100;">
  <option value="default" selected="selected">Select team</option>
@@ -823,7 +823,7 @@ Nothing too special. This year's top 4 in the CN DPC was consistently some shuff
 
 Anything else worth mentioning? Oh yeah, Ghost was unable to make it to Arlington and ana, yes *that* ana, stood in. That was pretty neat.
 
-**What would success look like?** Would you believe that this is the third and final Chinese team left to talk about? Three Chinese teams at a TI! For reference, here's the comparison to previous TIs.
+**What would success look like?** It may be hard to believe, but this is the third and final Chinese team left to talk about. Three Chinese teams at a TI! Unprecedented. Here's the comparison to previous TIs.
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
 
@@ -965,13 +965,13 @@ Zayac - I've got an opening for you.
 
 Resolution - Only one man could make me end my Bali vacation. And it's you. I'm in.
 
-Zayac - Excellent. We'll meet in Riyadh.
+Zayac - Excellent. We'll meet you in Riyadh.
 
 Resolution - What about iceiceice?
 
 Zayac - He'll be fine. He's going deep undercover to make the ultimate sacrifice. Ninjaboogie sends his regards.
 
-*Resolution dons a pair of sunglasses and smiles. Fortunate Son starts playing as we begin a montage of him preparing to fly to Saudi Arabia.*
+*Resolution dons a pair of sunglasses and smiles. Fortunate Son starts playing as montage of him preparing to fly to Saudi Arabia begins.*
 ```
 
 I like to imagine that's how it went down.
