@@ -423,7 +423,7 @@ We're about to learn just how strong a crowd buff can truly get.
 * **NA DPC Tour 2** - 2nd 🥈
 * **ESL Stockholm Major** - 2nd 🥈
 * **NA DPC Tour 3** - 4th
-* **PGL Arlington Major** - Did not qualify
+* **PGL Arlington Major** - Did not qualify. Not on their team, at least.
 
 A pretty consistent trend this year in North America has been getting a sponsor and then immediately popping off. Wildcard signed D2 Hustlers and then beat EG in Tour 1. Nouns signed 4Zoomers and they won a BTS Pro Series. And TSM signed Undying and they suddenly became the best team in North America.
 
