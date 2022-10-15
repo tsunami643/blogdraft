@@ -431,7 +431,7 @@ For... half the year. Let's ignore the second half.
 
 **What would success look like?** [DuBu's YouTube channel hitting 100k subscribers.](https://www.youtube.com/channel/UCK1C6nGjd-gLX4K898wgNVw/videos) Show me another player that would vlog themselves during TI grand finals. You can't.
 
-**What to spam in Twitch chat when TSM are winning?** I think I'm noticing a trend that this is going to be one of those offlane-centric TIs: `SABERCHAD BASED`
+**What to spam in Twitch chat when TSM are winning?** `SABERCHAD BASED` I think I'm noticing a trend that this is going to be one of those offlane-centric TIs.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/tundra.jpg" alt="Banner"></p>
