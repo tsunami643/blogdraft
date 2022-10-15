@@ -209,7 +209,7 @@ They didn't set the world on fire immediately, but they definitely hit their str
 
 *ALRIGHT TSUNAMI, WHAT'S WITH ALL THE ASTERISKS?* Well, our good friend Misha had quite a bit of difficulty getting visas this year. As a result, OG spent a lot of time this year playing musical chairs with substitutes when they traveled internationally for LANs. Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came back for another one last ride in Arlington. Got fourth. And then coach Chuvash stood in for Misha at ESL Malaysia. Which they won.
 
-**What would success look like?** A top 6 finish would be perfectly respectable for such a fresh roster. For Misha, though? Oh boy. I don't even know if _he_ necessarily feels the pressure. But the public at large putting the "Haha all your stand-ins won their tournaments" has gotta be something else.
+**What would success look like?** A top 6 finish would be perfectly respectable for such a fresh roster. For Misha, though? Oh boy. I don't even know if _he_ necessarily feels the pressure, but the public at large putting the "Haha all your stand-ins won their tournaments" has gotta be something else.
 
 **What to spam in Twitch chat when OG are winning?** `ATF=ALWAYS TAKES FIRST`
 
@@ -429,7 +429,7 @@ For... half the year. Let's ignore the second half.
 
 **What would success look like?** [DuBu's YouTube channel hitting 100k subscribers.](https://www.youtube.com/channel/UCK1C6nGjd-gLX4K898wgNVw/videos) Show me another player that would vlog themselves during TI grand finals. You can't.
 
-**What to spam in Twitch chat when TSM are winning?** `XXXX`
+**What to spam in Twitch chat when TSM are winning?** I think I'm noticing a trend that this is going to be one of those offlane-centric TIs: `SABERCHAD BASED`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/tundra.jpg" alt="Banner"></p>
