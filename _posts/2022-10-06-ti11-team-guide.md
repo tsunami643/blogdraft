@@ -885,15 +885,11 @@ new Chart(document.getElementById("radar-chart"), {
       ]
     },
     options: {
-      title: {
-        display: true,
-        text: 'Distribution in % of world population'
-      }
     }
 });
 </script>
 
-My god. By these calculations... We should be a dead game 18 years ago.
+My god. By these calculations... We should be a dead game 14 years ago.
 
 **What to spam in Twitch chat when RNG are winning?** <code><a href="https://www.reddit.com/r/DotA2/comments/wpown1/hoping_to_share_some_insights_about_chinese_teams/#:~:text=chat%20would%20be%20spamming%20'natural'%20regardless">natural</a></code>
 
