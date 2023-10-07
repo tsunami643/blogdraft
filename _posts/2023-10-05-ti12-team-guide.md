@@ -98,6 +98,54 @@ Honestly, I appreciate the optimism.
 
 ---
 
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/liquid.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Team Liquid</h2>
+<table>
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">miCKe</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pl" title="Poland" alt="Poland">Nisha</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">zai</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Boxi</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">iNSaNiA</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Blitz</td>
+    <td><i style="font-size: smaller;">Analyst</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Jabbz</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** Nisha added
+
+**How was their DPC year?** 890 points
+
+* **WEU DPC Tour 1** - 1st 🥇
+* **Lima Major** - 2nd 🥈
+* **WEU DPC Tour 2** - 1st 🥇
+* **Berlin Major** - 2nd 🥈
+* **WEU DPC Tour 3** - 4th
+* **Bali Major** - 2nd 🥈
+
+| DPC Results     | ESL Results |
+| ----------- | ----------- |
+| **WEU DPC Tour 1** - 1st 🥇      |        |
+| **Lima Major** - 2nd 🥈   |      |
+| **WEU DPC Tour 2** - 1st 🥇   |     **DreamLeague Season 19** -    2nd 🥈    |
+| **Berlin Major** - 2nd 🥈   |         |
+| **WEU DPC Tour 3** - 4th   |     **DreamLeague Season 20** -    15-16th    |
+| **Bali Major** - 2nd 🥈   |    **Riyadh Masters 2023** -  2nd 🥈    |
+|    |    **DreamLeague Season 21** -  9-10th    |
+
+It's kind of wild how good this team can be online and how comically bad they are on LAN. It's not just this roster, either. Last season, they got 4th and 2nd during the leagues. And during the majors? 9-12th in Singapore and 13th and the AniMajor. Like, how? And I'm not even listing their non-DPC LAN placements this year. <span class="spoiler">Those were also bad.</span>
+
+Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? And then again when BetBoom beat them? And then again again when Secret beat them? Liquid also also beat them to take the final LCQ slot.
+
+That makes 4 times that VP were one series away from qualifying to TI. Pain.
+
+**What would success look like?** Matumbaman has made it quite clear that this will be his last year of competitive Dota. So I hope for his sake any Gyrocopter picks at this event are premeditated.
+
+**What to spam in Twitch chat when Liquid are winning?** <img src="./../../../img/ti11teams/zaij.png" alt="zaiJ" style= "width: 30px;vertical-align: bottom;">
+
+<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/lgd.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PSG.LGD</h2>
 <table>
@@ -406,7 +454,7 @@ We're about to learn just how strong a crowd buff can truly get.
     <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Timado</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Bryle</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">kasane</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-uk" title="United Kingdom" alt="United Kingdom">Ari</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-gb" title="United Kingdom" alt="United Kingdom">Ari</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Whitemon</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">MoonMeander</td></tr>
@@ -503,12 +551,12 @@ It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve s
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/eg.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Evil Geniuses</h2>
+<h2 style="margin: 0.25em 0;">Shopify Rebellion</h2>
 <table>
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Arteezy</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Abed</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Nightfall</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cz" title="Czechia" alt="Czechia">SabeRLight-</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cr1t-</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">Fly</td>
     <td>&nbsp;</td>
@@ -998,45 +1046,6 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 **What would success look like?** Given the state of this team all year long, just making it to TI was a success in and of itself. The Zayac + Reso honeymoon period does seem strong, though.
 
 **What to spam in Twitch chat when Secret are winning?** `For the past 3-4 years, almost every time i watch secret i heard this, "Nisha is having an outstanding game", this guy has been overperforming for so long, even this season when secret was not playing well, Nisha was still performing, that guy is unbelivable, and for some reason, people don't talk that much about him. He’s just very unassuming, he tends to disappear whenever he’s not at LANs, doesn’t have a real presence if you get me. He comes in, smokes everyone, then leaves.`
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/liquid.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Virtus.pro - <i>Eastern Europe</i></h2>
-<table>
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">MATUMBAMAN</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">miCKe</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">zai</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Boxi</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">iNSaNiA</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Blitz</td>
-    <td><i style="font-size: smaller;">Other Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">JerAx</td>
-    <td><i style="font-size: smaller;">Third Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Jabbz</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** If you recall five thousand paragraphs ago, I spoke about Taiga being a former fixture of this roster. He and qojqva were swapped out for Zai and Matumbaman this year. Along the way, the Blitz Cinematic Universe expanded to give Jerax a forever home as a coach after leaving EG.
-
-**How was their DPC year?** 890 points
-
-* **WEU DPC Tour 1** - 1st 🥇
-* **WEU DPC Tour 1 Regional Final** - 2nd 🥈
-* **WEU DPC Tour 2** - 3rd 🥉
-* **ESL Stockholm Major** - 9-12th
-* **WEU DPC Tour 3** - 2nd 🥈
-* **PGL Arlington Major** - 9-12th
-
-It's kind of wild how good this team can be online and how comically bad they are on LAN. It's not just this roster, either. Last season, they got 4th and 2nd during the leagues. And during the majors? 9-12th in Singapore and 13th and the AniMajor. Like, how? And I'm not even listing their non-DPC LAN placements this year. <span class="spoiler">Those were also bad.</span>
-
-Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? And then again when BetBoom beat them? And then again again when Secret beat them? Liquid also also beat them to take the final LCQ slot.
-
-That makes 4 times that VP were one series away from qualifying to TI. Pain.
-
-**What would success look like?** Matumbaman has made it quite clear that this will be his last year of competitive Dota. So I hope for his sake any Gyrocopter picks at this event are premeditated.
-
-**What to spam in Twitch chat when Liquid are winning?** <img src="./../../../img/ti11teams/zaij.png" alt="zaiJ" style= "width: 30px;vertical-align: bottom;">
 
 ----
 
