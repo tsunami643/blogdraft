@@ -161,11 +161,11 @@ Honestly, I appreciate the optimism.
   }
 
   th.event {
-    width: 75%;
+    width: 65%;
   }
 
   th.result {
-    width: 25%;
+    width: 35%;
   }
 </style>
 
@@ -183,14 +183,14 @@ Honestly, I appreciate the optimism.
 </div>
 
 <div style="display: inline-block;">
-<table style="width: 520px;">
-<thead><tr><th>EPT Event</th><th>Result</th></tr></thead>
+<table class="resultsTable" style="width: 400px;">
+<thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
 <tbody>
 <tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
 <tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
-<tr><td><strong>DreamLeague Season 19</strong></td><td>1st 🥇</td></tr>
+<tr><td><strong>DreamLeague S19</strong></td><td>2nd 🥈</td></tr>
 <tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
-<tr><td><strong>DreamLeague Season 20</strong></td><td>15-16th</td></tr>
+<tr><td><strong>DreamLeague S20</strong></td><td>15-16th</td></tr>
 <tr><td><strong>Riyadh Masters 2023</strong></td><td>2nd 🥈</td></tr>
 </tbody></table>
 </div>
