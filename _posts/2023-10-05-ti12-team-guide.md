@@ -16,6 +16,42 @@ With the weird TI format this year I couldn't decide when to finish this article
 Welcome to another DPC season! After last year, a lot of people were expecting a big patch for how the DPC operates. You know maybe some calendar changes? Economy reworks? Instead we just got number buffs.
 
 <style>
+  .resultsTable tr, .resultsTable td {
+    display: revert;
+    padding: 0.5em 1em;
+    font-style: normal;
+    border: 0px;
+    text-align: center;
+    height: 48px;
+  }
+
+  .roster tbody {
+    white-space: normal;
+  }
+
+  th.event {
+    width: 65%;
+  }
+
+  th.result {
+    width: 35%;
+  }
+
+  td.first {
+    background: #ffd739;
+  }
+  td.second {
+    background: #bebebe;
+  }
+  td.third {
+    background: #bb8644;
+  }
+  td.fourth {
+    background: #f8996b;
+  }
+</style>
+
+<style>
   @font-face{font-family:"Radiance";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.eot");src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.eot?#iefix") format("embedded-opentype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.ttf") format("truetype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.svg#ywftsvg") format("svg");font-weight:normal;font-style:normal}@font-face{font-family:"Radiance";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.eot");src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.eot?#iefix") format("embedded-opentype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.ttf") format("truetype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.svg#ywftsvg") format("svg");font-weight:900;font-style:normal}@font-face{font-family:"Radiance";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.eot");src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.eot?#iefix") format("embedded-opentype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.ttf") format("truetype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.svg#ywftsvg") format("svg");font-weight:700;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular.ttf") format("truetype");font-weight:400;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Light.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Light.ttf") format("truetype");font-weight:200;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-SemiBold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-SemiBold.ttf") format("truetype");font-weight:600;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Bold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Bold.ttf") format("truetype");font-weight:700;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Black.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Black.ttf") format("truetype");font-weight:800;font-style:normal}
 </style>
 
@@ -101,7 +137,7 @@ Honestly, I appreciate the optimism.
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/liquid.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Liquid</h2>
 <table>
-  <tbody><tr>
+  <tbody class="roster"><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">miCKe</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-pl" title="Poland" alt="Poland">Nisha</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">zai</td>
@@ -118,37 +154,7 @@ Honestly, I appreciate the optimism.
 
 **How was their DPC year?** 2150 points
 
-<style>
-  .resultsTable tr, .resultsTable td {
-    display: revert;
-    padding: 0.5em 1em;
-    font-style: normal;
-    border: 0px;
-    text-align: center;
-    height: 48px;
-  }
 
-  th.event {
-    width: 65%;
-  }
-
-  th.result {
-    width: 35%;
-  }
-
-  td.first {
-    background: #ffd739;
-  }
-  td.second {
-    background: #bebebe;
-  }
-  td.third {
-    background: #bb8644;
-  }
-  td.fourth {
-    background: #f8996b;
-  }
-</style>
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
