@@ -151,6 +151,32 @@ Honestly, I appreciate the optimism.
 | **Riyadh Masters 2023**   |     2nd 🥈    |
 | **DreamLeague Season 21**   |    9-10th     |
 
+<div style="display: inline-block;">
+<table style="width: 520px;">
+<thead><tr><th>DPC Event</th><th>Result</th></tr></thead>
+<tbody>
+<tr><td><strong>WEU DPC Tour 1</strong></td><td>1st 🥇</td></tr>
+<tr><td><strong>Lima Major</strong></td><td>2nd 🥈</td></tr>
+<tr><td><strong>WEU DPC Tour 2</strong></td><td>1st 🥇</td></tr>
+<tr><td><strong>Berlin Major</strong></td><td>2nd 🥈</td></tr>
+<tr><td><strong>WEU DPC Tour 3</strong></td><td>4th</td></tr>
+<tr><td><strong>Bali Major</strong></td><td>2nd 🥈</td></tr>
+</tbody></table>
+</div>
+
+<div style="display: inline-block;">
+<table style="width: 520px;">
+<thead><tr><th>EPT Event</th><th>Result</th></tr></thead>
+<tbody>
+<tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
+<tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
+<tr><td><strong>DreamLeague Season 19</strong></td><td>1st 🥇</td></tr>
+<tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
+<tr><td><strong>DreamLeague Season 20</strong></td><td>15-16th</td></tr>
+<tr><td><strong>Riyadh Masters 2023</strong></td><td>2nd 🥈</td></tr>
+</tbody></table>
+</div>
+
 It's kind of wild how good this team can be online and how comically bad they are on LAN. It's not just this roster, either. Last season, they got 4th and 2nd during the leagues. And during the majors? 9-12th in Singapore and 13th and the AniMajor. Like, how? And I'm not even listing their non-DPC LAN placements this year. <span class="spoiler">Those were also bad.</span>
 
 Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? And then again when BetBoom beat them? And then again again when Secret beat them? Liquid also also beat them to take the final LCQ slot.
