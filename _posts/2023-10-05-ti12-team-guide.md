@@ -151,8 +151,17 @@ Honestly, I appreciate the optimism.
 | **Riyadh Masters 2023**   |     2nd 🥈    |
 | **DreamLeague Season 21**   |    9-10th     |
 
+<style>
+  .results tr, .results td {
+    display: table-cell;
+    padding: 0.5em 1em;
+    font-style: normal;
+    border: 1px solid;
+  }
+</style>
+
 <div style="display: inline-block;">
-<table style="width: 520px;">
+<table class="results" style="width: 520px;">
 <thead><tr><th>DPC Event</th><th>Result</th></tr></thead>
 <tbody>
 <tr><td><strong>WEU DPC Tour 1</strong></td><td>1st 🥇</td></tr>
