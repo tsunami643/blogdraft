@@ -1,7 +1,7 @@
 ﻿---
 layout: "post"
 title: "The International 2023: A Practical Guide to All 20 Teams"
-date: "2023-10-07 11:45"
+date: "2023-10-05 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
 feature-img: "img/ti11teams/ti11header.jpg"
 flags: true
