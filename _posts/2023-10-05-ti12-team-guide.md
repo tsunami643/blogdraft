@@ -152,17 +152,26 @@ Honestly, I appreciate the optimism.
 | **DreamLeague Season 21**   |    9-10th     |
 
 <style>
-  .results tr, .results td {
-    display: table-cell;
+  .resultsTable tr, .resultsTable td {
+    display: revert;
     padding: 0.5em 1em;
     font-style: normal;
     border: 1px solid;
+    text-align: center;
+  }
+
+  th.event {
+    width: 75%;
+  }
+
+  th.result {
+    width: 25%;
   }
 </style>
 
 <div style="display: inline-block;">
-<table class="results" style="width: 520px;">
-<thead><tr><th>DPC Event</th><th>Result</th></tr></thead>
+<table class="resultsTable" style="width: 400px;">
+<thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
 <tbody>
 <tr><td><strong>WEU DPC Tour 1</strong></td><td>1st 🥇</td></tr>
 <tr><td><strong>Lima Major</strong></td><td>2nd 🥈</td></tr>
