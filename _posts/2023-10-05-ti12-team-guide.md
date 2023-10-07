@@ -116,7 +116,7 @@ Honestly, I appreciate the optimism.
 
 **How did this roster happen?** Nisha added
 
-**How was their DPC year?** 890 points
+**How was their DPC year?** 2150 points
 
 <style>
   .resultsTable tr, .resultsTable td {
