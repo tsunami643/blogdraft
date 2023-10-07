@@ -152,25 +152,27 @@ Honestly, I appreciate the optimism.
 | **DreamLeague Season 21**   |    9-10th     |
 
 <style>
+  .resultsTable table {
+    width: 400px;
+  }
   .resultsTable tr, .resultsTable td {
     display: revert;
     padding: 0.5em 1em;
     font-style: normal;
     border: 1px solid;
     text-align: center;
+    height: 48px;
   }
-
   th.event {
     width: 65%;
   }
-
   th.result {
     width: 35%;
   }
 </style>
 
 <div style="display: inline-block;">
-<table class="resultsTable" style="width: 400px;">
+<table class="resultsTable">
 <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
 <tbody>
 <tr><td><strong>WEU DPC Tour 1</strong></td><td>1st 🥇</td></tr>
@@ -183,7 +185,7 @@ Honestly, I appreciate the optimism.
 </div>
 
 <div style="display: inline-block;">
-<table class="resultsTable" style="width: 400px;">
+<table class="resultsTable">
 <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
 <tbody>
 <tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
