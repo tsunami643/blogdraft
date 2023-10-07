@@ -118,43 +118,7 @@ Honestly, I appreciate the optimism.
 
 **How was their DPC year?** 890 points
 
-* **WEU DPC Tour 1** - 1st 🥇
-* **Lima Major** - 2nd 🥈
-* **WEU DPC Tour 2** - 1st 🥇
-* **Berlin Major** - 2nd 🥈
-* **WEU DPC Tour 3** - 4th
-* **Bali Major** - 2nd 🥈
-
-| DPC Results     | ESL Results |
-| ----------- | ----------- |
-| **WEU DPC Tour 1** - 1st 🥇      |        |
-| **Lima Major** - 2nd 🥈   |      |
-| **WEU DPC Tour 2** - 1st 🥇   |     **DreamLeague Season 19** -    2nd 🥈    |
-| **Berlin Major** - 2nd 🥈   |         |
-| **WEU DPC Tour 3** - 4th   |     **DreamLeague Season 20** -    15-16th    |
-| **Bali Major** - 2nd 🥈   |    **Riyadh Masters 2023** -  2nd 🥈    |
-|    |    **DreamLeague Season 21** -  9-10th    |
-
-| DPC Event     | Result |
-| ----------- | ----------- |
-| **WEU DPC Tour 1**      |    1st 🥇    |
-| **Lima Major**   |    2nd 🥈  |
-| **WEU DPC Tour 2**   |     1st 🥇    |
-| **Berlin Major**   |    2nd 🥈     |
-| **WEU DPC Tour 3**   |     4th    |
-| **Bali Major**   |    2nd 🥈    |
-
-| ESL Event     | Result |
-| ----------- | ----------- |
-| **DreamLeague Season 19**      |    2nd 🥈    |
-| **DreamLeague Season 20**   |    15-16th  |
-| **Riyadh Masters 2023**   |     2nd 🥈    |
-| **DreamLeague Season 21**   |    9-10th     |
-
 <style>
-  .resultsTable table {
-    width: 400px;
-  }
   .resultsTable tr, .resultsTable td {
     display: revert;
     padding: 0.5em 1em;
@@ -163,38 +127,41 @@ Honestly, I appreciate the optimism.
     text-align: center;
     height: 48px;
   }
+
   th.event {
     width: 65%;
   }
+
   th.result {
     width: 35%;
   }
 </style>
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><strong>WEU DPC Tour 1</strong></td><td>1st 🥇</td></tr>
+  <tr><td><strong>Lima Major</strong></td><td>2nd 🥈</td></tr>
+  <tr><td><strong>WEU DPC Tour 2</strong></td><td>1st 🥇</td></tr>
+  <tr><td><strong>Berlin Major</strong></td><td>2nd 🥈</td></tr>
+  <tr><td><strong>WEU DPC Tour 3</strong></td><td>4th</td></tr>
+  <tr><td><strong>Bali Major</strong></td><td>2nd 🥈</td></tr>
+  </tbody></table>
+  </div>
 
-<div style="display: inline-block;">
-<table class="resultsTable">
-<thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-<tbody>
-<tr><td><strong>WEU DPC Tour 1</strong></td><td>1st 🥇</td></tr>
-<tr><td><strong>Lima Major</strong></td><td>2nd 🥈</td></tr>
-<tr><td><strong>WEU DPC Tour 2</strong></td><td>1st 🥇</td></tr>
-<tr><td><strong>Berlin Major</strong></td><td>2nd 🥈</td></tr>
-<tr><td><strong>WEU DPC Tour 3</strong></td><td>4th</td></tr>
-<tr><td><strong>Bali Major</strong></td><td>2nd 🥈</td></tr>
-</tbody></table>
-</div>
-
-<div style="display: inline-block;">
-<table class="resultsTable">
-<thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-<tbody>
-<tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
-<tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
-<tr><td><strong>DreamLeague S19</strong></td><td>2nd 🥈</td></tr>
-<tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
-<tr><td><strong>DreamLeague S20</strong></td><td>15-16th</td></tr>
-<tr><td><strong>Riyadh Masters 2023</strong></td><td>2nd 🥈</td></tr>
-</tbody></table>
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
+  <tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
+  <tr><td><strong>DreamLeague S19</strong></td><td>2nd 🥈</td></tr>
+  <tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
+  <tr><td><strong>DreamLeague S20</strong></td><td>15-16th</td></tr>
+  <tr><td><strong>Riyadh Masters 2023</strong></td><td>2nd 🥈</td></tr>
+  </tbody></table>
+  </div>
 </div>
 
 It's kind of wild how good this team can be online and how comically bad they are on LAN. It's not just this roster, either. Last season, they got 4th and 2nd during the leagues. And during the majors? 9-12th in Singapore and 13th and the AniMajor. Like, how? And I'm not even listing their non-DPC LAN placements this year. <span class="spoiler">Those were also bad.</span>
