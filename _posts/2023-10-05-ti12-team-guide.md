@@ -135,18 +135,31 @@ Honestly, I appreciate the optimism.
   th.result {
     width: 35%;
   }
+
+  td.first {
+    background: #ffd739;
+  }
+  td.second {
+    background: #bebebe;
+  }
+  td.third {
+    background: #bb8644;
+  }
+  td.fourth {
+    background: #f8996b;
+  }
 </style>
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><strong>WEU DPC Tour 1</strong></td><td>1st 🥇</td></tr>
-  <tr><td><strong>Lima Major</strong></td><td>2nd 🥈</td></tr>
-  <tr><td><strong>WEU DPC Tour 2</strong></td><td>1st 🥇</td></tr>
-  <tr><td><strong>Berlin Major</strong></td><td>2nd 🥈</td></tr>
-  <tr><td><strong>WEU DPC Tour 3</strong></td><td>4th</td></tr>
-  <tr><td><strong>Bali Major</strong></td><td>2nd 🥈</td></tr>
+  <tr><td>DPC Tour 1</td><td class="first">1st 🥇</td></tr>
+  <tr><td><strong>Lima Major</strong></td><td class="second">2nd 🥈</td></tr>
+  <tr><td>DPC Tour 2</td><td class="first">1st 🥇</td></tr>
+  <tr><td><strong>Berlin Major</strong></td><td class="second">2nd 🥈</td></tr>
+  <tr><td>DPC Tour 3</td><td class="fourth">4th</td></tr>
+  <tr><td><strong>Bali Major</strong></td><td class="second">2nd 🥈</td></tr>
   </tbody></table>
   </div>
 
@@ -156,10 +169,10 @@ Honestly, I appreciate the optimism.
   <tbody>
   <tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
   <tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
-  <tr><td><strong>DreamLeague S19</strong></td><td>2nd 🥈</td></tr>
+  <tr><td>DreamLeague S19</td><td class="second">2nd 🥈</td></tr>
   <tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
-  <tr><td><strong>DreamLeague S20</strong></td><td>15-16th</td></tr>
-  <tr><td><strong>Riyadh Masters 2023</strong></td><td>2nd 🥈</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><strong>Riyadh Masters 2023</strong></td><td class="second">2nd 🥈</td></tr>
   </tbody></table>
   </div>
 </div>
