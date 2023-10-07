@@ -123,7 +123,7 @@ Honestly, I appreciate the optimism.
     display: revert;
     padding: 0.5em 1em;
     font-style: normal;
-    border: 1px solid;
+    border: 0px;
     text-align: center;
     height: 48px;
   }
