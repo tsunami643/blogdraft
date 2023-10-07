@@ -154,12 +154,12 @@ Honestly, I appreciate the optimism.
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>DPC Tour 1</td><td class="first">1st 🥇</td></tr>
-  <tr><td><strong>Lima Major</strong></td><td class="second">2nd 🥈</td></tr>
-  <tr><td>DPC Tour 2</td><td class="first">1st 🥇</td></tr>
-  <tr><td><strong>Berlin Major</strong></td><td class="second">2nd 🥈</td></tr>
-  <tr><td>DPC Tour 3</td><td class="fourth">4th</td></tr>
-  <tr><td><strong>Bali Major</strong></td><td class="second">2nd 🥈</td></tr>
+  <tr><td>DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   </tbody></table>
   </div>
 
@@ -167,12 +167,12 @@ Honestly, I appreciate the optimism.
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
-  <tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td class="second">2nd 🥈</td></tr>
-  <tr><td><strong>&nbsp;</strong></td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><strong>Riyadh Masters 2023</strong></td><td class="second">2nd 🥈</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   </tbody></table>
   </div>
 </div>
