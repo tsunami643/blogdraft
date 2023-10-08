@@ -1275,7 +1275,7 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/boom.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team SMG</h2>
+<h2 style="margin: 0.25em 0;">Team SMG - <i>Southeast Asia</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">MidOne</td>
@@ -1324,7 +1324,7 @@ Test your geographical knowledge. What flag is next to Jackky's name? <span clas
 </div>
 <br>
 
-BOOM showed up on everyone's radar pretty early on in the season when they won the non-DPC *GAMERS GALAXY: Dubai* tournament in March. They quietly eliminated Secret, Spirit, Nigma in playoffs and beat Tundra in grand finals. Perhaps they peaked a bit too soon, though, as their major performances were decidedly less impressive. Granted, skem literally showed up in Stockholm 3 hours before BOOM's group stage matches started due to visa complications, so maybe that event gets a pass.
+oldest team to ever play at TI
 
 **What would success look like?** Southeast Asian teams have been *struggling* when it comes to TI. No team from the region has broken top 6 since TI6's Fnatic. That being said, this is the first ever International in SEA.
 
