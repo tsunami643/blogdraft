@@ -360,13 +360,7 @@ riyadh - aui standin for saksa
 </div>
 <br>
 
-On paper, this is the kind of roster that grows into its own after a year or two. In execution? OG is **BUILT DIFFERENT.**
-
-They didn't set the world on fire immediately, but they definitely hit their stride waaay quicker than anyone expected. And while these DPC results may not be as decorated as LGD's, this team* had strong showings at third party tournaments, including a recent 1st 🥇* place at *ESL Malaysia* near the end of August.
-
-***Say mister, what's with all the asterisks?*** Well, our good friend Misha had quite a bit of difficulty getting visas this year. As a result, OG spent a lot of time this year playing musical chairs with substitutes when they traveled internationally for LANs.
-
-Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came back for another one last ride in Arlington. Got fourth. And then coach Chuvash stood in for Misha at *ESL Malaysia*. Which they won.
+EEU was a rock paper scissors between 9pandas, betboom, and team spirit
 
 **What would success look like?** Solo and ramzes haven't been to a TI since they were on VP together in 2019. That old VP were consistently considered favorites to win for 2017, 2018, and 2019. Maybe this is the time
 
@@ -389,7 +383,9 @@ Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came b
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** supermerge
+**How did this roster happen?** Wait HOLD ON. This isn't EG. This is some south american team. EG is a North American org. Always has been. Always will be.
+
+NOPE. Not anymore. They shed their NA skin and formed a superteam out of last year's Thunder Awaken and beastcoast rosters. Pakazs and Panda and Matthew from TA, Chris Luck and Wisper from Beastcoast.
 
 **How was their DPC year?** 1470 points
 
