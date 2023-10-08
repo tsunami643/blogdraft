@@ -637,7 +637,7 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Would you believe that the Anvorgesa stack from 2019 is *still* together? They've actually been a team for so long that they've also broken into the [top 10 most played rosters of all time](../img/ti11teams/beastcoastwinrate.jpg) *(credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2011&before=14%2F10%2F2022&duration=0%3B200&duration-value-from=0&duration-value-to=200))* right after PSG.LGD. The next highest SA roster on that list is 2020's Thunder Predator squad with a mere 208 games together.
+**How did this roster happen?** parker came in the middle of tour 3, k1 hector before that
 
 **How was their DPC year?** 1040 points
 
