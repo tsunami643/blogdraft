@@ -738,6 +738,123 @@ A lot more eyeballs in the crowd, too. Because there's actually going to be one.
 **What to spam in Twitch chat when Spirit are winning?** Has the Twitch meta really not evolved in the 12 months [since I last wrote this?](https://howdoiplay.com/blog/2021/10/06/ti10-team-guide.html#:~:text=What%20to%20spam%20in%20Twitch%20chat%20when%20Spirit%20is%20winning%3F%20COLLAPSE%20GIGACHAD) Well if it ain't broke, don't fix it: `COLLAPSE GIGACHAD`
 
 <hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/tsm.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">TSM</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Timado</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Bryle</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">kasane</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-gb" title="United Kingdom" alt="United Kingdom">Ari</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Whitemon</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">MoonMeander</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** kasane replaced saberlight, ari replaced moon, whitemon replaced dubu
+
+**How was their DPC year?** 900 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>NA DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td><b>13-14th</b></td></tr>
+  <tr><td>NA DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td><b>17-18th</b></td></tr>
+  <tr><td>NA DPC Tour 3</td><td>3rd 🥉</td></tr>
+  <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>8th</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>13-14th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>13-14th</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+A pretty consistent trend this year in North America has been getting a sponsor and then immediately popping off. Wildcard signed D2 Hustlers and then beat EG in Tour 1. Nouns signed 4Zoomers and they won a BTS Pro Series. And TSM signed Undying and they suddenly became the best team in North America.
+
+For... half the year. Let's ignore the second half.
+
+**What would success look like?** [DuBu's YouTube channel hitting 100k subscribers.](https://www.youtube.com/channel/UCK1C6nGjd-gLX4K898wgNVw/videos) Show me another player that would vlog themselves during TI grand finals. You can't.
+
+**What to spam in Twitch chat when TSM are winning?** `SABERCHAD BASED` I think I'm noticing a trend that this is going to be one of those offlane-centric TIs.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/betboom.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">BetBoom Team</h2>
+<style type="text/css">table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}</style>
+<table>
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Nightfall</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">gpk~</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Pure~</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-md" title="Moldova" alt="Moldova">Save-</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">TORONTOTOKYO</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">boolk</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** nightfall, gpk, save played together on the ti10 VP which was coached by boolk. torontotokyo left spirit and became a support
+
+ then pure and nightfall swapped positions afterwards
+
+**How was their DPC year?** 760 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>EEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td><b>15-16th</b></td></tr>
+  <tr><td>EEU DPC Tour 2</td><td>3rd 🥉</td></tr>
+  <tr><td><b>Berlin Major</b></td><td><b>13-14th*</b></td></tr>
+  <tr><td>EEU DPC Tour 3</td><td>2nd 🥈</td></tr>
+  <tr><td><b>Bali Major</b></td><td><b>9-12th****</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>2nd 🥈</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>5-6th</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+reso standin at berlin, Bali was big drama and reso... "stood in" again. DLS20 last minute invite because execration had visa issues
+
+**What would success look like?** Spirit winning TI10 lit a fire in the EEU region. The fire being fueled by, "Wait, *those* scrubs won? I'm definitely better than them." BetBoom was the strongest product of this initiative. And not just because Daxak could probably bench 90% of the players at TI.
+
+Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? Well BetBoom beat them 3-0 in the EEU TI11 quals to take this slot.
+
+**What to spam in Twitch chat when BB are winning?** `Punch them Daxao💪🏻😈🤙🏻Fight them Daxao💪🏻😈🤙🏻Break them Daxao👿🤜🏻💀🤛🏻🤬Bully them Daxao👊🏻😼👊🏻Stomp them Daxao👊🏻🤬Crush them Daxao👊🏻😾🤜🏻🐷🤛🏻😤Incinerate them Daxao💪🏻🦍`
+
+<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/aster.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Azure Ray</h2>
 <table class="roster">
@@ -913,63 +1030,6 @@ BOOM showed up on everyone's radar pretty early on in the season when they won t
 We're about to learn just how strong a crowd buff can truly get.
 
 **What to spam in Twitch chat when BOOM are winning?** `JAPOY IS MY IDOL`
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/tsm.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">TSM</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Timado</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Bryle</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">kasane</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-gb" title="United Kingdom" alt="United Kingdom">Ari</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Whitemon</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">MoonMeander</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** TSM? In *my* Dota 2? It's more likely than you think. Another one of League's flagship brands has come over to our humble indie game and signed the Undying roster from TI10. After their 13-16th place finish in Romania, Moonmeander contemplated moving to a coach role this season, but decided to play for a little longer.
-
-**How was their DPC year?** 2150 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-A pretty consistent trend this year in North America has been getting a sponsor and then immediately popping off. Wildcard signed D2 Hustlers and then beat EG in Tour 1. Nouns signed 4Zoomers and they won a BTS Pro Series. And TSM signed Undying and they suddenly became the best team in North America.
-
-For... half the year. Let's ignore the second half.
-
-**What would success look like?** [DuBu's YouTube channel hitting 100k subscribers.](https://www.youtube.com/channel/UCK1C6nGjd-gLX4K898wgNVw/videos) Show me another player that would vlog themselves during TI grand finals. You can't.
-
-**What to spam in Twitch chat when TSM are winning?** `SABERCHAD BASED` I think I'm noticing a trend that this is going to be one of those offlane-centric TIs.
 
 ----
 
@@ -1149,122 +1209,6 @@ Fun fact: Even if they won the Arlington Major, they still wouldn't have had eno
 **What would success look like?** Another fun fact: Entity is the only team this TI in which every player on the roster is participating at an International for the very first time. Expectations are low, but sky's the limit.
 
 **What to spam in Twitch chat when Entity are winning?** `ENTITY INDIAN PRIDE`
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/betboom.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">BetBoom Team - <i>Eastern Europe</i></h2>
-<style type="text/css">table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}</style>
-<table>
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Nightfall</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">gpk~</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Pure~</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-md" title="Moldova" alt="Moldova">Save-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">TORONTOTOKYO</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">boolk</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** IT'S TIME TO PLAY GUESS. THAT. TEAAAAAAM.
-
-<p style="font-size: 1.3em; font-weight: bold;">Reader, for $0... Name the EEU brand this roster played under before being acquired by BetBoom</p>
-
-<select id="dropDown" onchange="test()" style="font-weight: 100; font-size: 1.5em;">
- <option value="default" selected="selected">Select team</option>
- <option value="one" id="empire">Team Empire</option>
- <option value="two" id="hr">HellRaisers</option>
- <option value="three" id="m5">Moscow 5</option>
- <option value="four" id="winstrike">Winstrike</option>
- <option value="five" id="gambit">Gambit Esports</option>
- <option value="six" id="b8">B8</option>
-</select>
-
-<span id="wrapperOne" style="display: none; font-size: larger; font-weight: 600;">It usually is, right? But not this time!</span>
-<span id="wrapperTwo" style="display: none; font-size: larger; font-weight: 600;">Nope, but nice try.</span>
-<span id="wrapperThree" style="display: none; font-size: larger; font-weight: 600;">Let's get you to bed, grandpa.</span>
-<span id="wrapperFour" style="display: none; font-size: larger; font-weight: 600;">A Winstrike without Iceberg? DING DING DING! YOU'RE CORRECT!</span>
-<span id="wrapperFive" style="display: none; font-size: larger; font-weight: 600;">Oooh, so close.</span>
-<span id="wrapperSix" style="display: none; font-size: larger; font-weight: 600;">Incorrect. But pour one out for my boy Dondo. He finally retired!</span>
-
-<script>
-  var dropDown = document.getElementById("dropDown"),
-   myWrappers = [
-      document.getElementById("wrapperOne"),
-      document.getElementById("wrapperTwo"),
-      document.getElementById("wrapperThree"),
-      document.getElementById("wrapperFour"),
-      document.getElementById("wrapperFive"),
-      document.getElementById("wrapperSix")
-   ];
-function test() {
-for (i=0; i<myWrappers.length; i++){
-    if(dropDown.value === "default"){ 
-       myWrappers[i].style.display = "none";
-     } else if(dropDown.value === "one"){
-       myWrappers[i].style.display = "none";
-       myWrappers[0].style.display = "inline";
-      } else if(dropDown.value === "two"){
-       myWrappers[i].style.display = "none";
-       myWrappers[1].style.display = "inline";
-      } else if(dropDown.value === "three"){
-       myWrappers[i].style.display = "none";
-       myWrappers[2].style.display = "inline";
-      } else if(dropDown.value === "four"){
-       myWrappers[i].style.display = "none";
-       myWrappers[3].style.display = "inline";
-      } else if(dropDown.value === "five"){
-       myWrappers[i].style.display = "none";
-       myWrappers[4].style.display = "inline";
-      } else if(dropDown.value === "six"){
-       myWrappers[i].style.display = "none";
-       myWrappers[5].style.display = "inline";
-      }
- }
-}
-</script>
-
-The majority of this team was assembled before the season began. The last addition was Rodjer who replaced Forcemajor after Tour 3 ended.
-
-**How was their DPC year?** 2150 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-
-
-**What would success look like?** Spirit winning TI10 lit a fire in the EEU region. The fire being fueled by, "Wait, *those* scrubs won? I'm definitely better than them." BetBoom was the strongest product of this initiative. And not just because Daxak could probably bench 90% of the players at TI.
-
-Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? Well BetBoom beat them 3-0 in the EEU TI11 quals to take this slot.
-
-**What to spam in Twitch chat when BB are winning?** `Punch them Daxao💪🏻😈🤙🏻Fight them Daxao💪🏻😈🤙🏻Break them Daxao👿🤜🏻💀🤛🏻🤬Bully them Daxao👊🏻😼👊🏻Stomp them Daxao👊🏻🤬Crush them Daxao👊🏻😾🤜🏻🐷🤛🏻😤Incinerate them Daxao💪🏻🦍`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/rng.jpg" alt="Banner"></p>
