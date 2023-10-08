@@ -367,6 +367,62 @@ Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came b
 **What to spam in Twitch chat when 9Pandas are winning?** `ATF=ALWAYS TAKES FIRST`
 
 <hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/eg.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Evil Geniuses</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Pakazs</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Chris Luck</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-bo" title="Bolivia" alt="Bolivia">Wisper</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Matthew</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Panda</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Vintage</td>
+    <td><i style="font-size: smaller;">Assistant Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">kaffs</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** supermerge
+
+**How was their DPC year?** 1470 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>SA DPC Tour 1</td><td>2nd 🥈</td></tr>
+  <tr><td><b>Lima Major</b></td><td><b>5-6th</b></td></tr>
+  <tr><td>SA DPC Tour 2</td><td>2nd 🥈</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="fourth"><b>4th</b></td></tr>
+  <tr><td>SA DPC Tour 3</td><td>1st 🥇</td></tr>
+  <tr><td><b>Bali Major</b></td><td><b>17-18th</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>7th</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>6th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>9-12th</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+bad last half of year
+
+**What would success look like?** Guess what the most represented country at this TI is? It's not China. It's not Philippines. It's Peru with 13 players (tied with Russia). Last TI had two South American teams, Thunder Predator and SG esports, being eliminated in group stage. This year, *four* teams will be eliminated for groups. Making it to Suntec for playoffs would be a feat, but making it to the Singapore Indoor Stadium for top 4 would be new ground for SA. THIS IS A TEST
+
+**What to spam in Twitch chat when EG are winning?** I think at one point SA was trying to move on from it, but it's just too good of a battle cry to abandon: `GAAAAAAAAAAAAAAAAA`
+
+<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/lgd.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PSG.LGD</h2>
 <table class="roster">
