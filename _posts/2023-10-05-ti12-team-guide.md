@@ -383,7 +383,7 @@ EEU was a rock paper scissors between 9pandas, betboom, and team spirit
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Wait HOLD ON. This isn't EG. This is some south american team. EG is a North American org. Always has been. Always will be.
+**How did this roster happen?** Tsunami there's been some sort of mistake. This isn't EG. This is some south american team. EG is a North American org. Always has been. Always will be.
 
 NOPE. Not anymore. They shed their NA skin and formed a superteam out of last year's Thunder Awaken and beastcoast rosters. Pakazs and Panda and Matthew from TA, Chris Luck and Wisper from Beastcoast.
 
@@ -420,7 +420,7 @@ NOPE. Not anymore. They shed their NA skin and formed a superteam out of last ye
 
 bad last half of year
 
-**What would success look like?** Guess what the most represented country at this TI is? It's not China. It's not Philippines. It's Peru with 13 players (tied with Russia). Last TI had two South American teams, Thunder Predator and SG esports, being eliminated in group stage. This year, *four* teams will be eliminated for groups. Making it to Suntec for playoffs would be a feat, but making it to the Singapore Indoor Stadium for top 4 would be new ground for SA. THIS IS A TEST
+**What would success look like?** I've never seen a team that you can so obviously guess how they're going to do just by looking at their faces. When they're on, they're on, but when they're off, they look like dead men walking
 
 **What to spam in Twitch chat when EG are winning?** I think at one point SA was trying to move on from it, but it's just too good of a battle cry to abandon: `GAAAAAAAAAAAAAAAAA`
 
@@ -475,13 +475,9 @@ ALSO, IT'S NOT PSG LGD ANYMORE, IT'S JUST LGD GAMING
 </div>
 <br>
 
-Due to heavy COVID lockdowns, Chinese Dota was hidden away for most of this season. Even getting back to China after TI10 in Romania was a massive project for a lot of teams, which led to their Tour 1 being delayed, so CN Doto remained in its own little bubble for most of the year.
+millions of offlaners, china in shambles
 
-LGD only narrowly qualified to the Arlington Major after scraping through their Tour 3 tiebreaker, but came in to their second international LAN of the year with an axe to grind. *Second* LAN, because they had shown up to the non-DPC Riyadh Masters LAN a few weeks prior to Arlington and took that trophy after defeating Team Spirit.
-
-Guess who beat them in Arlington?
-
-**What would success look like?** They have to win. That's it. Literally any placement that doesn't involve them lifting the Aegis at the end of this tournament is a complete failure. I'm not being hyperbolic. This is legitimately where the bar has been set for this team.
+**What would success look like?** first time since 2017 that LGD hasn't been considered favorites
 
 **What to spam in Twitch chat when LGD are winning?** `WASH YOUR FACE`
 
