@@ -284,7 +284,7 @@ Bunch of firsts
   <tbody>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>4th</td></tr>
+  <tr><td>DreamLeague S19</td><td>4th*</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>DreamLeague S20</td><td>9-10th</td></tr>
   <tr><td><b>Riyadh Masters 2023</b></td><td><b>9-12th</b></td></tr>
@@ -293,7 +293,10 @@ Bunch of firsts
 </div>
 <br>
 
-Following a super dominant group stage in Stockholm, they were pretty much favorites to win the whole major. Then TSM rattled them something fierce in upper bracket finals and they've never been the same on LAN ever since.
+DLS19 - aramis standin for saksa 4
+Dls20 - malr1ne standin for nine mid
+Bali - aui standin for saksa
+riyadh - aui standin for saksa
 
 **What would success look like?** There are a handful of TI veterans in this roster, including a winner, coach Aui_2000. Would you have the heart to eliminate him? Who could say no to a face that pure? Everything deserves to go Kurtis's way.
 
