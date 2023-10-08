@@ -16,6 +16,9 @@ With the weird TI format this year I couldn't decide when to finish this article
 Welcome to another DPC season! After last year, a lot of people were expecting a big patch for how the DPC operates. You know maybe some calendar changes? Economy reworks? Instead we just got number buffs.
 
 <style>
+
+  table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}
+  
   .resultsTable tr, .resultsTable td {
     display: revert;
     padding: 0.5em 1em;
