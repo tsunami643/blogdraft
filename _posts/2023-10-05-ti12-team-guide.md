@@ -424,7 +424,7 @@ bad last half of year
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/lgd.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">PSG.LGD</h2>
+<h2 style="margin: 0.25em 0;">LGD Gaming</h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">shiro</td>
@@ -438,7 +438,9 @@ bad last half of year
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?**  faith bian and ame retired. offlane constantly changed throughout the year
+**How did this roster happen?**  faith bian and ame retired. offlane constantly changed throughout the year. tour 1 was xiàng yǔ. lima major was old eleven. tour 2 and berlin was zeal. tour 3 onwards was niu
+
+ALSO, IT'S NOT PSG LGD ANYMORE, IT'S JUST LGD GAMING
 
 **How was their DPC year?** 1284 points
 
@@ -480,6 +482,69 @@ Guess who beat them in Arlington?
 **What would success look like?** They have to win. That's it. Literally any placement that doesn't involve them lifting the Aegis at the end of this tournament is a complete failure. I'm not being hyperbolic. This is legitimately where the bar has been set for this team.
 
 **What to spam in Twitch chat when LGD are winning?** `WASH YOUR FACE`
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/eg.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Shopify Rebellion</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Arteezy</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Abed</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cz" title="Czechia" alt="Czechia">SabeRLight-</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cr1t-</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">Fly</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">BuLba</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** NIGHTFALL GOT REPLACED BY SABERLIGHT (FORMERLY TSM).
+
+**How was their DPC year?** 1170 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>NA DPC Tour 1</td><td>2nd 🥈</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="fourth"><b>4th</b></td></tr>
+  <tr><td>NA DPC Tour 2</td><td>2nd 🥈</td></tr>
+  <tr><td><b>Berlin Major</b></td><td><b>9-12th</b></td></tr>
+  <tr><td>NA DPC Tour 3</td><td>1st 🥇</td></tr>
+  <tr><td><b>Bali Major</b></td><td><b>9-12th</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>3rd 🥉*</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>11-12th*</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>15-16th</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+dls19 - mikey standin, dls20 - miracle standin
+
+I'm not gonna sugarcoat it, the Jerax 5 experiment was not pleasant. It was like watching a roster [generated through Dall-E mini.](../img/ti11teams/jeraxdalle.jpg) At first glance, "Whoa, this is so cool!" But the longer you stare at it and look at the details, the more horrifying it gets. EG got away with it for a while because Jerax is still incredibly gifted and... well because it's the NA DPC, but it wasn't pretty.
+
+After a disappointing Stockholm Major finish, Jerax left and the hatchet was buried with Fly. He came back for Tour 3 and the team gelled pretty much immediately. Yet somehow they got destroyed all over again in Arlington? EG's TI invitation fate wasn't even in their hands near the end, but beastcoast repaid their TI10 debt and eliminated the next closest point teams, Fnatic and Outsiders/VP, in Arlington. Te quiero mucho Arturito goes both ways.
+
+**What would success look like?** ~~*I don't even know anymore. As brutal as it sounds, I think Arteezy fans would almost prefer him to become a full time streamer at this point. Given these LAN performances, they'd probably see more of him.*~~
+
+Since I'm releasing this article after day 1 group stage where EG just 2-0'd LGD, OG, and Soniqs, I'm now changing my answer. ANOTHER NA TI, BABY. THIS IS OUR YEAR. ONE BULBILLION DOLLAR PRIZE POOL. #BULBASWEEP.
+
+**What to spam in Twitch chat when EG are winning?** Whatever you want, but under no circumstances are you allowed to praise Bulba. Doesn't matter if it's the world's greatest Storm Spirit game or if he masterminded a strategy that somehow forced the enemy team into only picking 4 heroes. The first rule and only rule of EG twitch/reddit discourse is: everything is Bulba's fault.
+
+Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of my environment and North American Dota... we... we've had a rough couple of years.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/spirit.jpg" alt="Banner"></p>
@@ -830,67 +895,6 @@ For... half the year. Let's ignore the second half.
 **What would success look like?** [DuBu's YouTube channel hitting 100k subscribers.](https://www.youtube.com/channel/UCK1C6nGjd-gLX4K898wgNVw/videos) Show me another player that would vlog themselves during TI grand finals. You can't.
 
 **What to spam in Twitch chat when TSM are winning?** `SABERCHAD BASED` I think I'm noticing a trend that this is going to be one of those offlane-centric TIs.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/eg.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Shopify Rebellion</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Arteezy</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Abed</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cz" title="Czechia" alt="Czechia">SabeRLight-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cr1t-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">Fly</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">BuLba</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** If you haven't watched Dota since TI10, you may look at this roster and think, "Oh they kicked iceiceice and got VP's carry to play offlane? That's weird." It is weird. But you know what's even weirder? Jerax being on this team at one point. You know what's even weirder than that? Jerax being on this team at one point and not playing his most famous role. That's right, ole' two-time TI winning 4 position Jer-Bear came out of retirement at the beginning of this season, shipped off to North America, and took... Fly's hard support spot.
-
-**How was their DPC year?** 2150 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-I'm not gonna sugarcoat it, the Jerax 5 experiment was not pleasant. It was like watching a roster [generated through Dall-E mini.](../img/ti11teams/jeraxdalle.jpg) At first glance, "Whoa, this is so cool!" But the longer you stare at it and look at the details, the more horrifying it gets. EG got away with it for a while because Jerax is still incredibly gifted and... well because it's the NA DPC, but it wasn't pretty.
-
-After a disappointing Stockholm Major finish, Jerax left and the hatchet was buried with Fly. He came back for Tour 3 and the team gelled pretty much immediately. Yet somehow they got destroyed all over again in Arlington? EG's TI invitation fate wasn't even in their hands near the end, but beastcoast repaid their TI10 debt and eliminated the next closest point teams, Fnatic and Outsiders/VP, in Arlington. Te quiero mucho Arturito goes both ways.
-
-**What would success look like?** ~~*I don't even know anymore. As brutal as it sounds, I think Arteezy fans would almost prefer him to become a full time streamer at this point. Given these LAN performances, they'd probably see more of him.*~~
-
-Since I'm releasing this article after day 1 group stage where EG just 2-0'd LGD, OG, and Soniqs, I'm now changing my answer. ANOTHER NA TI, BABY. THIS IS OUR YEAR. ONE BULBILLION DOLLAR PRIZE POOL. #BULBASWEEP.
-
-**What to spam in Twitch chat when EG are winning?** Whatever you want, but under no circumstances are you allowed to praise Bulba. Doesn't matter if it's the world's greatest Storm Spirit game or if he masterminded a strategy that somehow forced the enemy team into only picking 4 heroes. The first rule and only rule of EG twitch/reddit discourse is: everything is Bulba's fault.
-
-Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of my environment and North American Dota... we... we've had a rough couple of years.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/fnatic.jpg" alt="Banner"></p>
