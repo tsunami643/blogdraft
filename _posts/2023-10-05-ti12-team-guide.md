@@ -262,7 +262,7 @@ Bunch of firsts
 
 **How did this roster happen?** In a parallel universe, you know how this roster happened. You'd know, because they showed up to TI10, made history, and everyone in the world became Tundra fans aka *Tundries*. Instead, they lost in a 5 game series against OG in the TI10 WEU quals and were nearly forgotten to time. Thankfully, they persevered. Well most of them. Fata was a founding member of this team but was un-amicably removed after Tour 1 Regional Finals and replaced with Saksa.
 
-**How was their DPC year?** 2150 points
+**How was their DPC year?** 1660 points
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -301,6 +301,70 @@ riyadh - aui standin for saksa
 **What would success look like?** There are a handful of TI veterans in this roster, including a winner, coach Aui_2000. Would you have the heart to eliminate him? Who could say no to a face that pure? Everything deserves to go Kurtis's way.
 
 **What to spam in Twitch chat when Tundra are winning?** `TUNDRA IMMORTALS IN FRONT OF CROWD`
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/og.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">9Pandas</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">RAMZES666</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">kiyotaka</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">MieRo`</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Antares</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Solo</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="" title="Russia" alt="">???</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** EEU tour 1 roster was as Hellraisers - Daxak, kiyotaka (formerly depressed kid), miero, antares, solo. Ramzes was on Darkside with rodjer and sonneiko. Lima major - yuragi for daxak, even though it was obvious he wouldn't be on the full roster. EEU tour 2 ramzes joined. then became 9pandas and solo couldn't make it to berlin, rodjer stood in.
+
+
+You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professionally since 2019, but no notable results. And Chuvash has actually been around for a while, but was also a player on Creepwave with ATF and bzm.
+
+**How was their DPC year?** 1496 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>EEU DPC Tour 1</td><td>3rd 🥉</td></tr>
+  <tr><td><b>Lima Major</b></td><td><b>9-12th</b></td></tr>
+  <tr><td>EEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="third"><b>3rd 🥉*</b></td></tr>
+  <tr><td>EEU DPC Tour 3</td><td>3rd 🥉</td></tr>
+  <tr><td><b>Bali Major</b></td><td><b>5-6th</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>7th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>5-6th</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+On paper, this is the kind of roster that grows into its own after a year or two. In execution? OG is **BUILT DIFFERENT.**
+
+They didn't set the world on fire immediately, but they definitely hit their stride waaay quicker than anyone expected. And while these DPC results may not be as decorated as LGD's, this team* had strong showings at third party tournaments, including a recent 1st 🥇* place at *ESL Malaysia* near the end of August.
+
+***Say mister, what's with all the asterisks?*** Well, our good friend Misha had quite a bit of difficulty getting visas this year. As a result, OG spent a lot of time this year playing musical chairs with substitutes when they traveled internationally for LANs.
+
+Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came back for another one last ride in Arlington. Got fourth. And then coach Chuvash stood in for Misha at *ESL Malaysia*. Which they won.
+
+**What would success look like?** A top 6 finish would be perfectly respectable for such a fresh, but accomplished, roster. For Misha, though? Oh boy. I don't even know if _he_ necessarily feels the pressure, but the public at large putting all the "Haha all your stand-ins won *their* tournaments" has gotta be something else.
+
+**What to spam in Twitch chat when 9Pandas are winning?** `ATF=ALWAYS TAKES FIRST`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/lgd.jpg" alt="Banner"></p>
@@ -362,107 +426,6 @@ Guess who beat them in Arlington?
 **What would success look like?** They have to win. That's it. Literally any placement that doesn't involve them lifting the Aegis at the end of this tournament is a complete failure. I'm not being hyperbolic. This is legitimately where the bar has been set for this team.
 
 **What to spam in Twitch chat when LGD are winning?** `WASH YOUR FACE`
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/og.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">OG</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Yuragi</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">bzm</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">ATF (Ammar)</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-no" title="Norway" alt="Norway">Taiga</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia" style="">Misha</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Chuvash</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** After TI10 ended, OG, as we knew it, scattered to the four winds. No former members remained as active players\*, so the brand had to start from scratch. How did they do it? Allow me to present this section in the same form that I myself learned this information.
-
-Through a series of disjointed DMs I received from OG's CEO JMR Luna.
-
----
-
-<span class="twitter-dm">I saw you on the pannel about how we build the roster</span>
-<span class="twitter-dm">This is public. We spoke about it on the [monkey business show](https://www.youtube.com/playlist?list=PLQRJUuILzZKUMNpwSmOUJRm6hgUbW-0Me)</span>
-<span class="twitter-dm twitter-dm-first">Misha was first</span>
-
----
-
-Makes sense. Misha was OG's coach last year, so that's a reasonable foundation.
-
----
-
-<span class="twitter-dm">When we started doing the recruiting many people turned Misha down</span>
-<span class="twitter-dm">Always asking... "well who are the rest of the team"</span>
-<span class="twitter-dm twitter-dm-first">And taiga was the only one ready to take a chance on us</span>
-
----
-
-Pretty surprising, actually. Taiga was a part of the Insania crew for the longest time. However, those Liquid boys knew a change had to be made after they failed to qualify to TI last year and Taiga voluntarily fell on the sword. Guess he and OG saw mutual potential in one another.
-
----
-
-<span class="twitter-dm">Once we have taiga then Ammar decided to join us</span>
-<span class="twitter-dm twitter-dm-first">Ammar brought bzm</span>
-
----
-
-So ATF, also known as <abbr title="I'm not making this up, that's what the acronym stands for">AMMAR_THE_FUCKER</abbr>, was on a WEU Div 2 team last year called Creepwave along with bzm, so that adds up.
-
----
-
-<span class="twitter-dm">And then we tried out a few carries and ended up with yuragi</span>
-<span class="twitter-dm twitter-dm-first">And then we brought in the coach chuvash</span>
-
----
-
-You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professionally since 2019, but no notable results. And Chuvash has actually been around for a while, but was also a player on Creepwave with ATF and bzm.
-
-**How was their DPC year?** 2150 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-On paper, this is the kind of roster that grows into its own after a year or two. In execution? OG is **BUILT DIFFERENT.**
-
-They didn't set the world on fire immediately, but they definitely hit their stride waaay quicker than anyone expected. And while these DPC results may not be as decorated as LGD's, this team* had strong showings at third party tournaments, including a recent 1st 🥇* place at *ESL Malaysia* near the end of August.
-
-***Say mister, what's with all the asterisks?*** Well, our good friend Misha had quite a bit of difficulty getting visas this year. As a result, OG spent a lot of time this year playing musical chairs with substitutes when they traveled internationally for LANs.
-
-Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came back for another one last ride in Arlington. Got fourth. And then coach Chuvash stood in for Misha at *ESL Malaysia*. Which they won.
-
-**What would success look like?** A top 6 finish would be perfectly respectable for such a fresh, but accomplished, roster. For Misha, though? Oh boy. I don't even know if _he_ necessarily feels the pressure, but the public at large putting all the "Haha all your stand-ins won *their* tournaments" has gotta be something else.
-
-**What to spam in Twitch chat when OG are winning?** `ATF=ALWAYS TAKES FIRST`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/spirit.jpg" alt="Banner"></p>
