@@ -274,7 +274,7 @@ Bunch of firsts
   <tr><td>WEU DPC Tour 2</td><td>2nd 🥈</td></tr>
   <tr><td><b>Berlin Major</b></td><td><b>5-6th</b></td></tr>
   <tr><td>WEU DPC Tour 3</td><td>1st 🥇</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="third"><b>3rd 🥉</b></td></tr>
+  <tr><td><b>Bali Major</b></td><td class="third"><b>3rd 🥉*</b></td></tr>
   </tbody></table>
   </div>
 
@@ -286,8 +286,8 @@ Bunch of firsts
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>DreamLeague S19</td><td>4th*</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>9-10th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>9-12th</b></td></tr>
+  <tr><td>DreamLeague S20</td><td>9-10th*</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>9-12th*</b></td></tr>
   </tbody></table>
   </div>
 </div>
