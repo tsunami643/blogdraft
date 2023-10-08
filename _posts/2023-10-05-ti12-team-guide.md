@@ -1155,6 +1155,7 @@ As long as they eliminate non-Chinese teams, they should be fine. But it'll be a
 
 **What to spam in Twitch chat when Aster are winning?** Every year. Every year I struggle to find positive Chinese discourse surrounding this team. And every year I come up empty handed. I have plenty of ammo if you want to spam something when they're *losing*. But winning? I dunno, spam something about Lanm and his enormous... draft knowledge.
 
+<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/soniqs.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">nouns - <i>North America</i></h2>
 <table class="roster">
@@ -1170,21 +1171,21 @@ As long as they eliminate non-Chinese teams, they should be fine. But it'll be a
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** This is basically the same as their TI10 roster except with SVG's retirement void being filled with Fata. 'They' being Quincy Crew. This is Quincy Crew. This was not always Quincy Crew, however. During Tour 1 and 2 the Quinn and Yawar crew had Khezu, Milan, and ponlo by their side. They did not #StayCrew for long. Starting Tour 3, MSS and Lelis returned from hiatus and Fata needed somewhere to go after getting the boot from Tundra.
+**How did this roster happen?** Gunnar and moo were on nouns since 2022. Lelis and yamsun joined. Husky was on the roster until tour 3. k1 became a free agent from beastcoast, husky got kicked, and yamsun moved positions
 
-**How was their DPC year?** 2150 points
+**How was their DPC year?** 464 points
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>NA DPC Tour 1</td><td>3rd 🥉</td></tr>
+  <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
+  <tr><td>NA DPC Tour 2</td><td>3rd 🥉</td></tr>
+  <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
+  <tr><td>NA DPC Tour 3</td><td>2nd 🥈</td></tr>
+  <tr><td><b>Bali Major</b></td><td><b>15-16th</b></td></tr>
   </tbody></table>
   </div>
 
@@ -1194,10 +1195,10 @@ As long as they eliminate non-Chinese teams, they should be fine. But it'll be a
   <tbody>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>DreamLeague S19</td><td>15-16th</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>DreamLeague S20</td><td>N/A</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>N/A</b></td></tr>
   </tbody></table>
   </div>
 </div>
@@ -1212,6 +1213,65 @@ No idea what happened in Arlington, though, they got slaughtered. Which is weird
 **What would success look like?** Well, they finally got a sponsor. So that's progress. I'd say the next success would be Jack being at ease with the state and future of the Dota Pro Circuit.
 
 **What to spam in Twitch chat when Soniqs are winning?** `HATERS SUCK MY NUTS ccncBayed`
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti10teams/vp.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Virtus.pro - <i>Eastern Europe</i></h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Kiritych~</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">squad1x</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Noticed</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">sayuw</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">Fng</td> 
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">G</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** idk
+
+**How was their DPC year?** 218 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>EEU DPC Tour 1</td><td>4th</td></tr>
+  <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
+  <tr><td>EEU DPC Tour 2</td><td>4th</td></tr>
+  <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
+  <tr><td>EEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>N/A</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>17-20th</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+After 2020, Secret realized they love online Dota so much they decided to not go to a single major.
+
+They got revenged 3-0 by Entity in the WEU Regional Qualifiers and had to go through the cutthroat Last Chance Qualifier to make it to TI. But ain't no way Puppey was breaking his all-TI-attendance streak. Not this year.
+
+Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? And then again when BetBoom beat them? Secret also beat them to take the first LCQ slot.
+
+**What would success look like?** Given the state of this team all year long, just making it to TI was a success in and of itself. The Zayac + Reso honeymoon period does seem strong, though.
+
+**What to spam in Twitch chat when Secret are winning?** `For the past 3-4 years, almost every time i watch secret i heard this, "Nisha is having an outstanding game", this guy has been overperforming for so long, even this season when secret was not playing well, Nisha was still performing, that guy is unbelivable, and for some reason, people don't talk that much about him. He’s just very unassuming, he tends to disappear whenever he’s not at LANs, doesn’t have a real presence if you get me. He comes in, smokes everyone, then leaves.`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/boom.jpg" alt="Banner"></p>
@@ -1272,146 +1332,6 @@ BOOM showed up on everyone's radar pretty early on in the season when they won t
 We're about to learn just how strong a crowd buff can truly get.
 
 **What to spam in Twitch chat when BOOM are winning?** `JAPOY IS MY IDOL`
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/talon.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Talon Esports - <i>Southeast Asia</i></h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">23savage</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Mikoto</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-au" title="Australia" alt="Australia">kpii</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">Q</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Hyde</td> 
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">ALWAYSWANNAFLY</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** Mikoto, kpii, and Hyde were brought together at the start of the season. 23savage and Q were added before Tour 2 began to replace Gabbi and Fly. Yeah, Fly. Remember how I mentioned Jerax took his spot on EG? Homie hopped regions and divisions just to keep busy.
-
-**How was their DPC year?** 2150 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-Going from 2nd place Div 2 to 2nd place Div 1 has to be the biggest DPC glow up of the year. Does that mean SEA is unpredictable or is Talon strong? Based on this team's underwhelming Arlington, *GAMERS GALAXY: Thailand*, and *ESL Malaysia* performances, probably the former.
-
-They had a nail-biter 5 game series against Polaris Esports to take this regional TI slot. In fact, SEA was the *only* regional grand final to not be a 3-0. Does that mean SEA is strong or is Talon unpredictable?
-
-**What would success look like?** I'm just happy to see my boy kpii back at a TI. After his SMG struggles last year, he deserves it.
-
-**What to spam in Twitch chat when Talon are winning?** Doesn't matter what you spam, it's going to get drowned out with multiple variations of `KUKU FAULT`, I guarantee it.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/secret.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Quest Esports - <i>Western Europe #2</i></h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">TA2000</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-lb" title="Lebanon" alt="Lebanon">No!ob</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-at" title="Austria" alt="Austria">Tobi</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-lb" title="Lebanon" alt="Lebanon">OmaR</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">kaori</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Daxak</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** Strap in, this one's complicated. Despite a pretty stellar TI10 3rd place finish, Matu and Zai were ready to move on from Secret and Puppey had to find replacements. How about Sumail and iceiceice? Those sound pretty good, yeah? You'd think so, but no.
-
-Tour 1 and Tour 2 were worthy attempts at getting the roster to work, but it just wasn't happening. Sumail was so unconvinced, he jumped ship to Division 2 Nigma Galaxy for Tour 3 and Puppey poached Entity player Crystallis as a replacement. At the same time, Yapzor was mysteriously missing every week and Zayac was plucked by Puppey from pubs to stand-in. All those gyrations netted them... another 5th place in Tour 3. Zero possibility of getting to TI through points.
-
-No need to panic. Zayac knows a guy. He'll make the call.
-
-```
-Zayac - Roman, it's Zayac.
-
-Resolution - Baqyt, you old hare, how the hell are you?
-
-Zayac - I've got an opening for you.
-
-Resolution - Only one man could make me end my Bali vacation. And it's you. I'm in.
-
-Zayac - Excellent. We'll meet you in Riyadh.
-
-Resolution - What about iceiceice?
-
-Zayac - He'll be fine. He's going deep undercover to make the ultimate sacrifice. Ninjaboogie sends his regards.
-
-*Resolution dons a pair of sunglasses and smiles. Fortunate Son starts playing.*
-```
-
-I like to imagine that's how it went down.
-
-**How was their DPC year?** 2150 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-After 2020, Secret realized they love online Dota so much they decided to not go to a single major.
-
-They got revenged 3-0 by Entity in the WEU Regional Qualifiers and had to go through the cutthroat Last Chance Qualifier to make it to TI. But ain't no way Puppey was breaking his all-TI-attendance streak. Not this year.
-
-Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? And then again when BetBoom beat them? Secret also beat them to take the first LCQ slot.
-
-**What would success look like?** Given the state of this team all year long, just making it to TI was a success in and of itself. The Zayac + Reso honeymoon period does seem strong, though.
-
-**What to spam in Twitch chat when Secret are winning?** `For the past 3-4 years, almost every time i watch secret i heard this, "Nisha is having an outstanding game", this guy has been overperforming for so long, even this season when secret was not playing well, Nisha was still performing, that guy is unbelivable, and for some reason, people don't talk that much about him. He’s just very unassuming, he tends to disappear whenever he’s not at LANs, doesn’t have a real presence if you get me. He comes in, smokes everyone, then leaves.`
 
 ----
 
