@@ -1280,12 +1280,11 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">MidOne</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">No[o]ne-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Fbz</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">MinD_ContRoL</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">ah fu</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">skem</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Jaunuel</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Mushi</td>
-    <td><i style="font-size: smaller;">Analyst</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Ohaiyo</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">Heen</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -1294,19 +1293,19 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 
 Test your geographical knowledge. What flag is next to Jackky's name? <span class="spoiler">It's Laos. First ever Lao at TI!</span>
 
-**How was their DPC year?** 2150 points
+**How was their DPC year?** 133 points
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>SEA DPC Tour 1</td><td>5th</td></tr>
+  <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
+  <tr><td>SEA DPC Tour 2</td><td>3rd 🥉</td></tr>
+  <tr><td><b>Berlin Major</b></td><td><b>15-16th</b></td></tr>
+  <tr><td>SEA DPC Tour 3</td><td>5th</td></tr>
+  <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
   </tbody></table>
   </div>
 
@@ -1316,10 +1315,10 @@ Test your geographical knowledge. What flag is next to Jackky's name? <span clas
   <tbody>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>DreamLeague S20</td><td>N/A</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>N/A</b></td></tr>
   </tbody></table>
   </div>
 </div>
