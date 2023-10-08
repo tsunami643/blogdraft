@@ -159,7 +159,7 @@ Honestly, I appreciate the optimism.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Nisha added
+**How did this roster happen?** Nisha added from Team Liquid Academy Team also known as Team Secret.
 
 **How was their DPC year?** 2150 points
 
@@ -194,7 +194,7 @@ Honestly, I appreciate the optimism.
 
 Bunch of 2nd places
 
-**What would success look like?** Matumbaman has made it quite clear that this will be his last year of competitive Dota. So I hope for his sake any Gyrocopter picks at this event are premeditated.
+**What would success look like?** Finally a 1st place after a bunch of second places
 
 **What to spam in Twitch chat when Liquid are winning?** <img src="./../../../img/ti11teams/zaij.png" alt="zaiJ" style= "width: 30px;vertical-align: bottom;">
 
@@ -214,7 +214,7 @@ Bunch of 2nd places
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Quinn replaced boom
+**How did this roster happen?** Quinn replaced boom. Boom went to secret and secret went boom
 
 **How was their DPC year?** 2140 points
 
@@ -247,9 +247,9 @@ Bunch of 2nd places
 </div>
 <br>
 
-Bunch of firsts
+Bunch of firsts. Was an interesting journey for a team that not many people thought about to a team that a lot of people began actively hating
 
-**What would success look like?** They've been off the grid for so long, we have no idea where they currently stand. Based off the trajectory of the their last DPC Tour... probably not good? But then again, WEU is the most represented region at this TI, so how bad is 6th place really?
+**What would success look like?** No other team in history has ever won every major of the season. Winning a TI on top of that would be the perfect icing on the cake, feather in the hat, other idiom here
 
 **What to spam in Twitch chat when GG are winning?** `VEGAN POWER`
 
