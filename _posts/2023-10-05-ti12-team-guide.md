@@ -245,6 +245,61 @@ Bunch of firsts
 **What to spam in Twitch chat when GG are winning?** `VEGAN POWER`
 
 <hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/tundra.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Tundra Esports</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-sk" title="Slovakia" alt="Slovakia">skiter</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">Topson</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">33</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Nine</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Sneyking</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Aui_2000</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** In a parallel universe, you know how this roster happened. You'd know, because they showed up to TI10, made history, and everyone in the world became Tundra fans aka *Tundries*. Instead, they lost in a 5 game series against OG in the TI10 WEU quals and were nearly forgotten to time. Thankfully, they persevered. Well most of them. Fata was a founding member of this team but was un-amicably removed after Tour 1 Regional Finals and replaced with Saksa.
+
+**How was their DPC year?** 2150 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>3rd 🥉</td></tr>
+  <tr><td><b>Lima Major</b></td><td><b>9-12th</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>2nd 🥈</td></tr>
+  <tr><td><b>Berlin Major</b></td><td><b>5-6th</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>1st 🥇</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="third"><b>3rd 🥉</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>4th</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>9-10th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>9-12th</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+Following a super dominant group stage in Stockholm, they were pretty much favorites to win the whole major. Then TSM rattled them something fierce in upper bracket finals and they've never been the same on LAN ever since.
+
+**What would success look like?** There are a handful of TI veterans in this roster, including a winner, coach Aui_2000. Would you have the heart to eliminate him? Who could say no to a face that pure? Everything deserves to go Kurtis's way.
+
+**What to spam in Twitch chat when Tundra are winning?** `TUNDRA IMMORTALS IN FRONT OF CROWD`
+
+<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/lgd.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PSG.LGD</h2>
 <table class="roster">
@@ -755,61 +810,6 @@ For... half the year. Let's ignore the second half.
 **What would success look like?** [DuBu's YouTube channel hitting 100k subscribers.](https://www.youtube.com/channel/UCK1C6nGjd-gLX4K898wgNVw/videos) Show me another player that would vlog themselves during TI grand finals. You can't.
 
 **What to spam in Twitch chat when TSM are winning?** `SABERCHAD BASED` I think I'm noticing a trend that this is going to be one of those offlane-centric TIs.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/tundra.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Tundra Esports</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-sk" title="Slovakia" alt="Slovakia">skiter</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">Topson</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">33</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Nine</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Sneyking</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Aui_2000</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** In a parallel universe, you know how this roster happened. You'd know, because they showed up to TI10, made history, and everyone in the world became Tundra fans aka *Tundries*. Instead, they lost in a 5 game series against OG in the TI10 WEU quals and were nearly forgotten to time. Thankfully, they persevered. Well most of them. Fata was a founding member of this team but was un-amicably removed after Tour 1 Regional Finals and replaced with Saksa.
-
-**How was their DPC year?** 2150 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>9-12th</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>5-6th</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>1st 🥇</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="third"><b>3rd 🥉</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>4th</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>9-10th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>9-12th</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-Following a super dominant group stage in Stockholm, they were pretty much favorites to win the whole major. Then TSM rattled them something fierce in upper bracket finals and they've never been the same on LAN ever since.
-
-**What would success look like?** There are a handful of TI veterans in this roster, including a winner, coach Aui_2000. Would you have the heart to eliminate him? Who could say no to a face that pure? Everything deserves to go Kurtis's way.
-
-**What to spam in Twitch chat when Tundra are winning?** `TUNDRA IMMORTALS IN FRONT OF CROWD`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/eg.jpg" alt="Banner"></p>
