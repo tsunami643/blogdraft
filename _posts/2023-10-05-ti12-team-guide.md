@@ -154,17 +154,16 @@ Honestly, I appreciate the optimism.
 
 **How was their DPC year?** 2150 points
 
-
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
   <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
   <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>DPC Tour 3</td><td>4th</td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
   <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   </tbody></table>
   </div>
@@ -182,21 +181,73 @@ Honestly, I appreciate the optimism.
   </tbody></table>
   </div>
 </div>
+<br>
 
-It's kind of wild how good this team can be online and how comically bad they are on LAN. It's not just this roster, either. Last season, they got 4th and 2nd during the leagues. And during the majors? 9-12th in Singapore and 13th and the AniMajor. Like, how? And I'm not even listing their non-DPC LAN placements this year. <span class="spoiler">Those were also bad.</span>
-
-Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? And then again when BetBoom beat them? And then again again when Secret beat them? Liquid also also beat them to take the final LCQ slot.
-
-That makes 4 times that VP were one series away from qualifying to TI. Pain.
+Bunch of 2nd places
 
 **What would success look like?** Matumbaman has made it quite clear that this will be his last year of competitive Dota. So I hope for his sake any Gyrocopter picks at this event are premeditated.
 
 **What to spam in Twitch chat when Liquid are winning?** <img src="./../../../img/ti11teams/zaij.png" alt="zaiJ" style= "width: 30px;vertical-align: bottom;">
 
 <hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/gaimin.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Gaimin Gladiators</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">dyrachYO</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Quinn</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Ace</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">tOfu</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-nl" title="Netherlands" alt="Netherlands">Seleri</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cy-</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** Quinn replaced boom
+
+**How was their DPC year?** 2140 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>2nd 🥈</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>3rd 🥉</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>2nd 🥈</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>1st 🥇</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>1st 🥇</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="fourth"><b>4th</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+Bunch of firsts
+
+**What would success look like?** They've been off the grid for so long, we have no idea where they currently stand. Based off the trajectory of the their last DPC Tour... probably not good? But then again, WEU is the most represented region at this TI, so how bad is 6th place really?
+
+**What to spam in Twitch chat when GG are winning?** `VEGAN POWER`
+
+<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/lgd.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PSG.LGD</h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">shiro</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">NothingToSay</td>
@@ -213,14 +264,36 @@ That makes 4 times that VP were one series away from qualifying to TI. Pain.
 
 Better pray TI grand finals isn't the 30%.
 
-**How was their DPC year?** 2240 points
+**How was their DPC year?** 2150 points
 
-* **CN DPC Tour 1** - 1st 🥇
-* **CN DPC Tour 1 Regional Final** - 1st 🥇
-* **CN DPC Tour 2** - 2nd 🥈
-* **CN DPC Tour 2 Regional Final** - 1st 🥇
-* **CN DPC Tour 3** - 4th
-* **PGL Arlington Major** - 2nd 🥈
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 Due to heavy COVID lockdowns, Chinese Dota was hidden away for most of this season. Even getting back to China after TI10 in Romania was a massive project for a lot of teams, which led to their Tour 1 being delayed, so CN Doto remained in its own little bubble for most of the year.
 
@@ -235,7 +308,7 @@ Guess who beat them in Arlington?
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/og.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">OG</h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Yuragi</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">bzm</td>
@@ -290,14 +363,36 @@ So ATF, also known as <abbr title="I'm not making this up, that's what the acron
 
 You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professionally since 2019, but no notable results. And Chuvash has actually been around for a while, but was also a player on Creepwave with ATF and bzm.
 
-**How was their DPC year?** 1930 points
+**How was their DPC year?** 2150 points
 
-* **WEU DPC Tour 1** - 4th
-* **WEU DPC Tour 1 Regional Final** - 3rd 🥉
-* **WEU DPC Tour 2** - 1st 🥇
-* **ESL Stockholm Major** - 1st 🥇*
-* **WEU DPC Tour 3** - 3rd 🥉
-* **PGL Arlington Major** - 4th*
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 On paper, this is the kind of roster that grows into its own after a year or two. In execution? OG is **BUILT DIFFERENT.**
 
@@ -314,7 +409,7 @@ Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came b
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/spirit.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Spirit</h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Yatoro</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Larl</td>
@@ -329,14 +424,36 @@ Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came b
 
 **How did this roster happen?** These guys collectively won a cool $18 milli this time last year and thought, "We might be pretty good at this Dota thing. Let's keep playing together."
 
-**How was their DPC year?** 1810 points
+**How was their DPC year?** 2150 points
 
-* **EEU DPC Tour 1** - 1st 🥇
-* **EEU DPC Tour 1 Regional Final** - 1st 🥇
-* **EEU DPC Tour 2 Playoff Tournament** - 2nd 🥈
-* **ESL Stockholm Major** - 9-12th
-* **WEU DPC Tour 3** - 3rd 🥉
-* **PGL Arlington Major** - 1st 🥇
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 If you take a peek at the flags next to each of these players' names, you could probably surmise that last year's TI champions haven't had the smoothest year, geopolitically speaking. As the war began, Valve put the entire EEU DPC Tour 2 on hold and replaced it with a compressed playoff bracket that would award DPC points, determine relegation slots, and figure out who goes to the major.
 
@@ -351,7 +468,7 @@ A lot more eyeballs in the crowd, too. Because there's actually going to be one.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/beastcoast.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">beastcoast</h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Parker</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">DarkMago</td>
@@ -366,14 +483,36 @@ A lot more eyeballs in the crowd, too. Because there's actually going to be one.
 
 **How did this roster happen?** Would you believe that the Anvorgesa stack from 2019 is *still* together? They've actually been a team for so long that they've also broken into the [top 10 most played rosters of all time](../img/ti11teams/beastcoastwinrate.jpg) *(credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2011&before=14%2F10%2F2022&duration=0%3B200&duration-value-from=0&duration-value-to=200))* right after PSG.LGD. The next highest SA roster on that list is 2020's Thunder Predator squad with a mere 208 games together.
 
-**How was their DPC year?** 1810 points
+**How was their DPC year?** 2150 points
 
-* **SA DPC Tour 1** - 3rd 🥉
-* **SA DPC Tour 1 Regional Final** - 1st 🥇
-* **SA DPC Tour 2** - 2nd 🥈
-* **ESL Stockholm Major** - 5-6th
-* **SA DPC Tour 3** - 2nd 🥈
-* **PGL Arlington Major** - 5-6th
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 While intra-regionally they're not as dominant in SA as they once were, inter-regionally this was their best year yet.
 
@@ -386,7 +525,7 @@ You just learned the difference between those prefixes.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/aster.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Azure Ray</h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Lou</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Somnus (Maybe)</td>
@@ -401,14 +540,36 @@ You just learned the difference between those prefixes.
 
 **How did this roster happen?** Monet, Xxs, and BoBoKa are the same as TI10 Aster, but this season they added longtime Vici Gaming midlaner Ori to the mix as well as Aster.Aries academy player 皮球. The direct translation is 'rubber ball,' but you're more likely to hear him be referred to as *píqiú* (kinda sounds like the Pokémon *Pichu*) or *Siamese Cat.*
 
-**How was their DPC year?** 1610 points
+**How was their DPC year?** 2150 points
 
-* **CN DPC Tour 1** - 2nd 🥈
-* **CN DPC Tour 1 Regional Final** - 3rd 🥉
-* **CN DPC Tour 2** - 3rd 🥉
-* **CN DPC Tour 2 Regional Final** - 2nd 🥈
-* **CN DPC Tour 3** - 2nd 🥈
-* **PGL Arlington Major** - 3rd 🥉
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 The moment I saw these placements I thought, "Wow, those are some pretty great performances. But does Aster ever win?" The answer is no, they don't. But they always get *really close.* [Heavily reminscent](https://howdoiplay.com/blog/2018/07/18/ti8-team-guide.html#:~:text=Notable%20tournament%20placings%20A,And%20not%20win.) of some [old Vici Gaming squads.](https://howdoiplay.com/blog/2021/10/06/ti10-team-guide.html#:~:text=I%20could%20literally,TI%20championship%20material.) Is Ori just allergic to gold? 
 
@@ -421,7 +582,7 @@ As long as they eliminate non-Chinese teams, they should be fine. But it'll be a
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/thunder.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Thunder Awaken</h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">Knight~</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">SLATEM$</td>
@@ -436,14 +597,36 @@ As long as they eliminate non-Chinese teams, they should be fine. But it'll be a
 
 **How did this roster happen?** The brand formerly known as Thunder Predator ported these guys over from 2021's NoPing e-sports roster. After the Tour 1 Regional Final, Oscar was replaced with Sacred.
 
-**How was their DPC year?** 1540 points
+**How was their DPC year?** 2150 points
 
-* **SA DPC Tour 1** - 1st 🥇
-* **SA DPC Tour 1 Regional Final** - 3rd 🥉
-* **SA DPC Tour 2** - 1st 🥇
-* **ESL Stockholm Major** - 5-6th
-* **SA DPC Tour 3** - 1st 🥇
-* **PGL Arlington Major** - 15-16th*
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 Move over beastcoast, there's a new regional king in South America. In fact, out of the 21 series they played throughout 3 tours, Thunder only dropped *5* games. Games, not series. Stockholm is where the majority of English speaking Dota fans were exposed to the siknasty carry gameplay of Pakazs and energetic charisma of Pandaboo.
 
@@ -459,7 +642,7 @@ Unfortunately, DarkMago had visa issues getting to Arlington and the team subseq
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/boom.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team SMG</h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">MidOne</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">No[o]ne-</td>
@@ -477,14 +660,36 @@ Unfortunately, DarkMago had visa issues getting to Arlington and the team subseq
 
 Test your geographical knowledge. What flag is next to Jackky's name? <span class="spoiler">It's Laos. First ever Lao at TI!</span>
 
-**How was their DPC year?** 1482 points
+**How was their DPC year?** 2150 points
 
-* **SEA DPC Tour 1** - 1st 🥇
-* **SEA DPC Tour 1 Regional Final** - 1st 🥇
-* **SEA DPC Tour 2** - 2nd 🥈
-* **ESL Stockholm Major** - 9-12th
-* **SEA DPC Tour 3** - 1st 🥇
-* **PGL Arlington Major** - 7-8th
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 BOOM showed up on everyone's radar pretty early on in the season when they won the non-DPC *GAMERS GALAXY: Dubai* tournament in March. They quietly eliminated Secret, Spirit, Nigma in playoffs and beat Tundra in grand finals. Perhaps they peaked a bit too soon, though, as their major performances were decidedly less impressive. Granted, skem literally showed up in Stockholm 3 hours before BOOM's group stage matches started due to visa complications, so maybe that event gets a pass.
 
@@ -497,7 +702,7 @@ We're about to learn just how strong a crowd buff can truly get.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/tsm.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">TSM</h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Timado</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Bryle</td>
@@ -512,14 +717,36 @@ We're about to learn just how strong a crowd buff can truly get.
 
 **How did this roster happen?** TSM? In *my* Dota 2? It's more likely than you think. Another one of League's flagship brands has come over to our humble indie game and signed the Undying roster from TI10. After their 13-16th place finish in Romania, Moonmeander contemplated moving to a coach role this season, but decided to play for a little longer.
 
-**How was their DPC year?** 1380 points
+**How was their DPC year?** 2150 points
 
-* **NA DPC Tour 1** - 1st 🥇
-* **NA DPC Tour 1 Regional Final** - 1st 🥇
-* **NA DPC Tour 2** - 2nd 🥈
-* **ESL Stockholm Major** - 2nd 🥈
-* **NA DPC Tour 3** - 4th
-* **PGL Arlington Major** - Did not qualify. Not on their team, at least.
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 A pretty consistent trend this year in North America has been getting a sponsor and then immediately popping off. Wildcard signed D2 Hustlers and then beat EG in Tour 1. Nouns signed 4Zoomers and they won a BTS Pro Series. And TSM signed Undying and they suddenly became the best team in North America.
 
@@ -532,7 +759,7 @@ For... half the year. Let's ignore the second half.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/tundra.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Tundra Esports</h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-sk" title="Slovakia" alt="Slovakia">skiter</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">Topson</td>
@@ -547,14 +774,36 @@ For... half the year. Let's ignore the second half.
 
 **How did this roster happen?** In a parallel universe, you know how this roster happened. You'd know, because they showed up to TI10, made history, and everyone in the world became Tundra fans aka *Tundries*. Instead, they lost in a 5 game series against OG in the TI10 WEU quals and were nearly forgotten to time. Thankfully, they persevered. Well most of them. Fata was a founding member of this team but was un-amicably removed after Tour 1 Regional Finals and replaced with Saksa.
 
-**How was their DPC year?** 1212 points
+**How was their DPC year?** 2150 points
 
-* **WEU DPC Tour 1** - 3rd 🥉
-* **WEU DPC Tour 1 Regional Final** - 4th
-* **WEU DPC Tour 2** - 4th
-* **ESL Stockholm Major** - 3rd 🥉
-* **WEU DPC Tour 3** - 1st 🥇
-* **PGL Arlington Major** - 15-16th
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 Following a super dominant group stage in Stockholm, they were pretty much favorites to win the whole major. Then TSM rattled them something fierce in upper bracket finals and they've never been the same on LAN ever since.
 
@@ -563,44 +812,9 @@ Following a super dominant group stage in Stockholm, they were pretty much favor
 **What to spam in Twitch chat when Tundra are winning?** `TUNDRA IMMORTALS IN FRONT OF CROWD`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/gaimin.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Gaimin Gladiators</h2>
-<table>
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">dyrachYO</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Quinn</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Ace</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">tOfu</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-nl" title="Netherlands" alt="Netherlands">Seleri</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cy-</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** BOOM and Seleri were veterans of tier 1.5-ish WEU team Vikin.gg for quite a while. Ace and tOfu were on another tier 1.5-ish WEU team Hellbear Smashers. dyrachYO came out of nowhere. Dude was an EEU player, but was eager to leave the region and joined these guys to form "Team Tickles" starting this season. Tough to say which name I prefer.
-
-**How was their DPC year?** 1130 points
-
-* **WEU DPC Tour 1** - 2nd 🥈
-* **WEU DPC Tour 1 Regional Final** - 1st 🥇
-* **WEU DPC Tour 2** - 2nd 🥈
-* **ESL Stockholm Major** - 4th
-* **WEU DPC Tour 3** - 6th
-* **PGL Arlington Major** - Did not qualify
-
-Keen eyed viewers may take a look at this list and say, "HEY! How does a new stack immediately join Division 1? Shouldn't they have to play through open qualifiers to join Division 2 and then place 1st or 2nd in Division 2 before being promoted to Division 1 in the following tour?" To which I say: **pppbbbbbbtttttt**.
-
-It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve says that it's _not_ Liquipedia's job. This'll make more sense once you scroll down to Fnatic.
-
-**What would success look like?** They've been off the grid for so long, we have no idea where they currently stand. Based off the trajectory of the their last DPC Tour... probably not good? But then again, WEU is the most represented region at this TI, so how bad is 6th place really?
-
-**What to spam in Twitch chat when GG are winning?** `VEGAN POWER`
-
-<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/eg.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Shopify Rebellion</h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Arteezy</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Abed</td> 
@@ -615,14 +829,36 @@ It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve s
 
 **How did this roster happen?** If you haven't watched Dota since TI10, you may look at this roster and think, "Oh they kicked iceiceice and got VP's carry to play offlane? That's weird." It is weird. But you know what's even weirder? Jerax being on this team at one point. You know what's even weirder than that? Jerax being on this team at one point and not playing his most famous role. That's right, ole' two-time TI winning 4 position Jer-Bear came out of retirement at the beginning of this season, shipped off to North America, and took... Fly's hard support spot.
 
-**How was their DPC year?** 1052 points
+**How was their DPC year?** 2150 points
 
-* **NA DPC Tour 1** - 3rd 🥉
-* **NA DPC Tour 1 Regional Final** - 2nd 🥈
-* **NA DPC Tour 2** - 1st 🥇
-* **ESL Stockholm Major** - 13th
-* **NA DPC Tour 3** - 1st 🥇
-* **PGL Arlington Major** - 9-12th
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 I'm not gonna sugarcoat it, the Jerax 5 experiment was not pleasant. It was like watching a roster [generated through Dall-E mini.](../img/ti11teams/jeraxdalle.jpg) At first glance, "Whoa, this is so cool!" But the longer you stare at it and look at the details, the more horrifying it gets. EG got away with it for a while because Jerax is still incredibly gifted and... well because it's the NA DPC, but it wasn't pretty.
 
@@ -639,7 +875,7 @@ Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/fnatic.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Fnatic</h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Raven</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Armel</td>
@@ -654,14 +890,36 @@ Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of 
 
 **How did this roster happen?** Raven, Jabz, and DJ were on the TI10 Fnatic, but the team had been struggling to fulfill their offlane and mid roles for quite a while. Armel left TNC after they failed to qualify to TI last year and Jaunuel was made available from Neon. Perfect fit.
 
-**How was their DPC year?** 1020 points
+**How was their DPC year?** 2150 points
 
-* **SEA DPC Tour 1** - 2nd 🥈
-* **SEA DPC Tour 1 Regional Final** - 4th
-* **SEA DPC Tour 2** - 1st 🥇
-* **ESL Stockholm Major** - 7-8th
-* **SEA DPC Tour 3** - 3rd 🥉
-* **PGL Arlington Major** - 9-12th*
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 They played some Dota and got some placements. Doesn't matter. The only part that does matter is that 9-12th you see at the bottom of that list.
 
@@ -693,7 +951,7 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/soniqs.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">nouns - <i>North America</i></h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">K1</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Gunnar</td>
@@ -708,14 +966,36 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 
 **How did this roster happen?** This is basically the same as their TI10 roster except with SVG's retirement void being filled with Fata. 'They' being Quincy Crew. This is Quincy Crew. This was not always Quincy Crew, however. During Tour 1 and 2 the Quinn and Yawar crew had Khezu, Milan, and ponlo by their side. They did not #StayCrew for long. Starting Tour 3, MSS and Lelis returned from hiatus and Fata needed somewhere to go after getting the boot from Tundra.
 
-**How was their DPC year?** 582 points
+**How was their DPC year?** 2150 points
 
-* **NA DPC Tour 1** - 1st 🥇
-* **NA DPC Tour 1 Regional Final** - 3rd 🥉
-* **NA DPC Tour 2** - 3rd 🥉
-* **ESL Stockholm Major** - Did not qualify
-* **NA DPC Tour 3** - 2nd 🥈
-* **PGL Arlington Major** - 17th
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 When the first major was unceremoniously canceled, [Quinn was one of the first players to vocalize his dissatisfaction.](https://esports.gg/news/dota-2/valve-cancels-major-quinn/) And rightfully so. This first tour that QC fought to get a top placement in would ultimately be a footnote in the grand scheme of DPC points. Additionally, it also removed the possibility of making more prize money at a major. Which, for an unsponsored team, is *pretty important*.
 
@@ -730,7 +1010,7 @@ No idea what happened in Arlington, though, they got slaughtered. Which is weird
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/hokori.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Keyd Stars - <i>South America #1</i></h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Costabile</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">4nalog</td>
@@ -744,14 +1024,36 @@ No idea what happened in Arlington, though, they got slaughtered. Which is weird
 
 **How did this roster happen?** Vitaly and Gardick have been Hokori fam since early 2020. Lumière and Thiolicor were added after Tour 3 ended. [Meanwhile, 4nalog uses this team like a goddamn revolving door.](../img/ti11teams/4nalog.jpg)
 
-**How was their DPC year?** 97 points
+**How was their DPC year?** 2150 points
 
-* **SA DPC Tour 1** - 6th
-* **SA DPC Tour 1 Regional Final** - Did not qualify
-* **SA DPC Tour 2** - 3rd 🥉
-* **ESL Stockholm Major** - Did not qualify
-* **SA DPC Tour 3** - 8th
-* **PGL Arlington Major** - Did not qualify
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 Not a very standout performance during the year and was among the darkest of horses to qualify through the SA regionals. Lucky for them, a lot things went their way. In lower bracket finals, Tempest had massive internet issues and basically had to forfeit the entire series. And for grand finals, Infamous's Leostyle answered [who was in Paris.](https://www.reddit.com/r/DotA2/comments/x8457w/lmao/)
 
@@ -764,7 +1066,7 @@ Despite all that, Hokori still did play well throughout the SA qualifier and act
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/entity.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Entity - <i>Western Europe #1</i></h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">watson</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Stormstormer</td>
@@ -783,14 +1085,36 @@ A replacement happened to present itself in the form of 18 year old Russian core
 
 An edgy teenager mistake or an actual war advocate? Up for you to decide. He is quite good at Dota, though.
 
-**How was their DPC year?** 615 points
+**How was their DPC year?** 2150 points
 
-* **WEU DPC Tour 1 - _Division 2_** - 1st 🥇
-* **WEU DPC Tour 1 Regional Final** - Did not qualify
-* **WEU DPC Tour 2** - 6th
-* **ESL Stockholm Major** - Did not qualify
-* **WEU DPC Tour 3** - 4th
-* **PGL Arlington Major** - 5-6th*
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 Fun fact: Even if they won the Arlington Major, they still wouldn't have had enough DPC points to get directly invited to TI. Flaw in the system or working as intended? Pure wasn't able to attend Arlington so TSM's offlaner Saberlight actually stood in on his behalf and had a grand old time playing carry.
 
@@ -875,14 +1199,36 @@ for (i=0; i<myWrappers.length; i++){
 
 The majority of this team was assembled before the season began. The last addition was Rodjer who replaced Forcemajor after Tour 3 ended.
 
-**How was their DPC year?** 629 points
+**How was their DPC year?** 2150 points
 
-* **EEU DPC Tour 1 - _Division 2_** - 2nd 🥈
-* **EEU DPC Tour 1 Regional Final** - Did not qualify
-* **EEU DPC Tour 2 Playoff Tournament** - 1st 🥇
-* **ESL Stockholm Major** - 7-8th
-* **EEU DPC Tour 3** - 4th
-* **PGL Arlington Major** - Did not qualify
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 
 
@@ -895,7 +1241,7 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/rng.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Royal Never Give Up - <i>China</i></h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Ghost</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Somnus</td> 
@@ -910,14 +1256,36 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 
 **How did this roster happen?** Somnus, Chalice, and xNova were brought on to RNG as the season began. After Tour 2, God King and FelixCiaoBa were replaced with relatively unknown SEA player Ghost and extremely well known Chinese player kaka.
 
-**How was their DPC year?** 738 points
+**How was their DPC year?** 2150 points
 
-* **CN DPC Tour 1** - 3rd 🥉
-* **CN DPC Tour 1 Regional Final** - 2nd 🥈
-* **CN DPC Tour 2** - 4th
-* **CN DPC Tour 2 Regional Final** - 4th
-* **CN DPC Tour 3** - 1st 🥇
-* **PGL Arlington Major** - 9-12th*
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 Nothing too special. This year's top 4 in the CN DPC was consistently some shuffling of LGD, Aster, RNG and then either EHOME or Xtreme. And RNG bopped Xtreme 3-0 in the CN regional qual to make it to TI.
 
@@ -1002,7 +1370,7 @@ My god. By these calculations... We should be a dead game 14 years ago.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/talon.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Talon Esports - <i>Southeast Asia</i></h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">23savage</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Mikoto</td> 
@@ -1017,14 +1385,36 @@ My god. By these calculations... We should be a dead game 14 years ago.
 
 **How did this roster happen?** Mikoto, kpii, and Hyde were brought together at the start of the season. 23savage and Q were added before Tour 2 began to replace Gabbi and Fly. Yeah, Fly. Remember how I mentioned Jerax took his spot on EG? Homie hopped regions and divisions just to keep busy.
 
-**How was their DPC year?** 300 points
+**How was their DPC year?** 2150 points
 
-* **SEA DPC Tour 1 - _Division 2_** - 5th
-* **SEA DPC Tour 1 Regional Final** - Did not qualify
-* **SEA DPC Tour 2 - _Division 2_** - 2nd 🥈
-* **ESL Stockholm Major** - Did not qualify
-* **SEA DPC Tour 3** - 2nd 🥈
-* **PGL Arlington Major** - 13-14th*
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 Going from 2nd place Div 2 to 2nd place Div 1 has to be the biggest DPC glow up of the year. Does that mean SEA is unpredictable or is Talon strong? Based on this team's underwhelming Arlington, *GAMERS GALAXY: Thailand*, and *ESL Malaysia* performances, probably the former.
 
@@ -1037,7 +1427,7 @@ They had a nail-biter 5 game series against Polaris Esports to take this regiona
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/secret.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Quest Esports - <i>Western Europe #2</i></h2>
-<table>
+<table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">TA2000</td> 
     <td><img src="../../../img/assets/blank.gif" class="flag flag-lb" title="Lebanon" alt="Lebanon">No!ob</td>
@@ -1076,14 +1466,36 @@ Zayac - He'll be fine. He's going deep undercover to make the ultimate sacrifice
 
 I like to imagine that's how it went down.
 
-**How was their DPC year?** 78 points
+**How was their DPC year?** 2150 points
 
-* **WEU DPC Tour 1** - 5th
-* **WEU DPC Tour 1 Regional Final** - Did not qualify
-* **WEU DPC Tour 2** - 5th
-* **ESL Stockholm Major** - Did not qualify
-* **WEU DPC Tour 3** - 5th
-* **PGL Arlington Major** - Did not qualify
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
 
 After 2020, Secret realized they love online Dota so much they decided to not go to a single major.
 
