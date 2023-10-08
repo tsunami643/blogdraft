@@ -269,7 +269,7 @@ Bunch of firsts. Was an interesting journey for a team that not many people thou
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** In a parallel universe, you know how this roster happened. You'd know, because they showed up to TI10, made history, and everyone in the world became Tundra fans aka *Tundries*. Instead, they lost in a 5 game series against OG in the TI10 WEU quals and were nearly forgotten to time. Thankfully, they persevered. Well most of them. Fata was a founding member of this team but was un-amicably removed after Tour 1 Regional Finals and replaced with Saksa.
+**How did this roster happen?** Last year's TI winners. Saksa's been having [mental health issues](https://twitter.com/Saksadota/status/1682719745110310912) and was mysteriously missing for a lot of events. In the 11th hour Topson was called up and nine has now changed to 4 position. Topson had a failed run attempting to qualify for last TI with ana on T1 in SEA. then he was on the meme but also not intentionally meme team Old G.
 
 **How was their DPC year?** 1660 points
 
@@ -307,7 +307,7 @@ Dls20 - malr1ne standin for nine mid
 Bali - aui standin for saksa
 riyadh - aui standin for saksa
 
-**What would success look like?** There are a handful of TI veterans in this roster, including a winner, coach Aui_2000. Would you have the heart to eliminate him? Who could say no to a face that pure? Everything deserves to go Kurtis's way.
+**What would success look like?** 3 time ti winners with Aui and topson and back to back winners
 
 **What to spam in Twitch chat when Tundra are winning?** `TUNDRA IMMORTALS IN FRONT OF CROWD`
 
@@ -328,9 +328,6 @@ riyadh - aui standin for saksa
 <hr style="margin: 0.5em 0;">
 
 **How did this roster happen?** EEU tour 1 roster was as Hellraisers - Daxak, kiyotaka (formerly depressed kid), miero, antares, solo. Ramzes was on Darkside with rodjer and sonneiko. Lima major - yuragi for daxak, even though it was obvious he wouldn't be on the full roster. EEU tour 2 ramzes joined. then became 9pandas and solo couldn't make it to berlin, rodjer stood in.
-
-
-You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professionally since 2019, but no notable results. And Chuvash has actually been around for a while, but was also a player on Creepwave with ATF and bzm.
 
 **How was their DPC year?** 1496 points
 
@@ -371,7 +368,7 @@ They didn't set the world on fire immediately, but they definitely hit their str
 
 Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came back for another one last ride in Arlington. Got fourth. And then coach Chuvash stood in for Misha at *ESL Malaysia*. Which they won.
 
-**What would success look like?** A top 6 finish would be perfectly respectable for such a fresh, but accomplished, roster. For Misha, though? Oh boy. I don't even know if _he_ necessarily feels the pressure, but the public at large putting all the "Haha all your stand-ins won *their* tournaments" has gotta be something else.
+**What would success look like?** Solo and ramzes haven't been to a TI since they were on VP together in 2019. That old VP were consistently considered favorites to win for 2017, 2018, and 2019. Maybe this is the time
 
 **What to spam in Twitch chat when 9Pandas are winning?** `ATF=ALWAYS TAKES FIRST`
 
