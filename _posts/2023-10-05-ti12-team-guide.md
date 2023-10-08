@@ -378,7 +378,7 @@ Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came b
     <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Panda</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Vintage</td>
-    <td><i style="font-size: smaller;">Assistant Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">kaffs</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">kaffs</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -620,6 +620,65 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 **What to spam in Twitch chat when Fnatic are winning?** `lol bro`
 
 <hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/beastcoast.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">beastcoast</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Parker</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">DarkMago</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Sacred</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Scofield</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Stinger</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ar" title="Argentina" alt="Argentina">Mariano (Papita)</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ve" title="Venezuela" alt="Venezuela">Raykill</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Valqui</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** Would you believe that the Anvorgesa stack from 2019 is *still* together? They've actually been a team for so long that they've also broken into the [top 10 most played rosters of all time](../img/ti11teams/beastcoastwinrate.jpg) *(credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2011&before=14%2F10%2F2022&duration=0%3B200&duration-value-from=0&duration-value-to=200))* right after PSG.LGD. The next highest SA roster on that list is 2020's Thunder Predator squad with a mere 208 games together.
+
+**How was their DPC year?** 1040 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>SA DPC Tour 1</td><td>1st 🥇</td></tr>
+  <tr><td><b>Lima Major</b></td><td><b>9-12th</b></td></tr>
+  <tr><td>SA DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td><b>13-14th</b></td></tr>
+  <tr><td>SA DPC Tour 3</td><td>2nd 🥈</td></tr>
+  <tr><td><b>Bali Major</b></td><td><b>7-8th</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>6th</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>9-10th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>17-20th</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+While intra-regionally they're not as dominant in SA as they once were, inter-regionally this was their best year yet.
+
+You just learned the difference between those prefixes.
+
+**What would success look like?** Guess what the most represented country at this TI is? It's not China. It's not Philippines. It's Peru with 13 players (tied with Russia). Last TI had two South American teams, Thunder Predator and SG esports, being eliminated in group stage. This year, *four* teams will be eliminated for groups. Making it to Suntec for playoffs would be a feat, but making it to the Singapore Indoor Stadium for top 4 would be new ground for SA. THIS IS A TEST
+
+**What to spam in Twitch chat when bc are winning?** I think at one point SA was trying to move on from it, but it's just too good of a battle cry to abandon: `GAAAAAAAAAAAAAAAAA`
+
+<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/spirit.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Spirit</h2>
 <table class="roster">
@@ -677,63 +736,6 @@ Stockholm was a wash for Spirit, understandably so, but they got their bearings 
 A lot more eyeballs in the crowd, too. Because there's actually going to be one.
 
 **What to spam in Twitch chat when Spirit are winning?** Has the Twitch meta really not evolved in the 12 months [since I last wrote this?](https://howdoiplay.com/blog/2021/10/06/ti10-team-guide.html#:~:text=What%20to%20spam%20in%20Twitch%20chat%20when%20Spirit%20is%20winning%3F%20COLLAPSE%20GIGACHAD) Well if it ain't broke, don't fix it: `COLLAPSE GIGACHAD`
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/beastcoast.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">beastcoast</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Parker</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">DarkMago</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Sacred</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Scofield</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Stinger</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ar" title="Argentina" alt="Argentina">Mariano (Papita)</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** Would you believe that the Anvorgesa stack from 2019 is *still* together? They've actually been a team for so long that they've also broken into the [top 10 most played rosters of all time](../img/ti11teams/beastcoastwinrate.jpg) *(credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2011&before=14%2F10%2F2022&duration=0%3B200&duration-value-from=0&duration-value-to=200))* right after PSG.LGD. The next highest SA roster on that list is 2020's Thunder Predator squad with a mere 208 games together.
-
-**How was their DPC year?** 2150 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-While intra-regionally they're not as dominant in SA as they once were, inter-regionally this was their best year yet.
-
-You just learned the difference between those prefixes.
-
-**What would success look like?** Guess what the most represented country at this TI is? It's not China. It's not Philippines. It's Peru with 13 players (tied with Russia). Last TI had two South American teams, Thunder Predator and SG esports, being eliminated in group stage. This year, *four* teams will be eliminated for groups. Making it to Suntec for playoffs would be a feat, but making it to the Singapore Indoor Stadium for top 4 would be new ground for SA. THIS IS A TEST
-
-**What to spam in Twitch chat when bc are winning?** I think at one point SA was trying to move on from it, but it's just too good of a battle cry to abandon: `GAAAAAAAAAAAAAAAAA`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/aster.jpg" alt="Banner"></p>
