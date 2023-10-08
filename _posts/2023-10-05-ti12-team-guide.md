@@ -736,9 +736,7 @@ You just learned the difference between those prefixes.
 </div>
 <br>
 
-If you take a peek at the flags next to each of these players' names, you could probably surmise that last year's TI champions haven't had the smoothest year, geopolitically speaking. As the war began, Valve put the entire EEU DPC Tour 2 on hold and replaced it with a compressed playoff bracket that would award DPC points, determine relegation slots, and figure out who goes to the major.
-
-Stockholm was a wash for Spirit, understandably so, but they got their bearings come Arlington. And what a time to do it, because their grand final opponent was eternal foe, PSG.LGD. If you didn't catch this series, [I highly recommend watching game 2.](https://www.twitch.tv/videos/1561728844?t=6h45m16s) Instant hall of fame contender.
+also won dreamleague s21 while barely even trying
 
 **What would success look like?** Two-timing à la OG would be pretty sweet. The problem: they're still very good. Lest we forget, OG coming into TI9 were... well let's just say there's a reason why detractors branded both their wins as 'flukes.' Spirit, on the other hand, won the last major and [TI10's True Sight was just released](https://www.youtube.com/watch?v=NFEwN1N3vvA) so everyone just got a refresher on how sick they were/are/will be. Safe to say there will be a lot more eyeballs on Spirit's drafts and gameplay this TI.
 
@@ -883,7 +881,7 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** ti10 roster -> pure left, watson came from hellraisers. after tour 3 tobi got replaced by gabbi.
+**How did this roster happen?** ti10 roster -> pure left, watson came from hellraisers. after dreamleague s20 tobi got replaced by gabbi.
 
 **How was their DPC year?** 208 points
 
@@ -1040,7 +1038,7 @@ Despite all that, Hokori still did play well throughout the SA qualifier and act
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/thunder.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Thunder Awaken</h2>
+<h2 style="margin: 0.25em 0;">Thunder Awaken - <i>South America #2</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">Knight~</td>
