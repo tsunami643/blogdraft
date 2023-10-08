@@ -44,10 +44,16 @@ Welcome to another DPC season! After last year, a lot of people were expecting a
     background: #bebebe;
   }
   td.third {
-    background: #bb8644;
+    background: burlywood;
   }
   td.fourth {
     background: #f8996b;
+  }
+  td.top6 {
+    background: #ffbfa0;
+  }
+  td.top8 {
+    background: #f2dace;
   }
 </style>
 
@@ -272,7 +278,7 @@ Bunch of firsts
   <tr><td>WEU DPC Tour 1</td><td>3rd 🥉</td></tr>
   <tr><td><b>Lima Major</b></td><td><b>9-12th</b></td></tr>
   <tr><td>WEU DPC Tour 2</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="top6"><b>5-6th</b></td></tr>
   <tr><td>WEU DPC Tour 3</td><td>1st 🥇</td></tr>
   <tr><td><b>Bali Major</b></td><td class="third"><b>3rd 🥉*</b></td></tr>
   </tbody></table>
@@ -335,7 +341,7 @@ You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professio
   <tr><td>EEU DPC Tour 2</td><td>1st 🥇</td></tr>
   <tr><td><b>Berlin Major</b></td><td class="third"><b>3rd 🥉*</b></td></tr>
   <tr><td>EEU DPC Tour 3</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><b>Bali Major</b></td><td class="top6"><b>5-6th</b></td></tr>
   </tbody></table>
   </div>
 
@@ -348,7 +354,7 @@ You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professio
   <tr><td>DreamLeague S19</td><td>N/A</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>DreamLeague S20</td><td>7th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="top6"><b>5-6th</b></td></tr>
   </tbody></table>
   </div>
 </div>
@@ -393,7 +399,7 @@ Ceb came back for one last ride and stood in for Misha at Stockholm. Won. Came b
   <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td>SA DPC Tour 1</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><b>Lima Major</b></td><td class="top6"><b>5-6th</b></td></tr>
   <tr><td>SA DPC Tour 2</td><td>2nd 🥈</td></tr>
   <tr><td><b>Berlin Major</b></td><td class="fourth"><b>4th</b></td></tr>
   <tr><td>SA DPC Tour 3</td><td>1st 🥇</td></tr>
@@ -454,7 +460,7 @@ ALSO, IT'S NOT PSG LGD ANYMORE, IT'S JUST LGD GAMING
   <tr><td>CN DPC Tour 2</td><td>2nd 🥈</td></tr>
   <tr><td><b>Berlin Major</b></td><td><b>9-12th</b></td></tr>
   <tr><td>CN DPC Tour 3</td><td>1st 🥇</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><b>Bali Major</b></td><td class="top6"><b>5-6th</b></td></tr>
   </tbody></table>
   </div>
 
@@ -574,7 +580,7 @@ Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of 
   <tr><td>SEA DPC Tour 1</td><td>3rd 🥉</td></tr>
   <tr><td><b>Lima Major</b></td><td class="third"><b>3rd 🥉</b></td></tr>
   <tr><td>SEA DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>7-8th</b></td></tr>
+  <tr><td><b>Berlin Major</b></td><td class="top8"><b>7-8th</b></td></tr>
   <tr><td>SEA DPC Tour 3</td><td>4th</td></tr>
   <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
   </tbody></table>
@@ -651,7 +657,7 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
   <tr><td>SA DPC Tour 2</td><td>1st 🥇</td></tr>
   <tr><td><b>Berlin Major</b></td><td><b>13-14th</b></td></tr>
   <tr><td>SA DPC Tour 3</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>7-8th</b></td></tr>
+  <tr><td><b>Bali Major</b></td><td class="top8"><b>7-8th</b></td></tr>
   </tbody></table>
   </div>
 
@@ -704,7 +710,7 @@ You just learned the difference between those prefixes.
   <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td>EEU DPC Tour 1</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>7-8th</b></td></tr>
+  <tr><td><b>Lima Major</b></td><td class="top8"><b>7-8th</b></td></tr>
   <tr><td>EEU DPC Tour 2</td><td>2nd 🥈</td></tr>
   <tr><td><b>Berlin Major</b></td><td><b>9-12th</b></td></tr>
   <tr><td>EEU DPC Tour 3</td><td>1st 🥇</td></tr>
@@ -840,7 +846,7 @@ For... half the year. Let's ignore the second half.
   <tr><td>DreamLeague S19</td><td>N/A</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>DreamLeague S20</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="top6"><b>5-6th</b></td></tr>
   </tbody></table>
   </div>
 </div>
