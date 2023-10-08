@@ -947,7 +947,7 @@ watson lina at lima
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>WEU DPC Tour 1 - Div 2</td><td>1st 🥇</td></tr>
+  <tr><td>WEU DPC Tour 1 - <i>Div 2</i></td><td>1st 🥇</td></tr>
   <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
   <tr><td>WEU DPC Tour 2</td><td>5th</td></tr>
   <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
@@ -982,12 +982,129 @@ My god. By these calculations... We should be a dead game 14 years ago.
 **What to spam in Twitch chat when RNG are winning?** <code><a href="https://www.reddit.com/r/DotA2/comments/wpown1/hoping_to_share_some_insights_about_chinese_teams/#:~:text=chat%20would%20be%20spamming%20'natural'%20regardless">natural</a></code>
 
 <hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/hokori.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Keyd Stars - <i>South America #1</i></h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Costabile</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">4nalog</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">fcr</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Kingrd</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">KJ</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">DFlash</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** 4dr mid tavo offlane for tour 1. changed to current roster for tour 3 after they dropped out of div 1
+
+**How was their DPC year?** 38 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>SA DPC Tour 1</td><td>4th</td></tr>
+  <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
+  <tr><td>SA DPC Tour 2</td><td>7th</td></tr>
+  <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
+  <tr><td>SA DPC Tour 3 - <i>Div 2</i></td><td>1st 🥇</td></tr>
+  <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>N/A</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>N/A</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+Not a very standout performance during the year and was among the darkest of horses to qualify through the SA regionals. Lucky for them, a lot things went their way. In lower bracket finals, Tempest had massive internet issues and basically had to forfeit the entire series. And for grand finals, Infamous's Leostyle answered [who was in Paris.](https://www.reddit.com/r/DotA2/comments/x8457w/lmao/)
+
+Despite all that, Hokori still did play well throughout the SA qualifier and actually recently beat Fnatic in the BTS Pro Series S12 while bootcamping in SEA.
+
+**What would success look like?** Imagine the memes if they win TI and then have to play in Divison 2 DPC next year.
+
+**What to spam in Twitch chat when Hokori are winning?** `lumiere es mi pastor nada me faltarar`
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/thunder.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Thunder Awaken</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">Knight~</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">SLATEM$</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">ILICH-</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">n1ght</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Mjz</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">NaoG</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** The brand formerly known as Thunder Predator ported these guys over from 2021's NoPing e-sports roster. After the Tour 1 Regional Final, Oscar was replaced with Sacred.
+
+**How was their DPC year?** 343 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>SA DPC Tour 1</td><td>5th</td></tr>
+  <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
+  <tr><td>SA DPC Tour 2</td><td>3rd 🥉</td></tr>
+  <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
+  <tr><td>SA DPC Tour 3</td><td>3rd 🥉</td></tr>
+  <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>N/A</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>N/A</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+Move over beastcoast, there's a new regional king in South America. In fact, out of the 21 series they played throughout 3 tours, Thunder only dropped *5* games. Games, not series. Stockholm is where the majority of English speaking Dota fans were exposed to the siknasty carry gameplay of Pakazs and energetic charisma of Pandaboo.
+
+Unfortunately, DarkMago had visa issues getting to Arlington and the team subsequently bombed out in Texas.
+
+**What would success look like?** I was looking for a interview Slacks did with Pandaboo during Stockholm for research, but searching 'slacks dota panda' on YouTube only yielded this video.
+
+<div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/60nq0t1oEio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
+<p></p>
+
+**What to spam in Twitch chat when Thunder are winning?** `DOCTOR GOTITO`
+
+<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/aster.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Azure Ray</h2>
+<h2 style="margin: 0.25em 0;">Azure Ray - <i>China</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Lou</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Somnus (Maybe)</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Somnus</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">chalice</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">fy</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">天命 (tiān mìng)</td>
@@ -1006,7 +1123,7 @@ My god. By these calculations... We should be a dead game 14 years ago.
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>CN DPC Tour 1 - Div 2</td><td>1st 🥇</td></tr>
+  <tr><td>CN DPC Tour 1 - <i>Div 2</i></td><td>1st 🥇</td></tr>
   <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
   <tr><td>CN DPC Tour 2</td><td>6th</td></tr>
   <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
@@ -1095,122 +1212,6 @@ No idea what happened in Arlington, though, they got slaughtered. Which is weird
 **What would success look like?** Well, they finally got a sponsor. So that's progress. I'd say the next success would be Jack being at ease with the state and future of the Dota Pro Circuit.
 
 **What to spam in Twitch chat when Soniqs are winning?** `HATERS SUCK MY NUTS ccncBayed`
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/hokori.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Keyd Stars - <i>South America #1</i></h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Costabile</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">4nalog</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">fcr</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Kingrd</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">KJ</td>
-    </tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** Vitaly and Gardick have been Hokori fam since early 2020. Lumière and Thiolicor were added after Tour 3 ended. [Meanwhile, 4nalog uses this team like a goddamn revolving door.](../img/ti11teams/4nalog.jpg)
-
-**How was their DPC year?** 2150 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-Not a very standout performance during the year and was among the darkest of horses to qualify through the SA regionals. Lucky for them, a lot things went their way. In lower bracket finals, Tempest had massive internet issues and basically had to forfeit the entire series. And for grand finals, Infamous's Leostyle answered [who was in Paris.](https://www.reddit.com/r/DotA2/comments/x8457w/lmao/)
-
-Despite all that, Hokori still did play well throughout the SA qualifier and actually recently beat Fnatic in the BTS Pro Series S12 while bootcamping in SEA.
-
-**What would success look like?** Imagine the memes if they win TI and then have to play in Divison 2 DPC next year.
-
-**What to spam in Twitch chat when Hokori are winning?** `lumiere es mi pastor nada me faltarar`
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/thunder.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Thunder Awaken</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">Knight~</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">SLATEM$</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">ILICH-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">n1ght</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Mjz</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">NaoG</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** The brand formerly known as Thunder Predator ported these guys over from 2021's NoPing e-sports roster. After the Tour 1 Regional Final, Oscar was replaced with Sacred.
-
-**How was their DPC year?** 2150 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-Move over beastcoast, there's a new regional king in South America. In fact, out of the 21 series they played throughout 3 tours, Thunder only dropped *5* games. Games, not series. Stockholm is where the majority of English speaking Dota fans were exposed to the siknasty carry gameplay of Pakazs and energetic charisma of Pandaboo.
-
-Unfortunately, DarkMago had visa issues getting to Arlington and the team subsequently bombed out in Texas.
-
-**What would success look like?** I was looking for a interview Slacks did with Pandaboo during Stockholm for research, but searching 'slacks dota panda' on YouTube only yielded this video.
-
-<div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/60nq0t1oEio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
-<p></p>
-
-**What to spam in Twitch chat when Thunder are winning?** `DOCTOR GOTITO`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/boom.jpg" alt="Banner"></p>
