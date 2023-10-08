@@ -781,12 +781,12 @@ For... half the year. Let's ignore the second half.
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>WEU DPC Tour 1</td><td>3rd 🥉</td></tr>
+  <tr><td><b>Lima Major</b></td><td><b>9-12th</b></td></tr>
+  <tr><td>WEU DPC Tour 2</td><td>2nd 🥈</td></tr>
+  <tr><td><b>Berlin Major</b></td><td><b>5-6th</b></td></tr>
+  <tr><td>WEU DPC Tour 3</td><td>1st 🥇</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="third"><b>3rd 🥉</b></td></tr>
   </tbody></table>
   </div>
 
@@ -796,10 +796,10 @@ For... half the year. Let's ignore the second half.
   <tbody>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>DreamLeague S19</td><td>4th</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>DreamLeague S20</td><td>9-10th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>9-12th</b></td></tr>
   </tbody></table>
   </div>
 </div>
