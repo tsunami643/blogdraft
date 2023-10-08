@@ -547,6 +547,79 @@ Since I'm releasing this article after day 1 group stage where EG just 2-0'd LGD
 Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of my environment and North American Dota... we... we've had a rough couple of years.
 
 <hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/talon.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Talon Esports</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">23savage</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Mikoto</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">Jabz</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">Q</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Oli~</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">SunBhie</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** 23, mikoto and q were on the ti11 talon. Oli left china and IG, Jabz left fnatic and brought sunbhie
+
+**How was their DPC year?** 1120 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>SEA DPC Tour 1</td><td>3rd 🥉</td></tr>
+  <tr><td><b>Lima Major</b></td><td class="third"><b>3rd 🥉</b></td></tr>
+  <tr><td>SEA DPC Tour 2</td><td>1st 🥇</td></tr>
+  <tr><td><b>Berlin Major</b></td><td><b>7-8th</b></td></tr>
+  <tr><td>SEA DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>11-12th</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>4th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="third"><b>3rd 🥉</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+lima major jabz vs jabbz
+
+They played some Dota and got some placements. Doesn't matter. The only part that does matter is that 9-12th you see at the bottom of that list.
+
+Before the Arlington Major started, Fnatic were **0.05** DPC points behind Outsiders/VP to qualify for the last spot at TI. Exciting! Massive visa issues happen and only Jabz and DJ can make it. Not good! It's fine, they're allowed to get 3 of TSM's players to stand-in. Great! Wait, what? Who cares, they can play! Fnatic lose to Team Aster in upper bracket. Uh oh! But Outsiders also lose to Team Spirit. Then Outsiders beat RNG in lower bracket! Oh man! Fnatic then lose to beastcoast, thus eliminating them from TI contention. Oh nooo!
+
+Congrats to Outsiders, though, they're going to TI!
+
+<p style="font-family: Georgia; font-size: 1.8em; font-weight: 600; text-align: center;">[EXTREMELY LOUD INCORRECT BUZZER]</p>
+
+<blockquote class="twitter-tweet tw-align-center" data-dnt="true"><p lang="en" dir="ltr">We are aware of a discrepancy regarding how the DPC standings are calculated when compared to unofficial sources. The DPC website <a href="https://t.co/lqfXMpOBmD">https://t.co/lqfXMpOBmD</a> reflects the official standings for the 2021-2022 season.</p>&mdash; DOTA 2 (@DOTA2) <a href="https://twitter.com/DOTA2/status/1559303263572283392?ref_src=twsrc%5Etfw">August 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Or as the community saw it.
+
+<p style="text-align: center;"><img src="./../../../img/ti11teams/fnaticchest.jpg" alt="Ye Olde Unoffical Source" style="width: 500px;"></p>
+
+[It turns out Valve uses a different metric for calculating partial points that Liquipedia was not privy to.](https://www.reddit.com/r/DotA2/comments/wpd5z2/fnatic_qualify_to_ti_over_outsiders_ruling_from/ikgad8h/) Now obviously the official source should be the most trusted one, but Dota fans haven't exactly been able to count on Valve for regularly maintained documentation. In fact, at the time of the ruling, there were still some errors calculating other teams' point values on the official Valve ranking site.
+
+Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liquipedia was branded as an 'unofficial source.' Crazy stuff.
+
+**What would success look like?** Jaunuel's mullet is added to the list of "greatest TI winning haircuts."
+
+**What to spam in Twitch chat when Fnatic are winning?** `lol bro`
+
+<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/spirit.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Spirit</h2>
 <table class="roster">
@@ -895,77 +968,6 @@ For... half the year. Let's ignore the second half.
 **What would success look like?** [DuBu's YouTube channel hitting 100k subscribers.](https://www.youtube.com/channel/UCK1C6nGjd-gLX4K898wgNVw/videos) Show me another player that would vlog themselves during TI grand finals. You can't.
 
 **What to spam in Twitch chat when TSM are winning?** `SABERCHAD BASED` I think I'm noticing a trend that this is going to be one of those offlane-centric TIs.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/fnatic.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Fnatic</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Raven</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Armel</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">Jabz</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">DJ</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Jaunuel</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">SunBhie</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** Raven, Jabz, and DJ were on the TI10 Fnatic, but the team had been struggling to fulfill their offlane and mid roles for quite a while. Armel left TNC after they failed to qualify to TI last year and Jaunuel was made available from Neon. Perfect fit.
-
-**How was their DPC year?** 2150 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-They played some Dota and got some placements. Doesn't matter. The only part that does matter is that 9-12th you see at the bottom of that list.
-
-Before the Arlington Major started, Fnatic were **0.05** DPC points behind Outsiders/VP to qualify for the last spot at TI. Exciting! Massive visa issues happen and only Jabz and DJ can make it. Not good! It's fine, they're allowed to get 3 of TSM's players to stand-in. Great! Wait, what? Who cares, they can play! Fnatic lose to Team Aster in upper bracket. Uh oh! But Outsiders also lose to Team Spirit. Then Outsiders beat RNG in lower bracket! Oh man! Fnatic then lose to beastcoast, thus eliminating them from TI contention. Oh nooo!
-
-Congrats to Outsiders, though, they're going to TI!
-
-<p style="font-family: Georgia; font-size: 1.8em; font-weight: 600; text-align: center;">[EXTREMELY LOUD INCORRECT BUZZER]</p>
-
-<blockquote class="twitter-tweet tw-align-center" data-dnt="true"><p lang="en" dir="ltr">We are aware of a discrepancy regarding how the DPC standings are calculated when compared to unofficial sources. The DPC website <a href="https://t.co/lqfXMpOBmD">https://t.co/lqfXMpOBmD</a> reflects the official standings for the 2021-2022 season.</p>&mdash; DOTA 2 (@DOTA2) <a href="https://twitter.com/DOTA2/status/1559303263572283392?ref_src=twsrc%5Etfw">August 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Or as the community saw it.
-
-<p style="text-align: center;"><img src="./../../../img/ti11teams/fnaticchest.jpg" alt="Ye Olde Unoffical Source" style="width: 500px;"></p>
-
-[It turns out Valve uses a different metric for calculating partial points that Liquipedia was not privy to.](https://www.reddit.com/r/DotA2/comments/wpd5z2/fnatic_qualify_to_ti_over_outsiders_ruling_from/ikgad8h/) Now obviously the official source should be the most trusted one, but Dota fans haven't exactly been able to count on Valve for regularly maintained documentation. In fact, at the time of the ruling, there were still some errors calculating other teams' point values on the official Valve ranking site.
-
-Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liquipedia was branded as an 'unofficial source.' Crazy stuff.
-
-**What would success look like?** Jaunuel's mullet is added to the list of "greatest TI winning haircuts."
-
-**What to spam in Twitch chat when Fnatic are winning?** `lol bro`
 
 ----
 
