@@ -25,7 +25,7 @@ Welcome to another DPC season! After last year, a lot of people were expecting a
     height: 48px;
   }
 
-  .roster tbody {
+  .roster {
     white-space: normal;
   }
 
@@ -136,8 +136,8 @@ Honestly, I appreciate the optimism.
 
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/liquid.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Liquid</h2>
-<table>
-  <tbody class="roster"><tr>
+<table class="roster">
+  <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">miCKe</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-pl" title="Poland" alt="Poland">Nisha</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">zai</td>
