@@ -694,21 +694,21 @@ You just learned the difference between those prefixes.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** These guys collectively won a cool $18 milli this time last year and thought, "We might be pretty good at this Dota thing. Let's keep playing together."
+**How did this roster happen?** larl came from betboom
 
-**How was their DPC year?** 2150 points
+**How was their DPC year?** 1020 points
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>EEU DPC Tour 1</td><td>2nd 🥈</td></tr>
+  <tr><td><b>Lima Major</b></td><td><b>7-8th</b></td></tr>
+  <tr><td>EEU DPC Tour 2</td><td>2nd 🥈</td></tr>
+  <tr><td><b>Berlin Major</b></td><td><b>9-12th</b></td></tr>
+  <tr><td>EEU DPC Tour 3</td><td>1st 🥇</td></tr>
+  <tr><td><b>Bali Major</b></td><td><b>9-12th</b></td></tr>
   </tbody></table>
   </div>
 
@@ -718,10 +718,10 @@ You just learned the difference between those prefixes.
   <tbody>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
+  <tr><td>DreamLeague S19</td><td>9-10th</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>DreamLeague S20</td><td>5th</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td class="first"><b>1st 🥇</b></td></tr>
   </tbody></table>
   </div>
 </div>
