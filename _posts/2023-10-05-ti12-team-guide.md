@@ -391,9 +391,9 @@ EEU was a rock paper scissors between 9pandas, betboom, and team spirit
 
 **How did this roster happen?** *Whoa now, tsunami. Don't mean to tell ya yer business, but it looks to me like there's been a calamitous misunderstandin'. This here ain't EG. This some kinda... what sorta woke flags are these... this some kinda South American team? Now boy, you know that ain't right. EG's a North American org, yes sir! Always has been. North American pride and joy right there.*
 
-Nope. Not anymore. Believe it or not, EG very unceremoniously dropped their North American roster at the beginning of this season after spending **11 years** in the region. The phrase "end of an era" gets thrown around a lot in esports, but like... every TI since TI2? Wild.
+Nope. Not anymore. At the beginning of this season, EG very unceremoniously (and then got cyberbullied into ceremoniously) dropped their North American roster after spending **11 years** in the region. The phrase "end of an era" gets thrown around a lot in esports, but like... every TI since TI2 with a North American EG? Wild.
 
-As they shed their NA skin, EG formed a South American superteam out of last year's Thunder Awaken and beastcoast rosters. Pakazs, Matthew, and Panda came from Thunder. Chris Luck and Wisper came from beastcoast.
+As they shed their NA skin, Evil Geniuses formed a South American superteam out of last year's Thunder Awaken and beastcoast rosters. Pakazs, Matthew, and Panda came from Thunder. Chris Luck and Wisper came from beastcoast.
 
 **How was their DPC year?** 1470 points
 
@@ -426,9 +426,15 @@ As they shed their NA skin, EG formed a South American superteam out of last yea
 </div>
 <br>
 
-bad last half of year
+Lima major in peru lost to shopify
 
-**What would success look like?** I've never seen a team that you can so obviously guess how they're going to do just by looking at their faces. When they're on, they're on, but when they're off, they look like dead men walking
+bad last half of year. That 4th place finish at the Berlin Major is the most significant placement a South American team has gotten at a Valve Major since paiN Gaming's 3rd place finish at [ESL One Birmingham 2018.](https://liquipedia.net/dota2/ESL_One/Birmingham/2018) Though, Birmingham's tournament format was on crack, so let's just gloss over it and go with Berlin being the new South American bar to beat.
+
+Speaking of ~~crack~~ ~~bar~~
+
+**What would success look like?** I've never seen a team where you can so clearly infer how well they're going to do on any given day just by looking at their faces. I'm serious, watch the VoDs on their elimination days. You'd think they were being forced to walk out on stage at gunpoint.
+
+For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerseys being dug out of closets, dusted off, and wives asking, "Why do you still have this? And who is Universe?" Will these vintage EG fans be rooting for this team? Probably not, but don't tell the players that. Big smiles, EG boys. Big Chris Smiles.
 
 **What to spam in Twitch chat when EG are winning?** I think at one point SA was trying to move on from it, but it's just too good of a battle cry to abandon: `GAAAAAAAAAAAAAAAAA`
 
@@ -511,7 +517,13 @@ millions of offlaners, china in shambles
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** NIGHTFALL GOT REPLACED BY SABERLIGHT (FORMERLY TSM). you are safe now my child
+**How did this roster happen?** You already know how this roster happened. Well most of the roster. After TI11, Nightfall got replaced by Saberlight from TSM. Great, you're all caught up.
+
+The *organization*, on the other hand. How did *that* happen? I mean, it's not like some multibillion-dollar company's just gonna randomly decide to start investing in esports while the bubble is popping and sponsor a bunch of superstars playing in one of the most expensive yet competitively starved regions.
+
+![Because of cliffs](./../../../img/ti12teams/shopify_saves.jpg)
+
+Nevermind, that's exactly what happened.
 
 **How was their DPC year?** 1170 points
 
