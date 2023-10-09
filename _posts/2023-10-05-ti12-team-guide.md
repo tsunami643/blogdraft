@@ -969,7 +969,7 @@ My god. By these calculations... We should be a dead game 14 years ago.
 **What to spam in Twitch chat when RNG are winning?** <code><a href="https://www.reddit.com/r/DotA2/comments/wpown1/hoping_to_share_some_insights_about_chinese_teams/#:~:text=chat%20would%20be%20spamming%20'natural'%20regardless">natural</a></code>
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti10teams/vp.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/vp.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Virtus.pro - <i>Eastern Europe</i></h2>
 <table class="roster">
   <tbody><tr>
