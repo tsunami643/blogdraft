@@ -143,7 +143,7 @@ Honestly, I appreciate the optimism.
 
 ---
 
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/liquid.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/liquid.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Liquid</h2>
 <table class="roster">
   <tbody><tr>
@@ -199,7 +199,7 @@ Bunch of 2nd places
 **What to spam in Twitch chat when Liquid are winning?** <img src="./../../../img/ti11teams/zaij.png" alt="zaiJ" style= "width: 30px;vertical-align: bottom;">
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/gaimin.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/gaimin.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Gaimin Gladiators</h2>
 <table class="roster">
   <tbody><tr>
@@ -254,7 +254,7 @@ Bunch of firsts. Was an interesting journey for a team that not many people thou
 **What to spam in Twitch chat when GG are winning?** `VEGAN POWER`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/tundra.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/tundra.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Tundra Esports</h2>
 <table class="roster">
   <tbody><tr>
@@ -312,7 +312,7 @@ riyadh - aui standin for saksa
 **What to spam in Twitch chat when Tundra are winning?** `TUNDRA IMMORTALS IN FRONT OF CROWD`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/og.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/og.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">9Pandas</h2>
 <table class="roster">
   <tbody><tr>
@@ -367,7 +367,7 @@ EEU was a rock paper scissors between 9pandas, betboom, and team spirit
 **What to spam in Twitch chat when 9Pandas are winning?** `ATF=ALWAYS TAKES FIRST`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/eg.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/eg.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Evil Geniuses</h2>
 <table class="roster">
   <tbody><tr>
@@ -425,7 +425,7 @@ bad last half of year
 **What to spam in Twitch chat when EG are winning?** I think at one point SA was trying to move on from it, but it's just too good of a battle cry to abandon: `GAAAAAAAAAAAAAAAAA`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/lgd.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/lgd.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">LGD Gaming</h2>
 <table class="roster">
   <tbody><tr>
@@ -477,12 +477,12 @@ ALSO, IT'S NOT PSG LGD ANYMORE, IT'S JUST LGD GAMING
 
 millions of offlaners, china in shambles
 
-**What would success look like?** first time since 2017 that LGD hasn't been considered favorites
+**What would success look like?** first time since 2017 that LGD hasn't been considered favorites. throw a dart at a board and you'll probably hit a TI that LGD were considered favorites
 
 **What to spam in Twitch chat when LGD are winning?** `WASH YOUR FACE`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/eg.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/eg.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Shopify Rebellion</h2>
 <table class="roster">
   <tbody><tr>
@@ -497,7 +497,7 @@ millions of offlaners, china in shambles
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** NIGHTFALL GOT REPLACED BY SABERLIGHT (FORMERLY TSM).
+**How did this roster happen?** NIGHTFALL GOT REPLACED BY SABERLIGHT (FORMERLY TSM). you are safe now my child
 
 **How was their DPC year?** 1170 points
 
@@ -545,7 +545,7 @@ Since I'm releasing this article after day 1 group stage where EG just 2-0'd LGD
 Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of my environment and North American Dota... we... we've had a rough couple of years.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/talon.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/talon.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Talon Esports</h2>
 <table class="roster">
   <tbody><tr>
@@ -618,7 +618,7 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 **What to spam in Twitch chat when Fnatic are winning?** `lol bro`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/beastcoast.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/beastcoast.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">beastcoast</h2>
 <table class="roster">
   <tbody><tr>
@@ -677,7 +677,7 @@ You just learned the difference between those prefixes.
 **What to spam in Twitch chat when bc are winning?** I think at one point SA was trying to move on from it, but it's just too good of a battle cry to abandon: `GAAAAAAAAAAAAAAAAA`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/spirit.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/spirit.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Spirit</h2>
 <table class="roster">
   <tbody><tr>
@@ -734,7 +734,7 @@ A lot more eyeballs in the crowd, too. Because there's actually going to be one.
 **What to spam in Twitch chat when Spirit are winning?** Has the Twitch meta really not evolved in the 12 months [since I last wrote this?](https://howdoiplay.com/blog/2021/10/06/ti10-team-guide.html#:~:text=What%20to%20spam%20in%20Twitch%20chat%20when%20Spirit%20is%20winning%3F%20COLLAPSE%20GIGACHAD) Well if it ain't broke, don't fix it: `COLLAPSE GIGACHAD`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/tsm.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/tsm.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">TSM</h2>
 <table class="roster">
   <tbody><tr>
@@ -791,7 +791,7 @@ For... half the year. Let's ignore the second half.
 **What to spam in Twitch chat when TSM are winning?** `SABERCHAD BASED` I think I'm noticing a trend that this is going to be one of those offlane-centric TIs.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/betboom.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/betboom.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">BetBoom Team</h2>
 <table class="roster">
   <tbody><tr>
@@ -855,7 +855,7 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 
 ----
 
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/entity.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/entity.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Entity - <i>Western Europe #1</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -910,7 +910,7 @@ watson lina at lima
 **What to spam in Twitch chat when Entity are winning?** `ENTITY INDIAN PRIDE`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/rng.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/rng.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Quest Esports - <i>Western Europe #2</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -969,7 +969,7 @@ My god. By these calculations... We should be a dead game 14 years ago.
 **What to spam in Twitch chat when RNG are winning?** <code><a href="https://www.reddit.com/r/DotA2/comments/wpown1/hoping_to_share_some_insights_about_chinese_teams/#:~:text=chat%20would%20be%20spamming%20'natural'%20regardless">natural</a></code>
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/hokori.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/hokori.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Keyd Stars - <i>South America #1</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -1026,7 +1026,7 @@ Despite all that, Hokori still did play well throughout the SA qualifier and act
 **What to spam in Twitch chat when Hokori are winning?** `lumiere es mi pastor nada me faltarar`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/thunder.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/thunder.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Thunder Awaken - <i>South America #2</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -1086,7 +1086,7 @@ Unfortunately, DarkMago had visa issues getting to Arlington and the team subseq
 **What to spam in Twitch chat when Thunder are winning?** `DOCTOR GOTITO`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/aster.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/aster.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Azure Ray - <i>China</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -1143,7 +1143,7 @@ As long as they eliminate non-Chinese teams, they should be fine. But it'll be a
 **What to spam in Twitch chat when Aster are winning?** Every year. Every year I struggle to find positive Chinese discourse surrounding this team. And every year I come up empty handed. I have plenty of ammo if you want to spam something when they're *losing*. But winning? I dunno, spam something about Lanm and his enormous... draft knowledge.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/soniqs.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/soniqs.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">nouns - <i>North America</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -1261,7 +1261,7 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 **What to spam in Twitch chat when Secret are winning?** `For the past 3-4 years, almost every time i watch secret i heard this, "Nisha is having an outstanding game", this guy has been overperforming for so long, even this season when secret was not playing well, Nisha was still performing, that guy is unbelivable, and for some reason, people don't talk that much about him. He’s just very unassuming, he tends to disappear whenever he’s not at LANs, doesn’t have a real presence if you get me. He comes in, smokes everyone, then leaves.`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/boom.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/boom.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team SMG - <i>Southeast Asia</i></h2>
 <table class="roster">
   <tbody><tr>
