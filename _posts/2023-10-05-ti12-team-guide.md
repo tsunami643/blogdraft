@@ -173,7 +173,7 @@ As for role swaps, Micke was originally the carry player back when qojqva was on
   <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈*</b></td></tr>
   <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
   <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
@@ -318,7 +318,7 @@ riyadh - aui standin for saksa
 **What to spam in Twitch chat when Tundra are winning?** `TUNDRA IMMORTALS IN FRONT OF CROWD`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/og.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/9pandas.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">9Pandas</h2>
 <table class="roster">
   <tbody><tr>
