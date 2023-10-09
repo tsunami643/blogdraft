@@ -159,7 +159,11 @@ Honestly, I appreciate the optimism.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Nisha added from Team Liquid Academy Team also known as Team Secret.
+**How did this roster happen?** After MATUMBAMAN [died last TI](https://youtu.be/s51F0JhAPHU?t=29), a void was left in this roster. Thankfully, the Team Liquid Academy Team, also known as "*Team Secret*," was hard at work training up another prospect by the name of Nisha.
+
+You know how you probably associate Sumail as being on Evil Geniuses for like... ever? King played on EG for four years, from 2015 to 2019. Nisha on Secret? 2018 to 2022. Four years is a long time under one banner and despite his stellar 2nd place finish with Secret last TI, he seemed ready to move on.
+
+As for role swaps, Micke was originally the carry player back when qojqva was on this team, so it was a seamless transition for him back to the safe lane.
 
 **How was their DPC year?** 2150 points
 
@@ -192,9 +196,11 @@ Honestly, I appreciate the optimism.
 </div>
 <br>
 
-Bunch of 2nd places
+So the year started off-- wait, sorry. Gotta fix my formatting.
 
-**What would success look like?** Finally a 1st place after a bunch of second places
+<p style="background: #bebebe">So the year started off pretty good</p>
+
+**What would success look like?** Fun fact: Do you know who the highest earning Dota 2 player that hasn't won TI is? [It's zai.](../img/ti12teams/zaiesportsearnings.jpg)
 
 **What to spam in Twitch chat when Liquid are winning?** <img src="./../../../img/ti11teams/zaij.png" alt="zaiJ" style= "width: 30px;vertical-align: bottom;">
 
@@ -383,7 +389,9 @@ EEU was a rock paper scissors between 9pandas, betboom, and team spirit
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Tsunami there's been some sort of mistake. This isn't EG. This is some south american team. EG is a North American org. Always has been. Always will be.
+**How did this roster happen?** Whoa now, tsunami, there's been some sort of mistake. This isn't EG. This is some South American team. EG is a North American org. Always has been. Always will be.
+
+unceremoniously dropped arteezy
 
 NOPE. Not anymore. They shed their NA skin and formed a superteam out of last year's Thunder Awaken and beastcoast rosters. Pakazs and Panda and Matthew from TA, Chris Luck and Wisper from Beastcoast.
 
@@ -440,9 +448,15 @@ bad last half of year
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?**  faith bian and ame retired. offlane constantly changed throughout the year. tour 1 was xiàng yǔ. lima major was old eleven. tour 2 and berlin was zeal. tour 3 onwards was niu
+**How did this roster happen?** There were kinda two retirement tours on display at last year's TI. Matu's was the "I'M OUTTA HERE BITCHES" vibe and Ame's had more of a "Your father doesn't want anyone to make a fuss" energy. LGD ended up filling Ame's carry shoes surprisingly well with young EHOME talent, shiro.
 
-ALSO, IT'S NOT PSG LGD ANYMORE, IT'S JUST LGD GAMING
+Faith_bian also retired and finding a replacement offlaner was a real... you know, years ago I would've looked up some deep elaborate Chinese idiomatic lore phrase to drop here, but I'm a busy man these days so I'm just gonna hit you with the Google Translate. Finding a replacement offlaner has been a real 狗屎表演. Yeah. I'm sure that means what I want it to.
+
+Tour 1 they had 项羽/xiàng yǔ, Lima Major was old eLeVeN, Tour 2 and Berlin Major's offlaner was zeal, and Tour 3 onwards has been niu.
+
+Also, before you ask: Yes, Ame's was *kind of* the classic "Chinese retirement" because he literally just won the [2022 Asian Games](https://liquipedia.net/dota2/Asian_Games/2022) with Team China despite not playing competitively since last TI.
+
+*NOTE TO SELF - IT'S JUST LGD NOW. NOT PSG.LGD. DON'T CALL THEM PSG.LGD ANYMORE. CALL THEM HONKAI.STAR.RAIL.LGD IF YOU HAVE TO.*
 
 **How was their DPC year?** 1284 points
 
@@ -1017,13 +1031,11 @@ My god. By these calculations... We should be a dead game 14 years ago.
 </div>
 <br>
 
-After 2020, Secret realized they love online Dota so much they decided to not go to a single major.
+In the EEU rock paper scissors game, VP was out here playing clarinet
 
-They got revenged 3-0 by Entity in the WEU Regional Qualifiers and had to go through the cutthroat Last Chance Qualifier to make it to TI. But ain't no way Puppey was breaking his all-TI-attendance streak. Not this year.
+Does that mean that VP were being gatekept and are really goated with the sauce? No, probably not. They showed up to Riyadh and my first reaction was
 
-Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? And then again when BetBoom beat them? Secret also beat them to take the first LCQ slot.
-
-**What would success look like?** Given the state of this team all year long, just making it to TI was a success in and of itself. The Zayac + Reso honeymoon period does seem strong, though.
+**What would success look like?** Tragically, Fng no longer sports the luxurious locks he was famous for early on in his career.
 
 **What to spam in Twitch chat when Secret are winning?** `For the past 3-4 years, almost every time i watch secret i heard this, "Nisha is having an outstanding game", this guy has been overperforming for so long, even this season when secret was not playing well, Nisha was still performing, that guy is unbelivable, and for some reason, people don't talk that much about him. He’s just very unassuming, he tends to disappear whenever he’s not at LANs, doesn’t have a real presence if you get me. He comes in, smokes everyone, then leaves.`
 
