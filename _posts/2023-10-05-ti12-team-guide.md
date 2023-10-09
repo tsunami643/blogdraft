@@ -910,7 +910,7 @@ watson lina at lima
 **What to spam in Twitch chat when Entity are winning?** `ENTITY INDIAN PRIDE`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/rng.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/quest.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Quest Esports - <i>Western Europe #2</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -969,7 +969,7 @@ My god. By these calculations... We should be a dead game 14 years ago.
 **What to spam in Twitch chat when RNG are winning?** <code><a href="https://www.reddit.com/r/DotA2/comments/wpown1/hoping_to_share_some_insights_about_chinese_teams/#:~:text=chat%20would%20be%20spamming%20'natural'%20regardless">natural</a></code>
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/hokori.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/keyd.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Keyd Stars - <i>South America #1</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -1086,7 +1086,7 @@ Unfortunately, DarkMago had visa issues getting to Arlington and the team subseq
 **What to spam in Twitch chat when Thunder are winning?** `DOCTOR GOTITO`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/aster.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/azure.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Azure Ray - <i>China</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -1143,7 +1143,7 @@ As long as they eliminate non-Chinese teams, they should be fine. But it'll be a
 **What to spam in Twitch chat when Aster are winning?** Every year. Every year I struggle to find positive Chinese discourse surrounding this team. And every year I come up empty handed. I have plenty of ammo if you want to spam something when they're *losing*. But winning? I dunno, spam something about Lanm and his enormous... draft knowledge.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/soniqs.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/nouns.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">nouns - <i>North America</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -1261,7 +1261,7 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 **What to spam in Twitch chat when Secret are winning?** `For the past 3-4 years, almost every time i watch secret i heard this, "Nisha is having an outstanding game", this guy has been overperforming for so long, even this season when secret was not playing well, Nisha was still performing, that guy is unbelivable, and for some reason, people don't talk that much about him. He’s just very unassuming, he tends to disappear whenever he’s not at LANs, doesn’t have a real presence if you get me. He comes in, smokes everyone, then leaves.`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/boom.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/smg.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team SMG - <i>Southeast Asia</i></h2>
 <table class="roster">
   <tbody><tr>
