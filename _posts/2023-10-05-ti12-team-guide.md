@@ -517,11 +517,11 @@ millions of offlaners, china in shambles
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** You already know how this roster happened. Well most of the roster. After TI11, Nightfall got replaced by Saberlight from TSM. Great, you're all caught up.
+**How did this roster happen?** You already know how this roster happened. Well, most of the roster anyway. After TI11, Nightfall got replaced by Saberlight from TSM. Great, you're all caught up.
 
-The *organization*, on the other hand. How did *that* happen? I mean, it's not like some multibillion-dollar company's just gonna randomly decide to start investing in esports while the bubble is popping and sponsor a bunch of superstars playing in one of the most expensive yet competitively starved regions.
+The *organization*, on the other hand. How did *that* happen? I mean, it's not like some multibillion-dollar company's just gonna randomly decide to start investing in esports while the bubble is popping and sponsor a bunch of superstars playing in one of the most expensive yet competitively starved regions in *Dota 2* of all games.
 
-![Because of cliffs](./../../../img/ti12teams/shopify_saves.jpg)
+<p class="center"><img alt="Because cliffs" src="./../../../img/ti12teams/shopify_saves.jpg"></p>
 
 Nevermind, that's exactly what happened.
 
