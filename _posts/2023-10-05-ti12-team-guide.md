@@ -925,7 +925,7 @@ watson lina at lima
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** tier 2 team with random offlaners constantly. formerly ooredoo thunders
+**How did this roster happen?** tier 2 team with random offlaners constantly. formerly ooredoo thunders Affectionately referred to as "The Oreoes"
 
 **How was their DPC year?** 545 points
 
@@ -967,6 +967,65 @@ Anything else worth mentioning? Oh yeah, Ghost was unable to make it to Arlingto
 My god. By these calculations... We should be a dead game 14 years ago.
 
 **What to spam in Twitch chat when RNG are winning?** <code><a href="https://www.reddit.com/r/DotA2/comments/wpown1/hoping_to_share_some_insights_about_chinese_teams/#:~:text=chat%20would%20be%20spamming%20'natural'%20regardless">natural</a></code>
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti10teams/vp.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Virtus.pro - <i>Eastern Europe</i></h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Kiritych~</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">squad1x</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Noticed</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">sayuw</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">Fng</td> 
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">G</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** idk
+
+**How was their DPC year?** 218 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>EEU DPC Tour 1</td><td>4th</td></tr>
+  <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
+  <tr><td>EEU DPC Tour 2</td><td>4th</td></tr>
+  <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
+  <tr><td>EEU DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>DreamLeague S20</td><td>N/A</td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>17-20th</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+After 2020, Secret realized they love online Dota so much they decided to not go to a single major.
+
+They got revenged 3-0 by Entity in the WEU Regional Qualifiers and had to go through the cutthroat Last Chance Qualifier to make it to TI. But ain't no way Puppey was breaking his all-TI-attendance streak. Not this year.
+
+Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? And then again when BetBoom beat them? Secret also beat them to take the first LCQ slot.
+
+**What would success look like?** Given the state of this team all year long, just making it to TI was a success in and of itself. The Zayac + Reso honeymoon period does seem strong, though.
+
+**What to spam in Twitch chat when Secret are winning?** `For the past 3-4 years, almost every time i watch secret i heard this, "Nisha is having an outstanding game", this guy has been overperforming for so long, even this season when secret was not playing well, Nisha was still performing, that guy is unbelivable, and for some reason, people don't talk that much about him. He’s just very unassuming, he tends to disappear whenever he’s not at LANs, doesn’t have a real presence if you get me. He comes in, smokes everyone, then leaves.`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/keyd.jpg" alt="Banner"></p>
@@ -1086,63 +1145,6 @@ Unfortunately, DarkMago had visa issues getting to Arlington and the team subseq
 **What to spam in Twitch chat when Thunder are winning?** `DOCTOR GOTITO`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/azure.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Azure Ray - <i>China</i></h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Lou</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Somnus</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">chalice</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">fy</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">天命 (tiān mìng)</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">LaNm</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** Lou and a bunch of scrubs under Ybb for most of the year. Tour 3 became azure ray the china avengers came in and got 
-
-**How was their DPC year?** 400 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>CN DPC Tour 1 - <i>Div 2</i></td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>CN DPC Tour 2</td><td>6th</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>CN DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="top8"><b>7-8th</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>N/A</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>N/A</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-The moment I saw these placements I thought, "Wow, those are some pretty great performances. But does Aster ever win?" The answer is no, they don't. But they always get *really close.* [Heavily reminscent](https://howdoiplay.com/blog/2018/07/18/ti8-team-guide.html#:~:text=Notable%20tournament%20placings%20A,And%20not%20win.) of some [old Vici Gaming squads.](https://howdoiplay.com/blog/2021/10/06/ti10-team-guide.html#:~:text=I%20could%20literally,TI%20championship%20material.) Is Ori just allergic to gold? 
-
-**What would success look like?** Aster's reputation within China has slowly been getting repaired after last year's 'civil war specialist' stereotype. Unfortunately, they fumbled the bag at *ESL Malaysia* and lost to OG in grand finals. Cue the ridicule all over again.
-
-As long as they eliminate non-Chinese teams, they should be fine. But it'll be a dark day if they face LGD in bracket, eliminate them, and then _don't_ get the Aegis.
-
-**What to spam in Twitch chat when Aster are winning?** Every year. Every year I struggle to find positive Chinese discourse surrounding this team. And every year I come up empty handed. I have plenty of ammo if you want to spam something when they're *losing*. But winning? I dunno, spam something about Lanm and his enormous... draft knowledge.
-
-<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/nouns.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">nouns - <i>North America</i></h2>
 <table class="roster">
@@ -1202,36 +1204,36 @@ No idea what happened in Arlington, though, they got slaughtered. Which is weird
 **What to spam in Twitch chat when Soniqs are winning?** `HATERS SUCK MY NUTS ccncBayed`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti10teams/vp.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Virtus.pro - <i>Eastern Europe</i></h2>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/azure.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Azure Ray - <i>China</i></h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Kiritych~</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">squad1x</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Noticed</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">sayuw</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">Fng</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Lou</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Somnus</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">chalice</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">fy</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">天命 (tiān mìng)</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">G</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">LaNm</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** idk
+**How did this roster happen?** Lou and a bunch of scrubs under Ybb for most of the year. Tour 3 became azure ray the china avengers came in and got 
 
-**How was their DPC year?** 218 points
+**How was their DPC year?** 400 points
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>EEU DPC Tour 1</td><td>4th</td></tr>
+  <tr><td>CN DPC Tour 1 - <i>Div 2</i></td><td>1st 🥇</td></tr>
   <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>EEU DPC Tour 2</td><td>4th</td></tr>
+  <tr><td>CN DPC Tour 2</td><td>6th</td></tr>
   <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>EEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
+  <tr><td>CN DPC Tour 3</td><td>4th</td></tr>
+  <tr><td><b>Bali Major</b></td><td class="top8"><b>7-8th</b></td></tr>
   </tbody></table>
   </div>
 
@@ -1244,21 +1246,19 @@ No idea what happened in Arlington, though, they got slaughtered. Which is weird
   <tr><td>DreamLeague S19</td><td>N/A</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>DreamLeague S20</td><td>N/A</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>17-20th</b></td></tr>
+  <tr><td><b>Riyadh Masters 2023</b></td><td><b>N/A</b></td></tr>
   </tbody></table>
   </div>
 </div>
 <br>
 
-After 2020, Secret realized they love online Dota so much they decided to not go to a single major.
+The moment I saw these placements I thought, "Wow, those are some pretty great performances. But does Aster ever win?" The answer is no, they don't. But they always get *really close.* [Heavily reminscent](https://howdoiplay.com/blog/2018/07/18/ti8-team-guide.html#:~:text=Notable%20tournament%20placings%20A,And%20not%20win.) of some [old Vici Gaming squads.](https://howdoiplay.com/blog/2021/10/06/ti10-team-guide.html#:~:text=I%20could%20literally,TI%20championship%20material.) Is Ori just allergic to gold? 
 
-They got revenged 3-0 by Entity in the WEU Regional Qualifiers and had to go through the cutthroat Last Chance Qualifier to make it to TI. But ain't no way Puppey was breaking his all-TI-attendance streak. Not this year.
+**What would success look like?** Aster's reputation within China has slowly been getting repaired after last year's 'civil war specialist' stereotype. Unfortunately, they fumbled the bag at *ESL Malaysia* and lost to OG in grand finals. Cue the ridicule all over again.
 
-Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? And then again when BetBoom beat them? Secret also beat them to take the first LCQ slot.
+As long as they eliminate non-Chinese teams, they should be fine. But it'll be a dark day if they face LGD in bracket, eliminate them, and then _don't_ get the Aegis.
 
-**What would success look like?** Given the state of this team all year long, just making it to TI was a success in and of itself. The Zayac + Reso honeymoon period does seem strong, though.
-
-**What to spam in Twitch chat when Secret are winning?** `For the past 3-4 years, almost every time i watch secret i heard this, "Nisha is having an outstanding game", this guy has been overperforming for so long, even this season when secret was not playing well, Nisha was still performing, that guy is unbelivable, and for some reason, people don't talk that much about him. He’s just very unassuming, he tends to disappear whenever he’s not at LANs, doesn’t have a real presence if you get me. He comes in, smokes everyone, then leaves.`
+**What to spam in Twitch chat when Aster are winning?** Every year. Every year I struggle to find positive Chinese discourse surrounding this team. And every year I come up empty handed. I have plenty of ammo if you want to spam something when they're *losing*. But winning? I dunno, spam something about Lanm and his enormous... draft knowledge.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/smg.jpg" alt="Banner"></p>
