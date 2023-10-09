@@ -389,11 +389,11 @@ EEU was a rock paper scissors between 9pandas, betboom, and team spirit
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Whoa now, tsunami, there's been some sort of mistake. This isn't EG. This is some South American team. EG is a North American org. Always has been. Always will be.
+**How did this roster happen?** *Whoa now, tsunami. Don't mean to tell ya yer business, but it looks to me like there's been a calamitous misunderstandin'. This here ain't EG. This some kinda... what sorta woke flags are these... this some kinda South American team? Now boy, you know that ain't right. EG's a North American org, yes sir! Always has been. North American pride and joy right there.*
 
-unceremoniously dropped arteezy
+Nope. Not anymore. Believe it or not, EG very unceremoniously dropped their North American roster at the beginning of this season after spending **11 years** in the region. The phrase "end of an era" gets thrown around a lot in esports, but like... every TI since TI2? Wild.
 
-NOPE. Not anymore. They shed their NA skin and formed a superteam out of last year's Thunder Awaken and beastcoast rosters. Pakazs and Panda and Matthew from TA, Chris Luck and Wisper from Beastcoast.
+As they shed their NA skin, EG formed a South American superteam out of last year's Thunder Awaken and beastcoast rosters. Pakazs, Matthew, and Panda came from Thunder. Chris Luck and Wisper came from beastcoast.
 
 **How was their DPC year?** 1470 points
 
@@ -448,7 +448,7 @@ bad last half of year
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** There were kinda two retirement tours on display at last year's TI. Matu's was the "I'M OUTTA HERE BITCHES" vibe and Ame's had more of a "Your father doesn't want anyone to make a fuss" energy. LGD ended up filling Ame's carry shoes surprisingly well with young EHOME talent, shiro.
+**How did this roster happen?** There were kinda two retirement tours on display at last year's TI. Matu's was the "I'M OUTTA HERE BITCHES" vibe and Ame's had more of a "Your father doesn't want anyone to make a fuss" energy. Nothing was ever formally announced, but everyone suspected it, and his absence this year confirmed it. LGD ended up filling Ame's carry shoes surprisingly well with young EHOME talent, shiro.
 
 Faith_bian also retired and finding a replacement offlaner was a real... you know, years ago I would've looked up some deep elaborate Chinese idiomatic lore phrase to drop here, but I'm a busy man these days so I'm just gonna hit you with the Google Translate. Finding a replacement offlaner has been a real 狗屎表演. Yeah. I'm sure that means what I want it to.
 
