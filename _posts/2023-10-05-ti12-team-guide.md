@@ -482,7 +482,7 @@ millions of offlaners, china in shambles
 **What to spam in Twitch chat when LGD are winning?** `WASH YOUR FACE`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/eg.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/shopify.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Shopify Rebellion</h2>
 <table class="roster">
   <tbody><tr>
