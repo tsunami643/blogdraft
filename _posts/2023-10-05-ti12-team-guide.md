@@ -1366,6 +1366,35 @@ We're about to learn just how strong a crowd buff can truly get.
 
 # You scrolled to the bottom 🎉
 
+<style>
+  .sticker {
+  animation: move 1.5s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  box-shadow: 2em 4em 6em -2em rgba(0, 0, 0, 0.5),
+    1em 2em 3.5em -2.5em rgba(0, 0, 0, 0.5);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  border-radius: 0.5em;
+  background: #1d1f20;
+  background-size: 16px 16px;
+  background-position: 50%;
+  background-image: linear-gradient(
+      90deg,
+      rgba(55, 55, 255, 0.4) 1px,
+      transparent 0
+    ),
+    linear-gradient(180deg, rgba(55, 55, 255, 0.4) 1px, transparent 0);
+  border: 1px solid #2b2b2b;
+  
+  @keyframes move {
+    0% {transform: rotate3d(0.5, -0.866, 0, 15deg) rotate(1deg);}
+    100% {transform: rotate3d(0, 0, 0, 0deg) rotate(0deg);}
+  }
+  }
+  </style>
+
+<div class="sticker"><img style="max-width: 400px;" title="Buy my sticker!" src="./../../../img/ti12teams/tsunami_sticker.png"></div>
+
 Congratulations! More and more people have told me they actually use these blogs as legitimate primers to catch up on the latest year of Dota esports, so I actually tried to give more real information this time rather than vomiting 70000 characters of unfiltered memes and inside jokes.
 
 As always, my sincerest thanks to the many volunteers who [keep Liquipedia up to date.](https://liquipedia.net/dota2/Dota_Pro_Circuit/2021-22) You may be an unofficial source in Valve's eyes, but this is one wiki that's vandalized my heart.
