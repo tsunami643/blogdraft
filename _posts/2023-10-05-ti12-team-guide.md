@@ -340,11 +340,11 @@ As mentioned earlier, you'll notice a lot of stand-in asterisks by these results
 
 Despite all that, pretty solid results for Tundra despite Wraith Pact being removed in April, eh?
 
-**What would success look like?** I don't mean to alarm you, but we may be witnessing the potential of 3 time TI winners Topson and Aui as coach!
+**What would success look like?** I don't mean to alarm you, but we may be witnessing the potential of ***3*** time TI winners Topson and Aui as coach!
 
-Sure Topson already played a few matches with the Tundra boys during DreamLeague S21 and it was... fine? They got 5-6th out of a 12 team tournament.
+Sure, Topson already played a few matches with the Tundra boys during September's DreamLeague S21 and it was... fine? They got 5-6th out of a 12 team tournament.
 
-<span style="font-size: 42px"><b>BUT IT'S TOPSON!</b> <img class="batchest" title="BATCHESTING SO HARD" src="./../../../img/ti12teams/batchest.png"></span>
+<p style="text-align: center; font-size: 42px"><b>BUT IT'S TOPSON!</b> <img class="batchest" title="BATCHESTING SO HARD" src="./../../../img/ti12teams/batchest.png"></p>
 
 **What to spam in Twitch chat when Tundra are winning?** `TUNDRA IMMORTALS IN FRONT OF CROWD`
 
