@@ -1371,9 +1371,12 @@ We're about to learn just how strong a crowd buff can truly get.
     background-image: url("https://howdoiplay.com/blogdraft/img/ti12teams/mapsample.jpg");
     background-repeat: no-repeat;
     min-height: 520px;
+    max-width: 1031px;
+    margin: auto;
   }
   .sticker_wrapper {
     margin: 10px 10px;
+    text-align: center;
   }
   .sticker {
   animation: move 1.2s;
@@ -1403,6 +1406,9 @@ We're about to learn just how strong a crowd buff can truly get.
     width: 35px;
     height: 35px;
     margin: 0 5px 0 0px;
+    animation: grow 0.5s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
   }
 
   .speaker img {
@@ -1438,6 +1444,15 @@ We're about to learn just how strong a crowd buff can truly get.
     0% {transform: rotate3d(0.5, -0.866, 0, 15deg) rotate(1deg);}
     100% {transform: rotate3d(50, 20, 30, -8deg) rotate(0deg)}
   }
+
+  @keyframes grow {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.5);
+  }
+}
   </style>
 <div class="voiceline_wrapper">
 <div class="sticker_wrapper">
