@@ -281,6 +281,7 @@ Bunch of firsts. Was an interesting journey for a team that not many people thou
 .batchest {
   animation: shake 0.3s;
   animation-iteration-count: infinite;
+  width: 75px;
 }
 
 @keyframes shake {
@@ -298,9 +299,11 @@ Bunch of firsts. Was an interesting journey for a team that not many people thou
 }
 </style>
 
-**How did this roster happen?** Ah yes, the current reigning TI winne-- <span style="font-size: 30px"><b>IS THAT TOPSON?</b> <img class="batchest" title="HECKIN LOVE TOPSON" src="./../../../img/ti12teams/batchest.png"></span>
+**How did this roster happen?** Ah yes, the current reigning TI winne-- <span style="font-size: 42px"><b>IS THAT TOPSON?</b> <img class="batchest" title="HECKIN LOVE TOPSON" src="./../../../img/ti12teams/batchest.png"></span>
 
-Yes, but quell your excitement. The main reason Topson is here is because Tundra, specifically Saksa, has been having a [pretty rough year.](https://twitter.com/Saksadota/status/1682719745110310912) and was mysteriously missing for a lot of events. In the 11th hour Topson was called up and nine has now changed to 4 position. Topson had a failed run attempting to qualify for last TI with ana on T1 in SEA. then he was on the meme but also not intentionally meme team Old G.
+Yes, but quell your excitement. The main reason Topson is here is because Tundra, specifically Saksa, had a pretty rough year and was mysteriously missing from a handful of events before finally [having to go public](https://twitter.com/Saksadota/status/1682719745110310912) that he's been struggling with anxiety, sleep, and mental health. Even TI winners are human.
+
+In the eleventh hour Topson, who had spent most of the year farting around on the meme-but-also-not-intentionally-meme team Old G, was called up to bat leaving Nine to take up 4 position duties.
 
 **How was their DPC year?** 1660 points
 
