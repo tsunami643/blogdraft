@@ -196,6 +196,8 @@ You know how you probably associate Sumail as being on Evil Geniuses for like...
 
 So the year started off-- wait, sorry. Gotta fix my formatting.
 
+boxi origins link for lima
+
 <p style="background: #bebebe">So the year started off pretty good</p>
 
 **What would success look like?** Fun fact: Do you know who the highest earning Dota 2 player that hasn't won TI is? [It's zai.](../img/ti12teams/zaiesportsearnings.jpg)
@@ -301,7 +303,7 @@ Bunch of firsts. Was an interesting journey for a team that not many people thou
 
 **How did this roster happen?** Ah yes, the current reigning TI champio-- <span style="font-size: 42px"><b>IS THAT TOPSON?</b> <img class="batchest" title="HECKIN' LOVE TOPSON" src="./../../../img/ti12teams/batchest.png"></span>
 
-Yes, but quell your excitement. The main reason Topson is here is because Tundra, specifically Saksa, had a pretty rough year and was mysteriously missing from a handful of events before finally [deciding to go public](https://twitter.com/Saksadota/status/1682719745110310912) that he's been struggling with anxiety, sleep, and mental health. Even TI winners are human.
+Yes, but show some decorum. The main reason Topson is here is because Tundra, specifically Saksa, had a pretty rough year and was mysteriously missing from a handful of events before publicly [opening up](https://twitter.com/Saksadota/status/1682719745110310912) that he's been struggling with anxiety, sleep, and mental health. Even TI winners are human.
 
 In the eleventh hour, Topson, who had spent most of his year farting around on the meme-but-jk-not-really-meme team Old G, was called up to bat moving Nine to 4 position duties. You couldn't pay me enough to cover all the Old G drama this year.
 
@@ -344,7 +346,7 @@ Despite all that, pretty solid results for Tundra despite Wraith Pact being remo
 
 Sure, Topson already played a few matches with the Tundra boys during September's DreamLeague S21 and it was... fine? They only got 5-6th out of a 12 team tournament.
 
-<p style="text-align: center; font-size: 42px"><b>BUT IT'S TOPSON!</b> <img class="batchest" title="BATCHESTING SO HARD" src="./../../../img/ti12teams/batchest.png"></p>
+<p style="text-align: center; font-size: 42px"><b>BUT IT'S TAAAPSEN!</b> <img class="batchest" title="BATCHESTING SO HARD" src="./../../../img/ti12teams/batchest.png"></p>
 
 **What to spam in Twitch chat when Tundra are winning?** `TUNDRA IMMORTALS IN FRONT OF CROWD`
 
@@ -493,7 +495,7 @@ For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerse
 
 **How did this roster happen?** There were kinda two retirement tours on display at last year's TI. Matu's was the "I'M OUTTA HERE BITCHES" vibe and Ame's had more of a "Your father doesn't want anyone to make a fuss" energy. Nothing was ever formally announced, but everyone suspected it, and his absence this year confirmed it. LGD ended up filling Ame's carry shoes surprisingly well with young EHOME talent, shiro.
 
-Faith_bian also retired and finding a replacement offlaner was... ugh, you know, years ago I would've looked up some deep elaborate Chinese idiomatic lore phrase to drop here, but I'm a busy man these days. I'm just gonna hit you with the Google Translate. Finding a replacement offlaner was a total 节目充满狗屎. Yeah. I'm sure that means what I want it to.
+Faith_bian also retired and finding a replacement offlaner was... ugh, you know, years ago I would've looked up some deep elaborate Chinese idiomatic lore phrase to drop here, but I'm a busy man these days. I'm just gonna hit you with the <abbr title="If one of you comment 'You should use DeepL 🤓' I swear...">Google Translate</abbr>. Finding a replacement offlaner was a total 节目充满狗屎. Yeah. I'm sure that means what I want it to.
 
 Tour 1's offlaner was 项羽/xiàng yǔ, Lima Major was old eLeVeN, Tour 2 and Berlin Major they had zeal, and Tour 3 onwards has been niu.
 
@@ -532,9 +534,9 @@ Also, before you ask: Yes, Ame's was *kind of* the classic "Chinese retirement" 
 </div>
 <br>
 
-millions of offlaners, china in shambles
+China has been in shambles this entire year. Tour 1 was fraught with match fixing which culminated in a massive ban wave after Lima. LGD quietly kept their head down. Perhaps a bit too down because they themselves didn't really have any notable results this year, but it's
 
-**What would success look like?** first time since 2017 that LGD hasn't been considered favorites. throw a dart at a board and you'll probably hit a TI that LGD were considered favorites
+**What would success look like?** Throw a dart at a board of TIs. Chances are you'll hit one where LGD were considered the favorites to win the whole thing. This year? Definitely not.
 
 **What to spam in Twitch chat when LGD are winning?** `WASH YOUR FACE`
 
@@ -1313,11 +1315,9 @@ No idea what happened in Arlington, though, they got slaughtered. Which is weird
 </div>
 <br>
 
-The moment I saw these placements I thought, "Wow, those are some pretty great performances. But does Aster ever win?" The answer is no, they don't. But they always get *really close.* [Heavily reminscent](https://howdoiplay.com/blog/2018/07/18/ti8-team-guide.html#:~:text=Notable%20tournament%20placings%20A,And%20not%20win.) of some [old Vici Gaming squads.](https://howdoiplay.com/blog/2021/10/06/ti10-team-guide.html#:~:text=I%20could%20literally,TI%20championship%20material.) Is Ori just allergic to gold? 
+Bunch of nothing then the chinese avengers
 
-**What would success look like?** Aster's reputation within China has slowly been getting repaired after last year's 'civil war specialist' stereotype. Unfortunately, they fumbled the bag at *ESL Malaysia* and lost to OG in grand finals. Cue the ridicule all over again.
-
-As long as they eliminate non-Chinese teams, they should be fine. But it'll be a dark day if they face LGD in bracket, eliminate them, and then _don't_ get the Aegis.
+**What would success look like?** Only two Chinese teams are attending this TI. LGD and Azure Ray. Last year was already surprising with only LGD, Aster, and RNG. But only *two*? Never thought I'd see the day.
 
 **What to spam in Twitch chat when Aster are winning?** Every year. Every year I struggle to find positive Chinese discourse surrounding this team. And every year I come up empty handed. I have plenty of ammo if you want to spam something when they're *losing*. But winning? I dunno, spam something about Lanm and his enormous... draft knowledge.
 
