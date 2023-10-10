@@ -366,7 +366,7 @@ Sure, Topson already played a few matches with the Tundra boys during September'
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the Hellraisers tag with Daxak, kiyotaka (formerly depressed kid), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak and Yuragi stood in for him during the Lima Major, even though he was still very much on OG.
+**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the Hellraisers tag with Daxak, kiyotaka (formerly depressed kid), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak so Yuragi stood in for him at the Lima Major despite very much still being on OG.
 
 Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
 
@@ -405,7 +405,7 @@ This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetB
 
 Surprisingly, their best finish at the Berlin Major was with Rodjer standing in for Solo.
 
-**What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. Then that old VP would proceed to consistently drop the ball at TI7, TI8, and TI9. I would know. I put them into my Compendium predictions to win it literally all three of those years.
+**What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. I would know. I put them into my Compendium predictions to win it literally all three of those years.Then that old VP would proceed to consistently drop the ball at TI7, TI8, and TI9.
 
 For some, true success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was beaten to death with Aegis one too many times this year.
 
