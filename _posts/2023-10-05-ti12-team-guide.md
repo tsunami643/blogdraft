@@ -281,7 +281,7 @@ Bunch of firsts. Was an interesting journey for a team that not many people thou
 .batchest {
   animation: shake 0.3s;
   animation-iteration-count: infinite;
-  width: 75px;
+  width: 55px;
 }
 
 @keyframes shake {
@@ -299,11 +299,11 @@ Bunch of firsts. Was an interesting journey for a team that not many people thou
 }
 </style>
 
-**How did this roster happen?** Ah yes, the current reigning TI winne-- <span style="font-size: 42px"><b>IS THAT TOPSON?</b> <img class="batchest" title="HECKIN LOVE TOPSON" src="./../../../img/ti12teams/batchest.png"></span>
+**How did this roster happen?** Ah yes, the current reigning TI champio-- <span style="font-size: 42px"><b>IS THAT TOPSON?</b> <img class="batchest" title="HECKIN LOVE TOPSON" src="./../../../img/ti12teams/batchest.png"></span>
 
-Yes, but quell your excitement. The main reason Topson is here is because Tundra, specifically Saksa, had a pretty rough year and was mysteriously missing from a handful of events before finally [having to go public](https://twitter.com/Saksadota/status/1682719745110310912) that he's been struggling with anxiety, sleep, and mental health. Even TI winners are human.
+Yes, but quell your excitement. The main reason Topson is here is because Tundra, specifically Saksa, had a pretty rough year and was mysteriously missing from a handful of events before finally [deciding to go public](https://twitter.com/Saksadota/status/1682719745110310912) that he's been struggling with anxiety, sleep, and mental health. Even TI winners are human.
 
-In the eleventh hour Topson, who had spent most of the year farting around on the meme-but-also-not-intentionally-meme team Old G, was called up to bat leaving Nine to take up 4 position duties.
+In the eleventh hour, Topson, who had spent most of the year farting around on the meme-but-jk-not-really-meme team Old G, was called up to bat moving Nine to 4 position duties. You couldn't pay me enough to cover all the Old G drama this year.
 
 **How was their DPC year?** 1660 points
 
