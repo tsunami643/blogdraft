@@ -1373,6 +1373,7 @@ We're about to learn just how strong a crowd buff can truly get.
     min-height: 520px;
     max-width: 1031px;
     margin: auto;
+    margin-bottom: 8px;
   }
   .sticker_wrapper {
     margin: 10px 10px;
