@@ -1434,8 +1434,8 @@ We're about to learn just how strong a crowd buff can truly get.
     100% {transform: rotate3d(50, 20, 30, -8deg) rotate(0deg)}
   }
   </style>
-<div>
 <div class="voiceline_wrapper">
+<div>
 <img class="sticker" style="max-width: 400px;" title="Buy my sticker!" src="./../../../img/ti12teams/tsunami_sticker.png"></div>
 
 <div class="voiceline"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - I'm so bored.</span><!--<audio class="audio" src="../../../chatwheel/assets/audio/master/UNDEFINED.mp3" autoplay></audio>--></div>
