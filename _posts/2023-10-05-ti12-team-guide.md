@@ -299,7 +299,7 @@ Bunch of firsts. Was an interesting journey for a team that not many people thou
 }
 </style>
 
-**How did this roster happen?** Ah yes, the current reigning TI champio-- <span style="font-size: 42px"><b>IS THAT TOPSON?</b> <img class="batchest" title="HECKIN LOVE TOPSON" src="./../../../img/ti12teams/batchest.png"></span>
+**How did this roster happen?** Ah yes, the current reigning TI champio-- <span style="font-size: 42px"><b>IS THAT TOPSON?</b> <img class="batchest" title="HECKIN' LOVE TOPSON" src="./../../../img/ti12teams/batchest.png"></span>
 
 Yes, but quell your excitement. The main reason Topson is here is because Tundra, specifically Saksa, had a pretty rough year and was mysteriously missing from a handful of events before finally [deciding to go public](https://twitter.com/Saksadota/status/1682719745110310912) that he's been struggling with anxiety, sleep, and mental health. Even TI winners are human.
 
@@ -336,12 +336,15 @@ In the eleventh hour, Topson, who had spent most of the year farting around on t
 </div>
 <br>
 
-DLS19 - aramis standin for saksa 4
-Dls20 - malr1ne standin for nine mid
-Bali - aui standin for saksa
-riyadh - aui standin for saksa
+As mentioned earlier, you'll notice a lot of stand-in asterisks by these results. For DLS19, Aramis stood in for Saksa. For DLS20, Malr1ne stood in for Nine. And for Bali and Riyadh, coach Aui stood in for Saksa.
 
-**What would success look like?** 3 time ti winners with Aui and topson and back to back winners
+Despite all that, pretty solid results for Tundra despite Wraith Pact being removed in April, eh?
+
+**What would success look like?** I don't mean to alarm you, but we may be witnessing the potential of 3 time TI winners Topson and Aui as coach!
+
+Sure Topson already played a few matches with the Tundra boys during DreamLeague S21 and it was... fine? They got 5-6th out of a 12 team tournament.
+
+<span style="font-size: 42px"><b>BUT IT'S TOPSON!</b> <img class="batchest" title="BATCHESTING SO HARD" src="./../../../img/ti12teams/batchest.png"></span>
 
 **What to spam in Twitch chat when Tundra are winning?** `TUNDRA IMMORTALS IN FRONT OF CROWD`
 
