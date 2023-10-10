@@ -562,7 +562,7 @@ The *organization*, on the other hand. How did that happen? I mean, it's not lik
 
 But that's exactly what happened.
 
-<p style="text-align:center; max-width: 660px;"><img title="Because cliffs" src="./../../../img/ti12teams/shopify_saves.jpg"></p>
+<p class="center"><img style="max-width: 660px;" title="Because cliffs" src="./../../../img/ti12teams/shopify_saves.jpg"></p>
 
 **How was their DPC year?** 1170 points
 
@@ -769,7 +769,7 @@ You just learned the difference between those prefixes.
 </div>
 <br>
 
-<p style="text-align:center; max-width: 500px;"><img title="Rawr" src="./../../../img/ti12teams/spiritmeme.jpg"></p>
+<p class="center"><img title="Rawr" style="max-width: 500px;" src="./../../../img/ti12teams/spiritmeme.jpg"></p>
 also won dreamleague s21 while barely even trying
 
 **What would success look like?** Spirit went from barely a threat most of the year to rocketing up people's lists to be arguably the favorites for this TI.
