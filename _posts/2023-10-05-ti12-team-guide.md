@@ -1376,7 +1376,7 @@ We're about to learn just how strong a crowd buff can truly get.
 
   .voiceline {
     font-family: Radiance;
-    font-weight: bolder;
+    font-weight: 900;
     font-size: 28px;
 	  letter-spacing: -0.7px;
     margin: 0px;
@@ -1424,12 +1424,13 @@ We're about to learn just how strong a crowd buff can truly get.
     100% {transform: rotate3d(50, 20, 30, -8deg) rotate(0deg)}
   }
   </style>
-
+<div>
 <div><img class="sticker" style="max-width: 400px;" title="Buy my sticker!" src="./../../../img/ti12teams/tsunami_sticker.png"></div>
 
-<div class="voiceline"><span class="speaker"><img src="../../../chatwheel/assets/images/audio.png"></span><span class="message default">tsunami - I'm so bored.</span><!--<audio class="audio" src="../../../chatwheel/assets/audio/master/UNDEFINED.mp3" autoplay></audio>--></div>
+<div class="voiceline"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - I'm so bored.</span><!--<audio class="audio" src="../../../chatwheel/assets/audio/master/UNDEFINED.mp3" autoplay></audio>--></div>
 
-<div class="voiceline"><span class="speaker"><img src="../../../chatwheel/assets/images/audio.png"></span><span class="message default">tsunami - I'll be making plays like that <i>all game</i>.</span><!--<audio class="audio" src="../../../chatwheel/assets/audio/master/UNDEFINED.mp3" autoplay></audio>--></div>
+<div class="voiceline"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - I'll be making plays like that <i>all game</i>.</span><!--<audio class="audio" src="../../../chatwheel/assets/audio/master/UNDEFINED.mp3" autoplay></audio>--></div>
+</div>
 
 Congratulations! More and more people have told me they actually use these blogs as legitimate primers to catch up on the latest year of Dota esports, so I actually tried to give more real information this time rather than vomiting 70000 characters of unfiltered memes and inside jokes.
 
