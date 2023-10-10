@@ -7,7 +7,7 @@ feature-img: "img/ti11teams/ti11header.jpg"
 flags: true
 ---
 
-### To be more accurate, The *Road* to the International 2023: A Practical Guide to All 20 Teams
+### Or to be more accurate, the *Road* to the International 2023
 
 With the weird TI format this year I couldn't decide when to finish this article. I was originally going to release it once my part of the broadcast began after group stage, but then I realized I'd be 4 teams lighter. Let's get started.
 
@@ -428,7 +428,7 @@ For some, true success would be beating Gaimin specifically, but I think the Ram
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** *Whoa now, tsunami. Don't mean to tell ya yer business, but I do believe there's been a grievous misunderstandin'. This here ain't EG. This some kinda... what sorta woke flags are these... this some kinda South American team? Now boy, you know that ain't right. EG's a North American org, yes sir! Always has been. North American pride and joy right there.*
+**How did this roster happen?** *Whoa now, tsunami. Don't mean to tell ya yer business, but I do believe there's been a grievous misunderstandin'. This here ain't EG. This some kinda... what sorta woke flags are these... this some kinda South American team? Now boy, you know that ain't right. EG's a North American org, yes sir! Always has been. North American pride and joy right there!*
 
 Nope. Not anymore. At the beginning of this season, EG very unceremoniously (and then got cyberbullied into ceremoniously) dropped their North American roster after spending **11 years** in the region. The phrase "end of an era" gets thrown around a lot in esports, but like... every TI since TI2 with a North American EG? Wild.
 
@@ -471,9 +471,9 @@ bad last half of year. That 4th place finish at the Berlin Major is the most sig
 
 Speaking of ~~crack~~ ~~bar~~
 
-**What would success look like?** I've never seen a team where you can so clearly infer how well they're going to do on any given day just by looking at their faces. I'm serious, watch the VoDs on their elimination days. You'd think they were being forced to walk out on stage at gunpoint.
+**What would success look like?** I've never seen a team where you can so clearly infer how well they're going to do on any given day just by looking at their faces. I'm serious, watch the VoDs on their elimination days. You'd think they were being forced to walk out on stage to play Dota at gunpoint.
 
-For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerseys being dug out of closets, dusted off, and wives asking, "Why do you still have this? And who is Universe?" Will these vintage EG fans be rooting for this team? Probably not, but don't tell the players that. Big smiles, EG boys. Big Chris Smiles.
+For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerseys being dug out of closets and dusted off with wives asking, "Why do you still have this? And who is Universe?" Will these vintage EG fans be rooting for this team? Probably not, but don't tell the players that. Big smiles, EG boys. Big Chris Smiles.
 
 **What to spam in Twitch chat when EG are winning?** I think at one point SA was trying to move on from it, but it's just too good of a battle cry to abandon: `GAAAAAAAAAAAAAAAAA`
 
@@ -501,7 +501,7 @@ Tour 1's offlaner was 项羽/xiàng yǔ, Lima Major was old eLeVeN, Tour 2 and B
 
 Also, before you ask: Yes, Ame's was *kind of* the classic "Chinese retirement" because he literally just won the [2022 Asian Games](https://liquipedia.net/dota2/Asian_Games/2022) with Team China despite not playing competitively since last TI.
 
-*NOTE TO SELF - IT'S JUST LGD NOW. NOT PSG.LGD. DON'T CALL THEM PSG.LGD ANYMORE. CALL THEM HONKAI.STAR.RAIL.LGD IF YOU HAVE TO.*
+***NOTE TO SELF** - IT'S JUST LGD NOW. NOT PSG.LGD. DON'T CALL THEM PSG.LGD ANYMORE. CALL THEM HONKAI.STAR.RAIL.LGD IF YOU HAVE TO.*
 
 **How was their DPC year?** 1284 points
 
@@ -562,7 +562,7 @@ The *organization*, on the other hand. How did that happen? I mean, it's not lik
 
 But that's exactly what happened.
 
-<p class="center" style="max-width: 660px;"><img title="Because cliffs" src="./../../../img/ti12teams/shopify_saves.jpg"></p>
+<p style="text-align:center; max-width: 660px;"><img title="Because cliffs" src="./../../../img/ti12teams/shopify_saves.jpg"></p>
 
 **How was their DPC year?** 1170 points
 
@@ -595,15 +595,9 @@ But that's exactly what happened.
 </div>
 <br>
 
-dls19 - mikey standin, dls20 - miracle standin
+dls19 - mikey standin, dls20 - miracle standin, dls21 grand finals
 
-I'm not gonna sugarcoat it, the Jerax 5 experiment was not pleasant. It was like watching a roster [generated through Dall-E mini.](../img/ti11teams/jeraxdalle.jpg) At first glance, "Whoa, this is so cool!" But the longer you stare at it and look at the details, the more horrifying it gets. EG got away with it for a while because Jerax is still incredibly gifted and... well because it's the NA DPC, but it wasn't pretty.
-
-After a disappointing Stockholm Major finish, Jerax left and the hatchet was buried with Fly. He came back for Tour 3 and the team gelled pretty much immediately. Yet somehow they got destroyed all over again in Arlington? EG's TI invitation fate wasn't even in their hands near the end, but beastcoast repaid their TI10 debt and eliminated the next closest point teams, Fnatic and Outsiders/VP, in Arlington. Te quiero mucho Arturito goes both ways.
-
-**What would success look like?** ~~*I don't even know anymore. As brutal as it sounds, I think Arteezy fans would almost prefer him to become a full time streamer at this point. Given these LAN performances, they'd probably see more of him.*~~
-
-Since I'm releasing this article after day 1 group stage where EG just 2-0'd LGD, OG, and Soniqs, I'm now changing my answer. ANOTHER NA TI, BABY. THIS IS OUR YEAR. ONE BULBILLION DOLLAR PRIZE POOL. #BULBASWEEP.
+**What would success look like?** How funny would it be if Arteezy’s first Valve Major win is the TI with the lowest prize pool since he started competing ten years ago.
 
 **What to spam in Twitch chat when EG are winning?** Whatever you want, but under no circumstances are you allowed to praise Bulba. Doesn't matter if it's the world's greatest Storm Spirit game or if he masterminded a strategy that somehow forced the enemy team into only picking 4 heroes. The first rule and only rule of EG twitch/reddit discourse is: everything is Bulba's fault.
 
@@ -625,7 +619,7 @@ Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** 23, mikoto and q were on the ti11 talon. Oli left china and IG, Jabz left fnatic and brought sunbhie
+**How did this roster happen?** 23, Mikoto, and Q were on the TI11 talon. Oli left iG and finally returned to his home region and Jabz left Fnatic with SunBhie in tow.
 
 **How was their DPC year?** 1120 points
 
@@ -658,25 +652,8 @@ Ugh, this whole section feel unnecessarily hostile. I'm sorry. I'm a product of 
 </div>
 <br>
 
+Dare I say this is the strongest SEA team in years? The closest comparison would be 2021's T1, but 
 lima major jabz vs jabbz
-
-They played some Dota and got some placements. Doesn't matter. The only part that does matter is that 9-12th you see at the bottom of that list.
-
-Before the Arlington Major started, Fnatic were **0.05** DPC points behind Outsiders/VP to qualify for the last spot at TI. Exciting! Massive visa issues happen and only Jabz and DJ can make it. Not good! It's fine, they're allowed to get 3 of TSM's players to stand-in. Great! Wait, what? Who cares, they can play! Fnatic lose to Team Aster in upper bracket. Uh oh! But Outsiders also lose to Team Spirit. Then Outsiders beat RNG in lower bracket! Oh man! Fnatic then lose to beastcoast, thus eliminating them from TI contention. Oh nooo!
-
-Congrats to Outsiders, though, they're going to TI!
-
-<p style="font-family: Georgia; font-size: 1.8em; font-weight: 600; text-align: center;">[EXTREMELY LOUD INCORRECT BUZZER]</p>
-
-<blockquote class="twitter-tweet tw-align-center" data-dnt="true"><p lang="en" dir="ltr">We are aware of a discrepancy regarding how the DPC standings are calculated when compared to unofficial sources. The DPC website <a href="https://t.co/lqfXMpOBmD">https://t.co/lqfXMpOBmD</a> reflects the official standings for the 2021-2022 season.</p>&mdash; DOTA 2 (@DOTA2) <a href="https://twitter.com/DOTA2/status/1559303263572283392?ref_src=twsrc%5Etfw">August 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Or as the community saw it.
-
-<p style="text-align: center;"><img src="./../../../img/ti11teams/fnaticchest.jpg" alt="Ye Olde Unoffical Source" style="width: 500px;"></p>
-
-[It turns out Valve uses a different metric for calculating partial points that Liquipedia was not privy to.](https://www.reddit.com/r/DotA2/comments/wpd5z2/fnatic_qualify_to_ti_over_outsiders_ruling_from/ikgad8h/) Now obviously the official source should be the most trusted one, but Dota fans haven't exactly been able to count on Valve for regularly maintained documentation. In fact, at the time of the ruling, there were still some errors calculating other teams' point values on the official Valve ranking site.
-
-Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liquipedia was branded as an 'unofficial source.' Crazy stuff.
 
 **What would success look like?** Jaunuel's mullet is added to the list of "greatest TI winning haircuts."
 
@@ -700,7 +677,9 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** parker came in the middle of tour 3, k1 hector before that
+**How did this roster happen?** The community largely considered Evil Geniuses to have benefitted the most from the post-TI11 SA shuffle which left beastcoast to pick up the fragmented pieces. Scofield and Stinger have been beastcoast since 2019, but DarkMago and Sacred came from Thunder Awaken.
+
+K1 Hector was also beastcoast's carry since 2019, but he departed before the Bali Major citing [health issues](https://twitter.com/beastcoast/status/1661500603338485762) and Parker took his spot.
 
 **How was their DPC year?** 1040 points
 
@@ -737,7 +716,7 @@ While intra-regionally they're not as dominant in SA as they once were, inter-re
 
 You just learned the difference between those prefixes.
 
-**What would success look like?** Guess what the most represented country at this TI is? It's not China. It's not Philippines. It's Peru with 13 players (tied with Russia). Last TI had two South American teams, Thunder Predator and SG esports, being eliminated in group stage. This year, *four* teams will be eliminated for groups. Making it to Suntec for playoffs would be a feat, but making it to the Singapore Indoor Stadium for top 4 would be new ground for SA. THIS IS A TEST
+**What would success look like?** Each TI has shown an upwards trajectory from beastcoast from TI10's 13-16th to TI11's 7-8th
 
 **What to spam in Twitch chat when bc are winning?** I think at one point SA was trying to move on from it, but it's just too good of a battle cry to abandon: `GAAAAAAAAAAAAAAAAA`
 
@@ -790,11 +769,10 @@ You just learned the difference between those prefixes.
 </div>
 <br>
 
+<p style="text-align:center; max-width: 500px;"><img title="Rawr" src="./../../../img/ti12teams/spiritmeme.jpg"></p>
 also won dreamleague s21 while barely even trying
 
-**What would success look like?** Two-timing à la OG would be pretty sweet. The problem: they're still very good. Lest we forget, OG coming into TI9 were... well let's just say there's a reason why detractors branded both their wins as 'flukes.' Spirit, on the other hand, won the last major and [TI10's True Sight was just released](https://www.youtube.com/watch?v=NFEwN1N3vvA) so everyone just got a refresher on how sick they were/are/will be. Safe to say there will be a lot more eyeballs on Spirit's drafts and gameplay this TI.
-
-A lot more eyeballs in the crowd, too. Because there's actually going to be one.
+**What would success look like?** Spirit went from barely a threat most of the year to rocketing up people's lists to be arguably the favorites for this TI.
 
 **What to spam in Twitch chat when Spirit are winning?** Has the Twitch meta really not evolved in the 12 months [since I last wrote this?](https://howdoiplay.com/blog/2021/10/06/ti10-team-guide.html#:~:text=What%20to%20spam%20in%20Twitch%20chat%20when%20Spirit%20is%20winning%3F%20COLLAPSE%20GIGACHAD) Well if it ain't broke, don't fix it: `COLLAPSE GIGACHAD`
 
