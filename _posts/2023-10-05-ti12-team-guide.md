@@ -1456,17 +1456,19 @@ We're about to learn just how strong a crowd buff can truly get.
   }
 }
   </style>
+
 <div class="shill_wrapper">
 <div class="sticker_wrapper">
   <img class="sticker" style="max-width: 100%; width: 400px;" title="Buy my sticker!" src="./../../../img/ti12teams/tsunami_sticker.png">
 </div>
 
 <div class="voiceline_wrapper">
-<div class="voiceline"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - I'm so bored.</span><!--<audio class="audio" src="../../../chatwheel/assets/audio/master/UNDEFINED.mp3" autoplay></audio>--></div>
+  <div class="voiceline"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - I'm so bored.</span><!--<audio class="audio" src="../../../chatwheel/assets/audio/master/UNDEFINED.mp3" autoplay></audio>--></div>
 
-<div class="voiceline"><a><span class="speaker"><a href="#" title="Play Audio" id="play" onclick="family.play();return false;"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - I'll be making plays like that <i>all game</i>.</span><audio id="family" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/family.mp3" autoplay></audio></a></div>
+  <div class="voiceline"><a href="#" title="Play Audio" id="play" onclick="family.play();return false;"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"><span class="speaker"></span><span class="message default">tsunami - I'll be making plays like that <i>all game</i>.</span><audio id="family" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/family.mp3" autoplay></audio></a></div>
 </div>
 </div>
+
 Congratulations! More and more people have told me they actually use these blogs as legitimate primers to catch up on the latest year of Dota esports, so I actually tried to give more real information this time rather than vomiting 70000 characters of unfiltered memes and inside jokes.
 
 As always, my sincerest thanks to the many volunteers who [keep Liquipedia up to date.](https://liquipedia.net/dota2/Dota_Pro_Circuit/2021-22) You may be an unofficial source in Valve's eyes, but this is one wiki that's vandalized my heart.
