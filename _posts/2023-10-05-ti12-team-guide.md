@@ -887,7 +887,7 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** ti10 roster -> pure left, watson came from hellraisers. after dreamleague s20 tobi got replaced by gabbi.
+**How did this roster happen?** After TI11, Pure left the roster and watson came in from HellRaisers. Following Tour 3, Tobi was kicked and Gabbi, a *Southeast Asian carry player*, was brought in to play offlane. Still not sure what the story is there, but cool I guess.
 
 **How was their DPC year?** 208 points
 
@@ -920,13 +920,17 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 </div>
 <br>
 
-watson lina at lima
+Western Europe is a **brutal** region. WEU sent four teams to every major this year and all of them would make top 6 *every time* barring Tundra's 9-12th at Lima. Granted, two of those were just Gaimin and Liquid in every final, but still!
 
-**What would success look like?** Another fun fact: Entity is the only team this TI in which every player on the roster is participating at an International for the very first time. Expectations are low, but sky's the limit.
+Entity made waves at Lima before losing to Gaimin and Talon, but were struggling to keep their head above water in Tour 2 and 3. Only by winning relegation tiebreakers were they able to maintain a slot in Division 1.
+
+Then I guess they just hate ESL or something? No idea what was up with their EPT performances.
+
+**What would success look like?** Giving us an even better game than last year's 107 minute Bo1 against RNG.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/quest.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Quest Esports - <i>Western Europe #2</i></h2>
+<h2 style="margin: 0.25em 0;">PSG Quest - <i>Western Europe #2</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">TA2000 (Naive-)</td>
@@ -942,9 +946,9 @@ watson lina at lima
 
 **How did this roster happen?** Formerly known as Ooredoo Thunders, a.k.a. "The Oreoes," this team grinded their way up from Div 2 into becoming *the next big thing.*
 
-Noob and Omar were formerly on the Coolguys roster together that competed in Tour 1 Div 1 last year. TA2000 and kaori have been around for a few years, but always on EEU rosters. This is their first WEU team.
+Noob and Omar are relative newcomers to the competitive scene, but were formerly on the Coolguys roster together that competed in WEU Div 1 Tour 1 in 2022. TA2000 and kaori have been around for a few years, but always on EEU rosters. This is their first WEU team.
 
-And I'm getting sick of telling offlaner stories, but my god, when did this become the most volatile role? Offlaners used to be so stable! It was the *midlaners* that would get passed around like holographic Pokemon cards at recess. Where did it all go so wrong? Rant over. Tour 1 and 2 they had Wuiter. Starting Tour 3 they had ATF and it looked like a great fit, but due to [contract disputes](https://twitter.com/AmmarAlassaf6/status/1680210587937124355) he didn't continue with the team. They brought in Malik to stand in during Riyadh Masters before ultimately getting Tobi from Entity for their TI qualifying roster.
+Man, I'm getting sick of telling offlane stories. When did this become the most volatile role? Offlaners used to be so stable! It was the *midlaners* that would get passed around like holographic Pokémon cards at recess. Where did it all go so wrong? Whatever, rant over. Tour 1 and 2 they had Wuiter. Starting Tour 3 they had ATF and it looked like a great fit, but due to [contract disputes](https://twitter.com/AmmarAlassaf6/status/1680210587937124355) he didn't continue with the team. They brought in Malik to stand in during Riyadh Masters before ultimately getting Tobi from Entity for their TI qualifying roster.
 
 **How was their DPC year?** 545 points
 
@@ -977,13 +981,13 @@ And I'm getting sick of telling offlaner stories, but my god, when did this beco
 </div>
 <br>
 
-Most of the year was covered in the roster explanation, so I'll just gush about how exciting it was to watch this team's journey during the final few months of the season. By the time Tour 3 ended, most teams were starting to statistically lock their chances of directly qualifying to TI through points, but the last 3-4 slots were still up in the air. Were Quest able to *win* the Bali Major, they would've just barely gotten enough points to sneak a TI invite. Believe it or not, that was not a ludicrous proposition. Alas, their bracket run was cut short after losing to Gaimin and then Liquid.
+Most of the year was covered in the roster explanation, so I'll just gush about how exciting it's been to watch this team's journey. After smashing their way through Tour 1 Div 2, they came into Tour 2 as an immediate threat. This region's already cutthroat enough as it is. Notice how you don't see Secret, OG, or Nigma anywhere on this page? Quest/Ooredoo took series off Gaimin and Tundra but just barely lost a tiebreaker against OG to qualify for Berlin.
 
-They would be tested again after making it to Riyadh Masters through a dedicated MENA region qualifier and fought their way to top 8. In a different timeline their run went even further, but their elimination series against Gaimin was plagued with technical issues and they lost.
+By the time Tour 3 ended, most teams were beginning to statistically lock their chances of directly qualifying to TI through points, but the last 3-4 slots were still up in the air. Were Quest able to *win* the Bali Major, they would've just barely gotten enough points to sneak a direct TI invite. Believe it or not, that was not a ludicrous proposition. Alas, their bracket run was cut short after losing to Gaimin and then Liquid.
 
-**What would success look like?** It may be hard to believe, but this is the third and final Chinese team left to talk about. Three Chinese teams at a TI! Unprecedented. Here's the comparison to previous TIs.
+They would be tested one last time after making it to Riyadh Masters through a dedicated MENA region qualifier and fought their way to top 8. In a different timeline their run went even further, but their elimination series against Gaimin was plagued with technical issues and they lost.
 
-My god. By these calculations... We should be a dead game 14 years ago.
+**What would success look like?** Making it past "The Road" and into "The International" final weekend will be an incredible achievement, but true success is bound to come in the next few years for these players.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/vp.jpg" alt="Banner"></p>
@@ -1001,7 +1005,7 @@ My god. By these calculations... We should be a dead game 14 years ago.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** idk
+**How did this roster happen?** The 2, 3, and 4 positions have been the same since Tour 1, but krylat and Dukalis got replaced by Kiritych and Fng respectively starting Tour 2.
 
 **How was their DPC year?** 218 points
 
@@ -1036,9 +1040,13 @@ My god. By these calculations... We should be a dead game 14 years ago.
 
 You know how I said EEU was like a rock paper scissors game this year? VP was out here playing clarinet.
 
-Does that mean that these guys were being gatekept and are really goated with the sauce? No, probably not. They showed up to Riyadh and my first reaction was
+Does that mean that these guys were just being gatekept and are secretly goated with the sauce? No, probably not. They showed up to Riyadh and my first reaction was, "What's Fng doing here. Is he on the panel?"
 
-**What would success look like?** Tragically, Fng no longer sports the luxurious locks he was once famous for early on in his career.
+Honestly, he probably could've shown up on the panel afterwards because they got blown to smithereens.
+
+**What would success look like?** Not really sure. We've haven't had a TI with 3 EEU teams since TI5, forget about 4. That TI also only had 2 WEU teams with Secret and Cloud9 and look at that region now. And North America won that TI.
+
+What the hell was going on in 2015?
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/keyd.jpg" alt="Banner"></p>
