@@ -1368,19 +1368,68 @@ We're about to learn just how strong a crowd buff can truly get.
 
 <style>
   .sticker {
-  animation: move 1.5s;
+  animation: move 1.2s;
   animation-direction: alternate;
   animation-iteration-count: infinite;
   filter: drop-shadow(2px 4px 4px)
   }
+
+  .voiceline {
+    font-family: Radiance;
+    font-weight: bold;
+    font-size: 28px;
+	  letter-spacing: -0.7px;
+    margin: 0px;
+  }
+
+  .speaker {
+  	vertical-align: middle;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    margin: 0 5px 0 7px;
+  }
+
+  .speaker img {
+	max-width: 35px;
+	max-height: 35px;
+}
+
+.name,
+.colon,
+.message {
+	display: inline;
+	position: relative;
+	bottom: -3px;
+}
+
+.name,
+.colon {
+	color: #faeac9;
+	text-shadow: 2px 2px black, 1px 1px black, 2px 3px black;
+}
+
+.default, .other {
+	background-image: -webkit-linear-gradient(#faeac9, #faeac9);
+}
+
+.message {
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(1px 1px black) drop-shadow(1px 2px black);
+}
   
   @keyframes move {
     0% {transform: rotate3d(0.5, -0.866, 0, 15deg) rotate(1deg);}
-    100% {transform: rotate3d(0, 0, 0, 0deg) rotate(0deg);}
+    100% {transform: rotate3d(50, 20, 30, -8deg) rotate(0deg)}
   }
   </style>
 
 <div><img class="sticker" style="max-width: 400px;" title="Buy my sticker!" src="./../../../img/ti12teams/tsunami_sticker.png"></div>
+
+<div class="voiceline"></span><span class="speaker"><img src="../../../chatwheel/assets/images/audio.png"></span><span class="message">I'm so bored.</span><!--<audio class="audio" src="../../../chatwheel/assets/audio/master/UNDEFINED.mp3" autoplay></audio>--></div>
+
+<div class="voiceline"></span><span class="speaker"><img src="../../../chatwheel/assets/images/audio.png"></span><span class="message">I'll be making plays like that all game.</span><!--<audio class="audio" src="../../../chatwheel/assets/audio/master/UNDEFINED.mp3" autoplay></audio>--></div>
 
 Congratulations! More and more people have told me they actually use these blogs as legitimate primers to catch up on the latest year of Dota esports, so I actually tried to give more real information this time rather than vomiting 70000 characters of unfiltered memes and inside jokes.
 
