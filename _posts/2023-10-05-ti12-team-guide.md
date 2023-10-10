@@ -428,7 +428,7 @@ For some, true success would be beating Gaimin specifically, but I think the Ram
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** *Whoa now, tsunami. Don't mean to tell ya yer business, but I do believe there's been a grievous misunderstandin'. This here ain't EG. This some kinda... what sorta woke flags are these... this some kinda South American team? Now boy, you know that ain't right. EG's a North American org, yes sir! Always has been. North American pride and joy right there!*
+**How did this roster happen?** *Whoa now, tsunami. Don't mean to tell ya yer business, but seems like there's been a bit of a misunderstandin'. This here ain't EG. This some kinda... what sorta woke flags are these... this some kinda South American team? Now boy, you know that ain't right. EG's a North American org, yes sir! Always has been. North American pride and joy right there!*
 
 Nope. Not anymore. At the beginning of this season, EG very unceremoniously (and then got cyberbullied into ceremoniously) dropped their North American roster after spending **11 years** in the region. The phrase "end of an era" gets thrown around a lot in esports, but like... every TI since TI2 with a North American EG? Wild.
 
@@ -792,7 +792,7 @@ also won dreamleague s21 while barely even trying
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** kasane replaced saberlight, ari replaced moon, whitemon replaced dubu
+**How did this roster happen?** A couple of pieces changed since last TI. Saberlight went to Shopify Rebellion and relatively unknown commodity kasane became TSM's offlaner. MoonMeander finally got to step down from active play and found Ari, a former competitive Heroes of the Storm player, to take his place. Lastly, DuBu went back to SEA and was replaced by Whitemon from T1.
 
 **How was their DPC year?** 900 points
 
@@ -825,11 +825,11 @@ also won dreamleague s21 while barely even trying
 </div>
 <br>
 
-A pretty consistent trend this year in North America has been getting a sponsor and then immediately popping off. Wildcard signed D2 Hustlers and then beat EG in Tour 1. Nouns signed 4Zoomers and they won a BTS Pro Series. And TSM signed Undying and they suddenly became the best team in North America.
+As per usual, NA was mostly a two-horse race throughout the year with TSM and Shopify. Then, the horse usually gets turned into glue whenever it's Major time. On top of that, TSM has a tendency to fall asleep at the wheel towards the end of each season. Last year they missed Arlington, this year they missed Bali.
 
-For... half the year. Let's ignore the second half.
+For what it's worth, they *did* make it to grand finals of the BetBoom Dacha LAN event in September. But then they lost to, you guessed it: Gaimin Gladiators.
 
-**What would success look like?** [DuBu's YouTube channel hitting 100k subscribers.](https://www.youtube.com/channel/UCK1C6nGjd-gLX4K898wgNVw/videos) Show me another player that would vlog themselves during TI grand finals. You can't.
+**What would success look like?** Hate to say it, but success would probably be somehow doing well enough that the TSM brand doesn't leave Dota altogether next season.
 
 **What to spam in Twitch chat when TSM are winning?** `SABERCHAD BASED` I think I'm noticing a trend that this is going to be one of those offlane-centric TIs.
 
