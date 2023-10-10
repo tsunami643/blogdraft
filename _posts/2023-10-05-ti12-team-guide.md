@@ -1467,9 +1467,9 @@ We're about to learn just how strong a crowd buff can truly get.
 </div>
 
 <div class="voiceline_wrapper">
-  <div class="voiceline"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - I'm so bored.</span><!--<audio class="audio" src="../../../chatwheel/assets/audio/master/UNDEFINED.mp3" autoplay></audio>--></div>
+  <div class="voiceline"><a href="#" title="Glitter Tier Line" id="play" onclick="family.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - I'm so bored.</span><audio id="family" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/bored.mp3" type="audio/mpeg"></audio></a></div>
 
-  <div class="voiceline"><a href="#" title="Play Audio" id="play" onclick="family.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - I'll be making plays like that <i>all game</i>.</span><audio id="family" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/family.mp3"></audio></a></div>
+  <div class="voiceline"><a href="#" title="Gold Tier Line" id="play" onclick="family.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - I'll be making plays like that <i>all game</i>.</span><audio id="family" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/plays.mp3" type="audio/mpeg"></audio></a></div>
 </div>
 </div>
 
