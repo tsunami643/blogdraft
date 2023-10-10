@@ -957,7 +957,7 @@ watson lina at lima
 <h2 style="margin: 0.25em 0;">Quest Esports - <i>Western Europe #2</i></h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">TA2000</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">TA2000 (Naive-)</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-lb" title="Lebanon" alt="Lebanon">No!ob</td> 
     <td><img src="../../../img/assets/blank.gif" class="flag flag-at" title="Austria" alt="Austria">Tobi</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-lb" title="Lebanon" alt="Lebanon">OmaR</td>
@@ -968,7 +968,11 @@ watson lina at lima
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** tier 2 team with random offlaners constantly. formerly ooredoo thunders Affectionately referred to as "The Oreoes"
+**How did this roster happen?** Formerly known as Ooredoo Thunders, a.k.a. "The Oreoes," this team grinded their way up from Div 2 into becoming *the next big thing.*
+
+Noob and Omar were formerly on the Coolguys roster together that competed in Tour 1 Div 1 last year. TA2000 and kaori have been around for a few years, but always on EEU rosters. This is their first WEU team.
+
+And I'm getting sick of telling offlaner stories, but my god, when did this become the most volatile role? Offlaners used to be so stable! It was the *midlaners* that would get passed around like holographic Pokemon cards at recess. Where did it all go so wrong? Rant over. Tour 1 and 2 they had Wuiter. Starting Tour 3 they had ATF and it looked like a great fit, but due to [contract disputes](https://twitter.com/AmmarAlassaf6/status/1680210587937124355) he didn't continue with the team. They brought in Malik to stand in during Riyadh Masters before ultimately getting Tobi from Entity for their TI qualifying roster.
 
 **How was their DPC year?** 545 points
 
@@ -1001,9 +1005,9 @@ watson lina at lima
 </div>
 <br>
 
-Nothing too special. This year's top 4 in the CN DPC was consistently some shuffling of LGD, Aster, RNG and then either EHOME or Xtreme. And RNG bopped Xtreme 3-0 in the CN regional qual to make it to TI.
+Most of the year was covered in the roster explanation, so I'll just gush about how exciting it was to watch this team's journey during the final few months of the season. By the time Tour 3 ended, most teams were starting to statistically lock their chances of directly qualifying to TI through points, but the last 3-4 slots were still up in the air. Were Quest able to *win* the Bali Major, they would've just barely gotten enough points to sneak a TI invite. Believe it or not, that was not a ludicrous proposition. Alas, their bracket run was cut short after losing to Gaimin and then Liquid.
 
-Anything else worth mentioning? Oh yeah, Ghost was unable to make it to Arlington and ana, yes *that* ana, stood in. That was pretty neat. They didn't do well, but it was still neat.
+They would be tested again after making it to Riyadh Masters through a dedicated MENA region qualifier and fought their way to top 8. In a different timeline their run went even further, but their elimination series against Gaimin was plagued with technical issues and they lost.
 
 **What would success look like?** It may be hard to believe, but this is the third and final Chinese team left to talk about. Three Chinese teams at a TI! Unprecedented. Here's the comparison to previous TIs.
 
