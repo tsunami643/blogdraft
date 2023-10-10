@@ -1378,6 +1378,9 @@ We're about to learn just how strong a crowd buff can truly get.
     margin: 10px 10px;
     text-align: center;
   }
+  .voiceline_wrapper {
+    padding: 20px;
+  }
   .sticker {
   animation: move 1.2s;
   animation-direction: alternate;
@@ -1392,7 +1395,6 @@ We're about to learn just how strong a crowd buff can truly get.
 
   .voiceline {
     font-family: Radiance-Bold;
-    font-weight: 900;
     font-size: 28px;
 	  letter-spacing: -0.7px;
     margin: 0px 20px;
@@ -1462,7 +1464,7 @@ We're about to learn just how strong a crowd buff can truly get.
 <div class="voiceline_wrapper">
 <div class="voiceline"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - I'm so bored.</span><!--<audio class="audio" src="../../../chatwheel/assets/audio/master/UNDEFINED.mp3" autoplay></audio>--></div>
 
-<div class="voiceline"><a><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - I'll be making plays like that <i>all game</i>.</span><audio class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/family.mp3" autoplay></audio></a></div>
+<div class="voiceline"><a><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><a href="#" title="Play Audio" id="play" onclick="family.play();return false;"><span class="message default">tsunami - I'll be making plays like that <i>all game</i>.</span><audio id="family" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/family.mp3" autoplay></audio></div>
 </div>
 </div>
 Congratulations! More and more people have told me they actually use these blogs as legitimate primers to catch up on the latest year of Dota esports, so I actually tried to give more real information this time rather than vomiting 70000 characters of unfiltered memes and inside jokes.
