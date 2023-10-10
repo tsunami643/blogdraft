@@ -1367,6 +1367,11 @@ We're about to learn just how strong a crowd buff can truly get.
 # You scrolled to the bottom 🎉
 
 <style>
+  .voiceline_wrapper {
+    background-image: url("https://howdoiplay.com/blogdraft/img/ti12teams/mapsample.jpg");
+    background-repeat: no-repeat;
+    height: 612px;
+  }
   .sticker {
   animation: move 1.2s;
   animation-direction: alternate;
@@ -1374,8 +1379,13 @@ We're about to learn just how strong a crowd buff can truly get.
   filter: drop-shadow(2px 4px 4px)
   }
 
+  @font-face {
+  font-family: 'Radiance-Bold';
+  src: url(https://chatwheel.howdoiplay.com/assets/fonts/radiance-bold.ttf);
+  }
+
   .voiceline {
-    font-family: Radiance;
+    font-family: Radiance-Bold;
     font-weight: 900;
     font-size: 28px;
 	  letter-spacing: -0.7px;
@@ -1425,7 +1435,8 @@ We're about to learn just how strong a crowd buff can truly get.
   }
   </style>
 <div>
-<div><img class="sticker" style="max-width: 400px;" title="Buy my sticker!" src="./../../../img/ti12teams/tsunami_sticker.png"></div>
+<div class="voiceline_wrapper">
+<img class="sticker" style="max-width: 400px;" title="Buy my sticker!" src="./../../../img/ti12teams/tsunami_sticker.png"></div>
 
 <div class="voiceline"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - I'm so bored.</span><!--<audio class="audio" src="../../../chatwheel/assets/audio/master/UNDEFINED.mp3" autoplay></audio>--></div>
 
