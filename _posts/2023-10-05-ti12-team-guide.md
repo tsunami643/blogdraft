@@ -161,7 +161,7 @@ Honestly, I appreciate the optimism.
 
 **How did this roster happen?** After MATUMBAMAN [died last TI](https://youtu.be/s51F0JhAPHU?t=29), a void was left in this roster. Thankfully, the Team Liquid Academy Team, also known as "*Team Secret*," was hard at work training up another prospect ripe for the picking by the name of Nisha.
 
-You know how you probably associate Sumail as being on Evil Geniuses for like... ever? King played on EG for four years, from 2015 to 2019. Nisha on Secret? 2018 to 2022. Four years is a long time under one banner and despite his stellar 2nd place finish with Secret last TI, he seemed ready to move on.
+You know how you probably associate Sumail as being on Evil Geniuses for like... ever? King played on EG for four years, from 2015 to 2019. Nisha on Secret? 2018 to 2022. Four years is a long time under one banner and despite a stellar 2nd place finish with Secret last TI, he seemed ready to move on.
 
 **How was their DPC year?** 2150 points
 
@@ -218,7 +218,7 @@ So the year started off-- wait, sorry. Gotta fix my formatting.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** While on the brink of contemplating retirement when Quincy Crew/Soniqs imploded after last TI, Quinn was given the opportunity to export himself to this Western European team taking the place of former midlaner BOOM. Meanwhile, BOOM went to Secret and Secret went boom.
+**How did this roster happen?** While on the brink of contemplating retirement when Quincy Crew/Soniqs disintegrated after last TI, Quinn was given the opportunity to export himself to this Western European team taking the place of former midlaner BOOM. Meanwhile, BOOM went to Secret and Secret went boom.
 
 **How was their DPC year?** 2140 points
 
@@ -303,7 +303,7 @@ Bunch of firsts. Was an interesting journey for a team that not many people thou
 
 Yes, but quell your excitement. The main reason Topson is here is because Tundra, specifically Saksa, had a pretty rough year and was mysteriously missing from a handful of events before finally [deciding to go public](https://twitter.com/Saksadota/status/1682719745110310912) that he's been struggling with anxiety, sleep, and mental health. Even TI winners are human.
 
-In the eleventh hour, Topson, who had spent most of the year farting around on the meme-but-jk-not-really-meme team Old G, was called up to bat moving Nine to 4 position duties. You couldn't pay me enough to cover all the Old G drama this year.
+In the eleventh hour, Topson, who had spent most of his year farting around on the meme-but-jk-not-really-meme team Old G, was called up to bat moving Nine to 4 position duties. You couldn't pay me enough to cover all the Old G drama this year.
 
 **How was their DPC year?** 1660 points
 
@@ -342,7 +342,7 @@ Despite all that, pretty solid results for Tundra despite Wraith Pact being remo
 
 **What would success look like?** I don't mean to alarm you, but we may be witnessing the potential of ***3*** time TI winners Topson and Aui as coach!
 
-Sure, Topson already played a few matches with the Tundra boys during September's DreamLeague S21 and it was... fine? They got 5-6th out of a 12 team tournament.
+Sure, Topson already played a few matches with the Tundra boys during September's DreamLeague S21 and it was... fine? They only got 5-6th out of a 12 team tournament.
 
 <p style="text-align: center; font-size: 42px"><b>BUT IT'S TOPSON!</b> <img class="batchest" title="BATCHESTING SO HARD" src="./../../../img/ti12teams/batchest.png"></p>
 
@@ -364,7 +364,9 @@ Sure, Topson already played a few matches with the Tundra boys during September'
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** EEU tour 1 roster was as Hellraisers - Daxak, kiyotaka (formerly depressed kid), miero, antares, solo. Ramzes was on Darkside with rodjer and sonneiko. Lima major - yuragi for daxak, even though it was obvious he wouldn't be on the full roster. EEU tour 2 ramzes joined. then became 9pandas and solo couldn't make it to berlin, rodjer stood in.
+**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the Hellraisers tag with Daxak, kiyotaka (formerly depressed kid), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak and Yuragi stood in for him during the Lima Major, even though he was still very much on OG.
+
+Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
 
 **How was their DPC year?** 1496 points
 
@@ -374,7 +376,7 @@ Sure, Topson already played a few matches with the Tundra boys during September'
   <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td>EEU DPC Tour 1</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>9-12th</b></td></tr>
+  <tr><td><b>Lima Major</b></td><td><b>9-12th*</b></td></tr>
   <tr><td>EEU DPC Tour 2</td><td>1st 🥇</td></tr>
   <tr><td><b>Berlin Major</b></td><td class="third"><b>3rd 🥉*</b></td></tr>
   <tr><td>EEU DPC Tour 3</td><td>3rd 🥉</td></tr>
@@ -397,9 +399,13 @@ Sure, Topson already played a few matches with the Tundra boys during September'
 </div>
 <br>
 
-EEU was a rock paper scissors between 9pandas, betboom, and team spirit
+This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetBoom, and Team Spirit.
 
-**What would success look like?** Solo and ramzes haven't been to a TI since they were on VP together in 2019. That old VP were consistently considered favorites to win for 2017, 2018, and 2019. Maybe this is the time
+Surprisingly, their best finish at the Berlin Major was with Rodjer standing in for Solo.
+
+**What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. Then that old VP would proceed to consistently drop the ball at TI7, TI8, and TI9. I would know. I put them into my Compendium predictions to win it literally all three of those years.
+
+For some, true success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was beaten to death with Aegis one too many times this year.
 
 **What to spam in Twitch chat when 9Pandas are winning?** `ATF=ALWAYS TAKES FIRST`
 
@@ -420,7 +426,7 @@ EEU was a rock paper scissors between 9pandas, betboom, and team spirit
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** *Whoa now, tsunami. Don't mean to tell ya yer business, but it looks to me like there's been a calamitous misunderstandin'. This here ain't EG. This some kinda... what sorta woke flags are these... this some kinda South American team? Now boy, you know that ain't right. EG's a North American org, yes sir! Always has been. North American pride and joy right there.*
+**How did this roster happen?** *Whoa now, tsunami. Don't mean to tell ya yer business, but I do believe there's been a grievous misunderstandin'. This here ain't EG. This some kinda... what sorta woke flags are these... this some kinda South American team? Now boy, you know that ain't right. EG's a North American org, yes sir! Always has been. North American pride and joy right there.*
 
 Nope. Not anymore. At the beginning of this season, EG very unceremoniously (and then got cyberbullied into ceremoniously) dropped their North American roster after spending **11 years** in the region. The phrase "end of an era" gets thrown around a lot in esports, but like... every TI since TI2 with a North American EG? Wild.
 
@@ -1074,11 +1080,11 @@ My god. By these calculations... We should be a dead game 14 years ago.
 </div>
 <br>
 
-In the EEU rock paper scissors game, VP was out here playing clarinet
+You know how I said EEU was like a rock paper scissors game this year? VP was out here playing clarinet.
 
-Does that mean that VP were being gatekept and are really goated with the sauce? No, probably not. They showed up to Riyadh and my first reaction was
+Does that mean that these guys were being gatekept and are really goated with the sauce? No, probably not. They showed up to Riyadh and my first reaction was
 
-**What would success look like?** Tragically, Fng no longer sports the luxurious locks he was famous for early on in his career.
+**What would success look like?** Tragically, Fng no longer sports the luxurious locks he was once famous for early on in his career.
 
 **What to spam in Twitch chat when Secret are winning?** `For the past 3-4 years, almost every time i watch secret i heard this, "Nisha is having an outstanding game", this guy has been overperforming for so long, even this season when secret was not playing well, Nisha was still performing, that guy is unbelivable, and for some reason, people don't talk that much about him. He’s just very unassuming, he tends to disappear whenever he’s not at LANs, doesn’t have a real presence if you get me. He comes in, smokes everyone, then leaves.`
 
