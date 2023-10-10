@@ -493,9 +493,9 @@ For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerse
 
 **How did this roster happen?** There were kinda two retirement tours on display at last year's TI. Matu's was the "I'M OUTTA HERE BITCHES" vibe and Ame's had more of a "Your father doesn't want anyone to make a fuss" energy. Nothing was ever formally announced, but everyone suspected it, and his absence this year confirmed it. LGD ended up filling Ame's carry shoes surprisingly well with young EHOME talent, shiro.
 
-Faith_bian also retired and finding a replacement offlaner was a real... you know, years ago I would've looked up some deep elaborate Chinese idiomatic lore phrase to drop here, but I'm a busy man these days so I'm just gonna hit you with the Google Translate. Finding a replacement offlaner has been a real 狗屎表演. Yeah. I'm sure that means what I want it to.
+Faith_bian also retired and finding a replacement offlaner was... ugh, you know, years ago I would've looked up some deep elaborate Chinese idiomatic lore phrase to drop here, but I'm a busy man these days. I'm just gonna hit you with the Google Translate. Finding a replacement offlaner was a total 节目充满狗屎. Yeah. I'm sure that means what I want it to.
 
-Tour 1 they had 项羽/xiàng yǔ, Lima Major was old eLeVeN, Tour 2 and Berlin Major's offlaner was zeal, and Tour 3 onwards has been niu.
+Tour 1's offlaner was 项羽/xiàng yǔ, Lima Major was old eLeVeN, Tour 2 and Berlin Major they had zeal, and Tour 3 onwards has been niu.
 
 Also, before you ask: Yes, Ame's was *kind of* the classic "Chinese retirement" because he literally just won the [2022 Asian Games](https://liquipedia.net/dota2/Asian_Games/2022) with Team China despite not playing competitively since last TI.
 
