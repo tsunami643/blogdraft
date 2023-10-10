@@ -7,7 +7,7 @@ feature-img: "img/ti11teams/ti11header.jpg"
 flags: true
 ---
 
-### Yeah, yeah, I'm late.
+### To be more accurate, The *Road* to the International 2023: A Practical Guide to All 20 Teams
 
 With the weird TI format this year I couldn't decide when to finish this article. I was originally going to release it once my part of the broadcast began after group stage, but then I realized I'd be 4 teams lighter. Let's get started.
 
@@ -159,11 +159,9 @@ Honestly, I appreciate the optimism.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After MATUMBAMAN [died last TI](https://youtu.be/s51F0JhAPHU?t=29), a void was left in this roster. Thankfully, the Team Liquid Academy Team, also known as "*Team Secret*," was hard at work training up another prospect by the name of Nisha.
+**How did this roster happen?** After MATUMBAMAN [died last TI](https://youtu.be/s51F0JhAPHU?t=29), a void was left in this roster. Thankfully, the Team Liquid Academy Team, also known as "*Team Secret*," was hard at work training up another prospect ripe for the picking by the name of Nisha.
 
 You know how you probably associate Sumail as being on Evil Geniuses for like... ever? King played on EG for four years, from 2015 to 2019. Nisha on Secret? 2018 to 2022. Four years is a long time under one banner and despite his stellar 2nd place finish with Secret last TI, he seemed ready to move on.
-
-As for role swaps, Micke was originally the carry player back when qojqva was on this team, so it was a seamless transition for him back to the safe lane.
 
 **How was their DPC year?** 2150 points
 
@@ -220,7 +218,7 @@ So the year started off-- wait, sorry. Gotta fix my formatting.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Quinn replaced boom. Boom went to secret and secret went boom
+**How did this roster happen?** While on the brink of contemplating retirement when Quincy Crew/Soniqs imploded after last TI, Quinn was given the opportunity to export himself to this Western European team taking the place of former midlaner BOOM. Meanwhile, BOOM went to Secret and Secret went boom.
 
 **How was their DPC year?** 2140 points
 
@@ -253,9 +251,13 @@ So the year started off-- wait, sorry. Gotta fix my formatting.
 </div>
 <br>
 
+If you don't remember anything about this players from last year, I wouldn't blame you. They were the epitome of "middle of the pack." 
+
+If you don't remember anything about these players from this year, you're out of your mind.
+But following 
 Bunch of firsts. Was an interesting journey for a team that not many people thought about to a team that a lot of people began actively hating
 
-**What would success look like?** No other team in history has ever won every major of the season. Winning a TI on top of that would be the perfect icing on the cake, feather in the hat, other idiom here
+**What would success look like?** They already made history by being the first time in Dota 2 history to ever win every major of the season. Winning TI on top of that would be the icing on the cake, the feather in the cap, the wideBat of the Quinn.
 
 **What to spam in Twitch chat when GG are winning?** `VEGAN POWER`
 
@@ -275,7 +277,30 @@ Bunch of firsts. Was an interesting journey for a team that not many people thou
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Last year's TI winners. Saksa's been having [mental health issues](https://twitter.com/Saksadota/status/1682719745110310912) and was mysteriously missing for a lot of events. In the 11th hour Topson was called up and nine has now changed to 4 position. Topson had a failed run attempting to qualify for last TI with ana on T1 in SEA. then he was on the meme but also not intentionally meme team Old G.
+<style>
+.batchest {
+  animation: shake 0.3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -1px) rotate(-1deg); }
+  20% { transform: translate(-1px, 0px) rotate(1deg); }
+  30% { transform: translate(1px, 1px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 1px) rotate(-1deg); }
+  60% { transform: translate(-1px, 1px) rotate(0deg); }
+  70% { transform: translate(1px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 1px) rotate(0deg); }
+  100% { transform: translate(1px, -1px) rotate(-1deg); }
+}
+</style>
+
+**How did this roster happen?** Ah yes, the current reigning TI winne-- <span style="font-size: 30px"><b>IS THAT TOPSON?</b> <img class="batchest" title="HECKIN LOVE TOPSON" src="./../../../img/ti12teams/batchest.png"></span>
+
+Yes, but quell your excitement. The main reason Topson is here is because Tundra, specifically Saksa, has been having a [pretty rough year.](https://twitter.com/Saksadota/status/1682719745110310912) and was mysteriously missing for a lot of events. In the 11th hour Topson was called up and nine has now changed to 4 position. Topson had a failed run attempting to qualify for last TI with ana on T1 in SEA. then he was on the meme but also not intentionally meme team Old G.
 
 **How was their DPC year?** 1660 points
 
@@ -519,11 +544,11 @@ millions of offlaners, china in shambles
 
 **How did this roster happen?** You already know how this roster happened. Well, most of the roster anyway. After TI11, Nightfall got replaced by Saberlight from TSM. Great, you're all caught up.
 
-The *organization*, on the other hand. How did *that* happen? I mean, it's not like some multibillion-dollar company's just gonna randomly decide to start investing in esports while the bubble is popping and sponsor a bunch of superstars playing in one of the most expensive yet competitively starved regions in *Dota 2* of all games.
+The *organization*, on the other hand. How did that happen? I mean, it's not like some multibillion-dollar company's just gonna randomly decide to start investing in esports while the bubble is popping and sponsor a bunch of superstars playing in one of the most expensive yet competitively starved regions in *Dota 2* of all games.
 
-<p class="center"><img alt="Because cliffs" src="./../../../img/ti12teams/shopify_saves.jpg"></p>
+But that's exactly what happened.
 
-Nevermind, that's exactly what happened.
+<p class="center" style="max-width: 660px;"><img title="Because cliffs" src="./../../../img/ti12teams/shopify_saves.jpg"></p>
 
 **How was their DPC year?** 1170 points
 
