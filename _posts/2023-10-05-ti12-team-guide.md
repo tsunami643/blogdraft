@@ -406,7 +406,7 @@ Surprisingly, their best finish at the Berlin Major was with Rodjer standing in 
 
 **What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. I would know. I put them into my Compendium predictions to win it literally every time. Then that old VP would proceed to consistently drop the ball at TI7. And TI8. And TI9.
 
-For some, true success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was beaten to death with Aegis one too many times this year.
+For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/eg.jpg" alt="Banner"></p>
@@ -468,7 +468,7 @@ bad last half of year. That 4th place finish at the Berlin Major is the most sig
 
 Speaking of ~~crack~~ ~~bar~~
 
-**What would success look like?** I've never seen a team where you can so clearly infer how well they're going to do on any given day just by looking at their faces. I'm serious, watch the VoDs on their elimination days. You'd think they were being forced to walk out on stage to play Dota at gunpoint.
+**What would success look like?** I've never seen a team where you can so clearly interpret how well they're going to do on any given day just by looking at their faces. I'm serious, watch the VoDs on their elimination days. You'd think they were being forced to walk out on stage to play Dota at gunpoint.
 
 For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerseys being dug out of closets and dusted off with wives asking, "Why do you still have this? And who is Universe?" Will these vintage EG fans be rooting for this team? Probably not, but don't tell the players that. Big smiles, EG boys. Big Chris Smiles.
 
@@ -531,7 +531,9 @@ Also, before you ask: Yes, Ame's was *kind of* the classic "Chinese retirement" 
 
 China has been in shambles this entire year. Tour 1 was fraught with match fixing which culminated in a massive ban wave after Lima. LGD quietly kept their head down. Perhaps a bit too down because they themselves didn't really have any notable results this year, but it's
 
-**What would success look like?** Throw a dart at a board of TIs. Chances are you'll hit one where LGD were considered the favorites to win the whole thing. This year? Definitely not.
+**What would success look like?** Throw a dart at a board of all TIs ever. Odds are you'll hit one where LGD were considered favorites to win the whole thing. This year? Definitely not. Regardless, with LGD being the crown jewel of Chinese Dota, a great deal will always hang in the balance of this team's performance.
+
+Needless to say, a lot of responsibility.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/shopify.jpg" alt="Banner"></p>
@@ -953,7 +955,9 @@ Then I guess they just hate ESL or something? No idea what was up with their EPT
 
 Noob and Omar are relative newcomers to the competitive scene, but were formerly on the Coolguys roster together that competed in WEU Div 1 Tour 1 in 2022. TA2000 and kaori have been around for a few years, but always on EEU rosters. This is their first WEU team.
 
-Man, I'm getting sick of telling offlane stories. When did this become the most volatile role? Offlaners used to be so stable! It was the *midlaners* that would get passed around like holographic Pokémon cards at recess. Where did it all go so wrong? Whatever, rant over. Tour 1 and 2 they had Wuiter. Starting Tour 3 they had ATF and it looked like a great fit, but due to [contract disputes](https://twitter.com/AmmarAlassaf6/status/1680210587937124355) he didn't continue with the team. They brought in Malik to stand in during Riyadh Masters before ultimately getting Tobi from Entity for their TI qualifying roster.
+Man, I'm getting sick of telling offlane stories. When did this become the most volatile role? Offlaners used to be so stable! It was the *midlaners* that would get passed around like holographic Pokémon cards at recess. Where did it all go so wrong? Whatever, rant over. Tour 1 and 2 they had Wuiter. Starting Tour 3 they had ATF and it looked like a great fit, but due to [contract disputes](https://twitter.com/AmmarAlassaf6/status/1680210587937124355) he didn't continue with the team. They brought in Malik to stand in during Riyadh Masters before ultimately getting Tobi from Entity for their TI qualifying roster. Can you imagine the psychological toll of playing with 4 different offlaners in 1 year? Snip, snap, snip, snap.
+
+***NOTE TO SELF** - NOW THIS TEAM HAS THE PSG. PSG QUEST. SOUNDS LIKE SOME MMO NONSENSE.*
 
 **How was their DPC year?** 545 points
 
@@ -988,11 +992,11 @@ Man, I'm getting sick of telling offlane stories. When did this become the most 
 
 Most of the year was covered in the roster explanation, so I'll just gush about how exciting it's been to watch this team's journey. After smashing their way through Tour 1 Div 2, they came into Tour 2 as an immediate threat. This region's already cutthroat enough as it is. Notice how you don't see Secret, OG, or Nigma anywhere on this page? Quest/Ooredoo took series off Gaimin and Tundra but just barely lost a tiebreaker against OG to qualify for Berlin.
 
-By the time Tour 3 ended, most teams were beginning to statistically lock their chances of directly qualifying to TI through points, but the last 3-4 slots were still up in the air. Were Quest able to *win* the Bali Major, they would've just barely gotten enough points to sneak a direct TI invite. Believe it or not, that was not a ludicrous proposition. Alas, their bracket run was cut short after losing to Gaimin and then Liquid.
+By the time Tour 3 ended, most teams were beginning to statistically lock their chances of directly qualifying to TI through points, but the last 3-4 slots were still up in the air. Were Quest able to *win* the Bali Major, they would've just barely gotten enough points to sneak a direct TI invite. Believe it or not, that was a fairly realistic proposition. Alas, their bracket run was cut short after losing to Gaimin and then Liquid.
 
 They would be tested one last time after making it to Riyadh Masters through a dedicated MENA region qualifier and fought their way to top 8. In a different timeline their run went even further, but their elimination series against Gaimin was plagued with technical issues and they lost.
 
-**What would success look like?** Now that I've gassed them up: Realistically, making it past "The Road" and into "The International" final weekend will be an incredible achievement. True success will likely come in these players in the next few years.
+**What would success look like?** Now that I've gassed them up: Realistically, making it past "The Road" and into "The International" final weekend will be an incredible achievement. True success will likely come for these players in the next few years.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/vp.jpg" alt="Banner"></p>
@@ -1177,7 +1181,9 @@ Thunder was actually fairly close to qualifying to Berlin and Bali, but if you c
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Gunnar and moo were on nouns since 2022. Lelis and yamsun joined. Husky was on the roster until tour 3. k1 became a free agent from beastcoast, husky got kicked, and yamsun moved positions
+**How did this roster happen?** You may recall bits of this roster from last year's TI Last Chance Qualifier, but in case you don't: Gunnar is a nouns staple, Moo has been rocking the noggles since 2022, and Lelis and Yamsun joined at the beginning of this season. K1's 'health break' off of beastcoast lasted about a month and a half before joining nouns in July.
+
+Pour one out for Husky, though. Brother had been 5 position with Gunnar on 4 Zoomers/nouns since *August 2020* and got kicked right after the Bali Major ended. They didn't even kick him for a support player. Yamsun just straight up changed roles to make space for K1.
 
 **How was their DPC year?** 464 points
 
@@ -1210,13 +1216,15 @@ Thunder was actually fairly close to qualifying to Berlin and Bali, but if you c
 </div>
 <br>
 
-When the first major was unceremoniously canceled, [Quinn was one of the first players to vocalize his dissatisfaction.](https://esports.gg/news/dota-2/valve-cancels-major-quinn/) And rightfully so. This first tour that QC fought to get a top placement in would ultimately be a footnote in the grand scheme of DPC points. Additionally, it also removed the possibility of making more prize money at a major. Which, for an unsponsored team, is *pretty important*.
+Usually for these regional qualifier teams, we just have to infer how they'd theoretically perform against international opponents. Thankfully for nouns, we have the data. ESL graciously granted North America *three* slots to DLS19 and nouns got bodied. Then TSM graciously granted nouns *their* slot to the Bali Major and they got bodied again.
 
-The band-aid Regional Final was applied, but TSM was now turning NA Dota into a three-horse-race. QC fell just short in Tour 2 with NA only getting 2 slots per major, but bounced back for Tour 3.
+To be fair, these were pre-K<sub>1</sub> versions of nouns. After dominating NA TI quals, it's been good times, right? Let's just check some sources. Ah yes, it appears they just finished playing in an online event *Pinnacle Cup: Malta Vibes #4* and got 9-12th after getting 2-0'd by a Turkish player whose handle is "Jeezy."
 
-No idea what happened in Arlington, though, they got slaughtered. Which is weird because I just talked about how NA teams usually got a power-up after being signed. I hope for their sake the Soniqs buff is time delayed.
+Hmm.
 
-**What would success look like?** Well, they finally got a sponsor. So that's progress. I'd say the next success would be Jack being at ease with the state and future of the Dota Pro Circuit.
+**What would success look like?** As a North American, I hate myself for saying this, but success is probably Gunnar finding a nice Western European forever team to adopt him next year. Sneyking did it, Quinn did it, Kitrak kinda did it. It... it may be time... n-no don't look at me like that. It's hard enough as it is. Go.
+
+I SAID GO!
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/azure.jpg" alt="Banner"></p>
@@ -1234,7 +1242,9 @@ No idea what happened in Arlington, though, they got slaughtered. Which is weird
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Lou and a bunch of scrubs under Ybb for most of the year. Tour 3 became azure ray the china avengers came in and got 
+**How did this roster happen?** Lou, 天命, and some mostly unknown up-and-coming Chinese players were quietly doing their under "Ybb Gaming" tag for most of the year. Then all of a sudden, Tour 3, the fuckin' China Avengers got assembled and this team became Azure Ray.
+
+Fy was still actively playing on Vici before joining, but what were Somnus and Chalice doing since their time on RNG last TI? Nothing! Lazy writing just deus ex machina'ing them back into the season if you ask me.
 
 **How was their DPC year?** 400 points
 
@@ -1267,9 +1277,11 @@ No idea what happened in Arlington, though, they got slaughtered. Which is weird
 </div>
 <br>
 
-Bunch of nothing then the chinese avengers
+Most of the year was irrelevant, but they did get a top 8 finish at Bali. Bear in mind, however, they got that top 8 by beating one opponent in bracket: BetBoom. Was that *after* BetBoom...? Yep.
 
-**What would success look like?** Only two Chinese teams are attending this TI. LGD and Azure Ray. Last year was already surprising with only LGD, Aster, and RNG. But only *two*? Never thought I'd see the day.
+**What would success look like?** Only two Chinese teams are attending this TI. LGD and Azure Ray. Last year was already surprising with only LGD, Aster, and RNG. But only *two* Chinese teams? Never thought I'd see the day.
+
+Lot of question marks in the air on the future state of the Chinese scene. Is most of the matchfixing resolved? Are new talent joining the competitive scene? Will we ever have international LANs there again? 
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/smg.jpg" alt="Banner"></p>
