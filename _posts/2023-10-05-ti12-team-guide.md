@@ -1281,7 +1281,9 @@ And remind me again, who won TI last time it was in Seattle?
 
 ----
 
-# If you enjoyed this article, buy my voiceline!
+# Time to shill, I earned it
+
+Unfortunate that the core demographic for these articles are usually people who don't have Dota 2 installed anymore, BUT JUST IN CASE YOU DO, consider buying my voiceline!
 
 <style>
   .shill_wrapper {
@@ -1379,8 +1381,6 @@ And remind me again, who won TI last time it was in Seattle?
 }
   </style>
 
-Too bad the core demographic for these articles are usually people who don't have Dota 2 installed anymore, BUT JUST IN CASE YOU DO!
-
 <div class="shill_wrapper">
 <div class="sticker_wrapper">
   <img class="sticker" style="max-width: 100%; width: 400px;" title="Buy my sticker!" src="./../../../img/ti12teams/tsunami_sticker.png">
@@ -1393,9 +1393,9 @@ Too bad the core demographic for these articles are usually people who don't hav
 </div>
 </div>
 
-If you're more into physical goods, check out my [**howdoiplay merch store**.](https://shop.howdoiplay.com/) Season 2 drop coming eventually.
+If you're more into physical goods, you can also check out my [**howdoiplay merch store**](https://shop.howdoiplay.com/). Season 2 drop coming eventually.
 
-Thank you, thank you, thank you to [Liquipedia volunteers.](https://liquipedia.net/dota2/Dota_Pro_Circuit/2023/Rankings) Dota just had our 'ten year anniversary' and so much of our history is kept intact thanks to Liquipedia.
+Thank you, thank you, thank you to all the [Liquipedia volunteers.](https://liquipedia.net/dota2/Dota_Pro_Circuit/2023/Rankings) Dota just had our 'ten year anniversary' and so much of our esport's history is kept intact thanks to Liquipedia.
 
 If you want to keep up with me, I'm around on [Twitch](https://twitch.tv/tsunami643), [Instagram](https://instagram.com/tsunami643), and... [X.](https://twitter.com/tsunami643)
 
