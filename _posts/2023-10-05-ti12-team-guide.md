@@ -404,7 +404,7 @@ bed bath beyond
 
 Surprisingly, their best finish at the Berlin Major was with Rodjer standing in for Solo.
 
-**What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. I would know. I put them into my Compendium predictions to win it literally all three of those years.Then that old VP would proceed to consistently drop the ball at TI7, TI8, and TI9.
+**What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. I would know. I put them into my Compendium predictions to win it literally every time. Then that old VP would proceed to consistently drop the ball at TI7. And TI8. And TI9.
 
 For some, true success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was beaten to death with Aegis one too many times this year.
 
@@ -721,7 +721,7 @@ You just learned the difference between those prefixes.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** larl came from betboom
+**How did this roster happen?** After two years and one Aegis, TORONTOTOKYO finally left Spirit after last TI ended. In December, it was announced that a young gun by the name of Larl would be Toronto's replacement. Larl wasn't a complete nobody, he was on the 2022 BetBoom roster that got top 8 at the Stockholm Major and... got last at TI11. Yeah okay he was kind of a nobody. But Spirit saw promise in him and stuck with this roster for this entire season.
 
 **How was their DPC year?** 1020 points
 
