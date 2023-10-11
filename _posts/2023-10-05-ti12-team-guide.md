@@ -603,10 +603,11 @@ They did recently reach grand finals in DLS21 in September, but it's the LAN res
 </div>
 <br>
 
-Dare I say this is the strongest SEA team in years? The closest comparison would be 2021's T1, but 
-lima major jabz vs jabbz
+Lima Major was a hot start for Talon and they left Peru with a bronze medal after losing to Liquid twice in bracket. Once in uppers, and again when Jabbz proved superior to Jabz in lowers. In Berlin, they fell to EG during their miracle run and that somehow spiraled into a 4<sup>th</sup> place finish during Tour 3 which meant they'd miss the Bali major in their home region.
 
-**What would success look like?** This may have been SEA's worst year 
+Talon spent their time off constructively and came back on LAN at Riyadh with a vengeance. Unfortunately, they get bounced twice by Team Liquid *again* and got 3<sup>rd</sup> *again*.
+
+**What would success look like?** China's been in shambles this year, but SEA's been in shambles for like the past 4 years. Last TI was absolutely catastrophic. No SEA team even made it to the final venue in Singapore. Talon's got a good head on their shoulders, though. No visa issues. Mikoto won MVP at Riyadh. Jabz's captainship seems stronger than ever.
 
 They're just a real bunch of stand up guys.
 
