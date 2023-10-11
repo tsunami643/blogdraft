@@ -204,19 +204,19 @@ Nope. It was
 
 That's correct.
 
-If you didn't have any strong opinions about this team last year, I wouldn't blame you. They were distinctly 'middle of the pack' material by WEU standards.
+If you didn't have any opinions about this team last year, I wouldn't blame you. They were distinctly 'middle of the pack' material by WEU standards.
 
-If you didn't have any strong opinions about this team by the end of this year, you're a unicorn.
+If you didn't have any opinions about this team by the end of this year, you're a unicorn.
 
 The Lima Major win was the honeymoon period. A new WEU team was on the block. First Dutch Major champion with Seleri. Quinn, who had been struggling in NA for years, finally earned some validation. But in Berlin it was like, oh okay, it's happening again. But... back to back winners, that's exciting! Then come Bali, even the most neutral Dota esports viewers were starting to get a little agitated by their presence.
 
-It's a fascinating case study of a team that most people barely ever thought about, to a team that a lot of people began actively disliking. There are a variety of factors.
+It's a fascinating case study of a team that most people barely ever thought about, to a team that a lot of people began actively disliking. I believe there are a variety of factors.
 
-One is that, well, they're just very good. And if you're constantly very good, people get annoyed that you keep making everyone else look very bad. And this isn't just patch luck. The game **MASSIVELY** changed during DreamLeague S19 and they *still* kept winning everything. The strange thing is, they're not necessarily boring to watch (which is most people's argument against Tundra), they're just classic Western European clean Doto.
+One is that, well, they're just very good. And if you're constantly very good, people get annoyed that you keep making everyone else look very bad. This isn't even just patch luck. The game **MASSIVELY** changed during DreamLeague S19 and they *still* kept winning everything. The strange thing is, they're not necessarily boring to watch (which is most people's argument against Tundra), they're just classic Western European clean Doto.
 
-Two is compounded by the fact that Liquid were doing them no favors by getting bopped in every single grand final. It was almost pre-determined. *OHH BOY, GAIMIN IS IN GRAND FINALS AND LIQUID'S MAKING A LOWER BRACKET RUN, GEE I WONDER WHAT'S GONNA HAPPEN NEXT.*
+Two is compounded by the fact that Liquid were doing them no favors by getting bopped in every single grand final. It was almost predetermined. *OHH BOY, GAIMIN IS IN GRAND FINALS AND LIQUID'S MAKING A LOWER BRACKET RUN, GEE I WONDER WHAT'S GONNA HAPPEN NEXT.*
 
-Three is... Quinn. To put it lightly, he's a very colorful individual in pubs. And that, combined with an ego that was polished to a mirror finish this year, is a dangerous combination. I don't think I've seen people enjoy hatewatching a player this much since the days of internationally renowned day trader EternalEnvy. The worst part is even the hatewatchers will admit that the rest of his team is very likeable, which makes him an even *stronger* focus of their rage because they can't diffuse it amongst the roster.
+Three is Quinn. To put it lightly, he's a very colorful individual in pubs. And that, combined with an ego that was polished to a mirror finish this year, is a dangerous combination. I don't think I've seen people enjoy hatewatching a player this much since the days of internationally renowned day trader EternalEnvy. The worst part is even the hatewatchers will admit that the rest of his team is very likeable, which makes him an even *stronger* focus of their rage because they can't diffuse their irritation throughout the roster.
 
 **What would success look like?** They already made history by being the first time in Dota 2 history to ever win every major of the season. Ya gotta finish the story now.
 
