@@ -1451,4 +1451,6 @@ If you enjoyed this article and want to keep up with me, I'm around on [Twitter]
 
 Also, feel free to pay money and [buy my TI11 voiceline](https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s) or hit up the [howdoiplay merch store.](https://shop.howdoiplay.com/)
 
-<p style="font-size: 1.5em;"><a href="https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s"><b>Discussion for this article on /r/dota2.</b></a></p>
+<p style="font-size: 1.5em;margin-bottom:0px;text-align: center;">
+    <a href="https://www.reddit.com/r/DotA2/comments/y4s6m4/the_international_2022_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
+</p>
