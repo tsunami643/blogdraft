@@ -550,7 +550,7 @@ But that's exactly what happened.
 
 Hopes were high after their Lima Major 4<sup>th</sup> place finish, but the shine dulled pretty quickly. Abed also had visa issues getting to Europe which led to Iranian player Mikey standing in for DLS19 and MIRACLE <img class="batchest" title="OMG MIRACLE" style="height: 32px" src="./../../../img/ti12teams/batchest.png"> standing in for DLS20.
 
-They did recently reach grand finals in DLS21 in September, but it's the LAN results that continue to elude them.
+They did recently reach grand finals at DLS21 in September, but it's the LAN results that continue to elude them.
 
 **What would success look like?** How funny would it be if Arteezy’s first Valve Major win is the TI with the lowest prize pool since he started competing ten years ago.
 
@@ -664,11 +664,9 @@ K1 Hector was also beastcoast's carry since 2019, but he departed before the Bal
 </div>
 <br>
 
-While intra-regionally they're not as dominant in SA as they once were, inter-regionally this was their best year yet.
+It's been a quiet season for the boys in aquamarine. For every superteam, there must be a... civilianteam? Let's just say the EG roster shuffle results were not very kind to them and having to change K1 at the end of the season probably didn't help. Their TI invitation chances were in jeopardy near the end of the season, but Shopify Rebellion did them a solid and lost in first round of Bali's lower bracket to get beastcoast 300 points with top 8.
 
-You just learned the difference between those prefixes.
-
-**What would success look like?** Each TI has shown an upwards trajectory from beastcoast from TI10's 13-16th to TI11's 7-8th
+**What would success look like?** A Climate Pledge arena filled to the brim with Crest plushies.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/spirit.jpg" alt="Banner"></p>
