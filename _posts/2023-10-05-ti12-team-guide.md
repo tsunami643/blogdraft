@@ -7,11 +7,11 @@ feature-img: "img/ti12teams/ti12header.jpg"
 flags: true
 ---
 
-### Actually, a Practical Guide to the *Road* to the International 2023
+### Or more accurately, "The *Road* to the International 2023: A Practical Guide"
 
 The what?
 
-The *Road*, my friend. The *Road*.
+The *Road*, my friends. The *Road*.
 
 ---
 
@@ -128,11 +128,26 @@ You know how you probably associate Sumail as being on Evil Geniuses for like...
 
 So the year started off-- wait, sorry. Gotta fix my formatting.
 
-boxi origins link for lima
+<p style="background: #bebebe">So the year started off pretty good for Liquid. Nisha instantly gelled with the team and they got a 2<sup>nd</sup> place finish in Lima despite Boxi having to leave mid-way through the tournament.</p>
 
-<p style="background: #bebebe">So the year started off pretty good</p>
+<p style="background: #bebebe">But then it happened again.</p>
 
-**What would success look like?** Fun fact: Do you know who the highest earning Dota 2 player that hasn't won TI is? [It's zai.](../img/ti12teams/zaiesportsearnings.jpg) Even more impressive is he's done that without ever even being in a TI grand finals.
+<p style="background: #bebebe">And again.</p>
+
+<p style="background: #bebebe"><b>And again.</b></p>
+
+It would've been funny if it wasn't so sad. Actually that's a lie, it was still pretty funny. After being stonewalled by a Western European nemesis for 3 LANs straight, Liquid finally conquered their demons at Riyadh before once more fumbling the bag against Team Spirit in grand finals.
+
+**What would success look like?** Fun fact: Do you know who the highest earning Dota 2 player that hasn't won TI is? [It's zai.](./../../../img/ti12teams/zaiesportsearnings.jpg) Even more impressive is he's done that without ever even being in a TI grand finals.
+
+Can Liquid finally do it? Or is this team just destined for silver medals.
+
+<br>
+<br>
+
+Anyways, a Western European nemesis, you say? Who were they? I bet it was Team Secret. Ooh, or maybe OG? Tundra? NIGMA?!
+
+Nope. It was
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/gaimin.jpg" alt="Banner"></p>
@@ -150,7 +165,7 @@ boxi origins link for lima
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** This is the same roster as last year barring one Quinn Callahan. While on the brink of contemplating retirement when Quincy Crew/Soniqs disintegrated after last TI, Quinn was given the opportunity to export himself to this Western European team taking the place of former midlaner BOOM. Meanwhile, BOOM went to Secret and Secret went boom.
+**How did this roster happen?** This is the same roster as last year barring some cool, calm, collection. While on the brink of contemplating retirement when Quincy Crew/Soniqs disintegrated after last TI, Quinn was given the opportunity to export himself to this Western European squad taking the place of former midlaner BOOM. Meanwhile, BOOM went to Secret and Secret went boom.
 
 **How was their DPC year?** 2140 points
 
@@ -183,13 +198,24 @@ boxi origins link for lima
 </div>
 <br>
 
-If you don't remember anything about this players from last year, I wouldn't blame you. They were the epitome of "middle of the pack." 
+*GAIMIN* was Liquid's nemesis??? Yes, you're reading that correctly. We had to watch the same grand final. Every. Single. Major.
 
-If you don't remember anything about these players from this year, you're out of your mind.
+If you didn't have any strong opinions about this team last year, I wouldn't blame you. They were distinctly 'middle of the pack' material by WEU standards.
+
+If you didn't have any strong opinions about this team this year, you're a unicorn.
+
 But following 
-Bunch of firsts. Was an interesting journey for a team that not many people thought about to a team that a lot of people began actively hating
+Bunch of firsts. Was an interesting journey for a team that not many people thought about to a team that a lot of people began actively hatewatching. There are a variety of factors.
 
-**What would success look like?** They already made history by being the first time in Dota 2 history to ever win every major of the season. Winning TI on top of that would be the icing on the cake, the feather in the cap, the wideBat of the Quinn.
+One is that, well, they're just very good. And if you're constantly very good, people get annoyed that you keep making everyone else look very bad.
+
+Two is compounded by the fact that Liquid were doing them no favors by getting bopped by them in every single grand final. It was almost pre-determined. OHH BOY, GAIMIN'S IN GRAND FINALS AND LIQUID'S MAKING A LOWER BRACKET RUN, GEE I WONDER WHAT'S GONNA HAPPEN.
+
+Three is this man.
+
+They already made history by being the first time in Dota 2 history to ever win every major of the season.
+
+**What would success look like?** I unironically believe a large number of Redditors may just straight up kill themselves to avoid living in a timeline where Quinn Callahan is a TI winner.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/tundra.jpg" alt="Banner"></p>
