@@ -1379,7 +1379,7 @@ And remind me again, who won TI last time it was in Seattle?
 }
   </style>
 
-Too bad the core demographic for these articles are usually people who probably don't have Dota 2 installed anymore, BUT JUST IN CASE YOU DO!
+Too bad the core demographic for these articles are usually people who don't have Dota 2 installed anymore, BUT JUST IN CASE YOU DO!
 
 <div class="shill_wrapper">
 <div class="sticker_wrapper">
@@ -1393,11 +1393,11 @@ Too bad the core demographic for these articles are usually people who probably 
 </div>
 </div>
 
-If you're more into physical goods, you can also visit the [howdoiplay merch store.](https://shop.howdoiplay.com/) Season 2 drop coming eventually.
+If you're more into physical goods, check out my [**howdoiplay merch store**.](https://shop.howdoiplay.com/) Season 2 drop coming eventually.
 
-Thank you, thank you, thank you to [Liquipedia volunteers.](https://liquipedia.net/dota2/Dota_Pro_Circuit/2023/Rankings) The more I watch other esports the more I realize that historical documentation makes such a big difference in the quality of a broadcast. Every talent is indebted to Liquipedia and 
+Thank you, thank you, thank you to [Liquipedia volunteers.](https://liquipedia.net/dota2/Dota_Pro_Circuit/2023/Rankings) Dota just had our 'ten year anniversary' and so much of our history is kept intact thanks to Liquipedia.
 
-If you enjoyed this article and want to keep up with me, I'm around on [Twitch](https://twitch.tv/tsunami643), [Instagram](https://instagram.com/tsunami643)... or [X](https://twitter.com/tsunami643)
+If you want to keep up with me, I'm around on [Twitch](https://twitch.tv/tsunami643), [Instagram](https://instagram.com/tsunami643), and... [X.](https://twitter.com/tsunami643)
 
 ### What <i>was</i> SUNSfan warning us about?
 
