@@ -831,17 +831,17 @@ EG was South America's superteam and BoomBox Team was *supposed* to be EEU's sup
 
 They were given a last minute invite to DLS20 after SEA team Execration had visa issues and got the grand finals placement that was necessary to directly qualify to Riyadh. Nice!
 
-Then there was Bali. Bali, Bali, Bali.
+**Then there was Bali.** Bali, Bali, Bali.
 
-I'll try my best to summarize: The Bali Major had a ton of technical issues. A particularly extensive one occurred during Tundra vs. BetBoom's upper bracket match which led to a multi hour pause. This was an especially important match because if Bibimbap Team won, they'd get top 8 and with it enough points to secure a TI invite. The match eventually carried on and they got a 2-0. They did it! They're going to Seattle!
+I'll try my best to summarize: The Bali Major had a ton of technical issues. A particularly extensive one occurred during Tundra vs. BetBoom's upper bracket match which led to a multi hour pause. This was an especially important match because if Bibimbap Team won, they'd get top 8 and, with it, enough points to secure a TI invite. The match eventually carried on and they got the 2-0. They did it! They're going to Seattle!
 
 <p style="font-family: Georgia; font-size: 1.8em; font-weight: 600; text-align: center;">[EXTREMELY LOUD INCORRECT BUZZER]</p>
 
-You see during the long ass pause, Pure, whom you may know as having a somewhat checkered history, got a lil' bored. He got so bored, in fact, that he opened up a RU community caster Nix's stream. During the game. Well, during the pause, but the pause was... during the game. His game. And this was caught on the player cameras.
+You see during the long ass pause, Pure, whom you may know as having a somewhat checkered history, got a lil' bored. He got so bored, in fact, that he opened up RU community caster Nix's stream. During the game. Well, during the pause, but the pause was... during the game. His game. And this was caught on the player cameras.
 
 Mass hysteria ensues. I was on the broadcast and even I didn't even know what the hell was going on. Does Tundra win? Can BBop Team even still play? Is Pure going to be shot out of a cannon? Are we even allowed to shoot cannons in Indonesia?
 
-The verdict was that Tundra would be given the win instead and Pure would be disqualified for the rest of the event. Resolution, who had previously stood in for BoomBox at Berlin, just so happened to be on the EN broadcast for the event. He "stood in" for BedandBreakfast and they promptly got eliminated by a very irritated Azure Ray.
+The verdict was that Tundra would be given the win and Pure would be disqualified for the rest of the event. Resolution, who had previously stood in for BeanBlops at Berlin, just so happened to be on the EN broadcast for the event. He "stood in" for BedandBreakfast and they promptly got eliminated by a very irritated Azure Ray.
 
 Good times.
 
@@ -1236,9 +1236,9 @@ Lot of question marks in the air on the future state of the Chinese scene. Is mo
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** MidOne has been adamant about making SMG (which stands for *Still Moving under Gunfire*)
+**How did this roster happen?** MidOne's been adamantly attempting to assemble a worthwhile squad as SMG (which stands for *Still Moving under Gunfire*. Yes, actually.) for years now. It will honestly take me seventeen paragraphs to fully explain all the roster changes SMG experienced this season, so I'll just hit you with the essentials: ah fu's been around since last year, Jaunuel came in Tour 3, and Noone randomly showed up during regional quals.
 
-Unfortunately, Masaros ended up being the only player this TI to not secure a visa and Mind_Control. 
+Unfortunately, Masaros ended up being the only player this TI to not secure a visa and Mind_Control was selected to stand in as well as Heen coming in to coach.
 
 **How was their DPC year?** 133 points
 
@@ -1262,7 +1262,7 @@ MidOne spent the majority of the year taking a world tour around the Dota map. I
 
 SMG's been under SEA suppressing fire since org's inception in 2021 and Berlin was the first opportunity for them to play at an international LAN. It was not pretty. They only won 4 games out of 16 and 3 of them were against other teams that also got eliminated in groups.
 
-They did dominate SEA TI quals, so not all hope is lost.
+They did dominate SEA TI quals, though, so not all hope is lost.
 
 **What would success look like?** Despite withering away on Nigma Galaxy, Mind_Control gets the zoomies every time he's recruited to stand-in for another team. He subbed in for OG twice this season: Once at Berlin, ending top 6, and once again at DLS21, earning them a top 4 placement. If you wanna go way back into the archives... 2018? He also got a top 4 finish with Ninjas in Pajamas at the Kuala Lumpur Major.
 
