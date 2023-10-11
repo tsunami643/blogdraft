@@ -7,7 +7,7 @@ feature-img: "img/ti12teams/ti12header.jpg"
 flags: true
 ---
 
-### Sorry, it's actually a Practical Guide to the *Road* to the International 2023
+### Actually, a Practical Guide to the *Road* to the International 2023
 
 The what?
 
@@ -15,7 +15,13 @@ The *Road*, my friend. The *Road*.
 
 ---
 
-Welcome to another DPC season! After last year, a lot of people were expecting a big patch for how the DPC operates. You know maybe some calendar changes? Economy reworks? Instead we just got number buffs.
+Group stage is completely different from before. No longer is it two big ole' groups that half the teams get shoved in to. In an effort to make group stage games higher stakes, Valve has now split the 20 teams into 4 different groups.
+
+ESL didn't get any DPC tours "We'll make our own tour" "ESL Pro Tour," or EPT for short. This circuit consisted of culminating in the *Riyadh Masters 2023* with a whopping $15MM prize pool.
+
+These forewords are usually more for my benefit so I can keep track of all the 
+
+Let's get started.
 
 <style>
   table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}
@@ -61,82 +67,7 @@ Welcome to another DPC season! After last year, a lot of people were expecting a
   }
 </style>
 
-<style>
-  @font-face{font-family:"Radiance";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.eot");src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.eot?#iefix") format("embedded-opentype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.ttf") format("truetype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance.svg#ywftsvg") format("svg");font-weight:normal;font-style:normal}@font-face{font-family:"Radiance";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.eot");src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.eot?#iefix") format("embedded-opentype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.ttf") format("truetype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-bold.svg#ywftsvg") format("svg");font-weight:900;font-style:normal}@font-face{font-family:"Radiance";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.eot");src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.eot?#iefix") format("embedded-opentype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.ttf") format("truetype"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/radiance-semibold.svg#ywftsvg") format("svg");font-weight:700;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular.ttf") format("truetype");font-weight:400;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Light.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Light.ttf") format("truetype");font-weight:200;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-SemiBold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-SemiBold.ttf") format("truetype");font-weight:600;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Bold.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Bold.ttf") format("truetype");font-weight:700;font-style:normal}@font-face{font-family:"Reaver";src:url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Black.woff") format("woff"),url("https://cdn.cloudflare.steamstatic.com/apps/dota2/fonts/Reaver-Regular-Black.ttf") format("truetype");font-weight:800;font-style:normal}
-</style>
 
-<div style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 100%; background-color: #000; padding: 15px 25px; min-height: 0; margin-bottom: 1em; display: flex; flex-direction: column; position: relative;'>
-
-<span style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 32px; letter-spacing: 4px;'>
-DPC Changelog
-</span>
-<span style='font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 72px; font-weight: bold; letter-spacing: 8px;'>
-2021-2022
-</span>
-<span style=' background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>GENERAL UPDATES</span>
-<br>
-<span style=' font-family: "Radiance","Noto Sans",sans-serif; font-size: 20px; color: #bbbbbbee; line-height: 30px; font-weight: 200; margin-bottom: 20px'>
-• Increased number of Regional Leagues/Tours from 2 to 3
-<br>
-• Reworked DPC points formula. Leagues and Majors now scale the closer they are to TI. For example, 1st place in a Regional League now earns 300/400/500 points for Tour 1/2/3 instead of a flat 500 points each Tour
-</span>
-</div>
-
-At least this is closer to Valve's original vision of the DPC when they [initially pitched the league format.](https://web.archive.org/web/20210212054111/http://blog.dota2.com/2020/02/introducing-regional-leagues/) 3 regional tours, 3 majors, 6 opportunities total to earn points. Still six weeks per tour, still the same prize pools, still the same number of major slots per region, but progress nonetheless.
-
-The first regional tour for this season started near the <abbr title="For every region besides China">end of November 2021</abbr> and things were going along swimmingly. _"I wonder where the first major will be?"_ the Dota scene very openly wondered. Well on January 11th, [we found out.](https://web.archive.org/web/20220112065038/https://www.dota2.com/newsentry/3110298479118085517)
-
-<div style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 100%; background-color: #000; padding: 15px 25px; min-height: 0; margin-bottom: 1em; display: flex; flex-direction: column; position: relative;'>
-
-<span style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 32px; letter-spacing: 4px;'>
-DPC Changelog
-</span>
-<span style='font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 72px; font-weight: bold; letter-spacing: 8px;'>
-2021-2022.b
-</span>
-<span style=' background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>PANIC UPDATES</span>
-<br>
-<span style=' font-family: "Radiance","Noto Sans",sans-serif; font-size: 20px; color: #bbbbbbee; line-height: 30px; font-weight: 200; margin-bottom: 20px'>
-• Due to escalating COVID concerns, the first major has been canceled
-<br>
-• DPC Points that would have been awarded during the first major will now be reallocated to Major 2 and Major 3
-<br>
-</span>
-</div>
-
-And that was... kind of it? As it is, players were not particularly enthused about burning six weeks of their time competing in a 2-Bo3-a-week league, but they had to grin and bear it to make it to the major. Well, now there's no major. Thanks for playing. Literally.
-
-People were piiiiiiissed.
-
-So Valve went [back to the drawing board.](https://web.archive.org/web/20220122075926/https://www.dota2.com/newsentry/3104670157387376084)
-
-<div style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; width: 100%; background-color: #000; padding: 15px 25px; min-height: 0; margin-bottom: 1em; display: flex; flex-direction: column; position: relative;'>
-
-<span style='box-sizing: border-box; font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 32px; letter-spacing: 4px;'>
-DPC Changelog
-</span>
-<span style='font-family: "Radiance","Noto Sans",sans-serif; max-width: 900px; color: #ed3b1c; font-size: 72px; font-weight: bold; letter-spacing: 8px;'>
-2021-2022.c
-</span>
-<span style=' background: linear-gradient(to right, #833312FF, #83331200); border-left: 2px solid #ff5005; font-size: 30px; font-weight: 600; font-family: "Reaver",serif; text-transform: uppercase; letter-spacing: 4px; color: #fff; text-shadow: 0px 0px 5px #000; box-shadow: 0px 0px 30px #000; padding: 12px 20px;'>APPEASEMENT UPDATES</span>
-<br>
-<span style=' font-family: "Radiance","Noto Sans",sans-serif; font-size: 20px; color: #bbbbbbee; line-height: 30px; font-weight: 200; margin-bottom: 20px'>
-• An online Regional Finals will replace the Major and award DPC points and prize money
-<br>
-• This year's International will feature a Last Chance Qualifier. During the regional qualifiers, each first place team will be directly invited to TI. Each region's second and third place teams will play a tournament on LAN to determine two more invites to compete at TI
-<br>
-</span>
-</div>
-
-If you look back at the title of this article, you'll see I mentioned *20* teams. In an effort to make sure that visas/COVID/war restrictions didn't prohibit teams from reaching TI, a Last Chance Qualifier was implemented this year. 20 TEAM TI, BABY! TWO GROUPS OF 10. 4 TEAMS ELIMINATED AFTER GROUPS.
-
-No one reads these preambles anyway, so this is an abridged version of all the complications that occurred during the season. China had a whole bunch of difficulties competing internationally this year, as did EEU, but we'll get into that.
-
-Also, looking back at that last Valve blog, I couldn't help but notice.
-
-> We expect the rest of the year to go as planned
-
-Honestly, I appreciate the optimism.
 
 ---
 
@@ -1459,6 +1390,8 @@ As always, my sincerest thanks to the many volunteers who [keep Liquipedia up to
 If you enjoyed this article and want to keep up with me, I'm around on [Twitter](https://twitter.com/tsunami643), [Twitch](https://twitch.tv/tsunami643), or [Instagram](https://instagram.com/tsunami643).
 
 Also, feel free to pay money and [buy my TI11 voiceline](https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s) or hit up the [howdoiplay merch store.](https://shop.howdoiplay.com/)
+
+### What <i>was</i> SUNSfan warning us about?
 
 <p style="font-size: 1.5em;margin-bottom:0px;text-align: center;font-weight:bold;">
     <a href="https://www.reddit.com/r/DotA2/comments/y4s6m4/the_international_2022_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
