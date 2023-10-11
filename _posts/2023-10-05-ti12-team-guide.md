@@ -18,9 +18,6 @@ The *Road*, my friend. The *Road*.
 Welcome to another DPC season! After last year, a lot of people were expecting a big patch for how the DPC operates. You know maybe some calendar changes? Economy reworks? Instead we just got number buffs.
 
 <style>
-
-  @import url("../../blog/css/font-awesome.min.css")
-
   table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}
 
   .resultsTable tr, .resultsTable td {
@@ -1342,7 +1339,7 @@ We're about to learn just how strong a crowd buff can truly get.
     min-height: 520px;
     max-width: 1031px;
     margin: auto;
-    margin-bottom: 8px;
+    margin-bottom: 20px;
   }
   .sticker_wrapper {
     margin: 10px 10px;
@@ -1451,6 +1448,6 @@ If you enjoyed this article and want to keep up with me, I'm around on [Twitter]
 
 Also, feel free to pay money and [buy my TI11 voiceline](https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s) or hit up the [howdoiplay merch store.](https://shop.howdoiplay.com/)
 
-<p style="font-size: 1.5em;margin-bottom:0px;text-align: center;">
+<p style="font-size: 1.5em;margin-bottom:0px;text-align: center;font-weight:bold;">
     <a href="https://www.reddit.com/r/DotA2/comments/y4s6m4/the_international_2022_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
 </p>
