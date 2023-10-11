@@ -205,17 +205,17 @@ If you didn't have any strong opinions about this team last year, I wouldn't bla
 If you didn't have any strong opinions about this team this year, you're a unicorn.
 
 But following 
-Bunch of firsts. Was an interesting journey for a team that not many people thought about to a team that a lot of people began actively hatewatching. There are a variety of factors.
+Bunch of firsts. Was an interesting journey for a team that not many people thought about to a team that a lot of people began actively disliking. There are a variety of factors.
 
 One is that, well, they're just very good. And if you're constantly very good, people get annoyed that you keep making everyone else look very bad.
 
-Two is compounded by the fact that Liquid were doing them no favors by getting bopped by them in every single grand final. It was almost pre-determined. OHH BOY, GAIMIN'S IN GRAND FINALS AND LIQUID'S MAKING A LOWER BRACKET RUN, GEE I WONDER WHAT'S GONNA HAPPEN.
+Two is compounded by the fact that Liquid were doing them no favors by getting bopped by them in every single grand final. It was almost pre-determined. OHH BOY, GAIMIN'S IN GRAND FINALS AND LIQUID'S MAKING A LOWER BRACKET RUN, GEE I WONDER WHAT'S GONNA HAPPEN NEXT.
 
-Three is this man.
+Three is Quinn. Part of it... no, most of it is self-inflicted. He's a very colorful individual. I don't think I've seen people enjoy hatewatching a player this much since the days of internationally renowned day trader EternalEnvy.
 
-They already made history by being the first time in Dota 2 history to ever win every major of the season.
+**What would success look like?** They already made history by being the first time in Dota 2 history to ever win every major of the season. Ya gotta finish the story now.
 
-**What would success look like?** I unironically believe a large number of Redditors may just straight up kill themselves to avoid living in a timeline where Quinn Callahan is a TI winner.
+Also, I unironically believe a large number of Redditors may just straight up kill themselves to avoid living in a timeline where Quinn Callahan is a TI winner.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/tundra.jpg" alt="Banner"></p>
@@ -1060,7 +1060,7 @@ Wait, *South America #1 Qualifier*? What do you mean *#1*? I mean that besides t
 
 **What would success look like?** To refresh your memory: TI7 was the very first TI to feature a South American team (Infamous). TI8 had the mostly Brazilian paiN Gaming to represent the region. And ever since then, it's pretty much always been the Peru show on LAN. The last time a Brazilian team made it to a Valve Major was Costabile and KJ's SG esports at TI10 that got eliminated in groups.
 
-And making it out of groups is waaaay harder this time.
+4nalog managed to make it out of groups last year on Hokori, but it's waaaay harder with this year's format.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/thunder.jpg" alt="Banner"></p>
