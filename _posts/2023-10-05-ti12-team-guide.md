@@ -794,9 +794,7 @@ For what it's worth, they *did* make it to grand finals of the BetBoom Dacha LAN
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** nightfall, gpk, save played together on the ti10 VP which was coached by boolk. torontotokyo left spirit and became a support
-
- then pure and nightfall swapped positions afterwards
+**How did this roster happen?** The TI11 BetBoom was thrown out the window after their last place finish and this version was born. Nightfall, gpk, and Save had played together on the TI10 VP which was coached by boolk. Pure originally joined this team as the carry since Nightfall was still fresh from his offlane stint on EG, but the two ended up swapping roles starting Tour 3. Lastly, your eyes do not deceive you, that's TI winning midlaner TORONTOTOKYO playing hard support.
 
 **How was their DPC year?** 760 points
 
@@ -829,15 +827,25 @@ For what it's worth, they *did* make it to grand finals of the BetBoom Dacha LAN
 </div>
 <br>
 
-reso standin at berlin, Bali was big drama and reso... "stood in" again. DLS20 last minute invite because execration had visa issues
+EG was South America's superteam and BoomBox Team was *supposed* to be EEU's superteam, but it just wasn't happening. At least, not on LAN. Lima was a disaster and Berlin was more of the same, albeit with Resolution having to stand in for Pure.
 
-Bibimbap
-boombox
-bed bath beyond
+They were given a last minute invite to DLS20 after SEA team Execration had visa issues and got the grand finals placement that was necessary to directly qualify to Riyadh. Nice!
 
-**What would success look like?** Spirit winning TI10 lit a fire in the EEU region. The fire being fueled by, "Wait, *those* scrubs won? I'm definitely better than them." BetBoom was the strongest product of this initiative. And not just because Daxak could probably bench 90% of the players at TI.
+Then there was Bali. Bali, Bali, Bali.
 
-Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? Well BetBoom beat them 3-0 in the EEU TI11 quals to take this slot.
+I'll try my best to summarize: The Bali Major had a ton of technical issues. A particularly extensive one occurred during Tundra vs. BetBoom's upper bracket match which led to a multi hour pause. This was an especially important match because if Bibimbap Team won, they'd get top 8 and with it enough points to secure a TI invite. The match eventually carried on and they got a 2-0. They did it! They're going to Seattle!
+
+<p style="font-family: Georgia; font-size: 1.8em; font-weight: 600; text-align: center;">[EXTREMELY LOUD INCORRECT BUZZER]</p>
+
+You see during the long ass pause, Pure, whom you may know as having a somewhat checkered history, got a lil' bored. He got so bored, in fact, that he opened up a RU community caster Nix's stream. During the game. Well, during the pause, but the pause was... during the game. His game. And this was caught on the player cameras.
+
+Mass hysteria ensues. I was on the broadcast and even I didn't even know what the hell was going on. Does Tundra win? Can BBop Team even still play? Is Pure going to be shot out of a cannon? Are we even allowed to shoot cannons in Indonesia?
+
+The verdict was that Tundra would be given the win instead and Pure would be disqualified for the rest of the event. Resolution, who had previously stood in for BoomBox at Berlin, just so happened to be on the EN broadcast for the event. He "stood in" for BedandBreakfast and they promptly got eliminated by a very irritated Azure Ray.
+
+Good times.
+
+**What would success look like?** We shoot Pure out of a cannon.
 
 ----
 
