@@ -3,13 +3,15 @@ layout: "post"
 title: "The International 2023: A Practical Guide to All 20 Teams"
 date: "2023-10-05 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
-feature-img: "img/ti11teams/ti11header.jpg"
+feature-img: "img/ti12teams/ti12header.jpg"
 flags: true
 ---
 
-### Or to be more accurate, the *Road* to the International 2023
+### Sorry, it's actually a Practical Guide to the *Road* to the International 2023
 
-With the weird TI format this year I couldn't decide when to finish this article. I was originally going to release it once my part of the broadcast began after group stage, but then I realized I'd be 4 teams lighter. Let's get started.
+The what?
+
+The *Road*, my friend. The *Road*.
 
 ---
 
@@ -200,7 +202,7 @@ boxi origins link for lima
 
 <p style="background: #bebebe">So the year started off pretty good</p>
 
-**What would success look like?** Fun fact: Do you know who the highest earning Dota 2 player that hasn't won TI is? [It's zai.](../img/ti12teams/zaiesportsearnings.jpg)
+**What would success look like?** Fun fact: Do you know who the highest earning Dota 2 player that hasn't won TI is? [It's zai.](../img/ti12teams/zaiesportsearnings.jpg) Even more impressive? He's done that without ever even being in a TI grand finals.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/gaimin.jpg" alt="Banner"></p>
@@ -396,6 +398,10 @@ Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa 
 <br>
 
 This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetBoom, and Team Spirit.
+
+Bibimbap
+boombox
+bed bath beyond
 
 Surprisingly, their best finish at the Berlin Major was with Rodjer standing in for Solo.
 
@@ -639,7 +645,7 @@ dls19 - mikey standin, dls20 - miracle standin, dls21 grand finals
 Dare I say this is the strongest SEA team in years? The closest comparison would be 2021's T1, but 
 lima major jabz vs jabbz
 
-**What would success look like?** Jaunuel's mullet is added to the list of "greatest TI winning haircuts."
+**What would success look like?** Really a solid bunch of stand up guys.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/beastcoast.jpg" alt="Banner"></p>
@@ -987,7 +993,7 @@ By the time Tour 3 ended, most teams were beginning to statistically lock their 
 
 They would be tested one last time after making it to Riyadh Masters through a dedicated MENA region qualifier and fought their way to top 8. In a different timeline their run went even further, but their elimination series against Gaimin was plagued with technical issues and they lost.
 
-**What would success look like?** Making it past "The Road" and into "The International" final weekend will be an incredible achievement, but true success is bound to come in the next few years for these players.
+**What would success look like?** Now that I've gassed them up: Realistically, making it past "The Road" and into "The International" final weekend will be an incredible achievement. True success will likely come in these players in the next few years.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/vp.jpg" alt="Banner"></p>
@@ -1042,9 +1048,9 @@ You know how I said EEU was like a rock paper scissors game this year? VP was ou
 
 Does that mean that these guys were just being gatekept and are secretly goated with the sauce? No, probably not. They showed up to Riyadh and my first reaction was, "What's Fng doing here. Is he on the panel?"
 
-Honestly, he probably could've shown up on the panel afterwards because they got blown to smithereens.
+Honestly, he probably could've shown up on the panel afterwards because they got absolutely blown to smithereens.
 
-**What would success look like?** Not really sure. We've haven't had a TI with 3 EEU teams since TI5, forget about 4. That TI also only had 2 WEU teams with Secret and Cloud9 and look at that region now. And North America won that TI.
+**What would success look like?** Not really sure. We've haven't had a TI with 3 EEU teams since TI5, forget about 4. That TI also only had 2 WEU teams with Secret and Cloud9. And North America won that TI.
 
 What the hell was going on in 2015?
 
@@ -1097,7 +1103,7 @@ What the hell was going on in 2015?
 </div>
 <br>
 
-Wait, *South America #1 Qualifier*? What do you mean #1? I mean that besides the two SA teams that already made it to TI on points, EG and beastcoast, two *more* slots were allocated to the region for TI qualifiers. Now bear in mind, Valve determined these extra slot allocations *before* the Bali Major happened. At that moment, SA was consistently doing pretty well given the fact that they only ever to send 2 teams to each major.
+Wait, *South America #1 Qualifier*? What do you mean *#1*? I mean that besides the two SA teams that already made it to TI on points, EG and beastcoast, two *more* slots were allocated to the region for TI qualifiers. Now bear in mind, Valve determined these extra slot allocations *before* the Bali Major happened. At that moment, SA was consistently doing pretty well given the fact that they only ever to send 2 teams to each major.
 
 **What would success look like?** To refresh your memory: TI7 was the very first TI to feature a South American team (Infamous). TI8 had the mostly Brazilian paiN Gaming to represent the region. And ever since then, it's pretty much always been the Peru show on LAN. The last time a Brazilian team made it to a Valve Major was Costabile and KJ's SG esports at TI10 and they got eliminated in groups.
 
@@ -1373,7 +1379,7 @@ We're about to learn just how strong a crowd buff can truly get.
     display: inline-block;
     width: 35px;
     height: 35px;
-    margin: 0 5px 0 0px;
+    margin: 0 9px 0 0px;
     animation: grow 0.5s;
     animation-direction: alternate;
     animation-iteration-count: infinite;
