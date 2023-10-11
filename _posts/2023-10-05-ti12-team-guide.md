@@ -93,7 +93,7 @@ Let's get started.
 
 **How did this roster happen?** After MATUMBAMAN [died last TI](https://youtu.be/s51F0JhAPHU?t=29), a void was left in this roster. Thankfully, the Team Liquid Academy Team, also known as "*Team Secret*," was hard at work training up another prospect ripe for the picking by the name of Nisha.
 
-You know how you probably associate Sumail as being on Evil Geniuses for like... ever? King played on EG for four years, from 2015 to 2019. Nisha on Secret? 2018 to 2022. Four years is a long time under one banner and despite a stellar 2nd place finish with Secret last TI, he seemed ready to move on.
+You know how you probably associate Sumail as being on Evil Geniuses for like... ever? King played on EG for four years, from 2015 to 2019. Nisha on Secret? 2018 to 2022. Four years is a long time under one banner and despite a stellar 2<sup>nd</sup> place finish with Secret last TI, he seemed ready to move on.
 
 **How was their DPC year?** 2150 points
 
@@ -233,7 +233,9 @@ Bunch of firsts. Was an interesting journey for a team that not many people thou
 
 Yes, but show some decorum. The main reason Topson is here is because Tundra, specifically Saksa, had a pretty rough year and was mysteriously missing from a handful of events before publicly [opening up](https://twitter.com/Saksadota/status/1682719745110310912) that he's been struggling with anxiety, sleep, and mental health. Even TI winners are human.
 
-In the eleventh hour, Topson, who had spent most of his year farting around on the meme-but-jk-not-really-meme team Old G, was called up to bat moving Nine to 4 position duties. You couldn't pay me enough to cover all the Old G drama this year.
+In the eleventh hour, Topson, who had spent most of his year farting around on the meme-but-jk-not-really-meme team Old G, was called up to bat moving Nine to 4 position duties.
+
+You couldn't pay me enough to cover all the Old G drama this year.
 
 **How was their DPC year?** 1660 points
 
@@ -292,7 +294,7 @@ Sure, Topson already played a few matches with the Tundra boys during September'
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the Hellraisers tag with Daxak, kiyotaka (formerly depressed kid), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak so Yuragi stood in for him at the Lima Major despite very much still being on OG.
+**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the HellRaisers tag with Daxak, kiyotaka (formerly depressed kid) (as in that was his name), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak so Yuragi stood in for him at the Lima Major despite very much still being on OG.
 
 Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
 
@@ -356,7 +358,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** *Whoa now, tsunami. Don't mean to tell ya yer business, but seems like there's been a bit of a misunderstandin'. This here ain't EG. This some kinda... what sorta woke flags are these... this some kinda South American team? Now boy, you know that ain't right. EG's a North American org, yes sir! Always has been. North American pride and joy right there!*
+**How did this roster happen?** *Whoa now, tsunami. Don't mean to tell ya yer business, but it seems to me like there's been a bit of a misunderstandin'. This here ain't EG. This some kinda... what sorta woke flags are these... this some kinda South American team? Now boy, you know that ain't right. EG's a North American org, yes sir! Always has been. North American pride and joy right there!*
 
 Nope. Not anymore. At the beginning of this season, EG very unceremoniously (and then got cyberbullied into ceremoniously) dropped their North American roster after spending **11 years** in the region. The phrase "end of an era" gets thrown around a lot in esports, but like... every TI since TI2 with a North American EG? Wild.
 
@@ -395,7 +397,7 @@ As they shed their NA skin, Evil Geniuses formed a South American superteam out 
 
 Lima major in peru lost to shopify
 
-bad last half of year. That 4th place finish at the Berlin Major is the most significant placement a South American team has gotten at a Valve Major since paiN Gaming's 3rd place finish at [ESL One Birmingham 2018.](https://liquipedia.net/dota2/ESL_One/Birmingham/2018) Though, Birmingham's tournament format was on crack, so let's just gloss over it and go with Berlin being the new South American bar to beat.
+bad last half of year. That 4th place finish at the Berlin Major is the most significant placement a South American team has gotten at a Valve Major since paiN Gaming's 3rd place finish at ESL One Birmingham 2018. Though, Birmingham's [tournament format](https://liquipedia.net/dota2/ESL_One/Birmingham/2018) was on crack, so let's just gloss over it and go with Berlin being the new South American bar to beat.
 
 Speaking of ~~crack~~ ~~bar~~
 
@@ -484,7 +486,7 @@ Needless to say, a lot of responsibility.
 
 **How did this roster happen?** You already know how this roster happened. Well, most of the roster anyway. After TI11, Nightfall got replaced by Saberlight from TSM. Great, you're all caught up.
 
-The *organization*, on the other hand. How did that happen? I mean, it's not like some multibillion-dollar company's just gonna randomly decide to start investing in esports while the bubble is popping and sponsor a bunch of superstars playing in one of the most expensive yet competitively starved regions in *Dota 2* of all games.
+The *organization*, on the other hand. How did that happen? I mean, it's not like some multibillion-dollar company's just gonna randomly decide to start investing in esports while the bubble is popping and sponsor a bunch of superstars recently dropped by their org and playing in one of the most expensive yet competitively starved regions in *Dota 2* of all games.
 
 But that's exactly what happened.
 
@@ -541,7 +543,7 @@ dls19 - mikey standin, dls20 - miracle standin, dls21 grand finals
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** 23, Mikoto, and Q were on the TI11 talon. Oli left iG and finally returned to his home region and Jabz left Fnatic with SunBhie in tow.
+**How did this roster happen?** 23, Mikoto, and Q were on the TI11 Talon. Oli left iG and finally returned to his home region and Jabz left Fnatic with SunBhie in tow.
 
 **How was their DPC year?** 1120 points
 
@@ -577,7 +579,9 @@ dls19 - mikey standin, dls20 - miracle standin, dls21 grand finals
 Dare I say this is the strongest SEA team in years? The closest comparison would be 2021's T1, but 
 lima major jabz vs jabbz
 
-**What would success look like?** Really a solid bunch of stand up guys.
+**What would success look like?** This may have been SEA's worst year 
+
+Just a real solid bunch of stand up guys.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/beastcoast.jpg" alt="Banner"></p>
@@ -745,7 +749,7 @@ As per usual, NA was mostly a two-horse race throughout the year with TSM and Sh
 
 For what it's worth, they *did* make it to grand finals of the BetBoom Dacha LAN event in September but lost to, you guessed it: Gaimin Gladiators.
 
-**What would success look like?** Hate to say it, but success would probably be somehow doing well enough that the TSM brand doesn't leave Dota altogether next season.
+**What would success look like?** The TSM brand not leaving Dota next season.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/betboom.jpg" alt="Banner"></p>
@@ -1147,9 +1151,9 @@ Pour one out for Husky, though. Brother had been 5 position with Gunnar on 4 Zoo
 </div>
 <br>
 
-Usually for these regional qualifier teams, we just have to infer how they'd theoretically perform against international opponents. Thankfully for nouns, we have the data. ESL graciously granted North America *three* slots to DLS19 and nouns got bodied. Then TSM graciously granted nouns *their* slot to the Bali Major and they got bodied again.
+Usually for these regional qualifier teams, we just have to infer how they'd theoretically perform against international opponents. Thankfully for nouns, we have the data. ESL graciously granted North America three slots to DLS19 and nouns got bodied. Then TSM graciously granted nouns their slot to the Bali Major and they got bodied again.
 
-To be fair, these were pre-K<sub>1</sub> versions of nouns. After dominating NA TI quals, it's been good times, right? Let's just check some sources. Ah yes, it appears they just finished playing in an online event *Pinnacle Cup: Malta Vibes #4* and got 9-12th after getting 2-0'd by a Turkish player whose handle is "Jeezy."
+To be fair, these were pre-K<sub>1</sub> versions of nouns. After dominating NA TI quals, it's been good times, right? Let me check some sources real quick. Ah yes, it appears they just finished playing in an online event *Pinnacle Cup: Malta Vibes #4* and got 9-12th after getting 2-0'd by a Turkish player whose handle is "Jeezy."
 
 Hmm.
 
@@ -1173,7 +1177,7 @@ I SAID GO!
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Lou, 天命, and some mostly unknown up-and-coming Chinese players were quietly doing their under "Ybb Gaming" tag for most of the year. Then all of a sudden, Tour 3, the fuckin' China Avengers got assembled and this team became Azure Ray.
+**How did this roster happen?** Lou, 天命, and some mostly unknown up-and-coming Chinese players were quietly doing their under "Ybb Gaming" tag for most of the year. Then all of a sudden, Tour 3, the fuckin' China Avengers assembled and this team became Azure Ray.
 
 Fy was still actively playing on Vici before joining, but what were Somnus and Chalice doing since their time on RNG last TI? Nothing! Lazy writing just deus ex machina'ing them back into the season if you ask me.
 
@@ -1230,9 +1234,9 @@ Lot of question marks in the air on the future state of the Chinese scene. Is mo
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After failing to qualify for TI10, BOOM dropped their full-Indo squad, aside from Fbz, and brought in Pinoys Yopaj, Tims, skem, and Tino. Tino played Tour 1, but was replaced by JaCkky for the Regional Final onwards.
+**How did this roster happen?** MidOne has been adamant about making SMG (which stands for *Still Moving under Gunfire*)
 
-Test your geographical knowledge. What flag is next to Jackky's name? <span class="spoiler">It's Laos. First ever Lao at TI!</span>
+Unfortunately, Masaros ended up being the only player this TI to not secure a visa and Mind_Control. 
 
 **How was their DPC year?** 133 points
 
@@ -1265,15 +1269,19 @@ Test your geographical knowledge. What flag is next to Jackky's name? <span clas
 </div>
 <br>
 
-oldest team to ever play at TI
+MidOne spent the majority of the year taking a world tour around the Dota map. In Tour 1, 2, and Berlin he was OfflaneOne. Tour 3, he was MidOne. And from regional qualifiers to now, he's CarryOne.
 
-**What would success look like?** Southeast Asian teams have been *struggling* when it comes to TI. No team from the region has broken top 6 since TI6's Fnatic. That being said, this is the first ever International in SEA.
+SMG's been under SEA suppressing fire since org's inception in 2021 and Berlin was the first opportunity for them to play at an international LAN. It was not pretty. They only won 4 games out of 16 and 3 of them were against other teams that also got eliminated in groups.
 
-We're about to learn just how strong a crowd buff can truly get.
+They did dominate SEA TI quals, so not all hope is lost.
+
+**What would success look like?** Despite withering away on Nigma Galaxy, Mind_Control gets the zoomies every time he's recruited to stand-in for another team. He subbed in for OG twice this season: Once at Berlin, ending top 6, and once again at DLS21, earning them a top 4 placement. If you wanna go way back into the archives... 2018? He also got a top 4 finish with Ninjas in Pajamas at the Kuala Lumpur Major.
+
+And remind me again, who won TI last time it was in Seattle?
 
 ----
 
-# You scrolled to the bottom 🎉
+# If you enjoyed this article, buy my voiceline!
 
 <style>
   .shill_wrapper {
@@ -1371,6 +1379,8 @@ We're about to learn just how strong a crowd buff can truly get.
 }
   </style>
 
+Too bad the core demographic for these articles are usually people who probably don't have Dota 2 installed anymore, BUT JUST IN CASE YOU DO!
+
 <div class="shill_wrapper">
 <div class="sticker_wrapper">
   <img class="sticker" style="max-width: 100%; width: 400px;" title="Buy my sticker!" src="./../../../img/ti12teams/tsunami_sticker.png">
@@ -1383,13 +1393,11 @@ We're about to learn just how strong a crowd buff can truly get.
 </div>
 </div>
 
-Congratulations! More and more people have told me they actually use these blogs as legitimate primers to catch up on the latest year of Dota esports, so I actually tried to give more real information this time rather than vomiting 70000 characters of unfiltered memes and inside jokes.
+If you're more into physical goods, you can also visit the [howdoiplay merch store.](https://shop.howdoiplay.com/) Season 2 drop coming eventually.
 
-As always, my sincerest thanks to the many volunteers who [keep Liquipedia up to date.](https://liquipedia.net/dota2/Dota_Pro_Circuit/2021-22) You may be an unofficial source in Valve's eyes, but this is one wiki that's vandalized my heart.
+Thank you, thank you, thank you to [Liquipedia volunteers.](https://liquipedia.net/dota2/Dota_Pro_Circuit/2023/Rankings) The more I watch other esports the more I realize that historical documentation makes such a big difference in the quality of a broadcast. Every talent is indebted to Liquipedia and 
 
-If you enjoyed this article and want to keep up with me, I'm around on [Twitter](https://twitter.com/tsunami643), [Twitch](https://twitch.tv/tsunami643), or [Instagram](https://instagram.com/tsunami643).
-
-Also, feel free to pay money and [buy my TI11 voiceline](https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s) or hit up the [howdoiplay merch store.](https://shop.howdoiplay.com/)
+If you enjoyed this article and want to keep up with me, I'm around on [Twitch](https://twitch.tv/tsunami643), [Instagram](https://instagram.com/tsunami643)... or [X](https://twitter.com/tsunami643)
 
 ### What <i>was</i> SUNSfan warning us about?
 
