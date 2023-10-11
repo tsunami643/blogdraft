@@ -11,17 +11,17 @@ flags: true
 
 The what?
 
-The *Road*, my friends. The *Road*.
+The *Road*, my friends. The *Road*. Most people skip these first few paragraphs, so let's go quick.
 
----
+### What <i>was</i> SUNSfan warning us about?
 
-Group stage is completely different from before. No longer is it two big ole' groups that half the teams get shoved in to. In an effort to make group stage games higher stakes, Valve has now split the 20 teams into 4 different groups.
+* **Was it beloved grassroots organization Beyond the Summit being shuttered?** BTS did not receive any DPC tour coverage rights this year which, along with an overall downturn in esports, may have been the death knell for this long standing Dota institution.
+* **Was it ESL not getting any DPC tours?** ESL also wasn't given any league coverage this year, so they decided to just make their own non-DPC circuit. The *ESL Pro Tour*, or EPT for short, consisted of two DreamLeague events and culminated in the *Riyadh Masters 2023* LAN event with a whopping $15MM prize pool.
+* **Was it the DPC getting canned?** After this year, the DPC in its current form will cease to exist. Valve seems optimistic. The community does not.
+* **Was it the Battle Pass getting kneecapped?** You may notice that the prize pool for this TI is [astronomically lower](https://dota2.prizetrac.kr/international2023) than previous years. Valve has made the conscious decision to not juice TI's purse with a cosmetic-laden Battle Pass with the implication that more content will come after the TI fervor ends and when more players are excited to actually play Dota, not watch it.
+* **Was it the TI format changing?** In an effort to make group stage games higher stakes, Valve has now split the 20 TI teams into 4 different groups. If you make it past groups, the following weekend will be a playoff bracket of the 16 teams that survived. These are all part of *The Road* to the International. The final, *final* weekend with the top 8 teams will be considered as the 'real' International.
 
-ESL didn't get any DPC tours "We'll make our own tour" "ESL Pro Tour," or EPT for short. This circuit consisted of culminating in the *Riyadh Masters 2023* with a whopping $15MM prize pool.
-
-These forewords are usually more for my benefit so I can keep track of all the 
-
-Let's get started.
+These forewords are usually more for my benefit so I can keep track of all the happenings from the year, but I know what you're mainly here for.
 
 <style>
   table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}
@@ -1374,8 +1374,6 @@ If you're more into physical goods, you can also check out my [**howdoiplay merc
 Thank you, thank you, thank you to all the [Liquipedia volunteers.](https://liquipedia.net/dota2/Dota_Pro_Circuit/2023/Rankings) Dota just had our 'ten year anniversary' and so much of our esport's history is kept intact thanks to Liquipedia.
 
 If you want to keep up with me, I'm around on [Twitch](https://twitch.tv/tsunami643), [Instagram](https://instagram.com/tsunami643), and... [X.](https://twitter.com/tsunami643)
-
-### What <i>was</i> SUNSfan warning us about?
 
 <p style="font-size: 1.5em;margin-bottom:0px;text-align: center;font-weight:bold;">
     <a href="https://www.reddit.com/r/DotA2/comments/y4s6m4/the_international_2022_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
