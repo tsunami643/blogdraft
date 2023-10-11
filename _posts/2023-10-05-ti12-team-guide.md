@@ -132,7 +132,7 @@ boxi origins link for lima
 
 <p style="background: #bebebe">So the year started off pretty good</p>
 
-**What would success look like?** Fun fact: Do you know who the highest earning Dota 2 player that hasn't won TI is? [It's zai.](../img/ti12teams/zaiesportsearnings.jpg) Even more impressive? He's done that without ever even being in a TI grand finals.
+**What would success look like?** Fun fact: Do you know who the highest earning Dota 2 player that hasn't won TI is? [It's zai.](../img/ti12teams/zaiesportsearnings.jpg) Even more impressive is he's done that without ever even being in a TI grand finals.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/gaimin.jpg" alt="Banner"></p>
@@ -150,7 +150,7 @@ boxi origins link for lima
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** While on the brink of contemplating retirement when Quincy Crew/Soniqs disintegrated after last TI, Quinn was given the opportunity to export himself to this Western European team taking the place of former midlaner BOOM. Meanwhile, BOOM went to Secret and Secret went boom.
+**How did this roster happen?** This is the same roster as last year barring one Quinn Callahan. While on the brink of contemplating retirement when Quincy Crew/Soniqs disintegrated after last TI, Quinn was given the opportunity to export himself to this Western European team taking the place of former midlaner BOOM. Meanwhile, BOOM went to Secret and Secret went boom.
 
 **How was their DPC year?** 2140 points
 
@@ -294,7 +294,7 @@ Sure, Topson already played a few matches with the Tundra boys during September'
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the HellRaisers tag with Daxak, kiyotaka (formerly depressed kid) (as in that was his name), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak so Yuragi stood in for him at the Lima Major despite very much still being on OG.
+**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the HellRaisers tag with Daxak, kiyotaka (formerly depressed kid) (as in, that was his name), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak, so Yuragi stood in for him at the Lima Major despite very much still being on OG.
 
 Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
 
@@ -401,7 +401,7 @@ bad last half of year. That 4th place finish at the Berlin Major is the most sig
 
 Speaking of ~~crack~~ ~~bar~~
 
-**What would success look like?** I've never seen a team where you can so clearly interpret how well they're going to do on any given day just by looking at their faces. I'm serious, watch the VoDs on their elimination days. You'd think they were being forced to walk out on stage to play Dota at gunpoint.
+**What would success look like?** I've never seen a team where you can so clearly interpret how well they're going to do on any given day just by looking at their faces. I'm serious. Watch the VoDs on their elimination days. You'd think they were being forced to walk out on stage to play Dota at gunpoint.
 
 For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerseys being dug out of closets and dusted off with wives asking, "Why do you still have this? And who is Universe?" Will these vintage EG fans be rooting for this team? Probably not, but don't tell the players that. Big smiles, EG boys. Big Chris Smiles.
 
@@ -484,9 +484,9 @@ Needless to say, a lot of responsibility.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** You already know how this roster happened. Well, most of the roster anyway. After TI11, Nightfall got replaced by Saberlight from TSM. Great, you're all caught up.
+**How did this roster happen?** You already know how this roster happened. Well, most of the roster anyway. After TI11, Nightfall got replaced by Saberlight from TSM. Great you're all caught up.
 
-The *organization*, on the other hand. How did that happen? I mean, it's not like some multibillion-dollar company's just gonna randomly decide to start investing in esports while the bubble is popping and sponsor a bunch of superstars recently dropped by their org and playing in one of the most expensive yet competitively starved regions in *Dota 2* of all games.
+The *organization*, on the other hand. How did that happen? I mean, it's not like some multibillion-dollar company's just gonna randomly decide to start investing in esports while the bubble is popping and sponsor a bunch of superstars recently dropped by their org who are playing in one of the most expensive yet competitively starved regions in *Dota 2* of all games.
 
 But that's exactly what happened.
 
@@ -581,7 +581,7 @@ lima major jabz vs jabbz
 
 **What would success look like?** This may have been SEA's worst year 
 
-Just a real solid bunch of stand up guys.
+They're just a real bunch of stand up guys.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/beastcoast.jpg" alt="Banner"></p>
@@ -749,7 +749,7 @@ As per usual, NA was mostly a two-horse race throughout the year with TSM and Sh
 
 For what it's worth, they *did* make it to grand finals of the BetBoom Dacha LAN event in September but lost to, you guessed it: Gaimin Gladiators.
 
-**What would success look like?** The TSM brand not leaving Dota next season.
+**What would success look like?** Ari's the first British player to ever compete at a Valve Major. So if they make it to Climate Pledge Arena? *USA! USA! USA! USA!*
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/betboom.jpg" alt="Banner"></p>
@@ -829,7 +829,7 @@ Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After TI11, Pure left the roster and watson came in from HellRaisers. Following Tour 3, Tobi was kicked and Gabbi, a *Southeast Asian carry player*, was brought in to play offlane. Still not sure what the story is there, but cool I guess.
+**How did this roster happen?** After TI11, Pure left the roster and watson came in from HellRaisers. Following Tour 3, Tobi was kicked and they randomly got Gabbi, a *Southeast Asian carry player*, to play offlane. Not entirely sure what the story was there.
 
 **How was their DPC year?** 208 points
 
@@ -866,7 +866,7 @@ Western Europe is a **brutal** region. WEU sent four teams to every major this y
 
 Entity made waves at Lima before losing to Gaimin and Talon, but were struggling to keep their head above water in Tour 2 and 3. Only by winning relegation tiebreakers were they able to maintain a slot in Division 1.
 
-Then I guess they just hate ESL or something? No idea what was up with their EPT performances.
+Then I guess they just hate ESL or something? Those are some rough EPT performances.
 
 **What would success look like?** Giving us an even better game than last year's 107 minute Bo1 against RNG.
 
@@ -890,7 +890,9 @@ Then I guess they just hate ESL or something? No idea what was up with their EPT
 
 Noob and Omar are relative newcomers to the competitive scene, but were formerly on the Coolguys roster together that competed in WEU Div 1 Tour 1 in 2022. TA2000 and kaori have been around for a few years, but always on EEU rosters. This is their first WEU team.
 
-Man, I'm getting sick of telling offlane stories. When did this become the most volatile role? Offlaners used to be so stable! It was the *midlaners* that would get passed around like holographic Pokémon cards at recess. Where did it all go so wrong? Whatever, rant over. Tour 1 and 2 they had Wuiter. Starting Tour 3 they had ATF and it looked like a great fit, but due to [contract disputes](https://twitter.com/AmmarAlassaf6/status/1680210587937124355) he didn't continue with the team. They brought in Malik to stand in during Riyadh Masters before ultimately getting Tobi from Entity for their TI qualifying roster. Can you imagine the psychological toll of playing with 4 different offlaners in 1 year? Snip, snap, snip, snap.
+And the offla- DUDE I AM GETTING SICK of telling offlane stories. When did this become the most volatile role? Offlaners used to be so stable! It was the *midlaners* that would get passed around like holographic Pokémon cards at recess. Where did it all go so wrong? Whatever, rant over. Tour 1 and 2 they had Wuiter. Starting Tour 3 they had ATF and it looked like a great fit, but due to [contract disputes](https://twitter.com/AmmarAlassaf6/status/1680210587937124355) he didn't continue with the team. They brought in Malik to stand in during Riyadh Masters before ultimately getting Tobi from Entity for their TI qualifying roster.
+
+Can you imagine the psychological toll of playing with 4 different offlaners in 1 year? Snip, snap, snip, snap.
 
 ***NOTE TO SELF** - NOW THIS TEAM HAS THE PSG. PSG QUEST. SOUNDS LIKE SOME MMO NONSENSE.*
 
@@ -1159,7 +1161,7 @@ Hmm.
 
 **What would success look like?** As a North American, I hate myself for saying this, but success is probably Gunnar finding a nice Western European forever team to adopt him next year. Sneyking did it, Quinn did it, Kitrak kinda did it. It... it may be time... n-no don't look at me like that. It's hard enough as it is. Go.
 
-I SAID GO!
+*I SAID GO!*
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/azure.jpg" alt="Banner"></p>
@@ -1283,7 +1285,7 @@ And remind me again, who won TI last time it was in Seattle?
 
 # Time to shill, I earned it
 
-Unfortunate that the core demographic for these articles are usually people who don't have Dota 2 installed anymore, BUT JUST IN CASE YOU DO, consider buying my voiceline!
+Too bad the core demographic for these articles are usually people who don't have Dota 2 installed anymore, BUT JUST IN CASE YOU DO, consider buying my voiceline!
 
 <style>
   .shill_wrapper {
