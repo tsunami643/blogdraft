@@ -360,13 +360,7 @@ Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa 
 </div>
 <br>
 
-This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetBoom, and Team Spirit.
-
-Bibimbap
-boombox
-bed bath beyond
-
-Surprisingly, their best finish at the Berlin Major was with Rodjer standing in for Solo.
+This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetBoom, and Team Spirit. Each of them took a turn topping their regional league, but Pandas had the highest DPC LAN finish at the Berlin Major despite Rodjer standing in for Solo.
 
 **What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. I would know. I put them into my Compendium predictions to win it literally every time. Then that old VP would proceed to consistently drop the ball at TI7. And TI8. And TI9.
 
@@ -426,11 +420,11 @@ As they shed their NA skin, Evil Geniuses formed a South American superteam out 
 </div>
 <br>
 
-Lima major in peru lost to shopify
+When you saw the **Lima** Major you just knew things had to be hype for South America. Peru is the strongest it's ever been and they finally had a LAN on home soil. Alas, EG was only able to scrape a top 6 finish. Amusingly, they got eliminated by ex-Evil Geniuses Arteezy and the gang.
 
-bad last half of year. That 4th place finish at the Berlin Major is the most significant placement a South American team has gotten at a Valve Major since paiN Gaming's 3rd place finish at ESL One Birmingham 2018. Though, Birmingham's [tournament format](https://liquipedia.net/dota2/ESL_One/Birmingham/2018) was on crack, so let's just gloss over it and go with Berlin being the new South American bar to beat.
+They maintained their momentum into a 4<sup>th</sup> place finish at the Berlin Major. That's the most significant placement a South American team has gotten at a Valve Major since paiN Gaming's 3rd place finish at ESL One Birmingham 2018. Though, Birmingham's [tournament format](https://liquipedia.net/dota2/ESL_One/Birmingham/2018) was on crack, so let's just gloss over it and go with Berlin being the new South American bar to beat.
 
-Speaking of ~~crack~~ ~~bar~~
+Let's also gloss over the last third of the season because... oof.
 
 **What would success look like?** I've never seen a team where you can so clearly interpret how well they're going to do on any given day just by looking at their faces. I'm serious. Watch the VoDs on their elimination days. You'd think they were being forced to walk out on stage to play Dota at gunpoint.
 
@@ -493,7 +487,7 @@ Also, before you ask: Yes, Ame's was *kind of* the classic "Chinese retirement" 
 </div>
 <br>
 
-China has been in shambles this entire year. Tour 1 was fraught with match fixing which culminated in a massive ban wave after Lima. LGD quietly kept their head down. Perhaps a bit too down because they themselves didn't really have any notable results this year, but it's
+China has been in shambles this entire year. Tour 1 was fraught with many match fixing suspicions which boiled over in a massive ban wave after Lima. LGD quietly kept their head down the whole time, but perhaps went a bit too far down because they themselves didn't really have any notable results this season.
 
 **What would success look like?** Throw a dart at a board of all TIs ever. Odds are you'll hit one where LGD were considered favorites to win the whole thing. This year? Definitely not. Regardless, with LGD being the crown jewel of Chinese Dota, a great deal will always hang in the balance of this team's performance.
 
@@ -554,7 +548,9 @@ But that's exactly what happened.
 </div>
 <br>
 
-dls19 - mikey standin, dls20 - miracle standin, dls21 grand finals
+Hopes were high after their Lima Major 4<sup>th</sup> place finish, but the shine dulled pretty quickly. Abed also had visa issues getting to Europe which led to Iranian player Mikey standing in for DLS19 and MIRACLE <img class="batchest" title="OMG MIRACLE" style="height: 32px" src="./../../../img/ti12teams/batchest.png"> standing in for DLS20.
+
+They did recently reach grand finals in DLS21 in September, but it's the LAN results that continue to elude them.
 
 **What would success look like?** How funny would it be if Arteezy’s first Valve Major win is the TI with the lowest prize pool since he started competing ten years ago.
 
@@ -835,6 +831,10 @@ For what it's worth, they *did* make it to grand finals of the BetBoom Dacha LAN
 
 reso standin at berlin, Bali was big drama and reso... "stood in" again. DLS20 last minute invite because execration had visa issues
 
+Bibimbap
+boombox
+bed bath beyond
+
 **What would success look like?** Spirit winning TI10 lit a fire in the EEU region. The fire being fueled by, "Wait, *those* scrubs won? I'm definitely better than them." BetBoom was the strongest product of this initiative. And not just because Daxak could probably bench 90% of the players at TI.
 
 Remember that Outsiders/VP team I talked about during the Fnatic points fiasco? Well BetBoom beat them 3-0 in the EEU TI11 quals to take this slot.
@@ -958,7 +958,7 @@ Can you imagine the psychological toll of playing with 4 different offlaners in 
 </div>
 <br>
 
-Most of the year was covered in the roster explanation, so I'll just gush about how exciting it's been to watch this team's journey this year. After smashing their way through Tour 1 Div 2, they came into Tour 2 as an immediate threat and nearly qualified to the Major *in their inaugural tour*. This region's already cutthroat enough as it is. Notice how you don't see Secret, OG, or Nigma anywhere on this page?
+Most of the year was covered in the roster explanation, so I'll just gush about how exciting it's been to watch Quest's journey this season. After smashing their way through Tour 1 Div 2, they came into Tour 2 as an immediate threat and nearly qualified to the Major *in their inaugural tour*. This region's already cutthroat enough as it is. Notice how you don't see Secret, OG, or Nigma anywhere on this page?
 
 By the time Tour 3 ended, most teams were beginning to statistically lock their chances of directly qualifying to TI through points, but the last 3-4 slots were still up in the air. Were Quest able to *win* the Bali Major, they would've just barely gotten enough points to sneak a direct TI invite. Believe it or not, that was a fairly realistic proposition, but their bracket run was cut short after losing to Gaimin and Liquid.
 
@@ -1184,7 +1184,7 @@ Hmm.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Lou, 天命, and some mostly unknown up-and-coming Chinese players were quietly doing their under "Ybb Gaming" tag for most of the year. Then all of a sudden, Tour 3, the fuckin' China Avengers assembled and this team became Azure Ray.
+**How did this roster happen?** Lou, 天命, and some mostly unknown up-and-coming Chinese players were quietly doing thing their under "Ybb Gaming" tag for most of the year. Then all of a sudden, Tour 3, the fuckin' China Avengers assembled and this team became Azure Ray.
 
 Fy was still actively playing on Vici before joining, but what were Somnus and Chalice doing since their time on RNG last TI? Nothing! Lazy writing just deus ex machina'ing them back into the season if you ask me.
 
