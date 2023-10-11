@@ -684,7 +684,7 @@ It's been a quiet season for the boys in aquamarine. For every superteam, there 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After two years and one Aegis, TORONTOTOKYO finally left Spirit after last TI ended. In December, it was announced that a young gun by the name of Larl would be Toronto's replacement. Larl wasn't a complete nobody, he was on the 2022 BetBoom roster that got top 8 at the Stockholm Major and... got last at TI11. Yeah okay he was kind of a nobody. But Spirit saw promise in him and stuck with this roster for this entire season.
+**How did this roster happen?** After two years and one Aegis, TORONTOTOKYO finally left Spirit after last TI ended. In December, it was announced that a young gun by the name of Larl would be Toronto's replacement. Larl wasn't a complete nobody, he was on the 2022 BetBoom roster that got top 8 at the Stockholm Major and... got last at TI11. Yeah okay he was kind of a nobody. But Spirit saw promise in him and stuck with this roster for the entire season. It paid off.
 
 **How was their DPC year?** 1020 points
 
@@ -717,10 +717,11 @@ It's been a quiet season for the boys in aquamarine. For every superteam, there 
 </div>
 <br>
 
-<p class="center"><img title="Rawr" style="width: 500px;" src="./../../../img/ti12teams/spiritmeme.jpg"></p>
-also won dreamleague s21 while barely even trying
+<p class="center"><img title="Rawr" style="width: 400px;" src="./../../../img/ti12teams/spiritmeme.jpg"></p>
 
-**What would success look like?** Spirit went from barely a threat most of the year to rocketing up people's lists to be arguably the favorites for this TI.
+This happened last year when they won Arlington and it's happening again with a win in Riyadh. On top of that they also won DLS21 last month while barely even trying.
+
+**What would success look like?** Spirit went from barely a threat most of the year to rocketing up people's lists to be arguably one of the favorites for this TI. Recency bias and the theory that they only activate when the prize pool is enormous is going to be put to the test in Seattle.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/tsm.jpg" alt="Banner"></p>
