@@ -19,6 +19,8 @@ Welcome to another DPC season! After last year, a lot of people were expecting a
 
 <style>
 
+  @import url("../../blog/css/font-awesome.min.css")
+
   table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}
 
   .resultsTable tr, .resultsTable td {
