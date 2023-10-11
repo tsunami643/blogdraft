@@ -929,11 +929,11 @@ Can you imagine the psychological toll of playing with 4 different offlaners in 
 
 Most of the year was covered in the roster explanation, so I'll just gush about how exciting it's been to watch this team's journey this year. After smashing their way through Tour 1 Div 2, they came into Tour 2 as an immediate threat and nearly qualified to the Major *in their inaugural tour*. This region's already cutthroat enough as it is. Notice how you don't see Secret, OG, or Nigma anywhere on this page?
 
-By the time Tour 3 ended, most teams were beginning to statistically lock their chances of directly qualifying to TI through points, but the last 3-4 slots were still up in the air. Were Quest able to *win* the Bali Major, they would've just barely gotten enough points to sneak a direct TI invite. Believe it or not, that was a fairly realistic proposition. Alas, their bracket run was cut short after losing to Gaimin and then Liquid.
+By the time Tour 3 ended, most teams were beginning to statistically lock their chances of directly qualifying to TI through points, but the last 3-4 slots were still up in the air. Were Quest able to *win* the Bali Major, they would've just barely gotten enough points to sneak a direct TI invite. Believe it or not, that was a fairly realistic proposition, but their bracket run was cut short after losing to Gaimin and Liquid.
 
 They would be tested one last time after making it to Riyadh Masters through a dedicated MENA region qualifier and fought their way to top 8. In a different timeline their run went even further, but their elimination series against Gaimin was plagued with technical issues and they lost.
 
-**What would success look like?** Now that I've gassed them up: Realistically, making it past "The Road" and into "The International" final weekend will be an incredible achievement. True success will likely come for these players in the next few years.
+**What would success look like?** Now that I've gassed them up: Realistically, making it past *The Road* and into *The International* final weekend will be an incredible achievement. True success will likely come for these players in the next few years.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti12teams/vp.jpg" alt="Banner"></p>
@@ -1027,25 +1027,12 @@ What the hell was going on in 2015?
   <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
   </tbody></table>
   </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>N/A</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>N/A</b></td></tr>
-  </tbody></table>
-  </div>
 </div>
 <br>
 
 Wait, *South America #1 Qualifier*? What do you mean *#1*? I mean that besides the two SA teams that already made it to TI on points, EG and beastcoast, two *more* slots were allocated to the region for TI qualifiers. Now bear in mind, Valve determined these extra slot allocations *before* the Bali Major happened. At that moment, SA was consistently doing pretty well given the fact that they only ever to send 2 teams to each major.
 
-**What would success look like?** To refresh your memory: TI7 was the very first TI to feature a South American team (Infamous). TI8 had the mostly Brazilian paiN Gaming to represent the region. And ever since then, it's pretty much always been the Peru show on LAN. The last time a Brazilian team made it to a Valve Major was Costabile and KJ's SG esports at TI10 and they got eliminated in groups.
+**What would success look like?** To refresh your memory: TI7 was the very first TI to feature a South American team (Infamous). TI8 had the mostly Brazilian paiN Gaming to represent the region. And ever since then, it's pretty much always been the Peru show on LAN. The last time a Brazilian team made it to a Valve Major was Costabile and KJ's SG esports at TI10 that got eliminated in groups.
 
 And making it out of groups is waaaay harder this time.
 
@@ -1080,19 +1067,6 @@ And making it out of groups is waaaay harder this time.
   <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
   <tr><td>SA DPC Tour 3</td><td>3rd 🥉</td></tr>
   <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>N/A</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>N/A</b></td></tr>
   </tbody></table>
   </div>
 </div>
@@ -1198,19 +1172,6 @@ Fy was still actively playing on Vici before joining, but what were Somnus and C
   <tr><td><b>Bali Major</b></td><td class="top8"><b>7-8th</b></td></tr>
   </tbody></table>
   </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>N/A</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>N/A</b></td></tr>
-  </tbody></table>
-  </div>
 </div>
 <br>
 
@@ -1253,19 +1214,6 @@ Unfortunately, Masaros ended up being the only player this TI to not secure a vi
   <tr><td><b>Berlin Major</b></td><td><b>15-16th</b></td></tr>
   <tr><td>SEA DPC Tour 3</td><td>5th</td></tr>
   <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>N/A</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>N/A</b></td></tr>
   </tbody></table>
   </div>
 </div>
