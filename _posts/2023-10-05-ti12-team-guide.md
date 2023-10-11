@@ -13,13 +13,13 @@ The what?
 
 The *Road*, my friends. The *Road*. Most people skip these first few paragraphs, so let's go quick.
 
-### What <i>was</i> SUNSfan warning us about?
+#### What <i>was</i> SUNSfan warning us about?
 
 * **Was it beloved grassroots organization Beyond the Summit being shuttered?** BTS did not receive any DPC tour coverage rights this year which, along with an overall downturn in esports, may have been the death knell for this long standing Dota institution.
-* **Was it ESL not getting any DPC tours?** ESL also wasn't given any league coverage this year, so they decided to just make their own non-DPC circuit. The *ESL Pro Tour*, or EPT for short, consisted of two DreamLeague events and culminated in the *Riyadh Masters 2023* LAN event with a whopping $15MM prize pool.
+* **Was it ESL not getting any DPC tours?** ESL also wasn't given any league coverage this year, so they decided to just make their own non-DPC circuit. The *ESL Pro Tour*, or EPT for short, consisted of two *DreamLeague* events and culminated in the *Riyadh Masters 2023* LAN event with a whopping $15MM prize pool.
 * **Was it the DPC getting canned?** After this year, the DPC in its current form will cease to exist. Valve seems optimistic. The community does not.
-* **Was it the Battle Pass getting kneecapped?** You may notice that the prize pool for this TI is [astronomically lower](https://dota2.prizetrac.kr/international2023) than previous years. Valve has made the conscious decision to not juice TI's purse with a cosmetic-laden Battle Pass with the implication that more content will come after the TI fervor ends and when more players are excited to actually play Dota, not watch it.
-* **Was it the TI format changing?** In an effort to make group stage games higher stakes, Valve has now split the 20 TI teams into 4 different groups. If you make it past groups, the following weekend will be a playoff bracket of the 16 teams that survived. These are all part of *The Road* to the International. The final, *final* weekend with the top 8 teams will be considered as the 'real' International.
+* **Was it the Battle Pass getting kneecapped?** You may notice that the prize pool for this TI is [astronomically lower](https://dota2.prizetrac.kr/international2023) than previous years. Valve has made the conscious decision to not juice TI's purse with a cosmetic-laden Battle Pass with the implication that more content will come after TI fervor ends when more players are excited to actually play Dota, not watch it.
+* **Was it the TI format changing?** In an effort to make group stage games higher stakes, Valve has now split the 20 TI teams into 4 different groups. If you make it past groups, you'll be placed in a playoff bracket the following weekend. These two legs are all part of *The Road* to the International. The final, *final* weekend, with the top 8 teams, will be considered the 'main' International.
 
 These forewords are usually more for my benefit so I can keep track of all the happenings from the year, but I know what you're mainly here for.
 
