@@ -890,11 +890,11 @@ Then I guess they just hate ESL or something? Those are some rough EPT performan
 
 Noob and Omar are relative newcomers to the competitive scene, but were formerly on the Coolguys roster together that competed in WEU Div 1 Tour 1 in 2022. TA2000 and kaori have been around for a few years, but always on EEU rosters. This is their first WEU team.
 
-And the offla- DUDE I AM GETTING SICK of telling offlane stories. When did this become the most volatile role? Offlaners used to be so stable! It was the *midlaners* that would get passed around like holographic Pokémon cards at recess. Where did it all go so wrong? Whatever, rant over. Tour 1 and 2 they had Wuiter. Starting Tour 3 they had ATF and it looked like a great fit, but due to [contract disputes](https://twitter.com/AmmarAlassaf6/status/1680210587937124355) he didn't continue with the team. They brought in Malik to stand in during Riyadh Masters before ultimately getting Tobi from Entity for their TI qualifying roster.
+And the offla- DUDE I AM GETTING SICK of telling offlane stories. When did this become the most volatile role? Offlaners used to be so stable! It was the *midlaners* that would get passed around like holographic Pokémon cards at recess. Whatever, rant over. Tour 1 and 2 they had Wuiter. Starting Tour 3 they had ATF and it looked like a great fit, but due to [contract disputes](https://twitter.com/AmmarAlassaf6/status/1680210587937124355) he didn't continue with the team. They brought in Malik to stand in during Riyadh Masters before ultimately getting Tobi from Entity for their TI qualifying roster.
 
 Can you imagine the psychological toll of playing with 4 different offlaners in 1 year? Snip, snap, snip, snap.
 
-***NOTE TO SELF** - NOW THIS TEAM HAS THE PSG. PSG QUEST. SOUNDS LIKE SOME MMO NONSENSE.*
+***NOTE TO SELF** - NOW THIS TEAM HAS THE PSG. PSG QUEST. GREAT! ANOTHER TEAM THAT USED TO HAVE A UNIQUE COLOR IS NOW JUST BLUE NOW. I'M NOT CHANGING THEIR BANNER, I REFUSE.*
 
 **How was their DPC year?** 545 points
 
@@ -927,7 +927,7 @@ Can you imagine the psychological toll of playing with 4 different offlaners in 
 </div>
 <br>
 
-Most of the year was covered in the roster explanation, so I'll just gush about how exciting it's been to watch this team's journey. After smashing their way through Tour 1 Div 2, they came into Tour 2 as an immediate threat. This region's already cutthroat enough as it is. Notice how you don't see Secret, OG, or Nigma anywhere on this page? Quest/Ooredoo took series off Gaimin and Tundra but just barely lost a tiebreaker against OG to qualify for Berlin.
+Most of the year was covered in the roster explanation, so I'll just gush about how exciting it's been to watch this team's journey this year. After smashing their way through Tour 1 Div 2, they came into Tour 2 as an immediate threat and nearly qualified to the Major *in their inaugural tour*. This region's already cutthroat enough as it is. Notice how you don't see Secret, OG, or Nigma anywhere on this page?
 
 By the time Tour 3 ended, most teams were beginning to statistically lock their chances of directly qualifying to TI through points, but the last 3-4 slots were still up in the air. Were Quest able to *win* the Bali Major, they would've just barely gotten enough points to sneak a direct TI invite. Believe it or not, that was a fairly realistic proposition. Alas, their bracket run was cut short after losing to Gaimin and then Liquid.
 
