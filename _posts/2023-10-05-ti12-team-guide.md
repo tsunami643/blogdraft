@@ -11,7 +11,7 @@ flags: true
 
 The what?
 
-The *Road*, my friends. The *Road*. Most people skip these first few paragraphs, so let's go quick.
+The *Road*, my friends. The *Road*. Most people skip these introductions, so let's go quick.
 
 #### What <i>was</i> SUNSfan warning us about?
 
@@ -21,7 +21,9 @@ The *Road*, my friends. The *Road*. Most people skip these first few paragraphs,
 * **Was it the Battle Pass getting kneecapped?** You may notice that the prize pool for this TI is [astronomically lower](https://dota2.prizetrac.kr/international2023) than previous years. Valve has made the conscious decision to not juice TI's purse with a cosmetic-laden Battle Pass with the implication that more content will come after TI fervor ends when more players are excited to actually play Dota, not watch it.
 * **Was it the TI format changing?** In an effort to make group stage games higher stakes, Valve has now split the 20 TI teams into 4 different groups. If you make it past groups, you'll be placed in a playoff bracket the following weekend. These two legs are all part of *The Road* to the International. The final, *final* weekend, with the top 8 teams, will be considered the 'main' International.
 
-These forewords are usually more for my benefit so I can keep track of all the happenings from the year, but I know what you're mainly here for.
+These forewords are typically more for my benefit so I can document all the significant happenings from the year.
+
+I know what you're mainly here for.
 
 <style>
   table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}
@@ -198,20 +200,23 @@ Nope. It was
 </div>
 <br>
 
-*GAIMIN* was Liquid's nemesis??? Yes, you're reading that correctly. We had to watch the same grand final. Every. Single. Major.
+### *GAIMIN* was Liquid's nemesis???
+
+That's correct.
 
 If you didn't have any strong opinions about this team last year, I wouldn't blame you. They were distinctly 'middle of the pack' material by WEU standards.
 
-If you didn't have any strong opinions about this team this year, you're a unicorn.
+If you didn't have any strong opinions about this team by the end of this year, you're a unicorn.
 
-But following 
-Bunch of firsts. Was an interesting journey for a team that not many people thought about to a team that a lot of people began actively disliking. There are a variety of factors.
+The Lima Major win was the honeymoon period. A new WEU team was on the block. First Dutch Major champion with Seleri. Quinn, who had been struggling in NA for years, finally earned some validation. But in Berlin it was like, oh okay, it's happening again. But... back to back winners, that's exciting! Then come Bali, even the most neutral Dota esports viewers were starting to get a little agitated by their presence.
 
-One is that, well, they're just very good. And if you're constantly very good, people get annoyed that you keep making everyone else look very bad.
+It's a fascinating case study of a team that most people barely ever thought about, to a team that a lot of people began actively disliking. There are a variety of factors.
 
-Two is compounded by the fact that Liquid were doing them no favors by getting bopped by them in every single grand final. It was almost pre-determined. OHH BOY, GAIMIN'S IN GRAND FINALS AND LIQUID'S MAKING A LOWER BRACKET RUN, GEE I WONDER WHAT'S GONNA HAPPEN NEXT.
+One is that, well, they're just very good. And if you're constantly very good, people get annoyed that you keep making everyone else look very bad. And this isn't just patch luck. The game **MASSIVELY** changed during DreamLeague S19 and they *still* kept winning everything. The strange thing is, they're not necessarily boring to watch (which is most people's argument against Tundra), they're just classic Western European clean Doto.
 
-Three is Quinn. Part of it... no, most of it is self-inflicted. He's a very colorful individual. I don't think I've seen people enjoy hatewatching a player this much since the days of internationally renowned day trader EternalEnvy.
+Two is compounded by the fact that Liquid were doing them no favors by getting bopped in every single grand final. It was almost pre-determined. *OHH BOY, GAIMIN IS IN GRAND FINALS AND LIQUID'S MAKING A LOWER BRACKET RUN, GEE I WONDER WHAT'S GONNA HAPPEN NEXT.*
+
+Three is... Quinn. To put it lightly, he's a very colorful individual in pubs. And that, combined with an ego that was polished to a mirror finish this year, is a dangerous combination. I don't think I've seen people enjoy hatewatching a player this much since the days of internationally renowned day trader EternalEnvy. The worst part is even the hatewatchers will admit that the rest of his team is very likeable, which makes him an even *stronger* focus of their rage because they can't diffuse it amongst the roster.
 
 **What would success look like?** They already made history by being the first time in Dota 2 history to ever win every major of the season. Ya gotta finish the story now.
 
@@ -771,7 +776,7 @@ also won dreamleague s21 while barely even trying
 </div>
 <br>
 
-As per usual, NA was mostly a two-horse race throughout the year with TSM and Shopify. Then this horse usually got turned into glue whenever it was Major time. On top of that, TSM has a tendency to fall asleep at the wheel towards the end of each season. Last year they missed Arlington, this year they missed Bali.
+As per usual, NA was mostly a two-horse race throughout the year with TSM and Shopify. Then this horse got turned into glue whenever it was Major time. On top of that, TSM has a tendency to fall asleep at the wheel towards the end of each season. Last year they missed Arlington, this year they missed Bali.
 
 For what it's worth, they *did* make it to grand finals of the BetBoom Dacha LAN event in September but lost to, you guessed it: Gaimin Gladiators.
 
