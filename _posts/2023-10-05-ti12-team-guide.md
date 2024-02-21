@@ -1389,5 +1389,5 @@ Thank you, thank you, thank you to all the [Liquipedia volunteers.](https://liqu
 If you want to keep up with me, I'm around on [Twitch](https://twitch.tv/tsunami643), [Instagram](https://instagram.com/tsunami643), and... [X.](https://twitter.com/tsunami643)
 
 <p style="font-size: 1.5em;margin-bottom:0px;text-align: center;font-weight:bold;">
-    <a href="https://www.reddit.com/r/DotA2/comments/y4s6m4/the_international_2022_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
+    <a href="https://www.reddit.com/r/DotA2/comments/175j2hx/the_international_2023_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
 </p>
