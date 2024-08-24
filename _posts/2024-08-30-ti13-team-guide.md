@@ -135,7 +135,7 @@ This happened last year when they won Arlington and it's happening again with a 
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ame</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="China" alt="China">Xm</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Xm</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Xxs</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">XinQ</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Dy</td>
@@ -155,7 +155,7 @@ This happened last year when they won Arlington and it's happening again with a 
   <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><b>ESL One Kuala Lumpur</b></td><td class="first"><b>1st 🥇???</b></td></tr>
-  <tr><td>DreamLeague S22</td><td>3rd</td></tr>
+  <tr><td>DreamLeague S22</td><td>3rd 🥉</td></tr>
   <tr><td><b>ESL One Birmingham</b></td><td class="top8"><b>7-8th</b></td></tr>
   <tr><td>DreamLeague S23</td><td>4th</td></tr>
   <tr><td><b>Riyadh Masters 2024</b></td><td class="top8"><b>7-8th</b></td></tr>
@@ -167,7 +167,7 @@ This happened last year when they won Arlington and it's happening again with a 
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><b>BetBoom Dacha Dubai</b></td><td class="top8"><b>7-8th</b></td></tr>
-  <tr><td>Elite League Season 1</td><td>1st 🏅</td></tr>
+  <tr><td>Elite League Season 1</td><td>1st 🥇</td></tr>
   <tr><td><b>PGL Wallachia Season 1</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td><b>Clavision: Snow Ruyi</b></td><td class="first"><b>1st 🥇</b></td></tr>
@@ -219,7 +219,7 @@ Needless to say, a lot of responsibility.
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td class="top6"><b>1st 🥇</b></td></tr>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td class="first"><b>1st 🥇</b></td></tr>
   <tr><td>Elite League Season 1</td><td>2nd 🥈</td></tr>
   <tr><td><b>PGL Wallachia Season 1</b></td><td class="third"><b>3rd 🥉</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
@@ -239,14 +239,14 @@ Sure, Topson already played a few matches with the Tundra boys during September'
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/liquid.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Liquid</h2>-
+<h2 style="margin: 0.25em 0;">Team Liquid</h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">miCKe</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-pl" title="Poland" alt="Poland">Nisha</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">33</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Boxi</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">iNSaNiA</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Insania</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Blitz</td>
     <td><i style="font-size: smaller;">Analyst</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Jabbz</td></tr>
@@ -313,7 +313,7 @@ Nope. It was
 <h2 style="margin: 0.25em 0;">Gaimin Gladiators</h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">dyrachYO</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">dyrachyo</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Quinn</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Ace</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">tOfu</td>
@@ -336,7 +336,7 @@ Nope. It was
   <tr><td><b>ESL One Kuala Lumpur</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   <tr><td>DreamLeague S22</td><td>5th</td></tr>
   <tr><td><b>ESL One Birmingham</b></td><td><b>11-12th</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>2nd</td></tr>
+  <tr><td>DreamLeague S23</td><td>2nd 🥈</td></tr>
   <tr><td><b>Riyadh Masters 2024</b></td><td class="first"><b>1st 🥇</b></td></tr>
   </tbody></table>
   </div>
@@ -379,7 +379,7 @@ Also, I unironically believe a large number of Redditors may just straight up ki
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/betboom.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">BetBoom Team</h2>
+<h2 style="margin: 0.25em 0;">BB Team</h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Nightfall</td>
