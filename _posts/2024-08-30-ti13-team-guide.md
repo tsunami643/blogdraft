@@ -83,7 +83,7 @@ I know what you're mainly here for.
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">miCKe</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-pl" title="Poland" alt="Poland">Nisha</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">zai</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">33</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Boxi</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">iNSaNiA</td>
     <td>&nbsp;</td>
@@ -93,9 +93,7 @@ I know what you're mainly here for.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After MATUMBAMAN [died last TI](https://youtu.be/s51F0JhAPHU?t=29), a void was left in this roster. Thankfully, the Team Liquid Academy Team, also known as "*Team Secret*," was hard at work training up another prospect ripe for the picking by the name of Nisha.
-
-You know how you probably associate Sumail as being on Evil Geniuses for like... ever? King played on EG for four years, from 2015 to 2019. Nisha on Secret? 2018 to 2022. Four years is a long time under one banner and despite a stellar 2<sup>nd</sup> place finish with Secret last TI, he seemed ready to move on.
+**How did this roster happen?** zai "retired" (he's currently managing Tundra, whatever that means). 33 came from tundra to replace him as captain and offlane
 
 **How was their DPC year?** 2150 points
 
@@ -105,9 +103,9 @@ You know how you probably associate Sumail as being on Evil Geniuses for like...
   <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><b>ESL One Kuala Lumpur</b></td><td class="third"><b>3rd 🥉*</b></td></tr>
-  <tr><td>DreamLeague S22</td><td><b>13-14th</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>13-14th</td></tr>
   <tr><td><b>ESL One Birmingham</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>DreamLeague S23</td><td><b>9-10th</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>9-10th</td></tr>
   <tr><td><b>Riyadh Masters 2024</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   </tbody></table>
   </div>
@@ -116,7 +114,7 @@ You know how you probably associate Sumail as being on Evil Geniuses for like...
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai 2024</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   <tr><td>Elite League Season 1</td><td>4th</td></tr>
   <tr><td><b>PGL Wallachia Season 1</b></td><td class="top6"><b>5-6th</b></td></tr>
   <tr><td><b>Elite League Season 2</b></td><td class="first"><b>1st 🥇</b></td></tr>
