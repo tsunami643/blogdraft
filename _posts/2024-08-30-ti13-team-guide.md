@@ -77,8 +77,169 @@ I know what you're mainly here for.
 
 ---
 
+<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/spirit.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Team Spirit</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Yatoro</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Larl</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Collapse</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Mira</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Miposhka</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Silent</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** After two years and one Aegis, TORONTOTOKYO finally left Spirit after last TI ended. In December, it was announced that a young gun by the name of Larl would be Toronto's replacement. Larl wasn't a complete nobody, he was on the 2022 BetBoom roster that got top 8 at the Stockholm Major and... got last at TI11. Yeah okay he was kind of a nobody. But Spirit saw promise in him and stuck with this roster for the entire season. It paid off.
+
+**How was their DPC year?** 1020 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>4th</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>9-10th</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td class="top8"><b>7-8th</b></td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td class="top6"><b>5-6th</b></td></tr>
+  <tr><td>Elite League Season 1</td><td>13-14th</td></tr>
+  <tr><td><b>PGL Wallachia Season 1</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td><b>Clavision: Snow Ruyi</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>FISSURE Universe EP3</td><td>TBD</td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+This happened last year when they won Arlington and it's happening again with a win in Riyadh. On top of that they also won DLS21 last month while barely even trying.
+
+**What would success look like?** Spirit went from barely a threat most of the year to rocketing up people's lists to be arguably one of the favorites for this TI. Recency bias and the theory that they only activate when the prize pool is enormous is going to be put to the test in Seattle.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/lgd.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Xtreme Gaming</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ame</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="China" alt="China">Xm</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Xxs</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">XinQ</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Dy</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Maps</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** Ame unretired
+
+**How was their DPC year?** 1284 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td class="first"><b>1st 🥇???</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>3rd</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td class="top8"><b>7-8th</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>4th</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td class="top8"><b>7-8th</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td class="top8"><b>7-8th</b></td></tr>
+  <tr><td>Elite League Season 1</td><td>1st 🏅</td></tr>
+  <tr><td><b>PGL Wallachia Season 1</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td><b>Clavision: Snow Ruyi</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+They kinda won KL with 3 of the players on Azure Ray
+
+**What would success look like?** Throw a dart at a board of all TIs ever. Odds are you'll hit one where LGD were considered favorites to win the whole thing. This year? Definitely not. Regardless, with LGD being the crown jewel of Chinese Dota, a great deal will always hang in the balance of this team's performance.
+
+Needless to say, a lot of responsibility.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/tundra.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Team Falcons</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-sk" title="Slovakia" alt="Slovakia">skiter</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Malr1ne</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">ATF</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cr1t-</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Sneyking</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Aui_2000</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** idk lol
+
+**How was their DPC year?** 1660 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td class="top6"><b>5-6th</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>1st 🥇</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>1st 🥇</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td class="third"><b>3rd 🥉</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td class="top6"><b>1st 🥇</b></td></tr>
+  <tr><td>Elite League Season 1</td><td>2nd 🥈</td></tr>
+  <tr><td><b>PGL Wallachia Season 1</b></td><td class="third"><b>3rd 🥉</b></td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>FISSURE Universe EP3</td><td>TBD</td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+As mentioned earlier, you'll notice a lot of stand-in asterisks by these results. For DLS19, Aramis stood in for Saksa. For DLS20, Malr1ne stood in for Nine. And for Bali and Riyadh, coach Aui stood in for Saksa.
+
+Despite all that, pretty solid results for Tundra despite Wraith Pact being removed in April, eh?
+
+**What would success look like?** I don't mean to alarm you, but we may be witnessing the potential of ***3*** time TI winners Topson and Aui as coach!
+
+Sure, Topson already played a few matches with the Tundra boys during September's DreamLeague S21 and it was... fine? They only got 5-6th out of a 12 team tournament.
+
+<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/liquid.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Liquid</h2>
+<h2 style="margin: 0.25em 0;">Team Liquid</h2>-
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">miCKe</td>
@@ -215,6 +376,73 @@ Three is Quinn. To put it lightly, he's a very colorful individual in pubs. And 
 **What would success look like?** They already made Dota history by being the first team to ever win every major of the season. Ya gotta finish the story now.
 
 Also, I unironically believe a large number of Redditors may just straight up kill themselves to avoid living in a timeline where Quinn Callahan is a TI winner.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/betboom.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">BetBoom Team</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Nightfall</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">gpk</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">MieRo`</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-md" title="Moldova" alt="Moldova">Save-</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">TORONTOTOKYO</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">boolk</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** Pure was still on the roster until after KL when they got miero
+
+**How was their DPC year?** 760 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td class="fourth"><b>4th</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>2nd 🥈</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>3rd 🥉</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td class="top6"><b>5-6th</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td class="third"><b>3rd 🥉</b></td></tr>
+  <tr><td>Elite League Season 1</td><td>11-12th</td></tr>
+  <tr><td><b>PGL Wallachia Season 1</b></td><td><b>9-11th</b></td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>FISSURE Universe EP3</td><td>TBD</td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+EG was South America's superteam and BoomBox Team was *supposed* to be EEU's superteam, but it just wasn't happening. At least, not on LAN. Lima was a disaster and Berlin was more of the same, albeit with Resolution having to stand in for Pure.
+
+They were given a last minute invite to DLS20 after SEA team Execration had visa issues and got the grand finals placement that was necessary to directly qualify to Riyadh. Nice!
+
+**Then there was Bali.** Bali, Bali, Bali.
+
+I'll try my best to summarize: The Bali Major had a ton of technical issues. A particularly extensive one occurred during Tundra vs. BetBoom's upper bracket match which led to a multi hour pause. This was an especially important match because if Bibimbap Team won, they'd get top 8 and, with it, enough points to secure a TI invite. The match eventually carried on and they got the 2-0. They did it! They're going to Seattle!
+
+<p style="font-family: Georgia; font-size: 1.8em; font-weight: 600; text-align: center;">[EXTREMELY LOUD INCORRECT BUZZER]</p>
+
+You see during the long ass pause, Pure, whom you may know as having a somewhat checkered history, got a lil' bored. He got so bored, in fact, that he opened up RU community caster Nix's stream. During the game. Well, during the pause, but the pause was... during the game. His game. And this was caught on the player cameras.
+
+Mass hysteria ensues. I was on the broadcast and even I didn't even know what the hell was going on. Does Tundra win? Can BBop Team even still play? Is Pure going to be shot out of a cannon? Are we even allowed to shoot cannons in Indonesia?
+
+The verdict was that Tundra would be given the win and Pure would be disqualified for the rest of the event. Resolution, who had previously stood in for BeanBlops at Berlin, just so happened to be on the EN broadcast for the event. He "stood in" for BedandBreakfast and they promptly got eliminated by a very irritated Azure Ray.
+
+Good times.
+
+**What would success look like?** We shoot Pure out of a cannon.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/tundra.jpg" alt="Banner"></p>
@@ -663,61 +891,6 @@ It's been a quiet season for the boys in aquamarine. For every superteam, there 
 **What would success look like?** A Climate Pledge arena filled to the brim with Crest plushies.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/spirit.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Spirit</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Yatoro</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Larl</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Collapse</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Mira</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Miposhka</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Silent</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** After two years and one Aegis, TORONTOTOKYO finally left Spirit after last TI ended. In December, it was announced that a young gun by the name of Larl would be Toronto's replacement. Larl wasn't a complete nobody, he was on the 2022 BetBoom roster that got top 8 at the Stockholm Major and... got last at TI11. Yeah okay he was kind of a nobody. But Spirit saw promise in him and stuck with this roster for the entire season. It paid off.
-
-**How was their DPC year?** 1020 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
-  <tr><td>DreamLeague S22</td><td>4th</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td><b>9-10th</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td class="top8"><b>7-8th</b></td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>Elite League Season 1</td><td>13-14th</td></tr>
-  <tr><td><b>PGL Wallachia Season 1</b></td><td class="first"><b>1st 🥇</b></td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td><b>Clavision: Snow Ruyi</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>FISSURE Universe EP3</td><td>TBD</td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-<p class="center"><img title="Rawr" style="width: 400px;" src="./../img/ti12teams/spiritmeme.jpg"></p>
-
-This happened last year when they won Arlington and it's happening again with a win in Riyadh. On top of that they also won DLS21 last month while barely even trying.
-
-**What would success look like?** Spirit went from barely a threat most of the year to rocketing up people's lists to be arguably one of the favorites for this TI. Recency bias and the theory that they only activate when the prize pool is enormous is going to be put to the test in Seattle.
-
-<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/tsm.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">TSM</h2>
 <table class="roster">
@@ -771,75 +944,6 @@ As per usual, NA was mostly a two-horse race throughout the year with TSM and Sh
 For what it's worth, they *did* make it to grand finals of the BetBoom Dacha LAN event in September but lost to, you guessed it: Gaimin Gladiators.
 
 **What would success look like?** Ari's the first British player to ever compete at a Valve Major. So if they make it to Climate Pledge Arena? *USA! USA! USA! USA!*
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/betboom.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">BetBoom Team</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Nightfall</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">gpk~</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Pure~</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-md" title="Moldova" alt="Moldova">Save-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">TORONTOTOKYO</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">boolk</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** The TI11 BetBoom was thrown out the window after their last place finish and this version was born. Nightfall, gpk, and Save had played together on the TI10 VP which was coached by boolk. Pure originally joined this team as the carry since Nightfall was still fresh from his offlane stint on EG, but the two ended up swapping roles starting Tour 3. Lastly, your eyes do not deceive you, that's TI winning midlaner TORONTOTOKYO playing hard support.
-
-**How was their DPC year?** 760 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>EEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>15-16th</b></td></tr>
-  <tr><td>EEU DPC Tour 2</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>13-14th*</b></td></tr>
-  <tr><td>EEU DPC Tour 3</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>9-12th****</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="top6"><b>5-6th</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-EG was South America's superteam and BoomBox Team was *supposed* to be EEU's superteam, but it just wasn't happening. At least, not on LAN. Lima was a disaster and Berlin was more of the same, albeit with Resolution having to stand in for Pure.
-
-They were given a last minute invite to DLS20 after SEA team Execration had visa issues and got the grand finals placement that was necessary to directly qualify to Riyadh. Nice!
-
-**Then there was Bali.** Bali, Bali, Bali.
-
-I'll try my best to summarize: The Bali Major had a ton of technical issues. A particularly extensive one occurred during Tundra vs. BetBoom's upper bracket match which led to a multi hour pause. This was an especially important match because if Bibimbap Team won, they'd get top 8 and, with it, enough points to secure a TI invite. The match eventually carried on and they got the 2-0. They did it! They're going to Seattle!
-
-<p style="font-family: Georgia; font-size: 1.8em; font-weight: 600; text-align: center;">[EXTREMELY LOUD INCORRECT BUZZER]</p>
-
-You see during the long ass pause, Pure, whom you may know as having a somewhat checkered history, got a lil' bored. He got so bored, in fact, that he opened up RU community caster Nix's stream. During the game. Well, during the pause, but the pause was... during the game. His game. And this was caught on the player cameras.
-
-Mass hysteria ensues. I was on the broadcast and even I didn't even know what the hell was going on. Does Tundra win? Can BBop Team even still play? Is Pure going to be shot out of a cannon? Are we even allowed to shoot cannons in Indonesia?
-
-The verdict was that Tundra would be given the win and Pure would be disqualified for the rest of the event. Resolution, who had previously stood in for BeanBlops at Berlin, just so happened to be on the EN broadcast for the event. He "stood in" for BedandBreakfast and they promptly got eliminated by a very irritated Azure Ray.
-
-Good times.
-
-**What would success look like?** We shoot Pure out of a cannon.
 
 ----
 
