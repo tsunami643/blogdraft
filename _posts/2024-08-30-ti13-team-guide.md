@@ -1,13 +1,13 @@
 ﻿---
 layout: "post"
-title: "The International 2023: A Practical Guide to All 20 Teams"
+title: "The International 2024: A Practical Guide to All 16 Teams"
 date: "2023-10-05 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
 feature-img: "img/ti12teams/ti12header.jpg"
 flags: true
 ---
 
-### Or more accurately, "The *Road* to the International 2023: A Practical Guide"
+### Or more accurately, "The *Road* to the International 2024: A Practical Guide"
 
 The what?
 
