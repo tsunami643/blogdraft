@@ -102,27 +102,25 @@ You know how you probably associate Sumail as being on Evil Geniuses for like...
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="second"><b>2nd 🥈*</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td class="third"><b>3rd 🥉*</b></td></tr>
+  <tr><td>DreamLeague S22</td><td><b>13-14th</b></td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td class="top6"><b>5-6th</b></td></tr>
+  <tr><td>DreamLeague S23</td><td><b>9-10th</b></td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   </tbody></table>
   </div>
 
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>2nd 🥈</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td><b>BetBoom Dacha Dubai 2024</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>Elite League Season 1</td><td>4th</td></tr>
+  <tr><td><b>PGL Wallachia Season 1</b></td><td class="top6"><b>5-6th</b></td></tr>
+  <tr><td><b>Elite League Season 2</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td><b>Clavision: Snow Ruyi</b></td><td><b>N/A</b></td></tr>
   </tbody></table>
   </div>
 </div>
