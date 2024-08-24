@@ -557,20 +557,18 @@ QUALIFIED TO WALLACHIA BUT COULDN'T GET VISAS, REPLACED BY MOUZ
 
 Sure, Topson already played a few matches with the Tundra boys during September's DreamLeague S21 and it was... fine? They only got 5-6th out of a 12 team tournament.
 
-<p style="text-align: center; font-size: 42px"><b>BUT IT'S TAAAPSEN!</b> <img class="batchest" title="BATCHESTING SO HARD" src="./../img/ti12teams/batchest.png"></p>
-
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/9pandas.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">9Pandas</h2>
+<h2 style="margin: 0.25em 0;">1w</h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">RAMZES666</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">kiyotaka</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">MieRo`</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Antares</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Solo</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Munkushi~</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">CHIRA_JUNIOR</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Cloud</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">swedenstrong</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">RESPECT</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="" title="Russia" alt="">???</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="" title="Russia" alt="Russia">Ahilles</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -584,27 +582,25 @@ Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>EEU DPC Tour 1</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>9-12th*</b></td></tr>
-  <tr><td>EEU DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="third"><b>3rd 🥉*</b></td></tr>
-  <tr><td>EEU DPC Tour 3</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="top6"><b>5-6th</b></td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>15-16th</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>N/A*</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td><b>N/A</b></td></tr>
   </tbody></table>
   </div>
 
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
+  <tr><td>Elite League Season 1</td><td>N/A</td></tr>
+  <tr><td><b>PGL Wallachia Season 1</b></td><td><b>N/A</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>7th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="top6"><b>5-6th</b></td></tr>
+  <tr><td><b>Elite League Season 2</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   </tbody></table>
   </div>
 </div>
