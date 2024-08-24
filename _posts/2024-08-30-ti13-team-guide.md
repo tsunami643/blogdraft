@@ -509,81 +509,49 @@ Then I guess they just hate ESL or something? Those are some rough EPT performan
 <h2 style="margin: 0.25em 0;">Tundra Esports</h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-sk" title="Slovakia" alt="Slovakia">skiter</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Pure~</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">Topson</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">33</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Nine</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Sneyking</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">RAMZES666</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">9Class</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Whitemon</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Aui_2000</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">MoonMeander</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
 
-<style>
-.batchest {
-  animation: shake 0.3s;
-  animation-iteration-count: infinite;
-  width: 55px;
-}
-
-@keyframes shake {
-  0% { transform: translate(1px, 1px) rotate(0deg); }
-  10% { transform: translate(-1px, -1px) rotate(-1deg); }
-  20% { transform: translate(-1px, 0px) rotate(1deg); }
-  30% { transform: translate(1px, 1px) rotate(0deg); }
-  40% { transform: translate(1px, -1px) rotate(1deg); }
-  50% { transform: translate(-1px, 1px) rotate(-1deg); }
-  60% { transform: translate(-1px, 1px) rotate(0deg); }
-  70% { transform: translate(1px, 1px) rotate(-1deg); }
-  80% { transform: translate(-1px, -1px) rotate(1deg); }
-  90% { transform: translate(1px, 1px) rotate(0deg); }
-  100% { transform: translate(1px, -1px) rotate(-1deg); }
-}
-</style>
-
-**How did this roster happen?** Ah yes, the current reigning TI champio-- <span style="font-size: 42px"><b>IS THAT TOPSON?</b> <img class="batchest" title="HECKIN' LOVE TOPSON" src="./../img/ti12teams/batchest.png"></span>
-
-Yes, but show some decorum. The main reason Topson is here is because Tundra, specifically Saksa, had a pretty rough year and was mysteriously missing from a handful of events before publicly [opening up](https://twitter.com/Saksadota/status/1682719745110310912) that he's been struggling with anxiety, sleep, and mental health. Even TI winners are human.
-
-In the eleventh hour, Topson, who had spent most of his year farting around on the meme-but-jk-not-really-meme team Old G, was called up to bat moving Nine to 4 position duties.
-
-You couldn't pay me enough to cover all the Old G drama this year.
+**How did this roster happen?** they replaced nine with 9class
 
 **How was their DPC year?** 1660 points
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>9-12th</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>1st 🥇</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="third"><b>3rd 🥉*</b></td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td class="top8"><b>7-8th*</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>9-10th</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td class="third"><b>3rd 🥉</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>5-6th</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td class="fourth"><b>4th</b></td></tr>
   </tbody></table>
   </div>
 
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
+  <tr><td>Elite League Season 1</td><td>7-8th</td></tr>
+  <tr><td><b>PGL Wallachia Season 1</b></td><td><b>N/A*</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>4th*</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>9-10th*</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>9-12th*</b></td></tr>
+  <tr><td>FISSURE Universe EP3</td><td>TBD</td></tr>
   </tbody></table>
   </div>
 </div>
 <br>
 
-As mentioned earlier, you'll notice a lot of stand-in asterisks by these results. For DLS19, Aramis stood in for Saksa. For DLS20, Malr1ne stood in for Nine. And for Bali and Riyadh, coach Aui stood in for Saksa.
-
-Despite all that, pretty solid results for Tundra despite Wraith Pact being removed in April, eh?
+QUALIFIED TO WALLACHIA BUT COULDN'T GET VISAS, REPLACED BY MOUZ
 
 **What would success look like?** I don't mean to alarm you, but we may be witnessing the potential of ***3*** time TI winners Topson and Aui as coach!
 
