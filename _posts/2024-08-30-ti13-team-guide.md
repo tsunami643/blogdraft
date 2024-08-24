@@ -117,7 +117,7 @@ I know what you're mainly here for.
   <tr><td><b>BetBoom Dacha Dubai</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   <tr><td>Elite League Season 1</td><td>4th</td></tr>
   <tr><td><b>PGL Wallachia Season 1</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>&nbsp;</b></td><td>&nbsp;</td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td><b>Elite League Season 2</b></td><td class="first"><b>1st 🥇</b></td></tr>
   </tbody></table>
   </div>
