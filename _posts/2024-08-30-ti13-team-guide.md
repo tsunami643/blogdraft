@@ -474,10 +474,10 @@ Good times.
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A - 3rd in quals</b></td></tr>
-  <tr><td>DreamLeague S22</td><td>N/A - 4th in quals</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td><b>N/A - 3rd in quals</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>N/A - 4th in quals</td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>N/A</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
   <tr><td><b>Riyadh Masters 2024</b></td><td><b>9-12th</b></td></tr>
   </tbody></table>
   </div>
@@ -486,9 +486,9 @@ Good times.
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A - 7/8th in quals</b></td></tr>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
   <tr><td>Elite League Season 1</td><td>11-12th</td></tr>
-  <tr><td><b>PGL Wallachia Season 1</b></td><td><b>N/A - 4th in quals</b></td></tr>
+  <tr><td><b>PGL Wallachia Season 1</b></td><td><b>N/A</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>FISSURE Universe EP3</td><td>TBD</td></tr>
   </tbody></table>
