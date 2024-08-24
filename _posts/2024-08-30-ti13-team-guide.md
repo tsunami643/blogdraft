@@ -221,7 +221,7 @@ Needless to say, a lot of responsibility.
   <tbody>
   <tr><td><b>BetBoom Dacha Dubai</b></td><td class="first"><b>1st 🥇</b></td></tr>
   <tr><td>Elite League Season 1</td><td>2nd 🥈</td></tr>
-  <tr><td><b>PGL Wallachia Season 1</b></td><td class="third"><b>3rd 🥉</b></td></tr>
+  <tr><td><b>PGL Wallachia Season 1</b></td><td class="third"><b>3rd 🥉*</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>FISSURE Universe EP3</td><td>TBD</td></tr>
   </tbody></table>
@@ -443,6 +443,66 @@ The verdict was that Tundra would be given the win and Pure would be disqualifie
 Good times.
 
 **What would success look like?** We shoot Pure out of a cannon.
+
+----
+
+# The Regional Qualifiers
+
+----
+
+<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/entity.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Cloud9 - <i>Western Europe #1</i></h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">watson</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">No[o]ne-</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">DM</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Kataomi`</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">Fishman</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Astini</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** After TI11, Pure left the roster and watson came in from HellRaisers. Following Tour 3, Tobi was kicked and they randomly got Gabbi, a *Southeast Asian carry player*, to play offlane. Not entirely sure what the story was there.
+
+**How was their DPC year?** 208 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A - 3rd in quals</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>N/A - 4th in quals</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>N/A - 3rd in quals</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>N/A - 4th in quals</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td><b>9-12th</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A - 7/8th in quals</b></td></tr>
+  <tr><td>Elite League Season 1</td><td>11-12th</td></tr>
+  <tr><td><b>PGL Wallachia Season 1</b></td><td><b>N/A - 4th in quals</b></td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>FISSURE Universe EP3</td><td>TBD</td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+Western Europe is a **brutal** region. WEU sent four teams to every major this year and all of them would make top 6 *every time* barring Tundra's 9-12th at Lima. Granted, two of those were just Gaimin and Liquid in every final, but still!
+
+Entity made waves at Lima before losing to Gaimin and Talon, but were struggling to keep their head above water in Tour 2 and 3. Only by winning relegation tiebreakers were they able to maintain a slot in Division 1.
+
+Then I guess they just hate ESL or something? Those are some rough EPT performances.
+
+**What would success look like?** Giving us an even better game than last year's 107 minute Bo1 against RNG.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/tundra.jpg" alt="Banner"></p>
@@ -944,68 +1004,6 @@ As per usual, NA was mostly a two-horse race throughout the year with TSM and Sh
 For what it's worth, they *did* make it to grand finals of the BetBoom Dacha LAN event in September but lost to, you guessed it: Gaimin Gladiators.
 
 **What would success look like?** Ari's the first British player to ever compete at a Valve Major. So if they make it to Climate Pledge Arena? *USA! USA! USA! USA!*
-
-----
-
-# The Regional Qualifiers
-
-----
-
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/entity.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Entity - <i>Western Europe #1</i></h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">watson</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Stormstormer</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Gabbi</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Kataomi`</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">Fishman</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">MeTTpuM</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** After TI11, Pure left the roster and watson came in from HellRaisers. Following Tour 3, Tobi was kicked and they randomly got Gabbi, a *Southeast Asian carry player*, to play offlane. Not entirely sure what the story was there.
-
-**How was their DPC year?** 208 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>WEU DPC Tour 1</td><td>4th</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>6th</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>6th</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>15-16th</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>15-16th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>17-20th</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-Western Europe is a **brutal** region. WEU sent four teams to every major this year and all of them would make top 6 *every time* barring Tundra's 9-12th at Lima. Granted, two of those were just Gaimin and Liquid in every final, but still!
-
-Entity made waves at Lima before losing to Gaimin and Talon, but were struggling to keep their head above water in Tour 2 and 3. Only by winning relegation tiebreakers were they able to maintain a slot in Division 1.
-
-Then I guess they just hate ESL or something? Those are some rough EPT performances.
-
-**What would success look like?** Giving us an even better game than last year's 107 minute Bo1 against RNG.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/quest.jpg" alt="Banner"></p>
