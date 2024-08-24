@@ -177,7 +177,6 @@ Nope. It was
   <tr><td><b>ESL One Birmingham</b></td><td><b>11-12th</b></td></tr>
   <tr><td>DreamLeague S23</td><td>2nd</td></tr>
   <tr><td><b>Riyadh Masters 2024</b></td><td class="first"><b>1st 🥇</b></td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   </tbody></table>
   </div>
 
@@ -189,8 +188,7 @@ Nope. It was
   <tr><td>Elite League Season 1</td><td>5-6th</td></tr>
   <tr><td><b>PGL Wallachia Season 1</b></td><td class="top8"><b>7-8th</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td><b>Elite League Season 2</b></td><td class="first"><b>1st 🥇</b></td></tr>
-  <tr><td>FISSURE Universe: Episode 3</td><td>7-8th</td></tr>
+  <tr><td>FISSURE Universe EP3</td><td>7-8th</td></tr>
   </tbody></table>
   </div>
 </div>
@@ -687,27 +685,27 @@ It's been a quiet season for the boys in aquamarine. For every superteam, there 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>EEU DPC Tour 1</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="top8"><b>7-8th</b></td></tr>
-  <tr><td>EEU DPC Tour 2</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>9-12th</b></td></tr>
-  <tr><td>EEU DPC Tour 3</td><td>1st 🥇</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>9-12th</b></td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>4th</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>9-10th</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td class="top8"><b>7-8th</b></td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   </tbody></table>
   </div>
 
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td class="top6"><b>5-6th</b></td></tr>
+  <tr><td>Elite League Season 1</td><td>13-14th</td></tr>
+  <tr><td><b>PGL Wallachia Season 1</b></td><td class="first"><b>1st 🥇</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>9-10th</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>5th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td><b>Clavision: Snow Ruyi</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>FISSURE Universe EP3</td><td>TBD</td></tr>
   </tbody></table>
   </div>
 </div>
