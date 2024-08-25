@@ -115,11 +115,11 @@ I know what you're mainly here for.
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><b>BetBoom Dacha Dubai</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>Elite League Season 1</td><td>13-14th</td></tr>
-  <tr><td><b>PGL Wallachia Season 1</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td>Elite League S1</td><td>13-14th</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td class="first"><b>1st 🥇</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td><b>Clavision: Snow Ruyi</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>FISSURE Universe EP3</td><td>TBD</td></tr>
+  <tr><td>FISSURE Universe 3</td><td>2nd 🥈</td></tr>
   </tbody></table>
   </div>
 </div>
@@ -167,8 +167,8 @@ This happened last year when they won Arlington and it's happening again with a 
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><b>BetBoom Dacha Dubai</b></td><td class="top8"><b>7-8th</b></td></tr>
-  <tr><td>Elite League Season 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>PGL Wallachia Season 1</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td>Elite League S1</td><td>1st 🥇</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td><b>Clavision: Snow Ruyi</b></td><td class="first"><b>1st 🥇</b></td></tr>
   </tbody></table>
@@ -220,10 +220,10 @@ Needless to say, a lot of responsibility.
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><b>BetBoom Dacha Dubai</b></td><td class="first"><b>1st 🥇</b></td></tr>
-  <tr><td>Elite League Season 1</td><td>2nd 🥈</td></tr>
-  <tr><td><b>PGL Wallachia Season 1</b></td><td class="third"><b>3rd 🥉*</b></td></tr>
+  <tr><td>Elite League S1</td><td>2nd 🥈</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td class="third"><b>3rd 🥉*</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>FISSURE Universe EP3</td><td>TBD</td></tr>
+  <tr><td>FISSURE Universe 3</td><td>1st 🥇</td></tr>
   </tbody></table>
   </div>
 </div>
@@ -276,10 +276,10 @@ Sure, Topson already played a few matches with the Tundra boys during September'
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><b>BetBoom Dacha Dubai</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>Elite League Season 1</td><td>4th</td></tr>
-  <tr><td><b>PGL Wallachia Season 1</b></td><td class="top6"><b>5-6th</b></td></tr>
+  <tr><td>Elite League S1</td><td>4th</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td class="top6"><b>5-6th</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td><b>Elite League Season 2</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td><b>Elite League S2</b></td><td class="first"><b>1st 🥇</b></td></tr>
   </tbody></table>
   </div>
 </div>
@@ -346,10 +346,10 @@ Nope. It was
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><b>BetBoom Dacha Dubai</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>Elite League Season 1</td><td>5-6th</td></tr>
-  <tr><td><b>PGL Wallachia Season 1</b></td><td class="top8"><b>7-8th</b></td></tr>
+  <tr><td>Elite League S1</td><td>5-6th</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td class="top8"><b>7-8th</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>FISSURE Universe EP3</td><td>7-8th</td></tr>
+  <tr><td>FISSURE Universe 3</td><td>7-8th</td></tr>
   </tbody></table>
   </div>
 </div>
@@ -415,10 +415,10 @@ Also, I unironically believe a large number of Redditors may just straight up ki
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><b>BetBoom Dacha Dubai</b></td><td class="third"><b>3rd 🥉</b></td></tr>
-  <tr><td>Elite League Season 1</td><td>11-12th</td></tr>
-  <tr><td><b>PGL Wallachia Season 1</b></td><td><b>9-11th</b></td></tr>
+  <tr><td>Elite League S1</td><td>11-12th</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>9-11th</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>FISSURE Universe EP3</td><td>TBD</td></tr>
+  <tr><td>FISSURE Universe 3</td><td>4th</td></tr>
   </tbody></table>
   </div>
 </div>
@@ -487,10 +487,10 @@ Good times.
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
-  <tr><td>Elite League Season 1</td><td>11-12th</td></tr>
-  <tr><td><b>PGL Wallachia Season 1</b></td><td><b>N/A</b></td></tr>
+  <tr><td>Elite League S1</td><td>11-12th</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>N/A</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>FISSURE Universe EP3</td><td>TBD</td></tr>
+  <tr><td>FISSURE Universe 3</td><td>5-6th</td></tr>
   </tbody></table>
   </div>
 </div>
@@ -542,10 +542,10 @@ Then I guess they just hate ESL or something? Those are some rough EPT performan
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
-  <tr><td>Elite League Season 1</td><td>7-8th</td></tr>
-  <tr><td><b>PGL Wallachia Season 1</b></td><td><b>N/A*</b></td></tr>
+  <tr><td>Elite League S1</td><td>7-8th</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>N/A*</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>FISSURE Universe EP3</td><td>TBD</td></tr>
+  <tr><td>FISSURE Universe 3</td><td>3rd 🥉</td></tr>
   </tbody></table>
   </div>
 </div>
@@ -597,10 +597,10 @@ Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa 
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
-  <tr><td>Elite League Season 1</td><td>N/A</td></tr>
-  <tr><td><b>PGL Wallachia Season 1</b></td><td><b>N/A</b></td></tr>
+  <tr><td>Elite League S1</td><td>N/A</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>N/A</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td><b>Elite League Season 2</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td><b>Elite League S2</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   </tbody></table>
   </div>
 </div>
