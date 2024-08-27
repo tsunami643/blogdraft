@@ -77,7 +77,7 @@ I know what you're mainly here for.
 
 ---
 
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/spirit.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/spirit.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Spirit</h2>
 <table class="roster">
   <tbody><tr>
@@ -92,7 +92,7 @@ I know what you're mainly here for.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After two years and one Aegis, TORONTOTOKYO finally left Spirit after last TI ended. In December, it was announced that a young gun by the name of Larl would be Toronto's replacement. Larl wasn't a complete nobody, he was on the 2022 BetBoom roster that got top 8 at the Stockholm Major and... got last at TI11. Yeah okay he was kind of a nobody. But Spirit saw promise in him and stuck with this roster for the entire season. It paid off.
+**How did this roster happen?** they won last TI and are keepin the good times rollin
 
 **How was their season?**
 
@@ -130,7 +130,7 @@ This happened last year when they won Arlington and it's happening again with a 
 **What would success look like?** Spirit went from barely a threat most of the year to rocketing up people's lists to be arguably one of the favorites for this TI. Recency bias and the theory that they only activate when the prize pool is enormous is going to be put to the test in Seattle.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/lgd.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/xtreme.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Xtreme Gaming</h2>
 <table class="roster">
   <tbody><tr>
@@ -145,7 +145,7 @@ This happened last year when they won Arlington and it's happening again with a 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Ame unretired
+**How did this roster happen?** Ame unretired and transferred because they're the same owner as azure ray. dy has been chillin on xtreme for like 3 years
 
 **How was their season?**
 
@@ -193,7 +193,7 @@ CONS - DIV 2 in shambles
 MARKETING SUCKS</p>
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/tundra.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/falcons.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Falcons</h2>
 <table class="roster">
   <tbody><tr>
@@ -208,7 +208,7 @@ MARKETING SUCKS</p>
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** idk lol
+**How did this roster happen?** built around ATF who didn't sign with quest at the end of last season, skiter and sney left tundra, crit left arteezy, and malrine was known from standing in for tundra w/ skiter and sney and also was fam with atf from the creepwave days. aui joined after KL and immediately popped off
 
 **How was their season?**
 
@@ -248,7 +248,7 @@ Despite all that, pretty solid results for Tundra despite Wraith Pact being remo
 Sure, Topson already played a few matches with the Tundra boys during September's DreamLeague S21 and it was... fine? They only got 5-6th out of a 12 team tournament.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/liquid.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/liquid.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Liquid</h2>
 <table class="roster">
   <tbody><tr>
@@ -289,23 +289,13 @@ Sure, Topson already played a few matches with the Tundra boys during September'
   <tr><td>Elite League S1</td><td>4th</td></tr>
   <tr><td><b>PGL Wallachia S1</b></td><td class="top6"><b>5-6th</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td><b>Elite League S2</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td><b>Elite League S2</b></td><td class="first"><b>1st 🥇*</b></td></tr>
   </tbody></table>
   </div>
 </div>
 <br>
 
-So the year started off-- wait, sorry. Gotta fix my formatting.
-
-<p style="background: #bebebe">So the year started off pretty good for Liquid. Nisha instantly gelled with the team and they got a 2<sup>nd</sup> place finish in Lima despite Boxi having to leave mid-way through the tournament.</p>
-
-<p style="background: #bebebe">But then it happened again.</p>
-
-<p style="background: #bebebe">And again.</p>
-
-<p style="background: #bebebe"><b>And again.</b></p>
-
-It would've been funny if it wasn't so sad. Actually that's a lie, it was still pretty funny. After being stonewalled by a Western European nemesis for 3 LANs straight, Liquid finally conquered their demons at Riyadh before once more fumbling the bag against Team Spirit in grand finals.
+won elite league with a standin (for blitz)
 
 **What would success look like?** Fun fact: Do you know who the highest earning Dota 2 player that hasn't won TI is? [It's zai.](./../img/ti12teams/zaiesportsearnings.jpg) Even more impressive is he's done that without ever even being in a TI grand finals.
 
@@ -319,7 +309,7 @@ Anyways, a Western European nemesis, you say? Who were they? I bet it was Team S
 Nope. It was
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/gaimin.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/gaimin.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Gaimin Gladiators</h2>
 <table class="roster">
   <tbody><tr>
@@ -388,7 +378,7 @@ Three is Quinn. To put it lightly, he's a very colorful individual in pubs. And 
 Also, I unironically believe a large number of Redditors may just straight up kill themselves to avoid living in a timeline where Quinn Callahan is a TI winner.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/betboom.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/betboom.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">BB Team</h2>
 <table class="roster">
   <tbody><tr>
@@ -460,7 +450,7 @@ Good times.
 
 ----
 
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/entity.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/cloud9.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Cloud9 - <i>Western Europe #1</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -475,7 +465,7 @@ Good times.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After TI11, Pure left the roster and watson came in from HellRaisers. Following Tour 3, Tobi was kicked and they randomly got Gabbi, a *Southeast Asian carry player*, to play offlane. Not entirely sure what the story was there.
+**How did this roster happen?** Was entity for most of the year and also sucked for most of the year. After failing to qual for KL, they swapped reibl with noone. astini joined after elite league s1
 
 **How was their season?**
 
@@ -515,7 +505,7 @@ Then I guess they just hate ESL or something? Those are some rough EPT performan
 **What would success look like?** Giving us an even better game than last year's 107 minute Bo1 against RNG.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/tundra.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/tundra.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Tundra Esports - <i>Western Europe #2</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -530,7 +520,7 @@ Then I guess they just hate ESL or something? Those are some rough EPT performan
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** they replaced nine with 9class
+**How did this roster happen?** KL was a completely different roster, it was old TSM. Then Mindcontrol, 9class, and pure join. But then so does moonmeander and zai, kinda. And lemme tell you, ole' Ivan Ivanov did not like that one bit no siree. Then tobi came in. Then tobi came out and ramzses came in
 
 **How was their season?**
 
@@ -568,7 +558,7 @@ QUALIFIED TO WALLACHIA BUT COULDN'T GET VISAS, REPLACED BY MOUZ
 Sure, Topson already played a few matches with the Tundra boys during September's DreamLeague S21 and it was... fine? They only got 5-6th out of a 12 team tournament.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/9pandas.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/1w.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">1w - <i>Eastern Europe</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -583,9 +573,7 @@ Sure, Topson already played a few matches with the Tundra boys during September'
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the HellRaisers tag with Daxak, kiyotaka (formerly depressed kid) (as in, that was his name), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak, so Yuragi stood in for him at the Lima Major despite very much still being on OG.
-
-Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
+**How did this roster happen?** a couple of randos joined together on klim sani4. swedenstrong is probably the most well known after having a stint on navi, but the rest of them have bounced around a few tier 2 teams here and there.
 
 **How was their season?**
 
@@ -623,7 +611,7 @@ This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetB
 For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/lgd.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/zero.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Zero - <i>China #1</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -638,9 +626,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the HellRaisers tag with Daxak, kiyotaka (formerly depressed kid) (as in, that was his name), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak, so Yuragi stood in for him at the Lima Major despite very much still being on OG.
-
-Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
+**How did this roster happen?** 7e, beyond, and zzq were kickin it since may 2023. They attempted to qualify for last TI with cty and former Wings TI winner iceice, but got 3rd. This roster kept trying until failing DLS22 quals. Erika and ponlo were brought in starting with Elite League quals.
 
 **How was their season?**
 
@@ -678,7 +664,7 @@ This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetB
 For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/lgd.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/g2ig.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">G2 x iG - <i>China #2</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -694,9 +680,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the HellRaisers tag with Daxak, kiyotaka (formerly depressed kid) (as in, that was his name), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak, so Yuragi stood in for him at the Lima Major despite very much still being on OG.
-
-Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
+**How did this roster happen?** Monet and boboka came from aster, nts came from lgd, jt was formerly an ig mainstay, but had brief stint on xtreme before coming back, xnova spent a year in SEA exile on BOOM but came back
 
 **How was their season?**
 
@@ -736,7 +720,7 @@ This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetB
 For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/talon.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/talon.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Talon Esports - <i>Southeast Asia #1</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -751,9 +735,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the HellRaisers tag with Daxak, kiyotaka (formerly depressed kid) (as in, that was his name), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak, so Yuragi stood in for him at the Lima Major despite very much still being on OG.
-
-Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
+**How did this roster happen?** Mikoto wanted to take a break after last TI, so the rest of talon went on to become Aurora. Mikoto's break didn't last long and he was actually on Bleed for most of the year with jackky, masaros, dj, and poloson. Sounds like the kinda team that could do pretty good, right? Yep, just like all Bleed rosters. And like all Bleed rosters, they ended up sucking. Meanwhile, Talon signed the other 4 players from various middling SEA teams along with ChYuaN to play mid. Mikoto came back to Talon in june
 
 **How was their season?**
 
@@ -791,7 +773,7 @@ This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetB
 For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/talon.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/aurora.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Aurora - <i>Southeast Asia #2</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -806,9 +788,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the HellRaisers tag with Daxak, kiyotaka (formerly depressed kid) (as in, that was his name), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak, so Yuragi stood in for him at the Lima Major despite very much still being on OG.
-
-Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
+**How did this roster happen?** Like I said, old Talon wanted to keep competing, but they didn't have a mid. Armel was originally the mid, but then he went and had a baby. Unknown newcomer lorenof came in starting at DLS22
 
 **How was their season?**
 
@@ -846,7 +826,7 @@ This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetB
 For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/nouns.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/nouns.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">nouns - <i>North America</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -861,9 +841,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** You may recall bits of this roster from last year's TI Last Chance Qualifier, but in case you don't: Gunnar is a nouns staple, Moo has been rocking the noggles since 2022, and Lelis and Yamsun joined at the beginning of this season. K1's 'health break' off of beastcoast lasted about a month and a half before joining nouns in July.
-
-Pour one out for Husky, though. Brother had been 5 position with Gunnar on 4 Zoomers/nouns since *August 2020* and got kicked right after the Bali Major ended. They didn't even kick him for a support player. Yamsun just straight up changed roles to make space for K1.
+**How did this roster happen?** after getting top 8 at ti last year, gunnar moved to offlane and stormstormer was brought in for mid. Shopify fell apart after TI and fly came in to replace yamsun. Yuma replaced K1 after he went to HEROIC. After an underwhelming Dacha Dubai result stormstormer was replaced with another german, copy. Milan joined later.
 
 **How was their season?**
 
@@ -907,7 +885,7 @@ Hmm.
 *I SAID GO!*
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/eg.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/heroic.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">HEROIC - <i>South America #1</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -923,11 +901,7 @@ Hmm.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** *Whoa now, tsunami. Don't mean to tell ya yer business, but it seems to me like there's been a bit of a misunderstandin'. This here ain't EG. This some kinda... what sorta woke flags are these... this some kinda South American team? Now boy, you know that ain't right. EG's a North American org, yes sir! Always has been. North American pride and joy right there!*
-
-Nope. Not anymore. At the beginning of this season, EG very unceremoniously (and then got cyberbullied into ceremoniously) dropped their North American roster after spending **11 years** in the region. The phrase "end of an era" gets thrown around a lot in esports, but like... every TI since TI2 with a North American EG? Wild.
-
-As they shed their NA skin, Evil Geniuses formed a South American superteam out of last year's Thunder Awaken and beastcoast rosters. Pakazs, Matthew, and Panda came from Thunder. Chris Luck and Wisper came from beastcoast.
+**How did this roster happen?** K1 came from nouns, scofield came from beastcoast, analog and KJ came from keyd stars, davai lama exported himself to a third region after not finding success in europe
 
 **How was their season?**
 
@@ -969,7 +943,7 @@ Let's also gloss over the last third of the season because... oof.
 For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerseys being dug out of closets and dusted off with wives asking, "Why do you still have this? And who is Universe?" Will these vintage EG fans be rooting for this team? Probably not, but don't tell the players that. Big smiles, EG boys. Big Chris Smiles.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/beastcoast.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/beastcoast.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">beastcoast - <i>South America #2</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -984,9 +958,7 @@ For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerse
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** The community largely considered Evil Geniuses to have benefitted the most from the post-TI11 SA shuffle which left beastcoast to pick up the fragmented pieces. Scofield and Stinger have been beastcoast since 2019, but DarkMago and Sacred came from Thunder Awaken.
-
-K1 Hector was also beastcoast's carry since 2019, but he departed before the Bali Major citing [health issues](https://twitter.com/beastcoast/status/1661500603338485762) and Parker took his spot.
+**How did this roster happen?** Gardick was on the original team, but was replaced by elmisho. It's mainly 4 new kids and papa mooz.
 
 **How was their season?**
 
