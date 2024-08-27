@@ -94,7 +94,7 @@ I know what you're mainly here for.
 
 **How did this roster happen?** After two years and one Aegis, TORONTOTOKYO finally left Spirit after last TI ended. In December, it was announced that a young gun by the name of Larl would be Toronto's replacement. Larl wasn't a complete nobody, he was on the 2022 BetBoom roster that got top 8 at the Stockholm Major and... got last at TI11. Yeah okay he was kind of a nobody. But Spirit saw promise in him and stuck with this roster for the entire season. It paid off.
 
-**How was their DPC year?** 1020 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -147,7 +147,7 @@ This happened last year when they won Arlington and it's happening again with a 
 
 **How did this roster happen?** Ame unretired
 
-**How was their DPC year?** 1284 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -200,7 +200,7 @@ Needless to say, a lot of responsibility.
 
 **How did this roster happen?** idk lol
 
-**How was their DPC year?** 1660 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -256,7 +256,7 @@ Sure, Topson already played a few matches with the Tundra boys during September'
 
 **How did this roster happen?** zai "retired" (he's currently managing Tundra, whatever that means). 33 came from tundra to replace him as captain and offlane
 
-**How was their DPC year?** 2150 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -326,7 +326,7 @@ Nope. It was
 
 **How did this roster happen?** NOTHING CHANGED
 
-**How was their DPC year?** 2140 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -395,7 +395,7 @@ Also, I unironically believe a large number of Redditors may just straight up ki
 
 **How did this roster happen?** Pure was still on the roster until after KL when they got miero
 
-**How was their DPC year?** 760 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -467,7 +467,7 @@ Good times.
 
 **How did this roster happen?** After TI11, Pure left the roster and watson came in from HellRaisers. Following Tour 3, Tobi was kicked and they randomly got Gabbi, a *Southeast Asian carry player*, to play offlane. Not entirely sure what the story was there.
 
-**How was their DPC year?** 208 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -522,7 +522,7 @@ Then I guess they just hate ESL or something? Those are some rough EPT performan
 
 **How did this roster happen?** they replaced nine with 9class
 
-**How was their DPC year?** 1660 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -577,7 +577,7 @@ Sure, Topson already played a few matches with the Tundra boys during September'
 
 Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
 
-**How was their DPC year?** 1496 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -632,7 +632,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 
 Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
 
-**How was their DPC year?** 1496 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -688,7 +688,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 
 Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
 
-**How was their DPC year?** 1496 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -745,7 +745,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 
 Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
 
-**How was their DPC year?** 1496 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -800,7 +800,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 
 Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
 
-**How was their DPC year?** 1496 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -855,7 +855,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 
 Pour one out for Husky, though. Brother had been 5 position with Gunnar on 4 Zoomers/nouns since *August 2020* and got kicked right after the Bali Major ended. They didn't even kick him for a support player. Yamsun just straight up changed roles to make space for K1.
 
-**How was their DPC year?** 464 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -919,7 +919,7 @@ Nope. Not anymore. At the beginning of this season, EG very unceremoniously (and
 
 As they shed their NA skin, Evil Geniuses formed a South American superteam out of last year's Thunder Awaken and beastcoast rosters. Pakazs, Matthew, and Panda came from Thunder. Chris Luck and Wisper came from beastcoast.
 
-**How was their DPC year?** 1470 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
@@ -978,7 +978,7 @@ For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerse
 
 K1 Hector was also beastcoast's carry since 2019, but he departed before the Bali Major citing [health issues](https://twitter.com/beastcoast/status/1661500603338485762) and Parker took his spot.
 
-**How was their DPC year?** 1040 points
+**How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
