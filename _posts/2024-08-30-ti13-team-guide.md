@@ -506,7 +506,7 @@ Then I guess they just hate ESL or something? Those are some rough EPT performan
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/tundra.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Tundra Esports</h2>
+<h2 style="margin: 0.25em 0;">Tundra Esports - <i>Western Europe #2</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Pure~</td>
@@ -559,7 +559,7 @@ Sure, Topson already played a few matches with the Tundra boys during September'
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/9pandas.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">1w</h2>
+<h2 style="margin: 0.25em 0;">1w - <i>Eastern Europe</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Munkushi~</td>
@@ -614,7 +614,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/lgd.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Zero</h2>
+<h2 style="margin: 0.25em 0;">Team Zero - <i>China #1</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Erika (poyoyo)</td>
@@ -669,7 +669,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/lgd.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">G2 x iG</h2>
+<h2 style="margin: 0.25em 0;">G2 x iG - <i>China #2</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Monet</td>
@@ -679,7 +679,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
     <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">xNova</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">super</td>
-    <td><i style="font-size: smaller;">Asst. Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">@dogf1ghts</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">@dogf1ghts</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -727,7 +727,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/talon.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Talon Esports</h2>
+<h2 style="margin: 0.25em 0;">Talon Esports - <i>Southeast Asia #1</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Akashi</td>
@@ -752,12 +752,11 @@ Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa 
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>DreamLeague S22</td><td>15-16th</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td class="top6"><b>5-6th</b></td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>N/A</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>9-10th</b></td></tr>
   <tr><td>DreamLeague S23</td><td>N/A</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td><b>19-20th</b></td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td><b>N/A</b></td></tr>
   </tbody></table>
   </div>
 
@@ -766,11 +765,10 @@ Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa 
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
-  <tr><td>Elite League S1</td><td>7-8th</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td class="fourth"><b>4th</b></td></tr>
+  <tr><td>Elite League S1</td><td>17-19th</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>N/A</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>Clavision: Snow Ruyi</td><td>5-6th</td></tr>
-  <tr><td>FISSURE Universe 3</td><td>7-8th</td></tr>
+  <tr><td>Clavision: Snow Ruyi</td><td>7-8th</td></tr>
   </tbody></table>
   </div>
 </div>
@@ -783,580 +781,72 @@ This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetB
 For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/eg.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Evil Geniuses</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Pakazs</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Chris Luck</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-bo" title="Bolivia" alt="Bolivia">Wisper</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Matthew</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Panda</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Vintage</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">kaffs</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** *Whoa now, tsunami. Don't mean to tell ya yer business, but it seems to me like there's been a bit of a misunderstandin'. This here ain't EG. This some kinda... what sorta woke flags are these... this some kinda South American team? Now boy, you know that ain't right. EG's a North American org, yes sir! Always has been. North American pride and joy right there!*
-
-Nope. Not anymore. At the beginning of this season, EG very unceremoniously (and then got cyberbullied into ceremoniously) dropped their North American roster after spending **11 years** in the region. The phrase "end of an era" gets thrown around a lot in esports, but like... every TI since TI2 with a North American EG? Wild.
-
-As they shed their NA skin, Evil Geniuses formed a South American superteam out of last year's Thunder Awaken and beastcoast rosters. Pakazs, Matthew, and Panda came from Thunder. Chris Luck and Wisper came from beastcoast.
-
-**How was their DPC year?** 1470 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>SA DPC Tour 1</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>SA DPC Tour 2</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="fourth"><b>4th</b></td></tr>
-  <tr><td>SA DPC Tour 3</td><td>1st 🥇</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>17-18th</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>7th</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>6th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>9-12th</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-When you saw the **Lima** Major you just knew things had to be hype for South America. Peru is the strongest it's ever been and they finally had a LAN on home soil. Alas, EG was only able to scrape a top 6 finish. Amusingly, they got eliminated by ex-Evil Geniuses Arteezy and the gang.
-
-They maintained their momentum into a 4<sup>th</sup> place finish at the Berlin Major. That's the most significant placement a South American team has gotten at a Valve Major since paiN Gaming's 3rd place finish at ESL One Birmingham 2018. Though, Birmingham's [tournament format](https://liquipedia.net/dota2/ESL_One/Birmingham/2018) was on crack, so let's just gloss over it and go with Berlin being the new South American bar to beat.
-
-Let's also gloss over the last third of the season because... oof.
-
-**What would success look like?** I've never seen a team where you can so clearly interpret how well they're going to do on any given day just by looking at their faces. I'm serious. Watch the VoDs on their elimination days. You'd think they were being forced to walk out on stage to play Dota at gunpoint.
-
-For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerseys being dug out of closets and dusted off with wives asking, "Why do you still have this? And who is Universe?" Will these vintage EG fans be rooting for this team? Probably not, but don't tell the players that. Big smiles, EG boys. Big Chris Smiles.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/lgd.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Zero</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Erika (poyoyo)</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">7e</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Beyond</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-sg" title="Singapore" alt="Singapore">ponlo</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">zzq</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">bLink</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** There were kinda two retirement tours on display at last year's TI. Matu's was the "I'M OUTTA HERE BITCHES" vibe and Ame's had more of a "Your father doesn't want anyone to make a fuss" energy. Nothing was ever formally announced, but everyone suspected it, and his absence this year confirmed it. LGD ended up filling Ame's carry shoes surprisingly well with young EHOME talent, shiro.
-
-Faith_bian also retired and finding a replacement offlaner was... ugh, you know, years ago I would've looked up some deep elaborate Chinese idiomatic lore phrase to drop here, but I'm a busy man these days. I'm just gonna hit you with the <abbr title="If one of you comment 'You should use DeepL 🤓' I swear...">Google Translate</abbr>. Finding a replacement offlaner was a total 节目充满狗屎. Yeah. I'm sure that means what I want it to.
-
-Tour 1's offlaner was 项羽/xiàng yǔ, Lima Major was old eLeVeN, Tour 2 and Berlin Major they had zeal, and Tour 3 onwards has been niu.
-
-Also, before you ask: Yes, Ame's was *kind of* the classic "Chinese retirement" because he literally just won the [2022 Asian Games](https://liquipedia.net/dota2/Asian_Games/2022) with Team China despite not playing competitively since last TI.
-
-***NOTE TO SELF** - IT'S JUST LGD NOW. NOT PSG.LGD. DON'T CALL THEM PSG.LGD ANYMORE. CALL THEM HONKAI.STAR.RAIL.LGD IF YOU HAVE TO.*
-
-**How was their DPC year?** 1284 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>CN DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>9-12th</b></td></tr>
-  <tr><td>CN DPC Tour 2</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>9-12th</b></td></tr>
-  <tr><td>CN DPC Tour 3</td><td>1st 🥇</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="top6"><b>5-6th</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>9-12th</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-China has been in shambles this entire year. Tour 1 was fraught with many match fixing suspicions which boiled over in a massive ban wave after Lima. LGD quietly kept their head down the whole time, but perhaps went a bit too far down because they themselves didn't really have any notable results this season.
-
-**What would success look like?** Throw a dart at a board of all TIs ever. Odds are you'll hit one where LGD were considered favorites to win the whole thing. This year? Definitely not. Regardless, with LGD being the crown jewel of Chinese Dota, a great deal will always hang in the balance of this team's performance.
-
-Needless to say, a lot of responsibility.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/shopify.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Shopify Rebellion</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Arteezy</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Abed</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cz" title="Czechia" alt="Czechia">SabeRLight-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cr1t-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">Fly</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">BuLba</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** You already know how this roster happened. Well, most of the roster anyway. After TI11, Nightfall got replaced by Saberlight from TSM. Great you're all caught up.
-
-The *organization*, on the other hand. How did that happen? I mean, it's not like some multibillion-dollar company's just gonna randomly decide to start investing in esports while the bubble is popping and sponsor a bunch of superstars recently dropped by their org who are playing in one of the most expensive yet competitively starved regions in *Dota 2* of all games.
-
-But that's exactly what happened.
-
-<p class="center"><img style="width: 660px;" title="Because cliffs" src="./../img/ti12teams/shopify_saves.jpg"></p>
-
-**How was their DPC year?** 1170 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>NA DPC Tour 1</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="fourth"><b>4th</b></td></tr>
-  <tr><td>NA DPC Tour 2</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>9-12th</b></td></tr>
-  <tr><td>NA DPC Tour 3</td><td>1st 🥇</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>9-12th</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>3rd 🥉*</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>11-12th*</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>15-16th</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-Hopes were high after their Lima Major 4<sup>th</sup> place finish, but the shine dulled pretty quickly. Abed also had visa issues getting to Europe which led to Iranian player Mikey standing in for DLS19 and MIRACLE <img class="batchest" title="OMG MIRACLE" style="height: 32px" src="./../img/ti12teams/batchest.png"> standing in for DLS20.
-
-They did recently reach grand finals at DLS21 in September, but it's the LAN results that continue to elude them.
-
-**What would success look like?** How funny would it be if Arteezy’s first Valve Major win is the TI with the lowest prize pool since he started competing ten years ago.
-
-<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/talon.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Talon Esports</h2>
+<h2 style="margin: 0.25em 0;">Aurora - <i>Southeast Asia #2</i></h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">23savage</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Mikoto</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">23</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">lorenof</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">Jabz</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">Q</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Oli~</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Oli</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">SunBhie</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** 23, Mikoto, and Q were on the TI11 Talon. Oli left iG and finally returned to his home region and Jabz left Fnatic with SunBhie in tow.
+**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the HellRaisers tag with Daxak, kiyotaka (formerly depressed kid) (as in, that was his name), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak, so Yuragi stood in for him at the Lima Major despite very much still being on OG.
 
-**How was their DPC year?** 1120 points
+Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
+
+**How was their DPC year?** 1496 points
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>SEA DPC Tour 1</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Lima Major</b></td><td class="third"><b>3rd 🥉</b></td></tr>
-  <tr><td>SEA DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td class="top8"><b>7-8th</b></td></tr>
-  <tr><td>SEA DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>8th</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>7-8th</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td><b>9th-12th</b></td></tr>
   </tbody></table>
   </div>
 
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>9-12th</b></td></tr>
+  <tr><td>Elite League S1</td><td>9-10th</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td class="top8"><b>7-8th</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>11-12th</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>4th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="third"><b>3rd 🥉</b></td></tr>
   </tbody></table>
   </div>
 </div>
 <br>
 
-Lima Major was a hot start for Talon and they left Peru with a bronze medal after losing to Liquid twice in bracket. Once in uppers, and again when Jabbz proved superior to Jabz in lowers. In Berlin, they fell to EG during their miracle run and that somehow spiraled into a 4<sup>th</sup> place finish during Tour 3 which meant they'd miss the Bali major in their home region.
+This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetBoom, and Team Spirit. Each of them took a turn topping their regional league, but Pandas had the highest DPC LAN finish at the Berlin Major despite Rodjer standing in for Solo.
 
-Talon spent their time off constructively and came back on LAN at Riyadh with a vengeance. Unfortunately, they get bounced twice by Team Liquid *again* and got 3<sup>rd</sup> *again*.
+**What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. I would know. I put them into my Compendium predictions to win it literally every time. Then that old VP would proceed to consistently drop the ball at TI7. And TI8. And TI9.
 
-**What would success look like?** China's been in shambles this year, but SEA's been in shambles for like the past 4 years. Last TI was catastrophic, but Talon's got a good head on their shoulders. No visa issues. Mikoto won MVP at Riyadh. Jabz's captainship seems stronger than ever.
-
-They're just a real bunch of stand up guys.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/beastcoast.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">beastcoast</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Parker</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">DarkMago</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Sacred</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Scofield</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Stinger</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ar" title="Argentina" alt="Argentina">Mariano (Papita)</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ve" title="Venezuela" alt="Venezuela">Raykill</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Valqui</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** The community largely considered Evil Geniuses to have benefitted the most from the post-TI11 SA shuffle which left beastcoast to pick up the fragmented pieces. Scofield and Stinger have been beastcoast since 2019, but DarkMago and Sacred came from Thunder Awaken.
-
-K1 Hector was also beastcoast's carry since 2019, but he departed before the Bali Major citing [health issues](https://twitter.com/beastcoast/status/1661500603338485762) and Parker took his spot.
-
-**How was their DPC year?** 1040 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>SA DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>9-12th</b></td></tr>
-  <tr><td>SA DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>13-14th</b></td></tr>
-  <tr><td>SA DPC Tour 3</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="top8"><b>7-8th</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>6th</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>9-10th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>17-20th</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-It's been a quiet season for the boys in aquamarine. For every superteam, there must be a... civilianteam? Let's just say the EG roster shuffle results were not very kind to them and having to change K1 at the end of the season probably didn't help. Their TI invitation chances were in jeopardy near the end of the season, but Shopify Rebellion did them a solid and lost in first round of Bali's lower bracket to get beastcoast 300 points with top 8.
-
-**What would success look like?** A Climate Pledge arena filled to the brim with Crest plushies.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/tsm.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">TSM</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Timado</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Bryle</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">kasane</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-gb" title="United Kingdom" alt="United Kingdom">Ari</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Whitemon</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">MoonMeander</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** A couple of pieces changed since last TI. Saberlight went to Shopify Rebellion and relatively unknown commodity kasane became TSM's offlaner. MoonMeander finally got to step down from active play and found Ari, a former #1 ranked Heroes of the Storm player, to take his place. Lastly, DuBu went back to SEA and was replaced by Whitemon from T1.
-
-**How was their DPC year?** 900 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>NA DPC Tour 1</td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>13-14th</b></td></tr>
-  <tr><td>NA DPC Tour 2</td><td>1st 🥇</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>17-18th</b></td></tr>
-  <tr><td>NA DPC Tour 3</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>8th</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>13-14th</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>13-14th</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-As per usual, NA was mostly a two-horse race throughout the year with TSM and Shopify. Then this horse got turned into glue whenever it was Major time. On top of that, TSM has a tendency to fall asleep at the wheel towards the end of each season. Last year they missed Arlington, this year they missed Bali.
-
-For what it's worth, they *did* make it to grand finals of the BetBoom Dacha LAN event in September but lost to, you guessed it: Gaimin Gladiators.
-
-**What would success look like?** Ari's the first British player to ever compete at a Valve Major. So if they make it to Climate Pledge Arena? *USA! USA! USA! USA!*
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/quest.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">PSG Quest - <i>Western Europe #2</i></h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">TA2000 (Naive-)</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-lb" title="Lebanon" alt="Lebanon">No!ob</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-at" title="Austria" alt="Austria">Tobi</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-lb" title="Lebanon" alt="Lebanon">OmaR</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">kaori</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Daxak</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** Formerly known as Ooredoo Thunders, a.k.a. "The Oreoes," this team grinded their way up from Div 2 into becoming *the next big thing.*
-
-Noob and Omar are relative newcomers to the competitive scene, but were formerly on the Coolguys roster together that competed in WEU Div 1 Tour 1 in 2022. TA2000 and kaori have been around for a few years, but always on EEU rosters. This is their first WEU team.
-
-And the offla- DUDE I AM GETTING SICK of telling offlane stories. When did this become the most volatile role? Offlaners used to be so stable! It was the *midlaners* that would get passed around like holographic Pokémon cards at recess. Whatever, rant over. Tour 1 and 2 they had Wuiter. Starting Tour 3 they had ATF and it looked like a great fit, but due to [contract disputes](https://twitter.com/AmmarAlassaf6/status/1680210587937124355) he didn't continue with the team. They brought in Malik to stand in during Riyadh Masters before ultimately getting Tobi from Entity for their TI qualifying roster.
-
-Can you imagine the psychological toll of playing with 4 different offlaners in 1 year? Snip, snap, snip, snap.
-
-***NOTE TO SELF** - NOW THIS TEAM HAS THE PSG. PSG QUEST. GREAT! ANOTHER TEAM THAT USED TO HAVE A UNIQUE COLOR IS NOW JUST BLUE NOW. I'M NOT CHANGING THEIR BANNER, I REFUSE.*
-
-**How was their DPC year?** 545 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>WEU DPC Tour 1 - <i>Div 2</i></td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>WEU DPC Tour 2</td><td>5th</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>WEU DPC Tour 3</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="fourth"><b>4th</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>N/A</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td class="top8"><b>7-8th</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-Most of the year was covered in the roster explanation, so I'll just gush about how exciting it's been to watch Quest's journey this season. After smashing their way through Tour 1 Div 2, they came into Tour 2 as an immediate threat and nearly qualified to the Major *in their inaugural tour*. This region's already cutthroat enough as it is. Notice how you don't see Secret, OG, or Nigma anywhere on this page?
-
-By the time Tour 3 ended, most teams were beginning to statistically lock their chances of directly qualifying to TI through points, but the last 3-4 slots were still up in the air. Were Quest able to *win* the Bali Major, they would've just barely gotten enough points to sneak a direct TI invite. Believe it or not, that was a fairly realistic proposition, but their bracket run was cut short after losing to Gaimin and Liquid.
-
-They would be tested one last time after making it to Riyadh Masters through a dedicated MENA region qualifier and fought their way to top 8. In a different timeline their run went even further, but their elimination series against Gaimin was plagued with technical issues and they lost.
-
-**What would success look like?** Now that I've gassed them up: Realistically, making it past *The Road* and into *The International* final weekend will be an incredible achievement. True success will likely come for these players in the next few years.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/vp.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Virtus.pro - <i>Eastern Europe</i></h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Kiritych~</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">squad1x</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Noticed</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">sayuw</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">Fng</td> 
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">G</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** The 2, 3, and 4 positions have been the same since Tour 1, but krylat and Dukalis got replaced by Kiritych and Fng respectively starting Tour 2.
-
-**How was their DPC year?** 218 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>EEU DPC Tour 1</td><td>4th</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>EEU DPC Tour 2</td><td>4th</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>EEU DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
-  </tbody></table>
-  </div>
-
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>N/A</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>N/A</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>17-20th</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-You know how I said EEU was like a rock paper scissors game this year? VP was out here playing clarinet.
-
-Does that mean that these guys were just being gatekept and are secretly goated with the sauce? No, probably not. They showed up to Riyadh and my first reaction was, "What's Fng doing here. Is he on the panel?"
-
-Honestly, he probably could've shown up on the panel afterwards because they got absolutely blown to smithereens.
-
-**What would success look like?** Not really sure. We've haven't had a TI with 3 EEU teams since TI5, forget about 4. That TI also only had 2 WEU teams with Secret and Cloud9. And North America won that TI.
-
-What the hell was going on in 2015?
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/keyd.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Keyd Stars - <i>South America #1</i></h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Costabile</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">4nalog</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">fcr</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Kingrd</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">KJ</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">DFlash</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** This full Brazilian squad started out with 4dr mid and tavo offlane for most of the year. After dropping out of Div 1 in Tour 2, 4nalog and fcr were brought on to play from Tour 3 onwards.
-
-**How was their DPC year?** 38 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>SA DPC Tour 1</td><td>4th</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>SA DPC Tour 2</td><td>7th</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>SA DPC Tour 3 - <i>Div 2</i></td><td>1st 🥇</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-Wait, *South America #1 Qualifier*? What do you mean *#1*? I mean that besides the two SA teams that already made it to TI on points, EG and beastcoast, two *more* slots were allocated to the region for TI qualifiers. Now bear in mind, Valve determined these extra slot allocations *before* the Bali Major happened. At that moment, SA was consistently doing pretty well given the fact that they only ever to send 2 teams to each major.
-
-**What would success look like?** To refresh your memory: TI7 was the very first TI to feature a South American team (Infamous). TI8 had the mostly Brazilian paiN Gaming to represent the region. And ever since then, it's pretty much always been the Peru show on LAN. The last time a Brazilian team made it to a Valve Major was Costabile and KJ's SG esports at TI10 that got eliminated in groups.
-
-4nalog managed to make it out of groups last year on Hokori, but it's waaaay harder with this year's format.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/thunder.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Thunder Awaken - <i>South America #2</i></h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">Knight~</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">SLATEM$</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">ILICH-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">n1ght</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Mjz</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">NaoG</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** After EG and beastcoast ripped at the flesh of the TI11 Thunder Awaken roster, this carrion was left to reassemble itself from scratch. Knight and ILICH were Thunder from the beginning of this year. SLATEM and Mjz jumped from Infamous to this roster starting Tour 2 and n1ght replaced the Bolivian 4 position Michael starting Tour 3.
-
-**How was their DPC year?** 343 points
-
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td>SA DPC Tour 1</td><td>5th</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>SA DPC Tour 2</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>SA DPC Tour 3</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
-  </tbody></table>
-  </div>
-</div>
-<br>
-
-Thunder was actually fairly close to qualifying to Berlin and Bali, but if you can't beat EG *or* beastcoast, it'll never happen. One must wonder that if SA had three slots per major, *would* this team do well against international opponents? Time to find out.
-
-**What would success look like?** Forget about TI, success will mainly be determined based on the health of the South American scene in a DPC-less world. No one knows how invitations or qualifiers or points or majors or anything is going to look like next year, but performing well at TI is probably your best shot at making tournament organizers look in your direction.
+For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/nouns.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">nouns - <i>North America</i></h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">K1</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ni" title="Nicaragua" alt="Nicaragua">Yuma</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Copy</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Gunnar</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Moo</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Lelis</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Yamsun</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">Fly</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Astini</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ba" title="Bosnia and Herzegovina" alt="Bosnia and Herzegovina">MiLAN</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -1370,27 +860,27 @@ Pour one out for Husky, though. Brother had been 5 position with Gunnar on 4 Zoo
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>NA DPC Tour 1</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>NA DPC Tour 2</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>NA DPC Tour 3</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>15-16th</b></td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>N/A</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td><b>17-18th</b></td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   </tbody></table>
   </div>
 
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Event</th><th class="result">Result</th></tr></thead>
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>9-12th</b></td></tr>
+  <tr><td>Elite League S1</td><td>20-22nd</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>12-14th</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S19</td><td>15-16th</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>DreamLeague S20</td><td>N/A</td></tr>
-  <tr><td><b>Riyadh Masters 2023</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>Elite League S2</b></td><td class="top6"><b>5-6th</b></td></tr>
+  <tr><td>FISSURE Universe 3</td><td>5-6th</td></tr>
   </tbody></table>
   </div>
 </div>
@@ -1407,96 +897,119 @@ Hmm.
 *I SAID GO!*
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/azure.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Azure Ray - <i>China</i></h2>
+<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/eg.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">HEROIC - <i>South America #1</i></h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Lou</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Somnus</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">chalice</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">fy</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">天命 (tiān mìng)</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">K1</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">4nalog</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-be" title="Belgium" alt="Belgium">Davai Lama</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Scofield</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">KJ</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">LaNm</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">kaffs</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ro" title="Romania" alt="Romania">Mangusu</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Lou, 天命, and some mostly unknown up-and-coming Chinese players were quietly doing thing their under "Ybb Gaming" tag for most of the year. Then all of a sudden, Tour 3, the fuckin' China Avengers assembled and this team became Azure Ray.
+**How did this roster happen?** *Whoa now, tsunami. Don't mean to tell ya yer business, but it seems to me like there's been a bit of a misunderstandin'. This here ain't EG. This some kinda... what sorta woke flags are these... this some kinda South American team? Now boy, you know that ain't right. EG's a North American org, yes sir! Always has been. North American pride and joy right there!*
 
-Fy was still actively playing on Vici before joining, but what were Somnus and Chalice doing since their time on RNG last TI? Nothing! Lazy writing just deus ex machina'ing them back into the season if you ask me.
+Nope. Not anymore. At the beginning of this season, EG very unceremoniously (and then got cyberbullied into ceremoniously) dropped their North American roster after spending **11 years** in the region. The phrase "end of an era" gets thrown around a lot in esports, but like... every TI since TI2 with a North American EG? Wild.
 
-**How was their DPC year?** 400 points
+As they shed their NA skin, Evil Geniuses formed a South American superteam out of last year's Thunder Awaken and beastcoast rosters. Pakazs, Matthew, and Panda came from Thunder. Chris Luck and Wisper came from beastcoast.
+
+**How was their DPC year?** 1470 points
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>CN DPC Tour 1 - <i>Div 2</i></td><td>1st 🥇</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>CN DPC Tour 2</td><td>6th</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>CN DPC Tour 3</td><td>4th</td></tr>
-  <tr><td><b>Bali Major</b></td><td class="top8"><b>7-8th</b></td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>13-14th</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td class="top8"><b>7-8th</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>7-8th</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td><b>13-14th</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
+  <tr><td>Elite League S1</td><td>15-16th</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>15-16th</b></td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td><b>Elite League S2</b></td><td><b>9-11th</b></td></tr>
   </tbody></table>
   </div>
 </div>
 <br>
 
-Most of the year was irrelevant, but they did get a top 8 finish at Bali. Bear in mind, however, they got that top 8 by beating one opponent in bracket: BetBoom. Was that *after* BetBoom...? Yep.
+When you saw the **Lima** Major you just knew things had to be hype for South America. Peru is the strongest it's ever been and they finally had a LAN on home soil. Alas, EG was only able to scrape a top 6 finish. Amusingly, they got eliminated by ex-Evil Geniuses Arteezy and the gang.
 
-**What would success look like?** Only two Chinese teams are attending this TI. LGD and Azure Ray. Last year was already surprising with only LGD, Aster, and RNG. But only *two* Chinese teams? Never thought I'd see the day.
+They maintained their momentum into a 4<sup>th</sup> place finish at the Berlin Major. That's the most significant placement a South American team has gotten at a Valve Major since paiN Gaming's 3rd place finish at ESL One Birmingham 2018. Though, Birmingham's [tournament format](https://liquipedia.net/dota2/ESL_One/Birmingham/2018) was on crack, so let's just gloss over it and go with Berlin being the new South American bar to beat.
 
-Lot of question marks in the air on the future state of the Chinese scene. Is most of the matchfixing resolved? Are new talent joining the competitive scene? Will we ever have international LANs there again? 
+Let's also gloss over the last third of the season because... oof.
+
+**What would success look like?** I've never seen a team where you can so clearly interpret how well they're going to do on any given day just by looking at their faces. I'm serious. Watch the VoDs on their elimination days. You'd think they were being forced to walk out on stage to play Dota at gunpoint.
+
+For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerseys being dug out of closets and dusted off with wives asking, "Why do you still have this? And who is Universe?" Will these vintage EG fans be rooting for this team? Probably not, but don't tell the players that. Big smiles, EG boys. Big Chris Smiles.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/smg.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team SMG - <i>Southeast Asia</i></h2>
+<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/beastcoast.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">beastcoast - <i>South America #2</i></h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">MidOne</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">No[o]ne-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-bg" title="Bulgaria" alt="Bulgaria">MinD_ContRoL</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">ah fu</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Jaunuel</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">payk</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Lumpy</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Vitaly</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">Elmisho</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">MoOz</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-kr" title="South Korea" alt="South Korea">Heen</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ar" title="Argentina" alt="Argentina">Mariano</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** MidOne's been adamantly attempting to assemble a worthwhile squad as SMG (which stands for *Still Moving under Gunfire*. Yes, actually.) for years now. It will honestly take me seventeen paragraphs to fully explain all the roster changes SMG experienced this season, so I'll just hit you with the essentials: ah fu's been around since last year, Jaunuel came in Tour 3, and Noone randomly showed up during regional quals.
+**How did this roster happen?** The community largely considered Evil Geniuses to have benefitted the most from the post-TI11 SA shuffle which left beastcoast to pick up the fragmented pieces. Scofield and Stinger have been beastcoast since 2019, but DarkMago and Sacred came from Thunder Awaken.
 
-Unfortunately, Masaros ended up being the only player this TI to not secure a visa and Mind_Control was selected to stand in as well as Heen coming in to coach.
+K1 Hector was also beastcoast's carry since 2019, but he departed before the Bali Major citing [health issues](https://twitter.com/beastcoast/status/1661500603338485762) and Parker took his spot.
 
-**How was their DPC year?** 133 points
+**How was their DPC year?** 1040 points
 
 <div class="resultsContainer" style="text-align: center;">
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">DPC Event</th><th class="result">Result</th></tr></thead>
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>SEA DPC Tour 1</td><td>5th</td></tr>
-  <tr><td><b>Lima Major</b></td><td><b>N/A</b></td></tr>
-  <tr><td>SEA DPC Tour 2</td><td>3rd 🥉</td></tr>
-  <tr><td><b>Berlin Major</b></td><td><b>15-16th</b></td></tr>
-  <tr><td>SEA DPC Tour 3</td><td>5th</td></tr>
-  <tr><td><b>Bali Major</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>N/A</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td><b>13-14th</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
+  <tr><td>Elite League S1</td><td>N/A</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>N/A</b></td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td><b>Elite League S2</b></td><td class="top8"><b>7-8th</b></td></tr>
   </tbody></table>
   </div>
 </div>
 <br>
 
-MidOne spent the majority of the year taking a world tour around the Dota map. In Tour 1, 2, and Berlin he was OfflaneOne. Tour 3, he was MidOne. And from regional qualifiers to now, he's CarryOne.
+It's been a quiet season for the boys in aquamarine. For every superteam, there must be a... civilianteam? Let's just say the EG roster shuffle results were not very kind to them and having to change K1 at the end of the season probably didn't help. Their TI invitation chances were in jeopardy near the end of the season, but Shopify Rebellion did them a solid and lost in first round of Bali's lower bracket to get beastcoast 300 points with top 8.
 
-SMG's been under SEA suppressing fire since org's inception in 2021 and Berlin was the first opportunity for them to play at an international LAN. It was not pretty. They only won 4 games out of 16 and 3 of them were against other teams that also got eliminated in groups.
-
-They did dominate SEA TI quals, though, so not all hope is lost.
-
-**What would success look like?** Despite withering away on Nigma Galaxy, Mind_Control gets the zoomies every time he's recruited to stand-in for another team. He subbed in for OG twice this season: Once at Berlin, ending top 6, and once again at DLS21, earning them a top 4 placement. If you wanna go way back into the archives... 2018? He also got a top 4 finish with Ninjas in Pajamas at the Kuala Lumpur Major.
-
-And remind me again, who won TI last time it was in Seattle?
+**What would success look like?** A Climate Pledge arena filled to the brim with Crest plushies.
 
 ----
 
