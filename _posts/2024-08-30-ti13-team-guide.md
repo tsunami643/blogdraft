@@ -568,7 +568,7 @@ Sure, Topson already played a few matches with the Tundra boys during September'
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">swedenstrong</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">RESPECT</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="" title="Russia" alt="Russia">Ahilles</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Ahilles</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -601,6 +601,176 @@ Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa 
   <tr><td><b>PGL Wallachia S1</b></td><td><b>N/A</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td><b>Elite League S2</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetBoom, and Team Spirit. Each of them took a turn topping their regional league, but Pandas had the highest DPC LAN finish at the Berlin Major despite Rodjer standing in for Solo.
+
+**What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. I would know. I put them into my Compendium predictions to win it literally every time. Then that old VP would proceed to consistently drop the ball at TI7. And TI8. And TI9.
+
+For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/lgd.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Team Zero</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Erika (poyoyo)</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">7e</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Beyond</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-sg" title="Singapore" alt="Singapore">ponlo</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">zzq</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">bLink</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the HellRaisers tag with Daxak, kiyotaka (formerly depressed kid) (as in, that was his name), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak, so Yuragi stood in for him at the Lima Major despite very much still being on OG.
+
+Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
+
+**How was their DPC year?** 1496 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>N/A</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td><b>N/A</b></td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
+  <tr><td>Elite League S1</td><td>N/A</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>N/A</b></td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>Clavision: Snow Ruyi</td><td>9-10th</td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetBoom, and Team Spirit. Each of them took a turn topping their regional league, but Pandas had the highest DPC LAN finish at the Berlin Major despite Rodjer standing in for Solo.
+
+**What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. I would know. I put them into my Compendium predictions to win it literally every time. Then that old VP would proceed to consistently drop the ball at TI7. And TI8. And TI9.
+
+For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/lgd.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">G2 x iG</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Monet</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">NothingToSay</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">JT-</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">BoBoKa</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">xNova</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">super</td>
+    <td><i style="font-size: smaller;">Asst. Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">@dogf1ghts</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the HellRaisers tag with Daxak, kiyotaka (formerly depressed kid) (as in, that was his name), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak, so Yuragi stood in for him at the Lima Major despite very much still being on OG.
+
+Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
+
+**How was their DPC year?** 1496 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td class="top6"><b>5-6th</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>15-16th</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td class="top6"><b>5-6th</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td><b>19-20th</b></td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
+  <tr><td>Elite League S1</td><td>7-8th</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td class="fourth"><b>4th</b></td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>Clavision: Snow Ruyi</td><td>5-6th</td></tr>
+  <tr><td>FISSURE Universe 3</td><td>7-8th</td></tr>
+  </tbody></table>
+  </div>
+</div>
+<br>
+
+This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetBoom, and Team Spirit. Each of them took a turn topping their regional league, but Pandas had the highest DPC LAN finish at the Berlin Major despite Rodjer standing in for Solo.
+
+**What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. I would know. I put them into my Compendium predictions to win it literally every time. Then that old VP would proceed to consistently drop the ball at TI7. And TI8. And TI9.
+
+For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../img/ti12teams/talon.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Talon Esports</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Akashi</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Mikoto</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Ws</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Jhocam</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">ponyo</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">pieliedie</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** Starting from EEU Tour 1, this roster formed under the HellRaisers tag with Daxak, kiyotaka (formerly depressed kid) (as in, that was his name), Miero, Antares, and Solo. Apparently there were some... "personality clashes" with Daxak, so Yuragi stood in for him at the Lima Major despite very much still being on OG.
+
+Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa Solo for the very first time since TI9's Virtus.pro.
+
+**How was their DPC year?** 1496 points
+
+<div class="resultsContainer" style="text-align: center;">
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td class="top6"><b>5-6th</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>15-16th</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td class="top6"><b>5-6th</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td><b>19-20th</b></td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  </tbody></table>
+  </div>
+
+  <div style="display: inline-block;">
+  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
+  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
+  <tr><td>Elite League S1</td><td>7-8th</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td class="fourth"><b>4th</b></td></tr>
+  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>Clavision: Snow Ruyi</td><td>5-6th</td></tr>
+  <tr><td>FISSURE Universe 3</td><td>7-8th</td></tr>
   </tbody></table>
   </div>
 </div>
@@ -678,16 +848,16 @@ For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerse
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/lgd.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">LGD Gaming</h2>
+<h2 style="margin: 0.25em 0;">Team Zero</h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">shiro</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">NothingToSay</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">niu</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">planet</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">y`</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Erika (poyoyo)</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">7e</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Beyond</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-sg" title="Singapore" alt="Singapore">ponlo</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">zzq</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">xiao8</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">bLink</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
