@@ -182,6 +182,16 @@ They kinda won KL with 3 of the players on Azure Ray
 
 Needless to say, a lot of responsibility.
 
+<p style="font-size: 23px">DPC BEING GONE
+<br>
+PROS - MORE LAN EVENTS
+<br>
+MORE MONEY
+<br>
+CONS - DIV 2 in shambles
+<br>
+MARKETING SUCKS</p>
+
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti12teams/tundra.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Falcons</h2>
@@ -655,7 +665,7 @@ Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa 
   <tr><td>Elite League S1</td><td>N/A</td></tr>
   <tr><td><b>PGL Wallachia S1</b></td><td><b>N/A</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>Clavision: Snow Ruyi</td><td>9-10th</td></tr>
+  <tr><td><b>Clavision: Snow Ruyi</b></td><td><b>9-10th</b></td></tr>
   </tbody></table>
   </div>
 </div>
@@ -712,7 +722,7 @@ Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa 
   <tr><td>Elite League S1</td><td>7-8th</td></tr>
   <tr><td><b>PGL Wallachia S1</b></td><td class="fourth"><b>4th</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>Clavision: Snow Ruyi</td><td>5-6th</td></tr>
+  <tr><td><b>Clavision: Snow Ruyi</b></td><td class="top6"><b>5-6th</b></td></tr>
   <tr><td>FISSURE Universe 3</td><td>7-8th</td></tr>
   </tbody></table>
   </div>
@@ -768,7 +778,7 @@ Beginning of EEU Tour 2, Ramzes left his Darkside roster and reunited with papa 
   <tr><td>Elite League S1</td><td>17-19th</td></tr>
   <tr><td><b>PGL Wallachia S1</b></td><td><b>N/A</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>Clavision: Snow Ruyi</td><td>7-8th</td></tr>
+  <tr><td><b>Clavision: Snow Ruyi</b></td><td class="top8"><b>7-8th</b></td></tr>
   </tbody></table>
   </div>
 </div>
