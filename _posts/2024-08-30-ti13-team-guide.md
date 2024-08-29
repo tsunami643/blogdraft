@@ -3,7 +3,7 @@ layout: "post"
 title: "The International 2024: A Practical Guide to All 16 Teams"
 date: "2023-10-05 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
-feature-img: "img/ti12teams/ti12header.jpg"
+feature-img: "img/ti13teams/ti13header.jpg"
 flags: true
 ---
 
@@ -465,7 +465,7 @@ Good times.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Was entity for most of the year and also sucked for most of the year. After failing to qual for KL, they swapped reibl with noone. astini joined after elite league s1
+**How did this roster happen?** That's a logo we haven't seen around these parts in quite a while. And before you ask, no, EternaLEnVy hasn't Wolf of Wall Streeted his way back into the Dota scene quite yet. This roster was playing as Entity for most of the year and also sucked for most of the year. After failing to qual for KL, they swapped reibl with noone. astini joined after elite league s1
 
 **How was their season?**
 
