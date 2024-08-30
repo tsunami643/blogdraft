@@ -101,10 +101,10 @@ I know what you're mainly here for.
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>-</b></td></tr>
   <tr><td>DreamLeague S22</td><td>4th</td></tr>
   <tr><td><b>ESL One Birmingham</b></td><td><b>9-10th</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
+  <tr><td>DreamLeague S23</td><td>-</td></tr>
   <tr><td><b>Riyadh Masters 2024</b></td><td class="top8"><b>7-8th</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   </tbody></table>
@@ -125,9 +125,9 @@ I know what you're mainly here for.
 </div>
 <br>
 
-This happened last year when they won Arlington and it's happening again with a win in Riyadh. On top of that they also won DLS21 last month while barely even trying.
+After conquering Seattle last year, they decided to take a little vacation and skip the first big tournament (ESL KL) in December. After that, it was a little bit of everything. During Wallachia, Mira did confess that the team had been struggling with motivation and the effort they put forth for that event paid off with a very exciting five game series triumph over Xtreme. As this season comes to a close, they do seem to be Mode: Grind as they are the only directly invited TI team to compete in *2* tournaments after Riyadh.
 
-**What would success look like?** Spirit went from barely a threat most of the year to rocketing up people's lists to be arguably one of the favorites for this TI. Recency bias and the theory that they only activate when the prize pool is enormous is going to be put to the test in Seattle.
+**What would success look like?** The range of results for Spirit is truly unmatched. One moment they're winning the biggest prize pools in Dota history, the next they're getting 4<sup>th</sup> place in DLS23 online qualifiers after losing to Na\`Vi (no offense to Na\`Vi). When they're on, they're <i>on</i>. And, well, they have won two out of the three TIs they've shown up to...
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/xtreme.jpg" alt="Banner"></p>
@@ -474,10 +474,10 @@ Good times.
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
-  <tr><td>DreamLeague S22</td><td>N/A</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td><b>N/A</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>-</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>-</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>-</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>-</td></tr>
   <tr><td><b>Riyadh Masters 2024</b></td><td><b>9-12th</b></td></tr>
   </tbody></table>
   </div>
@@ -486,9 +486,9 @@ Good times.
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>-</b></td></tr>
   <tr><td>Elite League S1</td><td>11-12th</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>-</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>FISSURE Universe 3</td><td>5-6th</td></tr>
   </tbody></table>
@@ -541,9 +541,9 @@ Then I guess they just hate ESL or something? Those are some rough EPT performan
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>-</b></td></tr>
   <tr><td>Elite League S1</td><td>7-8th</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td><b>N/A*</b></td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>-*</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>FISSURE Universe 3</td><td>3rd 🥉</td></tr>
   </tbody></table>
@@ -582,11 +582,11 @@ Sure, Topson already played a few matches with the Tundra boys during September'
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>-</b></td></tr>
   <tr><td>DreamLeague S22</td><td>15-16th</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td><b>N/A*</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>-*</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>-</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td><b>-</b></td></tr>
   </tbody></table>
   </div>
 
@@ -594,9 +594,9 @@ Sure, Topson already played a few matches with the Tundra boys during September'
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
-  <tr><td>Elite League S1</td><td>N/A</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>-</b></td></tr>
+  <tr><td>Elite League S1</td><td>-</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>-</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td><b>Elite League S2</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   </tbody></table>
@@ -635,11 +635,11 @@ For some, the real success would be beating Gaimin specifically, but I think the
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
-  <tr><td>DreamLeague S22</td><td>N/A</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td><b>N/A</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>-</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>-</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>-</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>-</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td><b>-</b></td></tr>
   </tbody></table>
   </div>
 
@@ -647,9 +647,9 @@ For some, the real success would be beating Gaimin specifically, but I think the
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
-  <tr><td>Elite League S1</td><td>N/A</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>-</b></td></tr>
+  <tr><td>Elite League S1</td><td>-</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>-</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td><b>Clavision: Snow Ruyi</b></td><td><b>9-10th</b></td></tr>
   </tbody></table>
@@ -692,7 +692,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
   <tr><td><b>ESL One Kuala Lumpur</b></td><td class="top6"><b>5-6th</b></td></tr>
   <tr><td>DreamLeague S22</td><td>15-16th</td></tr>
   <tr><td><b>ESL One Birmingham</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
+  <tr><td>DreamLeague S23</td><td>-</td></tr>
   <tr><td><b>Riyadh Masters 2024</b></td><td><b>19-20th</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   </tbody></table>
@@ -702,7 +702,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>-</b></td></tr>
   <tr><td>Elite League S1</td><td>7-8th</td></tr>
   <tr><td><b>PGL Wallachia S1</b></td><td class="fourth"><b>4th</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
@@ -744,11 +744,11 @@ For some, the real success would be beating Gaimin specifically, but I think the
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
-  <tr><td>DreamLeague S22</td><td>N/A</td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>-</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>-</td></tr>
   <tr><td><b>ESL One Birmingham</b></td><td><b>9-10th</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td><b>N/A</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>-</td></tr>
+  <tr><td><b>Riyadh Masters 2024</b></td><td><b>-</b></td></tr>
   </tbody></table>
   </div>
 
@@ -756,9 +756,9 @@ For some, the real success would be beating Gaimin specifically, but I think the
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>-</b></td></tr>
   <tr><td>Elite League S1</td><td>17-19th</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>-</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td><b>Clavision: Snow Ruyi</b></td><td class="top8"><b>7-8th</b></td></tr>
   </tbody></table>
@@ -797,9 +797,9 @@ For some, the real success would be beating Gaimin specifically, but I think the
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>-</b></td></tr>
   <tr><td>DreamLeague S22</td><td>8th</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>-</b></td></tr>
   <tr><td>DreamLeague S23</td><td>7-8th</td></tr>
   <tr><td><b>Riyadh Masters 2024</b></td><td><b>9th-12th</b></td></tr>
   </tbody></table>
@@ -850,10 +850,10 @@ For some, the real success would be beating Gaimin specifically, but I think the
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
-  <tr><td>DreamLeague S22</td><td>N/A</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td><b>N/A</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>-</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>-</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>-</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>-</td></tr>
   <tr><td><b>Riyadh Masters 2024</b></td><td><b>17-18th</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   </tbody></table>
@@ -910,7 +910,7 @@ Hmm.
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>-</b></td></tr>
   <tr><td>DreamLeague S22</td><td>13-14th</td></tr>
   <tr><td><b>ESL One Birmingham</b></td><td class="top8"><b>7-8th</b></td></tr>
   <tr><td>DreamLeague S23</td><td>7-8th</td></tr>
@@ -922,7 +922,7 @@ Hmm.
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>-</b></td></tr>
   <tr><td>Elite League S1</td><td>15-16th</td></tr>
   <tr><td><b>PGL Wallachia S1</b></td><td><b>15-16th</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
@@ -967,10 +967,10 @@ For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerse
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>N/A</b></td></tr>
-  <tr><td>DreamLeague S22</td><td>N/A</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td><b>N/A</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>N/A</td></tr>
+  <tr><td><b>ESL One Kuala Lumpur</b></td><td><b>-</b></td></tr>
+  <tr><td>DreamLeague S22</td><td>-</td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td><b>-</b></td></tr>
+  <tr><td>DreamLeague S23</td><td>-</td></tr>
   <tr><td><b>Riyadh Masters 2024</b></td><td><b>13-14th</b></td></tr>
   </tbody></table>
   </div>
@@ -979,9 +979,9 @@ For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerse
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
   <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>N/A</b></td></tr>
-  <tr><td>Elite League S1</td><td>N/A</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td><b>N/A</b></td></tr>
+  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>-</b></td></tr>
+  <tr><td>Elite League S1</td><td>-</td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>-</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td><b>Elite League S2</b></td><td class="top8"><b>7-8th</b></td></tr>
   </tbody></table>
