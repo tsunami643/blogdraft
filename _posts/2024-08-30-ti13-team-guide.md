@@ -819,11 +819,11 @@ For some, the real success would be beating Gaimin specifically, but I think the
 </div>
 <br>
 
-This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetBoom, and Team Spirit. Each of them took a turn topping their regional league, but Pandas had the highest DPC LAN finish at the Berlin Major despite Rodjer standing in for Solo.
+They did attempt to qualify for FISSURE Universe 3, but were eliminated in play-ins after getting 2-0'd by 1w and nouns.
 
-**What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. I would know. I put them into my Compendium predictions to win it literally every time. Then that old VP would proceed to consistently drop the ball at TI7. And TI8. And TI9.
+**What would success look like?** Every year I bemoan the state of SEA Dota and every year that feeling is mostly affirmed at TI. Although, last year, I actually had some real hope for these guys on Talon after they got 3<sup>rd</sup> at both the Lima Major (lost to Liquid twice in bracket) and Riyadh Masters 2023 (lost to Liquid twice in bracket). Unfortunately, they ended up getting 9-12th at that TI (lost to Liquid once in bracket).
 
-For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
+So, hey, maybe if they don't have to play Liquid theeeen...
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/nouns.jpg" alt="Banner"></p>
@@ -841,7 +841,9 @@ For some, the real success would be beating Gaimin specifically, but I think the
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** after getting top 8 at ti last year, gunnar moved to offlane and stormstormer was brought in for mid. Shopify fell apart after TI and fly came in to replace yamsun. Yuma replaced K1 after he went to HEROIC. After an underwhelming Dacha Dubai result stormstormer was replaced with another german, copy. Milan joined later.
+**How did this roster happen?** Speaking of bemoaning regions of Dota, check out the <i>ONE</i> team representing North America at this TI. That's right. Every other region has at least two or more teams showing up in Copenhagen. But North America? THERE'S A REASON OUR COUNTRY CODE IS +1 BAYBEEE.
+
+But I digress. How did this roster happen? After getting top 8 at TI last year, gunnar moved to offlane and stormstormer was brought in for mid. Shopify fell apart after TI and fly came in to replace yamsun. Yuma replaced K1 after he went to HEROIC. After an underwhelming Dacha Dubai result stormstormer was replaced with another german, copy. Milan joined later.
 
 **How was their season?**
 
@@ -880,9 +882,11 @@ To be fair, these were pre-K<sub>1</sub> versions of nouns. After dominating NA 
 
 Hmm.
 
-**What would success look like?** As a North American, I hate myself for saying this, but success is probably Gunnar finding a nice Western European forever team to adopt him next year. Sneyking did it, Quinn did it, Kitrak kinda did it. It... it may be time... n-no don't look at me like that. It's hard enough as it is. Go.
+And yes, this does mean that there is no Arteezy at this TI. His attendance streak from TI4 has finally been broken. Had he qualified, he'd have the most TI attendances of any player after Fly and Puppey.
 
-*I SAID GO!*
+**What would success look like?** Honestly, them getting top 8 last year *was* a success in my book. Their LAN results last year were equally as middling, so I could see it happening again.
+
+Not gonna lie, though, it would be really cool to see the most veteran player at the event lift the Aegis. And I'm not just talking about TI appearances, Fly is also the oldest player competing at this TI at 31.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/heroic.jpg" alt="Banner"></p>
