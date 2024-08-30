@@ -1,8 +1,8 @@
 ﻿---
 layout: "post"
 title: "The International 2024: A Practical Guide to All 16 Teams"
-date: "2024-09-02 11:45"
-summary:    The bare minimum information you need to know before talking to a Dota player this September.
+date: "2023-10-05 11:45"
+summary:    The bare minimum information you need to know before talking to a Dota player this October.
 feature-img: "img/ti13teams/ti13header.jpg"
 flags: true
 ---
