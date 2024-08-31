@@ -637,7 +637,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 
 The calendar looks pretty empty for them and that's because it was. Scrolling through their results... they got 2<sup>nd</sup> in the Elite League S1 and DLS23 CN quals? That's something. Oh! Wait! They won *Cringe Station Kobolds Rave 2.* So yeah. Cringe Station. That's a TO name.
 
-Jokes aside, the fact that they were the *first* team to qualify out of China's TI regionals was crazy. Remember, Xtreme was China's only directly invited TI team, so there were plenty of sharks left in the qualifier. But Zero rightfully earned the first slot by beating both G2 x iG and Azure Ray.
+Jokes aside, the fact that they were the *first* team to qualify out of China's TI regionals was crazy. Remember, Xtreme was China's only directly invited TI team, so there were still plenty of sharks left in the qualifier. But Zero rightfully earned the first slot by beating both G2 x iG and Azure Ray.
 
 **What would success look like?** Witnessing a glorious ponlo redemption arc after some troubled stints on Quincy Crew, Alliance, and ~~twitter~~ x dot com.
 
@@ -679,7 +679,7 @@ Here's how I like to imagine their initial meeting went:
 
 <code><font size="6">ARE YOU FUCKING KIDDING ME.</font></code>
 
-You'll notice I also listed their manager on this roster list despite usually not doing that. Why? Take a shot every time someone mentions Jack "KBBQ" Chen on the EN broadcast when G2 x iG are playing. You'll be puking in the toilet before the draft even starts.
+You'll notice I also wrote their manager on this roster list despite usually not doing that. Why? Take a shot every time someone mentions Jack "KBBQ" Chen on the EN broadcast when G2 x iG are playing. You'll be puking in the toilet before the draft even starts.
 
 **How was their season?**
 
@@ -1104,9 +1104,9 @@ Too bad the core demographic for these articles are usually people who don't hav
 </div>
 
 <div class="voiceline_wrapper">
-  <div class="voiceline"><a href="#" title="Glitter Tier Line" id="play" onclick="bored.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - Imagine if you had BKB.</span><audio id="bkb" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/bkb.mp3" type="audio/mpeg"></audio></a></div>
+  <div class="voiceline"><a href="#" title="Glitter Tier Line" id="play" onclick="bkb.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - Imagine if you had BKB.</span><audio id="bkb" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/bkb.mp3" type="audio/mpeg"></audio></a></div>
 
-  <div class="voiceline"><a href="#" title="Gold Tier Line" id="play" onclick="plays.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - Chat is this real?</span><audio id="chat" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/chat.mp3" type="audio/mpeg"></audio></a></div>
+  <div class="voiceline"><a href="#" title="Gold Tier Line" id="play" onclick="chat.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - Chat is this real?</span><audio id="chat" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/chat.mp3" type="audio/mpeg"></audio></a></div>
 </div>
 </div>
 
