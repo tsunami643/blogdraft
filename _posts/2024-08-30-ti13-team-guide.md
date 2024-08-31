@@ -418,7 +418,7 @@ Now why did I make you read those cursed sentences? Basically, BB have aura ong 
 
 Skibidi.
 
-A term that's decidedly more relevant amongst Dota's aging audience is "clutch" and if one possesses the clutch gene and/or clutch factor. Time and time again this year, BB Team were shown to not have it. Trouble for them was there was no clear diagnosis. It wasn't like individual players were underperforming in high pressure situations or specific teams consistently beating them. BB as a whole just look more and more disconnected the higher the stakes are.
+A term that's decidedly more relevant amongst Dota's aging audience is "clutch" and if one possesses the clutch gene and/or clutch factor. Time and time again this year, BB Team were shown to not have it. Trouble for them was there was no clear diagnosis. It wasn't like individual players were underperforming in high pressure situations or specific teams consistently beating them. BB as a whole just looked more and more disconnected the higher the stakes got.
 
 **What would success look like?** Aegismaxxing.
 
@@ -443,7 +443,11 @@ A term that's decidedly more relevant amongst Dota's aging audience is "clutch" 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Well that's a logo we haven't seen around these parts in quite a while. And before you ask, no, EternaLEnVy hasn't finished his Wolf of Wall Street filler arc and returned to the Dota scene quite yet. This roster was playing as Entity for most of the year and also sucked for most of the year. After failing to qual for KL, they swapped reibl with noone. astini joined after elite league s1
+**How did this roster happen?** Well that's a logo we haven't seen around these parts in quite a while. And before you ask, no, EternaLEnVy hasn't finished his *Investor Z* filler arc and returned to the Dota scene quite yet. Instead, this roster was playing as Entity for most of the year.
+
+Watson, Kataomi, and Fishman were all on the TI12 Entity. Gabbi was replaced by DM and Stormstormer was replaced by reibl, who was then also replaced by Noone after they failed to qualify for ESL KL.
+
+Lastly, Astini joined as coach after Elite League S1. The players have publicly given a lot of credit to Astini after he started working with them. The man's results are nothing to scoff at, he was also coaching nouns last year when they got their surprise top 8 finish.
 
 **How was their season?**
 
@@ -474,13 +478,11 @@ A term that's decidedly more relevant amongst Dota's aging audience is "clutch" 
 </div>
 <br>
 
-Western Europe is a **brutal** region. WEU sent four teams to every major this year and all of them would make top 6 *every time* barring Tundra's 9-12th at Lima. Granted, two of those were just Gaimin and Liquid in every final, but still!
+Nothing too exceptional, but being the first team out of WEU qualifiers will always be a feat. This year, some notable teams left in the wake included: Nigma, Secret, OG, Quest, and the illustrious Team Bald.
 
-Entity made waves at Lima before losing to Gaimin and Talon, but were struggling to keep their head above water in Tour 2 and 3. Only by winning relegation tiebreakers were they able to maintain a slot in Division 1.
+**What would success look like?** The last time Cloud9 came back to the Dota scene, [a global pandemic began two months later.](https://cloud9.gg/cloud9-comes-off-cooldown-and-rejoins-competitive-dota-2/)
 
-Then I guess they just hate ESL or something? Those are some rough EPT performances.
-
-**What would success look like?** Cloud9 not immediately leaving after TI ends.
+The team's performance is irrelevant to me. If I don't have to jam a swab halfway up my nose come November 2024, you did it Cloud9, it's a win.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/tundra.jpg" alt="Banner"></p>
