@@ -324,7 +324,7 @@ Nope. It was
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** NOTHING CHANGED
+**How did this roster happen?** Nothing changed from last year!
 
 **How was their season?**
 
@@ -355,27 +355,11 @@ Nope. It was
 </div>
 <br>
 
-### *GAIMIN* was Liquid's nemesis???
+Their results changed from last year! But not in the good way. Despite not
 
-That's correct.
+Amusingly, their 1<sup>st</sup> place finish at Riyadh netted them higher earnings than winning all three majors (Lima+Berlin+Bali) and 2<sup>nd</sup> place at last TI combined.
 
-If you didn't have any opinions about this team last year, I wouldn't blame you. They were distinctly 'middle of the pack' material by WEU standards.
-
-If you didn't have any opinions about this team by the end of this year, you're a unicorn.
-
-The Lima Major win was the honeymoon period. A new WEU team was on the block. First Dutch Major champion with Seleri. Quinn, who had been struggling in NA for years, finally earned some validation. But in Berlin it was like, oh okay, it's happening again. But... back to back winners, that's exciting! Then come Bali, even the most neutral Dota esports viewers were starting to get a little agitated by their presence.
-
-It's a fascinating case study of a team that most people barely ever thought about, to a team that a lot of people began actively disliking. I believe there are a variety of factors.
-
-One is that, well, they're just very good. And if you're constantly very good, people get annoyed that you keep making everyone else look very bad. This isn't even just patch luck. The game **massively** changed during DreamLeague S19 and they *still* kept winning everything. The strange thing is, they're not necessarily boring to watch (which is most people's argument against Tundra), they're just classic Western European clean Doto.
-
-Two is compounded by the fact that Liquid were doing them no favors by getting bopped in every single grand final. It was almost predetermined. *OHH BOY, GAIMIN IS IN GRAND FINALS AND LIQUID'S MAKING A LOWER BRACKET RUN, GEE I WONDER WHAT'S GONNA HAPPEN NEXT.*
-
-Three is Quinn. To put it lightly, he's a very colorful individual in pubs. And that, combined with an ego that was polished to a mirror finish this year, is a dangerous combination. I don't think I've seen people enjoy hatewatching a player this much since the days of internationally renowned day trader EternalEnvy. The worst part is even the hatewatchers will admit that the rest of his team is very likeable, which makes him an even *stronger* focus of their rage because they can't diffuse it throughout the roster.
-
-**What would success look like?** They already made Dota history by being the first team to ever win every major of the season. Ya gotta finish the story now.
-
-Also, I unironically believe a large number of Redditors may just straight up kill themselves to avoid living in a timeline where Quinn Callahan is a TI winner.
+**What would success look like?** Famously, winning the last big event before TI usually meant you *won't* win TI. That trend was bucked last year with Spirit winning both Riyadh and TI. So I guess now the story is: Spirit won both. Will Gaimin?
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/betboom.jpg" alt="Banner"></p>
@@ -416,7 +400,7 @@ Also, I unironically believe a large number of Redditors may just straight up ki
   <tbody>
   <tr><td><b>BetBoom Dacha Dubai</b></td><td class="third"><b>3rd 🥉</b></td></tr>
   <tr><td>Elite League S1</td><td>11-12th</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td><b>9-11th</b></td></tr>
+  <tr><td><b>PGL Wallachia S1</b></td><td><b>9-11th*</b></td></tr>
   <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
   <tr><td>FISSURE Universe 3</td><td>4th</td></tr>
   </tbody></table>
@@ -424,25 +408,19 @@ Also, I unironically believe a large number of Redditors may just straight up ki
 </div>
 <br>
 
-EG was South America's superteam and BoomBox Team was *supposed* to be EEU's superteam, but it just wasn't happening. At least, not on LAN. Lima was a disaster and Berlin was more of the same, albeit with Resolution having to stand in for Pure.
+The kids these days use the term "aura" a lot. Aura, [as defined by Wikipedia, the free encyclopedia at en.wikipedia.org is:](https://en.wikipedia.org/wiki/List_of_Generation_Z_slang#:~:text=Aura,%2C%20Twitter%2C%20and%20YouTube%20Shorts.)
+> A quantifiable unit referring to how cool (positive integer) or uncool (negative integer) an individual is.
+>> "Oh, you failed to rizz that level 10 gyatt? -1000000 aura loss lil bro."
 
-They were given a last minute invite to DLS20 after SEA team Execration had visa issues and got the grand finals placement that was necessary to directly qualify to Riyadh. Nice!
+>> "How much aura did I lose when I got Fanum taxed in Ohio?"
 
-**Then there was Bali.** Bali, Bali, Bali.
+Now why did I make you read those cursed sentences? Basically, BB have aura ong 💯 when going through bracket. But when it comes to the final four-ish? Big yikes. They're completely cooked. It's giving delulu.
 
-I'll try my best to summarize: The Bali Major had a ton of technical issues. A particularly extensive one occurred during Tundra vs. BetBoom's upper bracket match which led to a multi hour pause. This was an especially important match because if Bibimbap Team won, they'd get top 8 and, with it, enough points to secure a TI invite. The match eventually carried on and they got the 2-0. They did it! They're going to Seattle!
+Skibidi.
 
-<p style="font-family: Georgia; font-size: 1.8em; font-weight: 600; text-align: center;">[EXTREMELY LOUD INCORRECT BUZZER]</p>
+A term that's decidedly more relevant amongst Dota's aging audience is "clutch" and if one possesses the clutch gene and/or clutch factor. Time and time again this year, BB Team were shown to not have it. Trouble for them was there was no clear diagnosis. It wasn't like individual players were underperforming in high pressure situations or specific teams consistently beating them. BB as a whole just look more and more disconnected the higher the stakes are.
 
-You see during the long ass pause, Pure, whom you may know as having a somewhat checkered history, got a lil' bored. He got so bored, in fact, that he opened up RU community caster Nix's stream. During the game. Well, during the pause, but the pause was... during the game. His game. And this was caught on the player cameras.
-
-Mass hysteria ensues. I was on the broadcast and even I didn't even know what the hell was going on. Does Tundra win? Can BBop Team even still play? Is Pure going to be shot out of a cannon? Are we even allowed to shoot cannons in Indonesia?
-
-The verdict was that Tundra would be given the win and Pure would be disqualified for the rest of the event. Resolution, who had previously stood in for BeanBlops at Berlin, just so happened to be on the EN broadcast for the event. He "stood in" for BedandBreakfast and they promptly got eliminated by a very irritated Azure Ray.
-
-Good times.
-
-**What would success look like?** We shoot Pure out of a cannon.
+**What would success look like?** Aegismaxxing.
 
 ----
 
@@ -465,7 +443,7 @@ Good times.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** That's a logo we haven't seen around these parts in quite a while. And before you ask, no, EternaLEnVy hasn't Wolf of Wall Streeted his way back into the Dota scene quite yet. This roster was playing as Entity for most of the year and also sucked for most of the year. After failing to qual for KL, they swapped reibl with noone. astini joined after elite league s1
+**How did this roster happen?** Well that's a logo we haven't seen around these parts in quite a while. And before you ask, no, EternaLEnVy hasn't finished his Wolf of Wall Street filler arc and returned to the Dota scene quite yet. This roster was playing as Entity for most of the year and also sucked for most of the year. After failing to qual for KL, they swapped reibl with noone. astini joined after elite league s1
 
 **How was their season?**
 
@@ -502,7 +480,7 @@ Entity made waves at Lima before losing to Gaimin and Talon, but were struggling
 
 Then I guess they just hate ESL or something? Those are some rough EPT performances.
 
-**What would success look like?** Giving us an even better game than last year's 107 minute Bo1 against RNG.
+**What would success look like?** Cloud9 not immediately leaving after TI ends.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/tundra.jpg" alt="Banner"></p>
@@ -657,11 +635,11 @@ For some, the real success would be beating Gaimin specifically, but I think the
 </div>
 <br>
 
-This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetBoom, and Team Spirit. Each of them took a turn topping their regional league, but Pandas had the highest DPC LAN finish at the Berlin Major despite Rodjer standing in for Solo.
+The calendar looks pretty empty for them and that's because it was. Scrolling through their results... they got 2<sup>nd</sup> in the Elite League S1 and DLS23 CN quals? That's something. Oh! Wait! They won *Cringe Station Kobolds Rave 2.* So yeah. Cringe Station. That's a TO name.
 
-**What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. I would know. I put them into my Compendium predictions to win it literally every time. Then that old VP would proceed to consistently drop the ball at TI7. And TI8. And TI9.
+Jokes aside, the fact that they were the *first* team to qualify out of China's TI regionals was crazy. Remember, Xtreme was China's only directly invited TI team, so there were plenty of sharks left in the qualifier. But Zero rightfully earned the first slot by beating both G2 x iG and Azure Ray.
 
-For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
+**What would success look like?** Witnessing a glorious ponlo redemption arc after some troubled stints on Quincy Crew, Alliance, and ~~twitter~~ x dot com.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/g2ig.jpg" alt="Banner"></p>
@@ -675,12 +653,35 @@ For some, the real success would be beating Gaimin specifically, but I think the
     <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">xNova</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">super</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">@dogf1ghts</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">@dogf1ghts</td>
+    <td><i style="font-size: smaller;">Manager</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">KBBQ</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Monet and boboka came from aster, nts came from lgd, jt was formerly an ig mainstay, but had brief stint on xtreme before coming back, xnova spent a year in SEA exile on BOOM but came back
+**How did this roster happen?** When a storied esports organization like G2 wants to make a splash in a new game, they want to do it big. Doing it big usually involves creating a superteam. Unfortunately, many of the players who you *would* get for a superteam were """retired""" during the post-TI shuffle.
+
+Here's how I like to imagine their initial meeting went:
+
+```
+Gentlemen, we want to get into Dota. Western Europe seems like a real nightmare, but it looks like there's a power vacuum in China. I say we form a strategic partnership with iG and put a team together in the region.
+
+NothingToSay is off LGD after four years on the roster? Perfect, get him on the team. Speaking of LGD, who's the only other Malaysian they ever had? xNova? Why'd he go to SEA, what a disaster, let's bring him back to China.
+
+Who's next. Uhhh, who's the best Chinese offlaner of all time? Probably Faith_bian? He's retired? Damn. That's fine, JT- was an iG boy for ages, let's bring him back.
+
+How about best Chinese carry? Ame, right? He's retired too? Oh. No worries, Monet was very consistent on Aster, let's reach out. We need someone to balance JT-'s craziness anyway.
+
+Last one. Best Chinese 4. Gotta be fy. He's... you're joking, right. *It's fine.* It's fine. Who was that one 4 we used to have? [The one with the funny name.](https://www.youtube.com/watch?v=KhQio49YG-Q) Yeah, whatever. 4 position Monkey King is still viable, right?
+
+Shame all those super famous and top tier players retired, but I guess they're done playing Dota forever.
+
+*One month passes*
+
+ARE YOU FUCKING KIDDING ME.
+```
+
+You'll notice I also listed their manager on this roster list despite usually not doing that. Why? Take a shot every time someone mentions Jack Chen on the EN broadcast when G2 x iG are playing. You'll be puking in the toilet before the draft even starts.
 
 **How was their season?**
 
