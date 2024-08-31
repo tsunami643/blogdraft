@@ -659,19 +659,19 @@ Jokes aside, the fact that they were the *first* team to qualify out of China's 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** When a storied esports organization like G2 wants to make a splash in a new game, they want to do it big. Doing it big usually involves creating a superteam. Unfortunately, many of the players who you *would* get for a superteam were """retired""" during the post-TI shuffle.
+**How did this roster happen?** When a storied esports organization like G2 wants to make a splash in a new game, they want to do it big. Doing it big usually involves creating a superteam. Unfortunately, many of the players whom you *would* get for a superteam were “““retired””” during the post-TI shuffle.
 
 Here's how I like to imagine their initial meeting went:
 
 <code>Gentlemen, we want to get into Dota. Western Europe seems like a real doozy, though, but it looks like there's a power vacuum in China. I say we form a strategic partnership with iG and put a superteam together in the region.</code>
 
-<code>NothingToSay is off LGD after four years on the roster? Perfect, get him on the team. Speaking of LGD, who's the only other Malaysian they ever had? xNova? Why'd he go to SEA, what a disaster, let's bring him back to China.</code>
+<code>NothingToSay is off LGD after four years on the roster? Perfect, get him on the team. Speaking of LGD, who's the only other Malaysian they ever had? xNova? Why'd he return to SEA, what a disaster, let's bring him back to China.</code>
 
 <code>Who's next. Uhhh, who's the best Chinese offlaner of all time? Probably Faith_bian? He's retired? Damn. That's fine, JT- was an iG boy for ages, let's bring him back.</code>
 
 <code>How about best Chinese carry? Ame, right? He's retired too? Oh. No worries, Monet was very consistent on Aster, let's reach out. We need someone to balance JT-'s craziness anyway.</code>
 
-<code>Last one. Best Chinese 4. Gotta be fy. He's... you're joking, right? <i>It's fine,</i> it's fine. Who was that one 4 we used to have? <a href="https://www.youtube.com/watch?v=KhQio49YG-Q">The one with the funny name.</a> Yeah, whatever. 4 position Monkey King is still viable, right?</code>
+<code>Last one. Best Chinese 4. Gotta be fy. He's... you're joking. <i>It's fine,</i> it's fine. Who was that one 4 we used to have? <a href="https://www.youtube.com/watch?v=KhQio49YG-Q">The one with the funny name.</a> Yeah, whatever. 4 position Monkey King is still viable, right?</code>
 
 <code>Real shame all those super famous and top tier players retired, but I guess they're done playing Dota forever.</code>
 
@@ -679,7 +679,7 @@ Here's how I like to imagine their initial meeting went:
 
 <code><font size="6">ARE YOU FUCKING KIDDING ME.</font></code>
 
-You'll notice I also listed their manager on this roster list despite usually not doing that. Why? Take a shot every time someone mentions Jack Chen on the EN broadcast when G2 x iG are playing. You'll be puking in the toilet before the draft even starts.
+You'll notice I also listed their manager on this roster list despite usually not doing that. Why? Take a shot every time someone mentions Jack "KBBQ" Chen on the EN broadcast when G2 x iG are playing. You'll be puking in the toilet before the draft even starts.
 
 **How was their season?**
 
@@ -712,11 +712,11 @@ You'll notice I also listed their manager on this roster list despite usually no
 </div>
 <br>
 
-This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetBoom, and Team Spirit. Each of them took a turn topping their regional league, but Pandas had the highest DPC LAN finish at the Berlin Major despite Rodjer standing in for Solo.
+Despite not putting together a full superteam, G2 x iG still had superteam results. Which is to say: meh. Wallachia was a nice moment of clarity, but the rest of the year was nothing special.
 
-**What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. I would know. I put them into my Compendium predictions to win it literally every time. Then that old VP would proceed to consistently drop the ball at TI7. And TI8. And TI9.
+**What would success look like?** After winning a thrilling five game grand final...
 
-For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
+Legendary manager Jack Chen hois-- NO, STOP. I'M DOING IT AGAIN.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/talon.jpg" alt="Banner"></p>
