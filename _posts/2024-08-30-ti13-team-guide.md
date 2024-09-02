@@ -488,7 +488,7 @@ The team's performance is irrelevant to me. If I don't have to jam a swab halfwa
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Pure~</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">Topson</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">RAMZES666</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">9Class</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-mk" title="North Macedonia" alt="North Macedonia">Saksa</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Whitemon</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">MoonMeander</td></tr>
@@ -549,7 +549,7 @@ Sure, Topson already played a few matches with the Tundra boys during September'
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** a couple of randos joined together on klim sani4. swedenstrong is probably the most well known after having a stint on navi, but the rest of them have bounced around a few tier 2 teams here and there.
+**How did this roster happen?** Typically when an EEU stack of majority newcomers is slapped together, they'll have at least one veteran player guiding them. Not in this case. Swedenstrong is probably the most well known having been on the 2022 Na`Vi roster that competed in the Arlington Major, but the rest of the players have mostly only tier 2 teams on their resumes.
 
 **How was their season?**
 
@@ -580,11 +580,9 @@ Sure, Topson already played a few matches with the Tundra boys during September'
 </div>
 <br>
 
-This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetBoom, and Team Spirit. Each of them took a turn topping their regional league, but Pandas had the highest DPC LAN finish at the Berlin Major despite Rodjer standing in for Solo.
+They actually did qualify for Birmingham, but unsurprisingly, a bunch of young Russian players didn't 
 
-**What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. I would know. I put them into my Compendium predictions to win it literally every time. Then that old VP would proceed to consistently drop the ball at TI7. And TI8. And TI9.
-
-For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
+**What would success look like?** Whenever a stack of untested players make their debut at TI, "Who's gonna look good enough to get poached by a top tier team" is the question on most people's minds. But lately, EEU teams have really made a point to stick together even after TI ends. Whether that's for the best, it depends. Sometimes you're a BB Team, sometimes you're a VP.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/zero.jpg" alt="Banner"></p>
@@ -602,7 +600,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** 7e, beyond, and zzq were kickin it since may 2023. They attempted to qualify for last TI with cty and former Wings TI winner iceice, but got 3rd. This roster kept trying until failing DLS22 quals. Erika and ponlo were brought in starting with Elite League quals.
+**How did this roster happen?** 7e, Beyond, and zzq have been kickin' it on Zero since May 2023. They attempted to qualify for last TI with cty and former Wings TI winner iceice, but got 3<sup>rd</sup>. That roster stuck around for a little bit of this year, but Erika and ponlo were brought in starting with Elite League S1 quals. As of Snow Ruyi, another Wings alumni, bLink, officially joined the team as a coach.
 
 **How was their season?**
 
@@ -637,7 +635,7 @@ The calendar looks pretty empty for them and that's because it was. Scrolling th
 
 Jokes aside, the fact that they were the *first* team to qualify out of China's TI regionals was crazy. Remember, Xtreme was China's only directly invited TI team, so there were still plenty of sharks left in the qualifier. But Zero rightfully earned the first slot by beating both G2 x iG and Azure Ray.
 
-**What would success look like?** Witnessing a glorious ponlo redemption arc after some troubled stints on Quincy Crew, Alliance, and ~~twitter~~ x dot com.
+**What would success look like?** Witnessing the glorious ponlo redemption arc after his troubled stints on Quincy Crew, Alliance, and ~~twitter~~ x dot com.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/g2ig.jpg" alt="Banner"></p>
@@ -710,7 +708,7 @@ You'll notice I also wrote their manager on this roster list despite usually not
 </div>
 <br>
 
-Despite not putting together a full superteam, G2 x iG still had superteam results. Which is to say: meh. Wallachia was a nice moment of clarity, but the rest of the year was nothing special.
+Despite not putting together a full superteam, G2 x iG still had the typical Chinese superteam results. Which is to say: meh. Wallachia was a nice moment of clarity, but the rest of the year was nothing special.
 
 **What would success look like?** After winning a thrilling five game grand final...
 
