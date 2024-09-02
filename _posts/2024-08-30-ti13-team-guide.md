@@ -33,7 +33,7 @@ MARKETING SUCKS</p>
 
 These forewords are typically more for my benefit so I can document all the significant happenings from the year.
 
-I know what you're mainly here for.
+Here's a quick legend on how to read the tables: **Bold events are LANs (players are competing in-person, not online),** an asterisk* means there was a stand-in for a player or coach, and the results themselves are meant to be read from left to right in terms of chronology. For example, ESL One Kuala Lumpur, then BetBoom Dacha Dubai, then DreamLeague S22, and so on. If you're on mobile... turn your phone sideways.
 
 <style>
   table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}
@@ -135,9 +135,9 @@ I know what you're mainly here for.
 </div>
 <br>
 
-After conquering Seattle last year, they decided to take a little vacation and skip the first big tournament of the new season (ESL KL) in December. Since then, it's been a little bit of everything. During Wallachia, Mira did confess that the team had been struggling with motivation this year, but the effort they put forth for that event paid off with an exciting five game win over Xtreme.
+After conquering Seattle last year, Spirit decided to take a little vacation and skip the first big tournament of the new season (ESL KL) in December. Since then, it's been all over the place. During Wallachia, Mira did confess that the team had been struggling with motivation this year, but the effort they put forth for that event paid off with an exciting five game win over Xtreme.
 
-As this season comes to a close, they do seem to be Mode: Grind as they are the only directly invited TI team to compete in *two* tournaments after Riyadh.
+As this season comes to a close, they do seem to be Mode: Grind as they are the only directly invited TI team to compete in *two* tournaments post-Riyadh.
 
 **What would success look like?** The range of results for Spirit is truly unmatched. One moment they're winning the biggest prize pools in Dota history, the next they're getting 4<sup>th</sup> place in DLS23 online qualifiers after losing to Na\`Vi (no offense to Na\`Vi). When they're on, they're <i>on</i>. And, well, they have won two out of the three TIs they've shown up to...
 
@@ -157,7 +157,7 @@ As this season comes to a close, they do seem to be Mode: Grind as they are the 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Dy has been chilling on Xtreme for around 3 years now, but the rest of the team came out of nowhere. After being absent from the competitive scene since TI2022 in Singapore, professional Genshin Impact cosplayer Ame made his triumphant return to Dota in 2024. Meanwhile, Xtreme and Azure Ray share the same owner, so Xm, Xxs, and XinQ were transferred over from Azure.
+**How did this roster happen?** Dy had been chilling on Xtreme for around 3 years, but the rest of the team came out of nowhere. After being absent from the competitive scene since TI2022 in Singapore, professional Genshin Impact cosplayer Ame made his triumphant return to Dota in 2024. Meanwhile, Xtreme and Azure Ray share the same owner, so Xm, Xxs, and XinQ were transferred over from Azure.
 
 **How was their season?**
 
@@ -192,7 +192,7 @@ The transferring of the three X amigos happened *after* they won ESL KL as Azure
 
 Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjqr/yatoro_on_why_he_changed_his_nickname/">Raddan</a> had to give one back to his beloved Ame the Kind after Wallachia.
 
-**What would success look like?** Unfortunately, "best Chinese team" has been synonymous with "best non-European team" for the past six TIs. That's not necessarily a bad place to be. In fact, China as a region has never had a peak placement lower than 4<sup>th</sup> place at TI in the history of the event. With fewer teams from China making it to TI each year, maintaining that streak gets more and more noteworthy.
+**What would success look like?** Unfortunately, "best Chinese team" has been synonymous with "best non-European team" for the past six TIs. That's not necessarily a bad place to be. In fact, China as a region has never had a peak placement lower than 4<sup>th</sup> place at TI in the history of the event. With fewer teams from China making it to TI each year, maintaining that streak gets more and more challenging.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/falcons.jpg" alt="Banner"></p>
@@ -241,7 +241,7 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
 </div>
 <br>
 
-The EPT circuit created a dedicated MENA region this year and Falcons promptly stomped their way through them. The competition in those qualifiers was basically limited to Quest and Nigma, so the community was left wondering, "Yeah, okay, but how good would this team be if they had to play WEU quals?"
+The EPT circuit created a dedicated MENA region this year and Falcons promptly stomped their way to the top. The competition in those qualifiers was basically limited to Quest and Nigma, so the community was left wondering, "Yeah, okay, but how good would this team be if they had to play WEU quals?"
 
 Probably pretty good, it turns out. While their debut at ESL KL was nothing special, Aui joined the team as coach shortly thereafter and it's been a podium filled run ever since. Their lowest LAN placement was 3<sup>rd</sup>, and one of those was because Nine (Tundra reunion!) had to stand-in for Malrine.
 
@@ -267,7 +267,7 @@ Well start getting ready.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Liquid keeps having players retire on them after TIs, but, for once, Team Secret didn't have anyone worth redeeming for a replacement this year. So who do you get if the job requirement is for a brainy offlaner willing to take the captain role? 33's a pretty good fit.
+**How did this roster happen?** Liquid keeps having players retire on them after TIs end, but for once Team Secret didn't have anyone worth redeeming as a replacement for Zai. So who do you get if the job requirement is for a brainy offlaner willing to take the captain role? 33 fit the bill.
 
 **How was their season?**
 
@@ -298,11 +298,15 @@ Well start getting ready.
 </div>
 <br>
 
-won elite league with a standin (for blitz)
+When TI invites were announced in May, there was a sentiment permeating online that Liquid had been huffing glue all year and them getting a direct invite to TI was absurd. They seem to have taken that personally and really turned up the heat for their last two events.
+
+Here's a fun exercise for anyone who hasn't been keeping up with Dota since last year: Based on your memory of the 2023 season, take a wild guess at who beat these guys in grand finals of Riyadh. Yup. Yuuuuuup. I think Liquid is probably the only team in the history of Dota who could win a lower bracket final against a team like Falcons so dominantly and yet have the entire community immediately think, "Oh great, now they're definitely gonna lose grand finals 3-0 to Gaimin."
+
+But by golly, it happened.
 
 **What would success look like?** Okay, yes, *technically* they won Elite League S2. *Technically*, it was a LAN. Liquipedia classified it as a [tier 2 LAN](https://liquipedia.net/dota2/Elite_League/2) based on the level of competition, but still a LAN.
 
-But do *you* count it as the LAN win they've been hunting for years? Do *they* count it?
+But do *you* count it as the LAN win they've been clawing towards for years? Do *they* count it?
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/gaimin.jpg" alt="Banner"></p>
@@ -351,11 +355,13 @@ But do *you* count it as the LAN win they've been hunting for years? Do *they* c
 </div>
 <br>
 
-Their results changed from last year! But not in the good way. Despite not
+Their results changed from last year!
 
-Amusingly, their 1<sup>st</sup> place finish at Riyadh netted them higher earnings than winning all three majors (Lima+Berlin+Bali) and 2<sup>nd</sup> place at last TI combined.
+But not in the good way. They at least closed out the 2023 calendar year strong with a grand final appearance at KL, but the rest of the season was a far cry from the heights they achieved last season. That is, up until Riyadh.
 
-**What would success look like?** Famously, winning the last big event before TI usually meant you *won't* win TI. That trend was bucked last year with Spirit winning both Riyadh and TI. So I guess now the story is: Spirit won both. Will Gaimin?
+Fewer trophies, perhaps, but their 1<sup>st</sup> place finish at Riyadh netted them higher earnings than winning all three majors (Lima+Berlin+Bali) and 2<sup>nd</sup> place at last TI *combined*.
+
+**What would success look like?** Famously, winning the last big event before TI meant you probably *won't* win TI. That trend was bucked last year with Spirit winning both Riyadh and TI. So I guess the story now is: Spirit won both. Can Gaimin?
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/betboom.jpg" alt="Banner"></p>
