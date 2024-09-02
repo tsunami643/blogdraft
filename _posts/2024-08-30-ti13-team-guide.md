@@ -21,6 +21,16 @@ The *Road*, my friends. The *Road*. Most people skip these introductions, so let
 * **Was it the Battle Pass getting kneecapped?** You may notice that the prize pool for this TI is [astronomically lower](https://dota2.prizetrac.kr/international2023) than previous years. Valve has made the conscious decision to not juice TI's purse with a cosmetic-laden Battle Pass with the implication that more content will come after TI fervor ends when more players are excited to actually play Dota, not just watch it.
 * **Was it the TI format changing?** In an effort to make group stage games higher stakes, Valve has now split the 20 TI teams into 4 different groups. If you make it past groups, you'll be placed in a playoff bracket the following weekend. These two legs are all part of *The Road* to the International. The final, *final* weekend, with the top 8 teams, will be considered the 'main' International.
 
+<p style="font-size: 23px">DPC BEING GONE
+<br>
+PROS - MORE LAN EVENTS
+<br>
+MORE MONEY
+<br>
+CONS - DIV 2 in shambles
+<br>
+MARKETING SUCKS</p>
+
 These forewords are typically more for my benefit so I can document all the significant happenings from the year.
 
 I know what you're mainly here for.
@@ -92,7 +102,7 @@ I know what you're mainly here for.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** they won last TI and are keepin the good times rollin
+**How did this roster happen?** Usually after you win TI, you keep the gang together for another year. [Not always](https://youtu.be/hn39ySAFY_E?t=38), but usually.
 
 **How was their season?**
 
@@ -125,7 +135,9 @@ I know what you're mainly here for.
 </div>
 <br>
 
-After conquering Seattle last year, they decided to take a little vacation and skip the first big tournament (ESL KL) in December. After that, it was a little bit of everything. During Wallachia, Mira did confess that the team had been struggling with motivation and the effort they put forth for that event paid off with a very exciting five game series triumph over Xtreme. As this season comes to a close, they do seem to be Mode: Grind as they are the only directly invited TI team to compete in *2* tournaments after Riyadh.
+After conquering Seattle last year, they decided to take a little vacation and skip the first big tournament of the new season (ESL KL) in December. Since then, it's been a little bit of everything. During Wallachia, Mira did confess that the team had been struggling with motivation this year, but the effort they put forth for that event paid off with an exciting five game win over Xtreme.
+
+As this season comes to a close, they do seem to be Mode: Grind as they are the only directly invited TI team to compete in *two* tournaments after Riyadh.
 
 **What would success look like?** The range of results for Spirit is truly unmatched. One moment they're winning the biggest prize pools in Dota history, the next they're getting 4<sup>th</sup> place in DLS23 online qualifiers after losing to Na\`Vi (no offense to Na\`Vi). When they're on, they're <i>on</i>. And, well, they have won two out of the three TIs they've shown up to...
 
@@ -145,7 +157,7 @@ After conquering Seattle last year, they decided to take a little vacation and s
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Ame unretired and transferred because they're the same owner as azure ray. dy has been chillin on xtreme for like 3 years
+**How did this roster happen?** Dy has been chilling on Xtreme for around 3 years now, but the rest of the team came out of nowhere. After being absent from the competitive scene since TI2022 in Singapore, professional Genshin Impact cosplayer Ame made his triumphant return to Dota in 2024. Meanwhile, Xtreme and Azure Ray share the same owner, so Xm, Xxs, and XinQ were transferred over from Azure.
 
 **How was their season?**
 
@@ -176,21 +188,11 @@ After conquering Seattle last year, they decided to take a little vacation and s
 </div>
 <br>
 
-They kinda won KL with 3 of the players on Azure Ray
+The transferring of the three X amigos happened *after* they won ESL KL as Azure Ray, so I'm counting that as an Xtreme win. After that, the team took up the mantle of "best Chinese team" fairly quickly. Ame seemingly hadn't missed a beat during his sabbatical and Xtreme ended the season on a high note with a win on home turf at the Snow Ruyi LAN.
 
-**What would success look like?** Throw a dart at a board of all TIs ever. Odds are you'll hit one where LGD were considered favorites to win the whole thing. This year? Definitely not. Regardless, with LGD being the crown jewel of Chinese Dota, a great deal will always hang in the balance of this team's performance.
+Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjqr/yatoro_on_why_he_changed_his_nickname/">Raddan</a> had to give one back to his beloved Ame the Kind after Wallachia.
 
-Needless to say, a lot of responsibility.
-
-<p style="font-size: 23px">DPC BEING GONE
-<br>
-PROS - MORE LAN EVENTS
-<br>
-MORE MONEY
-<br>
-CONS - DIV 2 in shambles
-<br>
-MARKETING SUCKS</p>
+**What would success look like?** Unfortunately, "best Chinese team" has been synonymous with "best non-European team" for the past six TIs. That's not necessarily a bad place to be. In fact, China as a region has never had a peak placement lower than 4<sup>th</sup> place at TI in the history of the event. With fewer teams from China making it to TI each year, maintaining that streak gets more and more noteworthy.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/falcons.jpg" alt="Banner"></p>
@@ -208,7 +210,7 @@ MARKETING SUCKS</p>
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** built around ATF who didn't sign with quest at the end of last season, skiter and sney left tundra, crit left arteezy, and malrine was known from standing in for tundra w/ skiter and sney and also was fam with atf from the creepwave days. aui joined after KL and immediately popped off
+**How did this roster happen?** New  built around ATF who didn't sign with quest at the end of last season, skiter and sney left tundra, crit left arteezy, and malrine was known from standing in for tundra w/ skiter and sney and also was fam with atf from the creepwave days. aui joined after KL and immediately popped off
 
 **How was their season?**
 
@@ -239,13 +241,13 @@ MARKETING SUCKS</p>
 </div>
 <br>
 
-As mentioned earlier, you'll notice a lot of stand-in asterisks by these results. For DLS19, Aramis stood in for Saksa. For DLS20, Malr1ne stood in for Nine. And for Bali and Riyadh, coach Aui stood in for Saksa.
+The EPT circuit created a dedicated MENA region this year and Falcons promptly stomped their way through them. The competition in those qualifiers was basically limited to Quest and Nigma, so the community was left wondering, "Yeah, okay, but how good would this team be if they had to play WEU quals?"
 
-Despite all that, pretty solid results for Tundra despite Wraith Pact being removed in April, eh?
+Probably pretty good, it turns out. While their debut at ESL KL was nothing special, Aui joined the team as coach shortly thereafter and it's been a podium filled run ever since. Their lowest LAN placement was 3<sup>rd</sup>, and one of those was because Nine (Tundra reunion!) had to stand-in for Malrine.
 
-**What would success look like?** I don't mean to alarm you, but we may be witnessing the potential of ***3*** time TI winners Topson and Aui as coach!
+**What would success look like?** As exhibited by their performance this season, Falcons getting anything lower than 4<sup>th</sup> at this TI would be considered a surprise. Are you ready to live in a universe where Sneyking... Dignitas.Sneyking... NAR`Vi.Sneyking... *Fighting Pepegas.Sneyking*... might be a two-time TI winner?
 
-Sure, Topson already played a few matches with the Tundra boys during September's DreamLeague S21 and it was... fine? They only got 5-6th out of a 12 team tournament.
+Well start getting ready.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/liquid.jpg" alt="Banner"></p>
@@ -259,12 +261,13 @@ Sure, Topson already played a few matches with the Tundra boys during September'
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Insania</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Blitz</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-au" title="Australia" alt="Australia">kpii</td>
     <td><i style="font-size: smaller;">Analyst</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">Jabbz</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** zai "retired" (he's currently managing Tundra, whatever that means). 33 came from tundra to replace him as captain and offlane
+**How did this roster happen?** Liquid keeps having players retire on them after TIs, but, for once, Team Secret didn't have anyone worth redeeming for a replacement this year. So who do you get if the job requirement is for a brainy offlaner willing to take the captain role? 33's a pretty good fit.
 
 **How was their season?**
 
@@ -297,16 +300,9 @@ Sure, Topson already played a few matches with the Tundra boys during September'
 
 won elite league with a standin (for blitz)
 
-**What would success look like?** Fun fact: Do you know who the highest earning Dota 2 player that hasn't won TI is? [It's zai.](./../img/ti12teams/zaiesportsearnings.jpg) Even more impressive is he's done that without ever even being in a TI grand finals.
+**What would success look like?** Okay, yes, *technically* they won Elite League S2. *Technically*, it was a LAN. Liquipedia classified it as a [tier 2 LAN](https://liquipedia.net/dota2/Elite_League/2) based on the level of competition, but still a LAN.
 
-Can Liquid finally get a win? Or is this team just destined to always be a bridesmaid, never the bride.
-
-<br>
-<br>
-
-Anyways, a Western European nemesis, you say? Who were they? I bet it was Team Secret. Ooh, or maybe OG? Tundra? NIGMA?!
-
-Nope. It was
+But do *you* count it as the LAN win they've been hunting for years? Do *they* count it?
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/gaimin.jpg" alt="Banner"></p>
