@@ -137,9 +137,9 @@ Even beyond that, the core four are currently the [third most prolific quartet i
 </div>
 <br>
 
-After conquering Seattle last year, Spirit decided to take a little vacation and skip the first big tournament of the new season (ESL KL) in December. Since then, it's been all over the place. During Wallachia, Mira did confess that the team had been struggling with motivation this year, but the effort they put forth for that event paid off with an exciting five game win over Xtreme.
+After conquering Seattle last year, Spirit decided to take a little vacation and skip the first big tournament of the new season (ESL KL) in December. Since then, it's been all over the place. During Wallachia, Mira did confess that the team had been struggling with motivation this year, but the effort they put forth for that event paid off with a pretty exciting five game series against Xtreme.
 
-As this season comes to a close, they do seem to be Mode: Grind as they are the only directly invited TI team to compete in *two* tournaments post-Riyadh.
+As the season comes to a close, they do seem to be Mode: Grind as they are the only directly invited TI team to compete in *two* tournaments post-Riyadh with Snow Ruyi and Fissure Universe.
 
 **What would success look like?** The range of results for Spirit is truly unmatched. One moment they're winning the biggest prize pools in Dota history, the next they're getting 4<sup>th</sup> place in DLS23 online qualifiers after losing to Na\`Vi (no offense to Na\`Vi). When they're on, they're <i>on</i>. And, well, they have won two out of the three TIs they've shown up to...
 
@@ -159,7 +159,7 @@ As this season comes to a close, they do seem to be Mode: Grind as they are the 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Dy had been chilling on Xtreme for around 3 years, but the rest of the team came out of nowhere. After being absent from the competitive scene since TI2022 in Singapore, professional Genshin Impact cosplayer Ame made his triumphant return to Dota in 2024. Meanwhile, Xtreme and Azure Ray share the same owner, so Xm, Xxs, and XinQ were transferred over from Azure.
+**How did this roster happen?** Dy had been chilling on Xtreme for about 3 years, but the rest of the team came out of nowhere. After being absent from the competitive scene since TI2022 in Singapore, professional Genshin Impact cosplayer Ame made his triumphant return to Dota in 2024. Meanwhile, Xtreme and Azure Ray share the same owner, so Xm, Xxs, and XinQ were transferred over from Azure.
 
 **How was their season?**
 
@@ -192,7 +192,7 @@ As this season comes to a close, they do seem to be Mode: Grind as they are the 
 
 The transferring of the three X amigos happened *after* they won ESL KL as Azure Ray, so I'm counting that as an Xtreme win. After that, the team took up the mantle of "best Chinese team" fairly quickly. Ame seemingly hadn't missed a beat during his sabbatical and Xtreme ended the season on a high note with a win on home turf at the Snow Ruyi LAN.
 
-Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjqr/yatoro_on_why_he_changed_his_nickname/">Raddan</a> had to give one back to his beloved Ame the Kind after Wallachia.
+Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjqr/yatoro_on_why_he_changed_his_nickname/">Raddan</a> had to give one back to his beloved [Ame the Kind](https://www.reddit.com/r/DotA2/comments/1aimrjf/yatoro_after_watching_10_minutes_of_ames_game_on/) after Wallachia.
 
 **What would success look like?** Unfortunately, "best Chinese team" has been synonymous with "best non-European team" for the past six TIs. That's not necessarily a bad place to be. In fact, China as a region has never had a peak placement lower than 4<sup>th</sup> place at TI in the history of the event. With fewer teams from China making it to TI each year, maintaining that streak gets more and more challenging.
 
@@ -247,7 +247,7 @@ The EPT circuit created a dedicated MENA region this year and Falcons promptly s
 
 Probably pretty good, it turns out. While their debut at ESL KL was nothing special, Aui joined the team as coach shortly thereafter and it's been a podium filled run ever since. Their lowest LAN placement was 3<sup>rd</sup>, and one of those was because Nine (Tundra reunion!) had to stand-in for Malrine.
 
-**What would success look like?** As exhibited by their performance this season, Falcons getting anything lower than 4<sup>th</sup> at this TI would be considered a surprise. Are you ready to live in a universe where Sneyking... Dignitas.Sneyking... NAR`Vi.Sneyking... *Fighting Pepegas.Sneyking*... might be a two-time TI winner?
+**What would success look like?** As exhibited by their performance this season, Falcons getting anything lower than 4<sup>th</sup> at this TI would probably be considered an upset. Are you ready to live in a universe where Sneyking... Dignitas.Sneyking... NAR`Vi.Sneyking... *Fighting Pepegas.Sneyking*... might be a two-time TI winner?
 
 Well start getting ready.
 
@@ -300,11 +300,11 @@ Well start getting ready.
 </div>
 <br>
 
-When TI invites were announced in May, there was a sentiment permeating online that Liquid had been huffing glue all year and them getting a direct invite to TI was absurd. Outside of DreamLeagues, it was a pretty flimsy stance, but Liquid seemed to have taken it personally and really turned up the heat afterwards for their last two events.
+When TI invites were announced in May, there was a sentiment permeating online that Liquid had been huffing glue all year and them getting a direct invite to TI was absurd. Outside of online DreamLeagues, it was a pretty flimsy stance, but Liquid seemed to have took it personally and really turned up the heat afterwards for their last two events.
 
-Here's a fun exercise for anyone who hasn't been keeping up with Dota since last year: Based on your memory of the 2023 season, take a wild guess at who beat these guys in grand finals of Riyadh. Yup. Yuuuuuup. I think Liquid is probably the only team in the history of Dota who could win a lower bracket final against a team like Falcons so dominantly and yet have the entire community immediately think, "Oh great, now they're definitely gonna lose grand finals 3-0 to Gaimin."
+Here's a fun exercise for anyone who hasn't been keeping up with Dota since last year: Based on your memory of the 2023 season, take a wild guess at who beat these guys in grand finals of Riyadh. Yup. Yuuuuuup.
 
-But by golly, it happened.
+I think Liquid is probably the only team in the history of Dota who could win a lower bracket final against a team like Falcons so dominantly and yet have the entire community immediately think, "Oh great, now they're definitely gonna lose grand finals 3-0 to Gaimin." But by golly, it happened.
 
 **What would success look like?** Okay, yes, *technically* they won Elite League S2. *Technically*, it was a LAN. Liquipedia classified it as a [tier 2 LAN](https://liquipedia.net/dota2/Elite_League/2) based on the level of competition, but still a LAN.
 
