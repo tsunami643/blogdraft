@@ -246,7 +246,7 @@ Last piece of the puzzle was Crit. After *seven years* of playing in North Ameri
 
 The EPT (ESL Pro Tour) circuit created a dedicated MENA region this year and Falcons, being a Saudi org, promptly stomped their way to the top. The competition in those qualifiers was basically limited to Quest and Nigma, so the community was left wondering, "Yeah, okay, but how good would this team be if they had to play WEU quals?"
 
-Probably pretty good, it turns out. While their debut at ESL KL was nothing special, Aui joined the team as coach shortly thereafter and it's been a podium filled run ever since. Their lowest LAN placement was 3<sup>rd</sup>, and one of those was because Nine (Tundra reunion!) had to stand-in for Malrine.
+Probably pretty good, it turns out. While their debut at ESL KL was nothing special, Aui joined the team as coach soon after and it's been a podium filled run ever since. Their lowest LAN placement was 3<sup>rd</sup>, and one of those was because Nine (Tundra reunion!) had to stand-in for Malrine.
 
 **What would success look like?** As exhibited by their performance this season, Falcons getting anything lower than 4<sup>th</sup> at this TI would probably be considered an upset. Are you ready to live in a universe where Sneyking... Dignitas.Sneyking... NAR`Vi.Sneyking... *Fighting Pepegas.Sneyking*... might be a two-time TI winner?
 
@@ -425,7 +425,7 @@ Now why did I make you read those cursed sentences? Basically, BB have aura ong 
 
 Skibidi.
 
-A term that's decidedly more relevant amongst Dota's aging audience is "clutch" and if one possesses the clutch gene and/or clutch factor. Time and time again this year, BB Team were shown to not have it. Trouble for them was there was no clear diagnosis. It wasn't like individual players started underperforming in high pressure situations or specific teams were consistently beating them. BB as a whole just looked more and more disconnected the higher the stakes got.
+A term that's decidedly more relevant amongst Dota's aging audience is "clutch" and if one possesses the clutch gene and/or clutch factor. Time and time again this year, BB Team were shown to not have it. Trouble for them was there was no clear diagnosis. It wasn't like individual players started underperforming in intense situations or specific teams were consistently beating them. BB as a whole just looked more and more disconnected the higher the stakes got.
 
 **What would success look like?** Aegismaxxing.
 
