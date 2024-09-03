@@ -894,7 +894,9 @@ But I digress. How did this roster happen? After getting top 8 at TI last year, 
 
 You know the drill around here. North America? That means we have two teams constantly vying for one slot. Five game grand final for DLS22 quals? Went to Shopify. Five game grand final for Birmingham quals? Went to Shopify. Five game grand final for DLS23 quals? Went to Shopify.
 
-Nouns was out here playing the long con, though. "You can have those, Shopify" they say. "We'll just go to all the non-ESL events in the meanwhile." Quietly, they plot. Masterminding. Scheming. Nounsing. Come June, five game grand final for Riyadh quals? NOUNS. Grand final for TI quals? "YOU FOOLS!" they cackle, "YOU FELL RIGHT INTO OUR TRAP." Nouns at TI. 3-0. Cinema.
+Nouns was out here playing the long con, though. "You can have those, Shopify" they say. "We'll just go to all the non-ESL events in the meanwhile." Quietly, they plot. Masterminding. Scheming. Nounsing. Come June, five game grand final for Riyadh quals? NOUNS.
+
+Then the coup dao grâce. Grand final for TI quals? "YOU FOOLS!" they cackle, "YOU FELL RIGHT INTO OUR TRAP." Nouns at TI. 3-0. Cinema.
 
 And yes, this does mean that there is no Arteezy at this TI. His attendance streak from TI4 has finally been broken. Had he qualified, he'd have the most TI attendances of any player after Fly and Puppey.
 
