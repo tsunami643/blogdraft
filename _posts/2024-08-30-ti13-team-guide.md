@@ -82,7 +82,7 @@ Let's get started.
 
 ---
 
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/spirit.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/spirit.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Spirit</h2>
 <table class="roster">
   <tbody><tr>
@@ -139,7 +139,7 @@ As the season comes to a close, they do seem to be Mode: Grind as they are the o
 **What would success look like?** The range of results for Spirit is truly unmatched. One moment they're winning the biggest prize pools in Dota history, the next they're getting 4<sup>th</sup> place in DLS23 online qualifiers after losing to Na\`Vi (no offense to Na\`Vi). When they're on, they're <i>on</i>. And, well, they have won two out of the three TIs they've shown up to...
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/xtreme.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/xtreme.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Xtreme Gaming</h2>
 <table class="roster">
   <tbody><tr>
@@ -192,7 +192,7 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
 **What would success look like?** Unfortunately, "best Chinese team" has been synonymous with "best non-European team" for the past six TIs. That's not necessarily a bad place to be. In fact, China as a region has never had a peak placement lower than 4<sup>th</sup> place at TI in the history of the event. With fewer teams from China making it to TI each year, maintaining that streak gets more and more challenging.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/falcons.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/falcons.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Falcons</h2>
 <table class="roster">
   <tbody><tr>
@@ -253,7 +253,7 @@ Probably pretty good, it turns out. While their debut at ESL KL was nothing spec
 Well start getting ready.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/liquid.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/liquid.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Liquid</h2>
 <table class="roster">
   <tbody><tr>
@@ -314,7 +314,7 @@ I think Liquid is probably the only team in the history of Dota who could win a 
 But do *you* count it as the LAN win they've been clawing towards for years? Do *they* count it?
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/gaimin.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/gaimin.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Gaimin Gladiators</h2>
 <table class="roster">
   <tbody><tr>
@@ -369,7 +369,7 @@ So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted t
 **What would success look like?** Famously, winning the last big event before TI used to mean you probably *won't* win TI. That trend was bucked last year with Spirit winning in both Riyadh and Seattle. So I guess the story now is: Spirit won both. Can Gaimin?
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/betboom.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/betboom.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">BB Team</h2>
 <table class="roster">
   <tbody><tr>
@@ -435,7 +435,7 @@ A term that's decidedly more relevant amongst Dota's aging audience is "clutch" 
 
 ----
 
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/cloud9.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/cloud9.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Cloud9 - <i>Western Europe #1</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -492,7 +492,7 @@ Nothing too exceptional, but being the first team out of WEU qualifiers will alw
 The team's performance is irrelevant to me. If I don't have to jam a swab halfway up my nose until tears come streaming out in November 2024, you did it Cloud9, it's a win.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/tundra.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/tundra.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Tundra Esports - <i>Western Europe #2</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -555,7 +555,7 @@ Despite allllllll that... not too shabby, right?
 **What would success look like?** Saksa was off the grid for most of the year, but was dipping his toe back in the competitive waters on Team Bald starting in May. Nine proved that he hadn't rusted much during his time off during his Wallachia stand-in period and most saw the same in Saksa during the Bald qualifier runs. Tundra boys built different.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/1w.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/1w.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">1w - <i>Eastern Europe</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -606,7 +606,7 @@ They actually did qualify for Birmingham, but unsurprisingly, a bunch of young R
 **What would success look like?** Whenever a stack of untested players make their debut at TI, "Who's gonna look good enough to get poached by a top tier team" is the question on most people's minds. But lately, EEU teams have really made a point to stick together even after TI ends. Whether that's for the best, it depends. Sometimes you're a BB Team, sometimes you're a VP.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/zero.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/zero.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Zero - <i>China #1</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -659,7 +659,7 @@ Jokes aside, the fact that they were the *first* team to qualify out of China's 
 **What would success look like?** Witnessing the glorious ponlo redemption arc after his troubled stints on Quincy Crew, Alliance, and ~~twitter~~ x dot com.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/g2ig.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/g2ig.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">G2 x iG - <i>China #2</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -736,7 +736,7 @@ Despite not putting together a full superteam, G2 x iG still had the typical Chi
 Legendary manager Jack Chen hois-- NO, STOP. I'M DOING IT AGAIN.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/talon.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/talon.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Talon Esports - <i>Southeast Asia #1</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -789,7 +789,7 @@ Don't ask me how this team got the first slot out of SEA quals, I couldn't tell 
 **What would success look like?** I can't do it anymore. I can't keep coming up with different ways to write, "Gosh SEA has been pretty mediocre, but maybe this is the year!" on these blogs. There are only so many variations one can author before it just becomes lorem ipsum text. I'll just keep sliding the goal post over with each year. Last TI, best SEA team was Talon at 9th-12th. So yeaaaaaah, beat thaaaaaat.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/aurora.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/aurora.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Aurora - <i>Southeast Asia #2</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -842,7 +842,7 @@ Is that the case with Aurora? Who can say. All I know is this team as Talon last
 **What would success look like?** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Insert SEA platitude here.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/nouns.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/nouns.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">nouns - <i>North America</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -903,7 +903,7 @@ And yes, this does mean that there is no Arteezy at this TI. His attendance stre
 Not gonna lie, though, it would be really cool to see the most veteran player at the event lift the Aegis. And I'm not just talking about TI appearances, Fly is also the oldest player competing at this TI at 31 and also the player with the most ticketed games of pro Dota ever. Insane longevity.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/heroic.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/heroic.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">HEROIC - <i>South America #1</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -957,7 +957,7 @@ This team has been put through the grinder. Not only did they attend basically e
 **What would success look like?** MONGOLIAN THROAT SINGING IN THE ROYAL ARENA.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/beastcoast.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/beastcoast.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">beastcoast - <i>South America #2</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -1115,7 +1115,7 @@ Now after that very selfless gesture, it's time to self-promote. GO INSTALL DOTA
 
 <div class="shill_wrapper">
 <div class="sticker_wrapper">
-  <img class="sticker" style="max-width: 100%; width: 400px;" title="Buy my sticker!" src="./../img/ti13teams/tsunami_sticker_ti13.png">
+  <img class="sticker" style="max-width: 100%; width: 400px;" title="Buy my sticker!" src="./../../../img/ti13teams/tsunami_sticker_ti13.png">
 </div>
 
 <div class="voiceline_wrapper">
@@ -1125,7 +1125,13 @@ Now after that very selfless gesture, it's time to self-promote. GO INSTALL DOTA
 </div>
 </div>
 
-I also have a [**merch store**](https://shop.howdoiplay.com/) and presences on various platforms like [Twitch](https://twitch.tv/tsunami643), [Instagram](https://instagram.com/tsunami643), and [Twitter.](https://twitter.com/tsunami643)
+I also have a [**merch store**](https://shop.howdoiplay.com/) and infrequently updated presences on various platforms like [Twitch](https://twitch.tv/tsunami643), [Instagram](https://instagram.com/tsunami643), and [Twitter.](https://twitter.com/tsunami643)
+
+One last thought before I let you go. I've been doing these blogs for so long that I finally caught up to the TI color cycle. [Green TI for my first blog in 2018,](https://howdoiplay.com/blog/2018/07/18/ti8-team-guide.html) green TI for this blog in 2024. I actually skipped 2019 because it was the first TI I worked as talent and I figured, "I shouldn't waste time writing a blog when I should be preparing." Turns out, doing these blogs was the *best way* for me to prepare.
+
+A shocking number of people came up to me in Birmingham and expressed appreciation for these blogs, which really meant a lot. I came into the Dota scene as a writer doing my [hero tips](https://howdoiplay.com/) and I'm glad I've kept up with my roots walking the tightrope between comedy and education. Also, the absurdity of me making these articles as a fan to stage hosting the event years later will never be lost on me.
+
+Thanks for reading and enjoy TI!
 
 <p style="font-size: 1.5em;margin-bottom:0px;text-align: center;font-weight:bold;">
     <a href="https://www.reddit.com/r/DotA2/comments/175j2hx/the_international_2023_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
