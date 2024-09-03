@@ -7,33 +7,28 @@ feature-img: "img/ti13teams/ti13header.jpg"
 flags: true
 ---
 
-### Or more accurately, "The *Road* to the International 2024: A Practical Guide"
+### Wait, there's a TI happening soon?
 
-The what?
+This has been a common sentiment from viewers this year and I don't really blame you. With the DPC being dismantled, a centralized way to know when/where Dota esports is happening has really been lacking. Also, the prize pool this year is basically the same as TI2 (adjusted for inflation), so that big source of publicity is also gone.
 
-The *Road*, my friends. The *Road*. Most people skip these introductions, so let's go quick.
+I was originally going to write a big pros/cons list on how the scene has been impacted by the DPC ending, but I procrastinated heavily on writing this article and I need to go to TI rehearsal soon, so here's a real quick version:
 
-#### What <i>was</i> SUNSfan warning us about?
+### Pros
+* **More LANs -** With the DPC there were basically ~6 LANs any given year. 3 Majors, 1 Riyadh, 1 TI, and 1 other ESL LAN in SEA later in the year. This *season*, we had ~8. And a bunch more are already lined up for almost immediately after TI ends.
+* **More prize money for tier 1 teams -** If we ignore Riyadh and TI, this year actually had more prize money for the teams than in the DPC league era. Remember, Div 1 Leagues were $205k, Majors were $500k prize pools each. This year, nearly every tier 1 event was $1MM.
+* **More TOs -** The DPC put a strangehold on the calendar locking most TOs out of doing any events if they didn't get a league or major. Next year, we're set to have BetBoom, BLAST, ESL, and PGL all fighting for your eyeballs [all year long.](https://twitter.com/xnick123/status/1790815683896365350)
 
-* **Was it beloved grassroots organization Beyond the Summit being shuttered?** BTS did not receive any DPC tour coverage rights this year which, along with an overall downturn in esports, may have been the death knell for this long standing Dota institution.
-* **Was it ESL not getting any DPC tours?** ESL also wasn't given any league coverage this year, so they decided to just make their own non-DPC circuit. The *ESL Pro Tour*, or EPT for short, consisted of two *DreamLeague* events and culminated in the *Riyadh Masters 2023* LAN event with a whopping $15MM prize pool.
-* **Was it the DPC getting canned?** After this year, the DPC in its current form will cease to exist. Valve seems optimistic. The community does not.
-* **Was it the Battle Pass getting kneecapped?** You may notice that the prize pool for this TI is [astronomically lower](https://dota2.prizetrac.kr/international2023) than previous years. Valve has made the conscious decision to not juice TI's purse with a cosmetic-laden Battle Pass with the implication that more content will come after TI fervor ends when more players are excited to actually play Dota, not just watch it.
-* **Was it the TI format changing?** In an effort to make group stage games higher stakes, Valve has now split the 20 TI teams into 4 different groups. If you make it past groups, you'll be placed in a playoff bracket the following weekend. These two legs are all part of *The Road* to the International. The final, *final* weekend, with the top 8 teams, will be considered the 'main' International.
 
-<p style="font-size: 23px">DPC BEING GONE
-<br>
-PROS - MORE LAN EVENTS
-<br>
-MORE MONEY
-<br>
-CONS - DIV 2 in shambles
-<br>
-MARKETING SUCKS</p>
+### Cons
+* **Fewer crowd events -** It was basically just Birmingham and Elite League S2. If you wanna count Riyadh, then that too. Last year was Lima, Berlin, and Bali (and Riyadh). I'm chalking that one up to organizers not really being given much time to book things in 2024 so soon after the DPC ended.
+* **Less prize money for tier 2 teams -** Tier 2 Dota is a chicken and the matchfixing egg situation. You put money into it, teams can't make it to tier 1, they start matchfixing to make the most out of their situation. You take money out of it, now it's not sustainable, teams start matchfixing to make a living.
+* **There's Dota going on? -** If you're super passionate about Dota esports, you know how to navigate Liquipedia like the back of your hand. If you're an "Oh I'll watch Dota if it's on" type viewer, this year was a complete nightmare for you. What events matter? What stream are they on? When's Nigma playing? Mysteries beyond our comprehension.
 
-These forewords are typically more for my benefit so I can document all the significant happenings from the year.
+That's the long and short of it from my perspective. SOUND OFF IN THE COMMENTS ABOUT YOUR THOUGHTS ON THE DPC ENDING!
 
-Here's a quick legend on how to read the tables: **Bold events are LANs (players are competing in-person, not online),** an asterisk* means there was a stand-in for a player or coach, and the results themselves are meant to be read from left to right in terms of chronology. For example, ESL One Kuala Lumpur, then BetBoom Dacha Dubai, then DreamLeague S22, and so on. If you're on mobile... turn your phone sideways.
+Onto the meat. Here's a quick legend on how to read the results tables: **Bold events are LANs (players are competing in-person, not online),** an asterisk* means there was a stand-in for a player or coach, and the results themselves are meant to be read from left to right in terms of chronology. For example, ESL One Kuala Lumpur, then BetBoom Dacha Dubai, then DreamLeague S22, and so on. If you're on mobile... turn your phone sideways.
+
+Let's get started.
 
 <style>
   table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}
@@ -455,11 +450,11 @@ A term that's decidedly more relevant amongst Dota's aging audience is "clutch" 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Well that's a logo we haven't seen around these parts in quite a while. And before you ask, no, EternaLEnVy hasn't finished his *Investor Z* filler arc and returned to the Dota scene quite yet. Instead, this roster was playing as Entity for most of the year.
+**How did this roster happen?** Well that's a logo we haven't seen around these parts in quite a while. And before you ask, no, EternaLEnVy hasn't finished his *Investor Z* [filler arc](https://tl.net/blogs/616169-eternalenvy-post-dota-trading-journey#1) and returned to the Dota scene quite yet. Instead, this roster was playing as Entity for most of the year.
 
 Watson, Kataomi, and Fishman were all on the TI12 Entity. Gabbi was replaced by DM and Stormstormer was replaced by reibl, who was then also replaced by Noone after they failed to qualify for ESL KL.
 
-Lastly, Astini joined as coach after Elite League S1. The players have publicly given a lot of credit to Astini after he started working with them. The man's results are nothing to scoff at, he was also coaching nouns last year when they got their surprise top 8 finish.
+Lastly, Astini joined as coach after Elite League S1. The players have publicly given a lot of credit to Astini after he started working with them. The man's results are nothing to scoff at, he was also coaching nouns when they got their surprise top 8 finish last TI.
 
 **How was their season?**
 
@@ -490,11 +485,11 @@ Lastly, Astini joined as coach after Elite League S1. The players have publicly 
 </div>
 <br>
 
-Nothing too exceptional, but being the first team out of WEU qualifiers will always be a feat. This year, some notable teams left in the wake included: Nigma, Secret, OG, Quest, and the illustrious Team Bald.
+Nothing too exceptional, but being the first team out of WEU qualifiers will always be a feat. This year, some notable teams left in the wake included: Nigma, Secret, OG, Quest, and the powerhouse Team Bald.
 
-**What would success look like?** The last time Cloud9 came back to the Dota scene, [a global pandemic began two months later.](https://cloud9.gg/cloud9-comes-off-cooldown-and-rejoins-competitive-dota-2/)
+**What would success look like?** The last time Cloud9 attempted to come back to the Dota scene, [a global pandemic began two months later.](https://cloud9.gg/cloud9-comes-off-cooldown-and-rejoins-competitive-dota-2/)
 
-The team's performance is irrelevant to me. If I don't have to jam a swab halfway up my nose come November 2024, you did it Cloud9, it's a win.
+The team's performance is irrelevant to me. If I don't have to jam a swab halfway up my nose until tears come streaming out in November 2024, you did it Cloud9, it's a win.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/tundra.jpg" alt="Banner"></p>
@@ -512,7 +507,19 @@ The team's performance is irrelevant to me. If I don't have to jam a swab halfwa
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** KL was a completely different roster, it was old TSM. Then Mindcontrol, 9class, and pure join. But then so does moonmeander and zai, kinda. And lemme tell you, ole' Ivan Ivanov did not like that one bit no siree. Then tobi came in. Then tobi came out and ramzses came in
+**How did this roster happen?** As mentioned earlier, the TI11 winning Tundra roster kinda imploded after TI12. They were already on life support with Saksa's health issues, but <a href="https://x.com/RAX_Nine/status/1721589497161224324">Nine deciding to take a break from competitive</a> was likely the final nail in the coffin. 33 went to Liquid, Skiter and Sney went to Falcons.
+
+Tundra wasn't about to take that lying down, however. Despite not really having a team, they temporarily picked up the orphaned NA TSM roster that qualified to ESL KL.
+
+Now strap in for the rest, I'm gonna go quick. Ok so Whitemon was on that TSM roster, they kept him. Topson was on their TI12 roster, they brought him back. Then they got Pure, 9class, and MinD_ContRoL. Yes, MC finally left Nigma under the pretenses that he would likely be helming operations at this new team. But then they also brought Moonmeander as a coach. And then they also brought in Zai as a manager (don't ask).
+
+You still keeping up? Good. Alright well now we have a lotta cooks in the kitchen, yeah? And lemme tell you, ole' Ivan Ivanov did not like that one bit, no siree. So much so that, according to Tundra, ["unreasonable demands"](https://x.com/TundraEsports/status/1762147698046615984) were being made by him which resulted in his suspension and ultimately, replacement, from the team before Birmingham.
+
+Tobi was brought in as a benchwarmer before Pure, who was also keen on the captain role all along, recruited Ramzes as their rostered offlaner.
+
+Oh yeah and now 9class wasn't able to get a visa to Denmark, so Saksa's back.
+
+You get everything?
 
 **How was their season?**
 
@@ -523,7 +530,7 @@ The team's performance is irrelevant to me. If I don't have to jam a swab halfwa
   <tbody>
   <tr><td><b>ESL One Kuala Lumpur</b></td><td class="top8"><b>7-8th*</b></td></tr>
   <tr><td>DreamLeague S22</td><td>9-10th</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td class="third"><b>3rd 🥉</b></td></tr>
+  <tr><td><b>ESL One Birmingham</b></td><td class="third"><b>3rd 🥉*</b></td></tr>
   <tr><td>DreamLeague S23</td><td>5-6th</td></tr>
   <tr><td><b>Riyadh Masters 2024</b></td><td class="fourth"><b>4th</b></td></tr>
   </tbody></table>
@@ -543,11 +550,9 @@ The team's performance is irrelevant to me. If I don't have to jam a swab halfwa
 </div>
 <br>
 
-QUALIFIED TO WALLACHIA BUT COULDN'T GET VISAS, REPLACED BY MOUZ
+Despite allllllll that... not too shabby, right?
 
-**What would success look like?** I don't mean to alarm you, but we may be witnessing the potential of ***3*** time TI winners Topson and Aui as coach!
-
-Sure, Topson already played a few matches with the Tundra boys during September's DreamLeague S21 and it was... fine? They only got 5-6th out of a 12 team tournament.
+**What would success look like?** Saksa was off the grid for most of the year, but was dipping his toe back in the competitive waters on Team Bald starting in May. Nine proved that he hadn't rusted much during his time off during his Wallachia stand-in period and most saw the same in Saksa during the Bald qualifier runs. Tundra boys built different.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/1w.jpg" alt="Banner"></p>
@@ -565,7 +570,7 @@ Sure, Topson already played a few matches with the Tundra boys during September'
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Typically when an EEU stack of majority newcomers is slapped together, they'll have at least one veteran player guiding them. Not in this case. Swedenstrong is probably the most well known having been on the 2022 Na`Vi roster that competed in the Arlington Major, but the rest of the players have mostly only tier 2 teams on their resumes.
+**How did this roster happen?** Typically, when an EEU stack of majority newcomers is slapped together, they'll have at least one veteran player guiding them. Not in this case. Swedenstrong is probably the most well known having been on the 2022 Na`Vi roster that competed in the Arlington Major, but the rest of the players have mostly only tier 2 teams on their resumes.
 
 **How was their season?**
 
@@ -596,7 +601,7 @@ Sure, Topson already played a few matches with the Tundra boys during September'
 </div>
 <br>
 
-They actually did qualify for Birmingham, but unsurprisingly, a bunch of young Russian players didn't 
+They actually did qualify for Birmingham, but unsurprisingly, a bunch of young Russian kids with limited foreign travels didn't look like appealing visa candidates, so they had to pass. When they finally did get their LAN chance at Elite League, they made it count. Went to five games against Liquid.
 
 **What would success look like?** Whenever a stack of untested players make their debut at TI, "Who's gonna look good enough to get poached by a top tier team" is the question on most people's minds. But lately, EEU teams have really made a point to stick together even after TI ends. Whether that's for the best, it depends. Sometimes you're a BB Team, sometimes you're a VP.
 
@@ -746,7 +751,9 @@ Legendary manager Jack Chen hois-- NO, STOP. I'M DOING IT AGAIN.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Mikoto wanted to take a break after last TI, so the rest of talon went on to become Aurora. Mikoto's break didn't last long and he was actually on Bleed for most of the year with jackky, masaros, dj, and poloson. Sounds like the kinda team that could do pretty good, right? Yep, just like all Bleed rosters. And like all Bleed rosters, they ended up sucking. Meanwhile, Talon signed the other 4 players from various middling SEA teams along with ChYuaN to play mid. Mikoto came back to Talon in june
+**How did this roster happen?** Mikoto wanted to take a break after last TI, so the rest of old Talon went on to become Aurora. Mikoto's break lasted a whopping two months and he was actually on Bleed for most of the year with Jackky, Masaros, DJ, and poloson. Sounds like the kinda team that could do pretty good, right? Yep, just like all Bleed rosters. And like all Bleed rosters, they ended up sucking.
+
+Meanwhile, Talon signed these other four players (Akashi, Ws, Jhocam, ponyo) from various middling SEA teams along with ChYuaN to play mid. Mikoto finally came back to Talon in June.
 
 **How was their season?**
 
@@ -777,11 +784,9 @@ Legendary manager Jack Chen hois-- NO, STOP. I'M DOING IT AGAIN.
 </div>
 <br>
 
-This year, EEU has been a rock paper scissors between three teams: 9Pandas, BetBoom, and Team Spirit. Each of them took a turn topping their regional league, but Pandas had the highest DPC LAN finish at the Berlin Major despite Rodjer standing in for Solo.
+Don't ask me how this team got the first slot out of SEA quals, I couldn't tell you. I mean, they got it by 2-0'ing Aurora, but the how or why escape me.
 
-**What would success look like?** Pretty much every year that Solo and Ramzes were teammates at TI, they were considered favorites. I would know. I put them into my Compendium predictions to win it literally every time. Then that old VP would proceed to consistently drop the ball at TI7. And TI8. And TI9.
-
-For some, the real success would be beating Gaimin specifically, but I think the Ramzes x Quinn rivalry horse was stomped to death in an elevator Refn-style one too many times this year.
+**What would success look like?** I can't do it anymore. I can't keep coming up with different ways to write, "Gosh SEA has been pretty mediocre, but maybe this is the year!" on these blogs. There are only so many variations one can author before it just becomes lorem ipsum text. I'll just keep sliding the goal post over with each year. Last TI, best SEA team was Talon at 9th-12th. So yeaaaaaah, beat thaaaaaat.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/aurora.jpg" alt="Banner"></p>
@@ -799,7 +804,7 @@ For some, the real success would be beating Gaimin specifically, but I think the
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Like I said, old Talon wanted to keep competing, but they didn't have a mid. Armel was originally the mid, but then he went and had a baby. Unknown newcomer lorenof came in starting at DLS22
+**How did this roster happen?** As mentioned on the Talon roster, old Talon wanted to keep competing, but now they didn't have a mid with Mikoto gone. Armel was originally the mid, but then he went and had a baby. Unknown newcomer lorenof came in starting at DLS22 as a result of... proximity? Talon needed a stand-in, they were bootcamping in Belgrade for DreamLeague, he was in Belgrade. Match made in heaven.
 
 **How was their season?**
 
@@ -830,11 +835,11 @@ For some, the real success would be beating Gaimin specifically, but I think the
 </div>
 <br>
 
-They did attempt to qualify for FISSURE Universe 3, but were eliminated in play-ins after getting 2-0'd by 1w and nouns.
+I swear I'm not trying to be dismissive of SEA. I love this region. I bleed for it. I boom for it. I execra-- actually nevermind. The point is, I legit just don't know what's going on with the teams in this region. The current prevailing theory is that [salaries are just bananas high](https://www.youtube.com/watch?v=f9IaNLJ-gNM) compared to cost of living in SEA and the players just have no real drive to *win* because they don't really have to.
 
-**What would success look like?** Every year I bemoan the state of SEA Dota and every year that feeling is mostly affirmed at TI. Although, last year, I actually had some real hope for these guys on Talon after they got 3<sup>rd</sup> at both the Lima Major (lost to Liquid twice in bracket) and Riyadh Masters 2023 (lost to Liquid twice in bracket). Unfortunately, they ended up getting 9-12th at that TI (lost to Liquid once in bracket).
+Is that the case with Aurora? Who can say. All I know is this team as Talon last year was the most hopium I'd ingested for the region in ages. A top 3 at Lima, a top 3 at Riyadh. Sure, Mikoto was a valuable piece of that roster, but lorenof is still pretty damn good too. And yet here we are capping out at top 8s.
 
-So, hey, maybe if they don't have to play Liquid theeeen...
+**What would success look like?** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Insert SEA platitude here.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/nouns.jpg" alt="Banner"></p>
@@ -854,7 +859,7 @@ So, hey, maybe if they don't have to play Liquid theeeen...
 
 **How did this roster happen?** Speaking of bemoaning regions of Dota, check out the <i>ONE</i> team representing North America at this TI. That's right. Every other region has at least two or more teams showing up in Copenhagen. But North America? THERE'S A REASON OUR COUNTRY CODE IS +1 BAYBEEE.
 
-But I digress. How did this roster happen? After getting top 8 at TI last year, gunnar moved to offlane and stormstormer was brought in for mid. Shopify fell apart after TI and fly came in to replace yamsun. Yuma replaced K1 after he went to HEROIC. After an underwhelming Dacha Dubai result stormstormer was replaced with another german, copy. Milan joined later.
+But I digress. How did this roster happen? After getting top 8 at TI last year, Gunnar moved to offlane and Stormstormer was brought in for mid. Shopify fell apart after TI and Fly came from there to replace Yamsun. Yuma replaced K1 after he went to HEROIC. After an underwhelming Dacha Dubai result, Stormstormer was replaced with another German, Copy.
 
 **How was their season?**
 
@@ -887,11 +892,9 @@ But I digress. How did this roster happen? After getting top 8 at TI last year, 
 </div>
 <br>
 
-Usually for these regional qualifier teams, we just have to infer how they'd theoretically perform against international opponents. Thankfully for nouns, we have the data. ESL graciously granted North America three slots to DLS19 and nouns got bodied. Then TSM graciously granted nouns their slot to the Bali Major and they got bodied again.
+You know the drill around here. North America? That means two teams are constantly vying for one slot. Five game grand final for DLS22 quals? Went to Shopify. Five game grand final for Birmingham quals? Went to Shopify. Five game grand final for DLS23 quals? Went to Shopify.
 
-To be fair, these were pre-K<sub>1</sub> versions of nouns. After dominating NA TI quals, it's been good times, right? Let me check some sources real quick. Ah yes, it appears they just finished playing in an online event *Pinnacle Cup: Malta Vibes #4* and got 9-12th after getting 2-0'd by a Turkish player whose handle is "Jeezy."
-
-Hmm.
+Nouns was out here playing the long con, though. "You can have those, Shopify" they say. "We'll just go to all the non-ESL events in the meanwhile." Quietly, they plot. Masterminding. Scheming. Nounsing. Come June, five game grand final for Riyadh quals? NOUNS. Grand final for TI quals? "YOU FOOLS!" they cackle, "YOU FELL RIGHT INTO OUR TRAP." Nouns at TI. 3-0. Cinema.
 
 And yes, this does mean that there is no Arteezy at this TI. His attendance streak from TI4 has finally been broken. Had he qualified, he'd have the most TI attendances of any player after Fly and Puppey.
 
@@ -916,7 +919,9 @@ Not gonna lie, though, it would be really cool to see the most veteran player at
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** K1 came from nouns, scofield came from beastcoast, analog and KJ came from keyd stars, davai lama exported himself to a third region after not finding success in europe
+**How did this roster happen?** HEROIC (all caps, MF DOOM style) is the last of the notable newcomer organizations to come to Dota this year. They're most famous for their WEU Counter-Strike teams, but they set up shop in South America for Dota.
+
+K1 came from nouns, Scofield came from beastcoast, Analog and KJ came from Keyd Stars, and Davai Lama exported himself to now his third region after getting painfully close to qualifying to TI with Luna Galaxy in WEU last year.
 
 **How was their season?**
 
@@ -947,15 +952,9 @@ Not gonna lie, though, it would be really cool to see the most veteran player at
 </div>
 <br>
 
-When you saw the **Lima** Major you just knew things had to be hype for South America. Peru is the strongest it's ever been and they finally had a LAN on home soil. Alas, EG was only able to scrape a top 6 finish. Amusingly, they got eliminated by ex-Evil Geniuses Arteezy and the gang.
+This team has been put through the grinder. Not only did they attend basically every single event this year, but they also had to qualify for nearly all of them. Gone are the days of the guaranteed SA slot to majors after a DPC league. So while the results don't look stellar, hopefully the gap between Elite League S2 ending and TI starting gifted them some much needed recharge time.
 
-They maintained their momentum into a 4<sup>th</sup> place finish at the Berlin Major. That's the most significant placement a South American team has gotten at a Valve Major since paiN Gaming's 3rd place finish at ESL One Birmingham 2018. Though, Birmingham's [tournament format](https://liquipedia.net/dota2/ESL_One/Birmingham/2018) was on crack, so let's just gloss over it and go with Berlin being the new South American bar to beat.
-
-Let's also gloss over the last third of the season because... oof.
-
-**What would success look like?** I've never seen a team where you can so clearly interpret how well they're going to do on any given day just by looking at their faces. I'm serious. Watch the VoDs on their elimination days. You'd think they were being forced to walk out on stage to play Dota at gunpoint.
-
-For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerseys being dug out of closets and dusted off with wives asking, "Why do you still have this? And who is Universe?" Will these vintage EG fans be rooting for this team? Probably not, but don't tell the players that. Big smiles, EG boys. Big Chris Smiles.
+**What would success look like?** MONGOLIAN THROAT SINGING IN THE ROYAL ARENA.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/beastcoast.jpg" alt="Banner"></p>
@@ -973,7 +972,7 @@ For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerse
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Gardick was on the original team, but was replaced by elmisho. It's mainly 4 new kids and papa mooz.
+**How did this roster happen?** beastcoast's TI12 roster kinda scattered to the four winds and they had to start from scratch making a new one. It's effectively four new kids and papa Mooz guiding them.
 
 **How was their season?**
 
@@ -1004,15 +1003,19 @@ For what it's worth, it *is* a Seattle TI. So there's probably a lot of EG jerse
 </div>
 <br>
 
-It's been a quiet season for the boys in aquamarine. For every superteam, there must be a... civilianteam? Let's just say the EG roster shuffle results were not very kind to them and having to change K1 at the end of the season probably didn't help. Their TI invitation chances were in jeopardy near the end of the season, but Shopify Rebellion did them a solid and lost in first round of Bali's lower bracket to get beastcoast 300 points with top 8.
+beastcoast was almost always 2<sup>nd</sup> place in qualifiers for most of these events. But such is the nature of the South American beast. If you're not first, you ain't flying nowhere. Thankfully, Riyadh and Elite League S2 gave SA two qualifying slots which finally allowed them a chance to test their mettle on LAN.
 
-**What would success look like?** A Climate Pledge arena filled to the brim with Crest plushies.
+**What would success look like?** I ain't holding my breath for anything happening in Copenhagen, but hopefully they stick together after? Like I said with 1w, usually these SA/EEU/NA "stacks" lack longevity if results don't come fast. But with the right structure from a proper org like beastcoast, maybe we see this team continue competing into the 2025 season.
 
 ----
 
-# Time to shill, I earned it
+# Now you're ready for Copenhagen!
 
-Too bad the core demographic for these articles are usually people who don't have Dota 2 installed anymore, BUT JUST IN CASE YOU DO, consider buying my voiceline!
+I say it every single year, but this year, I *really* mean it. Bless Liquipedia and all its employees and volunteers. I recently joined their Discord to help with the Fandom wiki merge and you would not believe the nonsense these saints deal with on a daily basis. Shady TOs begging for pages on their clearly illegitimate tournaments so gambling sites will cover them, admins urging Liquipedia to spread news of why strange things are happening in their tournaments rather than just making posts on their own social media, tier 6 players demanding their names be changed from red to blue after playing in *Bebriki League 2.0*. It's insane.
+
+These guys and gals are a bastion of integrity and diligence in the Dota scene. Without them, I shudder to imagine what writing an article like this would take. Hell, I don't even know how I would follow this esport in general *and it's literally my job!* If you consider yourself even marginally computer savvy and invested in Dota esports, do try to help them edit.
+
+Now after that very selfless gesture, it's time to self-promote. GO INSTALL DOTA AND BUY MY VOICELINES!
 
 <style>
   .shill_wrapper {
@@ -1122,11 +1125,7 @@ Too bad the core demographic for these articles are usually people who don't hav
 </div>
 </div>
 
-If you're more into physical goods, you can also check out my [**howdoiplay merch store**](https://shop.howdoiplay.com/). Season 2 drop coming eventually.
-
-Thank you, thank you, thank you to all the [Liquipedia volunteers.](https://liquipedia.net/dota2/Dota_Pro_Circuit/2023/Rankings) Dota just had our 'ten year anniversary' and so much of our esport's history is kept intact thanks to Liquipedia.
-
-If you want to keep up with me, I'm around on [Twitch](https://twitch.tv/tsunami643), [Instagram](https://instagram.com/tsunami643), and... [X.](https://twitter.com/tsunami643)
+I also have a [**merch store**](https://shop.howdoiplay.com/) and presences on various platforms like [Twitch](https://twitch.tv/tsunami643), [Instagram](https://instagram.com/tsunami643), and [Twitter.](https://twitter.com/tsunami643)
 
 <p style="font-size: 1.5em;margin-bottom:0px;text-align: center;font-weight:bold;">
     <a href="https://www.reddit.com/r/DotA2/comments/175j2hx/the_international_2023_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
