@@ -33,6 +33,12 @@ Let's get started.
 <style>
   table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}
 
+  @media screen and (max-width: 576px) {
+      table {
+        margin: 0;
+      }
+    }
+
   .resultsTable tr, .resultsTable td {
     display: revert;
     padding: 0.5em 1em;
