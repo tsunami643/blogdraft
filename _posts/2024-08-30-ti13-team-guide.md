@@ -37,6 +37,10 @@ Let's get started.
       table {
         margin: 0;
       }
+      .resultsTable tr
+      {
+        max-width: 180px;
+      }
     }
 
   .resultsTable tr, .resultsTable td {
