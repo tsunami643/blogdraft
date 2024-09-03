@@ -14,15 +14,15 @@ This has been a common sentiment from viewers this year and I don't really blame
 I was originally going to write a big pros/cons list on how the scene has been impacted by the DPC ending, but I procrastinated heavily on writing this article and I need to go to TI rehearsal soon, so here's a real quick version:
 
 ### Pros
-* **More LANs -** With the DPC there were basically ~6 LANs any given year. 3 Majors, 1 Riyadh, 1 TI, and 1 other ESL LAN in SEA later in the year. This *season*, we had ~8. And a bunch more are already lined up for almost immediately after TI ends.
+* **More LANs -** During the DPC, there were basically ~6 LANs any given year. 3 Majors, 1 Riyadh, 1 TI, and 1 other ESL LAN in SEA later in the year. This *season*, we had ~8. And a bunch more are already lined up for almost immediately after TI ends.
 * **More prize money for tier 1 teams -** If we ignore Riyadh and TI, this year actually had more prize money for the teams than in the DPC league era. Remember, Div 1 Leagues were $205k, Majors were $500k prize pools each. This year, nearly every tier 1 event was $1MM.
-* **More TOs -** The DPC put a strangehold on the calendar locking most TOs out of doing any events if they didn't get a league or major. Next year, we're set to have BetBoom, BLAST, ESL, and PGL all fighting for your eyeballs [all year long.](https://twitter.com/xnick123/status/1790815683896365350)
+* **More TOs -** The DPC put a strangehold on the calendar locking most TOs out of doing any events if they didn't get a league/major. Next year, we're set to have BetBoom, BLAST, ESL, and PGL fighting for your eyeballs [all year long.](https://twitter.com/xnick123/status/1790815683896365350)
 
 
 ### Cons
-* **Fewer crowd events -** It was basically just Birmingham and Elite League S2. If you wanna count Riyadh, then that too. Last year was Lima, Berlin, and Bali (and Riyadh). I'm chalking that one up to organizers not really being given much time to book things in 2024 so soon after the DPC ended.
+* **Fewer crowd events -** It was basically just Birmingham and Elite League S2. If you wanna count Riyadh, then that too. Last year was Lima, Berlin, and Bali (and Riyadh). I'm chalking that one up to organizers not really being given much time to book venues in 2024 so soon after the DPC ended. BLAST already [announced an event in Singapore](https://blast.tv/article/blast-cs-dota-singapore-announcement) for 2025, so progress is being made.
 * **Less prize money for tier 2 teams -** Tier 2 Dota is a chicken and the matchfixing egg situation. You put money into it, teams can't make it to tier 1, they start matchfixing to make the most out of their situation. You take money out of it, now it's not sustainable, teams start matchfixing to make a living.
-* **There's Dota going on? -** If you're super passionate about Dota esports, you know how to navigate Liquipedia like the back of your hand. If you're an "Oh I'll watch Dota if it's on" type viewer, this year was a complete nightmare for you. What events matter? What stream are they on? When's Nigma playing? Mysteries beyond our comprehension.
+* **There's Dota going on? -** If you're super passionate about Dota esports, you know how to navigate Liquipedia like the trees around the bot lane Lotus Pool. If you're an "I'll watch Dota if it's on" type viewer, this year was a complete nightmare for you. What events matter? What stream are they on? When's Nigma playing? Mysteries beyond our comprehension.
 
 That's the long and short of it from my perspective. SOUND OFF IN THE COMMENTS ABOUT YOUR THOUGHTS ON THE DPC ENDING!
 
