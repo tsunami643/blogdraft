@@ -248,7 +248,7 @@ The EPT (ESL Pro Tour) circuit created a dedicated MENA region this year and Fal
 
 Probably pretty good, it turns out. While their debut at ESL KL was nothing special, Aui joined the team as coach soon after and it's been a podium filled run ever since. Their lowest LAN placement was 3<sup>rd</sup>, and one of those was because Nine (Tundra reunion!) had to stand-in for Malrine.
 
-**What would success look like?** As exhibited by their performance this season, Falcons getting anything lower than 4<sup>th</sup> at this TI would probably be considered an upset. Are you ready to live in a universe where Sneyking... Dignitas.Sneyking... NAR`Vi.Sneyking... *Fighting Pepegas.Sneyking*... might be a two-time TI winner?
+**What would success look like?** As exhibited by their performance this season, Falcons getting anything lower than 4<sup>th</sup> at this TI would probably be considered an upset. Are you ready to exist in a universe where Sneyking... Dignitas.Sneyking... NAR`Vi.Sneyking... *Fighting Pepegas.Sneyking*... might be a two-time TI winner?
 
 Well start getting ready.
 
