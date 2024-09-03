@@ -104,7 +104,7 @@ Here's a quick legend on how to read the tables: **Bold events are LANs (players
 
 **How did this roster happen?** Usually after you win TI, you keep the gang together for another year. [Not always](https://youtu.be/hn39ySAFY_E?t=38), but usually.
 
-Even beyond that, the core four are currently the [third most prolific quartet in the history of the game](../img/ti13teams/spirit_4tuple.jpg) *(credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.37&patch=7.36&patch=7.35&patch=7.34&patch=7.33&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2010&before=02%2F09%2F2024&duration=0%3B200&duration-value-from=0&duration-value-to=200))* after TI7 Liquid and TI3 Alliance.
+Even beyond that, the core four are currently the [third most prolific quartet in the history of the game](../img/ti13teams/spirit_4tuple.jpg) *(credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.37&patch=7.36&patch=7.35&patch=7.34&patch=7.33&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2010&before=02%2F09%2F2024&duration=0%3B200&duration-value-from=0&duration-value-to=200))* next to TI7 Liquid and TI3 Alliance.
 
 **How was their season?**
 
@@ -159,7 +159,7 @@ As the season comes to a close, they do seem to be Mode: Grind as they are the o
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Dy had been chilling on Xtreme for about 3 years, but the rest of the team came out of nowhere. After being absent from the competitive scene since TI2022 in Singapore, professional Genshin Impact cosplayer Ame made his triumphant return to Dota in 2024. Meanwhile, Xtreme and Azure Ray share the same owner, so Xm, Xxs, and XinQ were transferred over from Azure.
+**How did this roster happen?** Dy had been chilling on Xtreme for about 3 years, but the rest of the team came out of nowhere. After being absent from the competitive scene since TI2022 in Singapore, professional Genshin Impact cosplayer Ame made his triumphant return to Dota in 2024. Meanwhile, Xtreme and Azure Ray share the same owner, so Xm, Xxs, and XinQ were transferred over here from Azure.
 
 **How was their season?**
 
@@ -190,7 +190,7 @@ As the season comes to a close, they do seem to be Mode: Grind as they are the o
 </div>
 <br>
 
-The transferring of the three X amigos happened *after* they won ESL KL as Azure Ray, so I'm counting that as an Xtreme win. After that, the team took up the mantle of "best Chinese team" fairly quickly. Ame seemingly hadn't missed a beat during his sabbatical and Xtreme ended the season on a high note with a win on home turf at the Snow Ruyi LAN.
+The trading of the three X amigos happened *after* they won ESL KL as Azure Ray, so I'm counting that as an Xtreme win. After that, the team took up the mantle of "best Chinese team" fairly quickly. Ame seemingly hadn't missed a beat during his sabbatical and Xtreme ended the season on a high note with a win on home soil at the China Snow Ruyi LAN.
 
 Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjqr/yatoro_on_why_he_changed_his_nickname/">Raddan</a> had to give one back to his beloved [Ame the Kind](https://www.reddit.com/r/DotA2/comments/1aimrjf/yatoro_after_watching_10_minutes_of_ames_game_on/) after Wallachia.
 
@@ -212,13 +212,13 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Falcons is one of several organizations to suddenly pop up in Dota this year. So who'd they get? Well, ATF has been consistently in the conversation of top 5 Dota players in the world for the past three years, but was absent from last Riyadh and TI following contract disputes with Quest. You really need to know what you're doing if you're gonna pass on those two events, but boy did the gamble pay off.
+**How did this roster happen?** Falcons is one of several organizations to suddenly pop up in Dota this year. So who'd they get? Well, ATF has consistently been in the conversation of top 5 Dota players in the world for the past three years, but was absent from last Riyadh and TI following contract disputes with Quest. You really need to know what you're doing if you're gonna pass on those two events, but boy has the gamble paid off.
 
 With him, came Malrine; another graduate from the illustrious school of Creepwave with Ammar. He had minimal tier 1 pro experience, but that has not at all been reflected in his play. Kid's a beast.
 
 Tundra imploded after TI12, bringing an opportunity for Skiter and Sneyking to join. Both of them also had experience playing with Malrine when [he briefly stood in for Tundra last year.](https://www.youtube.com/watch?v=NYTtg3Nr3r8&t=140s)
 
-Last piece of the puzzle is Crit. After *seven years* of playing in North America, Crit finally abandoned ship(ify) and immediately found himself on a championship roster.
+Last piece of the puzzle was Crit. After *seven years* of playing in North America, Crit finally abandoned ship<sup>ify</sup> and immediately found himself on a championship roster. Really makes you wonder.
 
 **How was their season?**
 
@@ -277,7 +277,7 @@ Well start getting ready.
 
 **How did this roster happen?** Liquid keeps having players retire on them after TIs end, but for once Team Secret didn't have anyone worth redeeming as a replacement for Zai. So who do you get if the job requirement is for a brainy offlaner willing to take the captain role? 33 fit the bill.
 
-TI7 grand finalist kpii recently popped in to also coach Liquid when Blitz couldn't make it to Elite League S2. He earned his keep.
+TI7 Newbee grand finalist kpii recently popped in to also coach Liquid when Blitz couldn't make it to Elite League S2. He earned his keep.
 
 **How was their season?**
 
@@ -308,7 +308,7 @@ TI7 grand finalist kpii recently popped in to also coach Liquid when Blitz could
 </div>
 <br>
 
-When TI invites were announced in May, there was a sentiment permeating online that Liquid had been huffing glue all year and them getting a direct invite to TI was absurd. Outside of online DreamLeagues, it was a pretty flimsy stance, but Liquid seemed to have took it personally and really turned up the heat afterwards for their last two events.
+When TI invites were announced in May, there was a sentiment permeating on the interweb that Liquid had actually been huffing glue all year and them getting a direct invite to TI was absurd. Outside of their online DreamLeagues results, it was a pretty flimsy stance, but Liquid seemed to have took it personally and really turned up the heat afterwards for their last two events.
 
 Here's a fun exercise for anyone who hasn't been keeping up with Dota since last year: Based on your memory of the 2023 season, take a wild guess at who beat these guys in grand finals of Riyadh. Yup. Yuuuuuup.
 
@@ -365,13 +365,13 @@ But do *you* count it as the LAN win they've been clawing towards for years? Do 
 </div>
 <br>
 
-Their results changed from last year!
+Their results changed from last year! But not in the good way.
 
-But not in the good way. They at least closed out the previous calendar year strong with a grand final appearance at KL (losing to Azure Ray), but the rest of the season was a far cry from the heights they achieved in 2023. That is, up until Riyadh.
+They at least closed out the previous calendar year strong with a grand final appearance at ESL KL (losing to Azure Ray), but the rest of the season was a far cry from the heights they achieved in 2023. That is, up until Riyadh.
 
 So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted them higher earnings than winning all three majors (Lima+Berlin+Bali) and 2<sup>nd</sup> place at TI last year *combined*. That's just good financial planning.
 
-**What would success look like?** Famously, winning the last big event before TI meant you probably *won't* win TI. That trend was bucked last year with Spirit winning in both Riyadh and Seattle. So I guess the story now is: Spirit won both. Can Gaimin?
+**What would success look like?** Famously, winning the last big event before TI used to mean you probably *won't* win TI. That trend was bucked last year with Spirit winning in both Riyadh and Seattle. So I guess the story now is: Spirit won both. Can Gaimin?
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/betboom.jpg" alt="Banner"></p>
