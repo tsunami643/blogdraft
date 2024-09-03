@@ -308,7 +308,7 @@ TI7 Newbee grand finalist kpii recently popped in to also coach Liquid when Blit
 </div>
 <br>
 
-When TI invites were announced in May, there was a sentiment permeating on the interweb that Liquid had actually been huffing glue all year and them getting a direct invite to TI was absurd. Outside of their online DreamLeagues results, it was a pretty flimsy stance, but Liquid seemed to have took it personally and really turned up the heat afterwards for their last two events.
+When TI invites were announced in May, there was a sentiment permeating on the interweb that Liquid had actually been huffing glue all year and them getting a direct invite to TI was absurd. Outside of their online DreamLeague results, it was a pretty flimsy stance, but Liquid seemed to have took it personally and really turned up the heat afterwards for their last two events.
 
 Here's a fun exercise for anyone who hasn't been keeping up with Dota since last year: Based on your memory of the 2023 season, take a wild guess at who beat these guys in grand finals of Riyadh. Yup. Yuuuuuup.
 
@@ -421,10 +421,11 @@ So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted t
 <br>
 
 The kids these days use the term "aura" a lot. Aura, [as defined by Wikipedia, the free encyclopedia at en.wikipedia.org is:](https://en.wikipedia.org/wiki/List_of_Generation_Z_slang#:~:text=Aura,%2C%20Twitter%2C%20and%20YouTube%20Shorts.)
-> A quantifiable unit referring to how cool (positive integer) or uncool (negative integer) an individual is.
->> "Oh, you failed to rizz that level 10 gyatt? -1000000 aura loss lil bro."
 
->> "How much aura did I lose when I got Fanum taxed in Ohio?"
+> <p style="font-family: Georgia, serif; font-size: 30px">aura (/ˈɔɹ.ə/), <span style="font-size: 20px"><i>noun</i></style></p>
+> <p style="font-family: Georgia, serif; font-size: 23px">A quantifiable unit referring to how cool (positive integer) or uncool (negative integer) an individual is.</p>
+> <p style="font-family: Georgia, serif; color:gray"><i>"Oh, you failed to rizz that level 10 gyatt? -1000000 aura loss lil bro."</i></p>
+> <p style="font-family: Georgia, serif; color:gray"><i>"How much aura did I lose when I got Fanum taxed in Ohio?"</i></p>
 
 Now why did I make you read those cursed sentences? Basically, BB have aura ong 💯 when going through bracket. But when it comes to the final four-ish? Big yikes. They're completely cooked. It's giving delulu.
 
