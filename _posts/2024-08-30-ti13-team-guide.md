@@ -511,7 +511,7 @@ The team's performance is irrelevant to me. If I don't have to jam a swab halfwa
 
 Tundra wasn't about to take that lying down, however. Despite not really having a team, they temporarily picked up the orphaned NA TSM roster that qualified to ESL KL.
 
-Now strap in for the rest, I'm gonna go quick. Ok so Whitemon was on that TSM roster, they kept him. Topson was on their TI12 roster, they brought him back. Then they got Pure, 9class, and MinD_ContRoL. Yes, MC finally left Nigma under the pretenses that he would likely be helming operations at this new team. But then they also brought Moonmeander as a coach. And then they also brought in Zai as a manager (don't ask).
+Now strap in for the rest, I'm gonna go quick. Ok so Whitemon was on that TSM roster, they kept him. Topson was on their TI12 roster, they brought him back. Then they got Pure, 9class, and MinD_ContRoL. Yes, MC finally left Nigma under the pretenses that he would likely be helming operations at this new team. But then they also brought in Moonmeander as a coach. And then they also brought in Zai as a manager (don't ask).
 
 You still keeping up? Good. Alright well now we have a lotta cooks in the kitchen, yeah? And lemme tell you, ole' Ivan Ivanov did not like that one bit, no siree. So much so that, according to Tundra, ["unreasonable demands"](https://x.com/TundraEsports/status/1762147698046615984) were being made by him which resulted in his suspension and ultimately, replacement, from the team before Birmingham.
 
@@ -552,7 +552,7 @@ You get everything?
 
 Despite allllllll that... not too shabby, right?
 
-**What would success look like?** Saksa was off the grid for most of the year, but was dipping his toe back in the competitive waters on Team Bald starting in May. Nine proved that he hadn't rusted much during his time off during his Wallachia stand-in period and most saw the same in Saksa during the Bald qualifier runs. Tundra boys built different.
+**What would success look like?** Saksa was off the grid for most of the year, but was dipping his toe back in the competitive waters on Team Bald starting in May. Nine proved that he hadn't rusted much during his time off when he stood in during Wallachia and most saw the same in Saksa during the Bald qualifier runs. Tundra boys just built different.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/1w.jpg" alt="Banner"></p>
