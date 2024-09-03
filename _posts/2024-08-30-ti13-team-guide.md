@@ -212,7 +212,13 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** New  built around ATF who didn't sign with quest at the end of last season, skiter and sney left tundra, crit left arteezy, and malrine was known from standing in for tundra w/ skiter and sney and also was fam with atf from the creepwave days. aui joined after KL and immediately popped off
+**How did this roster happen?** Falcons is one of several organizations to suddenly pop up in Dota this year. So who'd they get? Well, ATF has been consistently in the conversation of top 5 Dota players in the world for the past three years, but was absent from last Riyadh and TI following contract disputes with Quest. You really need to know what you're doing if you're gonna pass on those two events, but boy did the gamble pay off.
+
+With him, came Malrine; another graduate from the illustrious school of Creepwave with Ammar. He had minimal tier 1 pro experience, but that has not at all been reflected in his play. Kid's a beast.
+
+Tundra imploded after TI12, bringing an opportunity for Skiter and Sneyking to join. Both of them also had experience playing with Malrine when [he briefly stood in for Tundra last year.](https://www.youtube.com/watch?v=NYTtg3Nr3r8&t=140s)
+
+Last piece of the puzzle is Crit. After *seven years* of playing in North America, Crit finally abandoned ship(ify) and immediately found himself on a championship roster.
 
 **How was their season?**
 
@@ -243,7 +249,7 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
 </div>
 <br>
 
-The EPT circuit created a dedicated MENA region this year and Falcons promptly stomped their way to the top. The competition in those qualifiers was basically limited to Quest and Nigma, so the community was left wondering, "Yeah, okay, but how good would this team be if they had to play WEU quals?"
+The EPT circuit created a dedicated MENA region this year and Falcons, being a Saudi org, promptly stomped their way to the top. The competition in those qualifiers was basically limited to Quest and Nigma, so the community was left wondering, "Yeah, okay, but how good would this team be if they had to play WEU quals?"
 
 Probably pretty good, it turns out. While their debut at ESL KL was nothing special, Aui joined the team as coach shortly thereafter and it's been a podium filled run ever since. Their lowest LAN placement was 3<sup>rd</sup>, and one of those was because Nine (Tundra reunion!) had to stand-in for Malrine.
 
@@ -270,6 +276,8 @@ Well start getting ready.
 <hr style="margin: 0.5em 0;">
 
 **How did this roster happen?** Liquid keeps having players retire on them after TIs end, but for once Team Secret didn't have anyone worth redeeming as a replacement for Zai. So who do you get if the job requirement is for a brainy offlaner willing to take the captain role? 33 fit the bill.
+
+TI7 grand finalist kpii recently popped in to also coach Liquid when Blitz couldn't make it to Elite League S2. He earned his keep.
 
 **How was their season?**
 
