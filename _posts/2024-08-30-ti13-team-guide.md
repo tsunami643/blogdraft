@@ -656,7 +656,7 @@ The calendar looks pretty empty for them and that's because it was. Scrolling th
 
 Jokes aside, the fact that they were the *first* team to qualify out of China's TI regionals was crazy. Remember, Xtreme was China's only directly invited TI team, so there were still plenty of sharks left in the qualifier. But Zero rightfully earned the first slot by beating both G2 x iG and Azure Ray.
 
-**What would success look like?** Witnessing the glorious ponlo redemption arc after his troubled stints on Quincy Crew, Alliance, and ~~twitter~~ x dot com.
+**What would success look like?** Witnessing the glorious ponlo redemption arc after his troubled stints on Quincy Crew, Alliance, and Twitter.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/g2ig.jpg" alt="Banner"></p>
@@ -696,7 +696,7 @@ Here's how I like to imagine their initial meeting went:
 
 <code><font size="6">ARE YOU FUCKING KIDDING ME.</font></code>
 
-You'll notice I also wrote their manager on this roster list despite usually not doing that. Why? Take a shot every time someone mentions Jack "KBBQ" Chen on the EN broadcast when G2 x iG are playing. You'll be puking in the toilet before the draft even starts.
+You'll notice I also wrote their manager on this roster list despite usually not doing that. Why? Take a shot every time someone mentions Jack "KBBQ" Chen on the EN broadcast whenever G2 x iG are playing. You'll be puking in the toilet before the draft even starts.
 
 **How was their season?**
 
@@ -835,7 +835,7 @@ Don't ask me how this team got the first slot out of SEA quals, I couldn't tell 
 </div>
 <br>
 
-I swear I'm not trying to be dismissive of SEA. I love this region. I bleed for it. I boom for it. I execra-- actually nevermind. The point is, I legit just don't know what's going on with the teams in this region. The current prevailing theory is that [salaries are just bananas high](https://www.youtube.com/watch?v=f9IaNLJ-gNM) compared to cost of living in SEA and the players just have no real drive to *win* because they don't really have to.
+I swear I'm not trying to be dismissive of SEA. I love this region. I bleed for it. I boom for it. I execra-- actually nevermind. The point is, I legit just don't know what's going on with the teams in this region. The current prevailing theory is that [salaries are just bananas high](https://www.youtube.com/watch?v=f9IaNLJ-gNM) compared to cost of living in SEA and the players have no drive to *win* because they don't really have to.
 
 Is that the case with Aurora? Who can say. All I know is this team as Talon last year was the most hopium I'd ingested for the region in ages. A top 3 at Lima, a top 3 at Riyadh. Sure, Mikoto was a valuable piece of that roster, but lorenof is still pretty damn good too. And yet here we are capping out at top 8s.
 
@@ -892,7 +892,7 @@ But I digress. How did this roster happen? After getting top 8 at TI last year, 
 </div>
 <br>
 
-You know the drill around here. North America? That means two teams are constantly vying for one slot. Five game grand final for DLS22 quals? Went to Shopify. Five game grand final for Birmingham quals? Went to Shopify. Five game grand final for DLS23 quals? Went to Shopify.
+You know the drill around here. North America? That means we have two teams constantly vying for one slot. Five game grand final for DLS22 quals? Went to Shopify. Five game grand final for Birmingham quals? Went to Shopify. Five game grand final for DLS23 quals? Went to Shopify.
 
 Nouns was out here playing the long con, though. "You can have those, Shopify" they say. "We'll just go to all the non-ESL events in the meanwhile." Quietly, they plot. Masterminding. Scheming. Nounsing. Come June, five game grand final for Riyadh quals? NOUNS. Grand final for TI quals? "YOU FOOLS!" they cackle, "YOU FELL RIGHT INTO OUR TRAP." Nouns at TI. 3-0. Cinema.
 
