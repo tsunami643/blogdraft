@@ -422,16 +422,16 @@ So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted t
 
 The kids these days use the term "aura" a lot. Aura, [as defined by Wikipedia, the free encyclopedia at en.wikipedia.org is:](https://en.wikipedia.org/wiki/List_of_Generation_Z_slang#:~:text=Aura,%2C%20Twitter%2C%20and%20YouTube%20Shorts.)
 
-> <p style="font-family: Georgia, serif; font-size: 30px">aura (/ˈɔɹ.ə/), <span style="font-size: 20px"><i>noun</i></style></p>
+> <p style="font-family: Georgia, serif; font-size: 30px"><b>aura</b> (/ˈɔɹ.ə/), <span style="font-size: 20px"><i>noun</i></span></p>
 > <p style="font-family: Georgia, serif; font-size: 23px">A quantifiable unit referring to how cool (positive integer) or uncool (negative integer) an individual is.</p>
-> <p style="font-family: Georgia, serif; color:gray"><i>"Oh, you failed to rizz that level 10 gyatt? -1000000 aura loss lil bro."</i></p>
-> <p style="font-family: Georgia, serif; color:gray"><i>"How much aura did I lose when I got Fanum taxed in Ohio?"</i></p>
+> <p style="font-family: Georgia, serif; color:gray; font-size: 14px"><i>"Oh, you failed to rizz that level 10 gyatt? -1000000 aura loss lil bro."</i></p>
+> <p style="font-family: Georgia, serif; color:gray; font-size: 14px"><i>"How much aura did I lose when I got Fanum taxed in Ohio?"</i></p>
 
 Now why did I make you read those cursed sentences? Basically, BB have aura ong 💯 when going through bracket. But when it comes to the final four-ish? Big yikes. They're completely cooked. It's giving delulu.
 
 Skibidi.
 
-A term that's decidedly more relevant amongst Dota's aging audience is "clutch" and if one possesses the clutch gene and/or clutch factor. Time and time again this year, BB Team were shown to not have it. Trouble for them was there was no clear diagnosis. It wasn't like individual players were underperforming in high pressure situations or specific teams consistently beating them. BB as a whole just looked more and more disconnected the higher the stakes got.
+A term that's decidedly more relevant amongst Dota's aging audience is "clutch" and if one possesses the clutch gene and/or clutch factor. Time and time again this year, BB Team were shown to not have it. Trouble for them was there was no clear diagnosis. It wasn't like individual players started underperforming in high pressure situations or specific teams were consistently beating them. BB as a whole just looked more and more disconnected the higher the stakes got.
 
 **What would success look like?** Aegismaxxing.
 
