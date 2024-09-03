@@ -50,6 +50,7 @@ Let's get started.
     border: 0px;
     text-align: center;
     height: 48px;
+    max-width: 180px;
   }
 
   .roster {
