@@ -556,7 +556,7 @@ Despite allllllll that... not too shabby, right?
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/1w.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">1w - <i>Eastern Europe</i></h2>
+<h2 style="margin: 0.25em 0;">1w Team - <i>Eastern Europe</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Munkushi~</td>
