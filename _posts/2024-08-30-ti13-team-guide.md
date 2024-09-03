@@ -896,7 +896,7 @@ You know the drill around here. North America? That means we have two teams cons
 
 Nouns was out here playing the long con, though. "You can have those, Shopify" they say. "We'll just go to all the non-ESL events in the meanwhile." Quietly, they plot. Masterminding. Scheming. Nounsing. Come June, five game grand final for Riyadh quals? NOUNS.
 
-Then the coup dao grâce. Grand final for TI quals? "YOU FOOLS!" they cackle, "YOU FELL RIGHT INTO OUR TRAP." Nouns at TI. 3-0. Cinema.
+Then the coup DAO grâce. Grand final for TI quals? "YOU FOOLS!" they cackle, "YOU FELL RIGHT INTO OUR TRAP." Nouns at TI. 3-0. Cinema.
 
 And yes, this does mean that there is no Arteezy at this TI. His attendance streak from TI4 has finally been broken. Had he qualified, he'd have the most TI attendances of any player after Fly and Puppey.
 
@@ -1007,7 +1007,7 @@ This team has been put through the grinder. Not only did they attend basically e
 
 beastcoast was almost always 2<sup>nd</sup> place in qualifiers for most of these events. But such is the nature of the South American beast. If you're not first, you ain't flying nowhere. Thankfully, Riyadh and Elite League S2 gave SA two qualifying slots which finally allowed them a chance to test their mettle on LAN.
 
-**What would success look like?** I ain't holding my breath for anything happening in Copenhagen, but hopefully they stick together after? Like I said with 1w, usually these SA/EEU/NA "stacks" lack longevity if results don't come fast. But with the right structure from a proper org like beastcoast, maybe we see this team continue competing into the 2025 season.
+**What would success look like?** I ain't holding my breath for anything happening in Copenhagen, but perhaps they'll stick together after? Like I said with 1w, usually these SA/EEU/NA "stacks" lack longevity if results don't come fast. But with the right structure from a proper org like beastcoast, maybe we see this team continue competing into the 2025 season.
 
 ----
 
