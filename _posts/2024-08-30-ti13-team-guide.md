@@ -104,6 +104,8 @@ Here's a quick legend on how to read the tables: **Bold events are LANs (players
 
 **How did this roster happen?** Usually after you win TI, you keep the gang together for another year. [Not always](https://youtu.be/hn39ySAFY_E?t=38), but usually.
 
+Even beyond that, the core four are currently the [third most prolific quartet in the history of the game](../img/ti13teams/spirit_4tuple.jpg) *(credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.37&patch=7.36&patch=7.35&patch=7.34&patch=7.33&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2010&before=02%2F09%2F2024&duration=0%3B200&duration-value-from=0&duration-value-to=200))* after TI7 Liquid and TI3 Alliance.
+
 **How was their season?**
 
 <div class="resultsContainer" style="text-align: center;">
@@ -298,7 +300,7 @@ Well start getting ready.
 </div>
 <br>
 
-When TI invites were announced in May, there was a sentiment permeating online that Liquid had been huffing glue all year and them getting a direct invite to TI was absurd. They seem to have taken that personally and really turned up the heat for their last two events.
+When TI invites were announced in May, there was a sentiment permeating online that Liquid had been huffing glue all year and them getting a direct invite to TI was absurd. Outside of DreamLeagues, it was a pretty flimsy stance, but Liquid seemed to have taken it personally and really turned up the heat afterwards for their last two events.
 
 Here's a fun exercise for anyone who hasn't been keeping up with Dota since last year: Based on your memory of the 2023 season, take a wild guess at who beat these guys in grand finals of Riyadh. Yup. Yuuuuuup. I think Liquid is probably the only team in the history of Dota who could win a lower bracket final against a team like Falcons so dominantly and yet have the entire community immediately think, "Oh great, now they're definitely gonna lose grand finals 3-0 to Gaimin."
 
@@ -357,11 +359,11 @@ But do *you* count it as the LAN win they've been clawing towards for years? Do 
 
 Their results changed from last year!
 
-But not in the good way. They at least closed out the 2023 calendar year strong with a grand final appearance at KL, but the rest of the season was a far cry from the heights they achieved last season. That is, up until Riyadh.
+But not in the good way. They at least closed out the previous calendar year strong with a grand final appearance at KL (losing to Azure Ray), but the rest of the season was a far cry from the heights they achieved in 2023. That is, up until Riyadh.
 
-Fewer trophies, perhaps, but their 1<sup>st</sup> place finish at Riyadh netted them higher earnings than winning all three majors (Lima+Berlin+Bali) and 2<sup>nd</sup> place at last TI *combined*.
+So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted them higher earnings than winning all three majors (Lima+Berlin+Bali) and 2<sup>nd</sup> place at TI last year *combined*. That's just good financial planning.
 
-**What would success look like?** Famously, winning the last big event before TI meant you probably *won't* win TI. That trend was bucked last year with Spirit winning both Riyadh and TI. So I guess the story now is: Spirit won both. Can Gaimin?
+**What would success look like?** Famously, winning the last big event before TI meant you probably *won't* win TI. That trend was bucked last year with Spirit winning in both Riyadh and Seattle. So I guess the story now is: Spirit won both. Can Gaimin?
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/betboom.jpg" alt="Banner"></p>
@@ -379,7 +381,7 @@ Fewer trophies, perhaps, but their 1<sup>st</sup> place finish at Riyadh netted 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Pure was still on the roster until after KL when they got miero
+**How did this roster happen?** After their TI12 run, Pure was still the offlaner on this team until after KL when they traded him out for Miero.
 
 **How was their season?**
 
@@ -887,7 +889,7 @@ And yes, this does mean that there is no Arteezy at this TI. His attendance stre
 
 **What would success look like?** Honestly, them getting top 8 last year *was* a success in my book. Their LAN results last year were equally as middling, so I could see it happening again.
 
-Not gonna lie, though, it would be really cool to see the most veteran player at the event lift the Aegis. And I'm not just talking about TI appearances, Fly is also the oldest player competing at this TI at 31.
+Not gonna lie, though, it would be really cool to see the most veteran player at the event lift the Aegis. And I'm not just talking about TI appearances, Fly is also the oldest player competing at this TI at 31 and also the player with the most ticketed games of pro Dota ever. Insane longevity.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../img/ti13teams/heroic.jpg" alt="Banner"></p>
