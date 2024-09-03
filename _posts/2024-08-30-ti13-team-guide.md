@@ -9,7 +9,7 @@ flags: true
 
 ### Wait, there's a TI happening soon?
 
-This has been a common sentiment from viewers this year and I don't really blame you. With the DPC being dismantled, a centralized way to know when/where Dota esports is happening has really been lacking. Also, the prize pool this year is basically the same as TI2 (adjusted for inflation), so that big source of publicity is also gone.
+This has been a common sentiment from viewers this year and I don't really blame you. With the DPC being dismantled, a centralized way to know where/when Dota esports is happening has been sorely lacking. Also, the prize pool this year is basically the same as TI1/2 (adjusted for inflation), so that big source of publicity is also gone.
 
 I was originally going to write a big pros/cons list on how the scene has been impacted by the DPC ending, but I procrastinated heavily on writing this article and I need to go to TI rehearsal soon, so here's a real quick version:
 
@@ -26,7 +26,7 @@ I was originally going to write a big pros/cons list on how the scene has been i
 
 That's the long and short of it from my perspective. SOUND OFF IN THE COMMENTS ABOUT YOUR THOUGHTS ON THE DPC ENDING!
 
-Onto the meat. Here's a quick legend on how to read the results tables: **Bold events are LANs (players are competing in-person, not online),** an asterisk* means there was a stand-in for a player or coach, and the results themselves are meant to be read from left to right in terms of chronology. For example, ESL One Kuala Lumpur, then BetBoom Dacha Dubai, then DreamLeague S22, and so on. If you're on mobile... turn your phone sideways.
+Onto the meat. Here's a quick legend on how to read the results tables: **Bold events are LANs (players are competing in-person, not online)**, an asterisk* means there was a stand-in for a player or coach, and the results themselves are meant to be read from left to right in terms of chronology. For example, ESL One Kuala Lumpur, then BetBoom Dacha Dubai, then DreamLeague S22, and so on. If you're on mobile... turn your phone sideways.
 
 Let's get started.
 
@@ -99,7 +99,7 @@ Let's get started.
 
 **How did this roster happen?** Usually after you win TI, you keep the gang together for another year. [Not always](https://youtu.be/hn39ySAFY_E?t=38), but usually.
 
-Even beyond that, the core four are currently the [third most prolific quartet in the history of the game](../img/ti13teams/spirit_4tuple.jpg) *(credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.37&patch=7.36&patch=7.35&patch=7.34&patch=7.33&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2010&before=02%2F09%2F2024&duration=0%3B200&duration-value-from=0&duration-value-to=200))* next to TI7 Liquid and TI3 Alliance.
+Even beyond that, the core four are currently the [third most prolific quartet in the history of the game](./../../../img/ti13teams/spirit_4tuple.jpg) *(credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.37&patch=7.36&patch=7.35&patch=7.34&patch=7.33&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2010&before=02%2F09%2F2024&duration=0%3B200&duration-value-from=0&duration-value-to=200))* next to TI7 Liquid and TI3 Alliance.
 
 **How was their season?**
 
