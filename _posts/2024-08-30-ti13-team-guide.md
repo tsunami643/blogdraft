@@ -37,10 +37,6 @@ Let's get started.
       table {
         margin: 0;
       }
-      .resultsTable tr
-      {
-        max-width: 180px;
-      }
     }
 
   .resultsTable tr, .resultsTable td {
@@ -50,7 +46,7 @@ Let's get started.
     border: 0px;
     text-align: center;
     height: 48px;
-    max-width: 180px;
+    max-width: 175px;
   }
 
   .roster {
