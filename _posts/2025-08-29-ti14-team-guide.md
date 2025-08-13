@@ -117,7 +117,7 @@ Even beyond that, the core four are currently the [third most prolific quartet i
   <thead><tr><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td>PGL Wallachia S2</td><td>-</td></tr>
-  <tr><td><b>BB Dacha Belgrade 2024</b></td><td><b>4th</b></td></tr>
+  <tr><td><b>BB Dacha Belgrade 2024</b></td><td class="fourth"><b>4th</b></td></tr>
   <tr><td>DreamLeague S24</td><td>3rd</td></tr>
   <tr><td>BLAST Slam I</td><td><b>9-10th</b></td></tr>
   <tr><td><b>ESL One Bangkok 2024</b></td><td><b>4th</b></td></tr>
@@ -130,15 +130,15 @@ Even beyond that, the core four are currently the [third most prolific quartet i
 
   <div style="display: inline-block;">
   <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <thead><tr><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td>FISSURE Universe: E4</td><td>5-6th</td></tr>
-  <tr><td><b>ESL One Raleigh 2025</b></td><td><b>2nd</b></td></tr>
+  <tr><td><b>ESL One Raleigh 2025</b></td><td class="second"><b>2nd</b></td></tr>
   <tr><td>PGL Wallachia S4</td><td>5-6th</td></tr>
   <tr><td>BLAST Slam III</td><td>3-4th</td></tr>
   <tr><td>DreamLeague S26</td><td>-</td></tr>
   <tr><td>PGL Wallachia S5</td><td>4th</td></tr>
-  <tr><td><b>Esports World Cup 2025</b></td><td><b>1st</b></td></tr>
+  <tr><td><b>Esports World Cup 2025</b></td><td class="first"><b>1st</b></td></tr>
   <tr><td>Clavision: Snow-Ruyi 2025</td><td>-</td></tr>
   <tr><td>FISSURE Universe: E6</td><td>-</td></tr>
   </tbody></table>
