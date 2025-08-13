@@ -42,16 +42,20 @@ Let's get started.
 
   .resultsTable tr, .resultsTable td {
     display: revert;
-    padding: 0.5em 1em;
+    padding: 0em;
     font-style: normal;
-    border: 0px;
     text-align: center;
-    height: 48px;
     max-width: 175px;
+    border: 1px solid rgba(0,0,0,0.1);
+    height: 40px;
   }
 
   .roster {
     white-space: normal;
+  }
+
+  th {
+    text-align: center;
   }
 
   th.event {
