@@ -46,7 +46,7 @@ Let's get started.
     font-style: normal;
     text-align: center;
     max-width: 175px;
-    border: 1px solid rgba(0,0,0,0.1);
+    border: 1px solid rgba(0,0,0,0.4);
     height: 40px;
   }
 
@@ -56,11 +56,12 @@ Let's get started.
 
   .resultsContainer {
     text-align: center;
+    font-size: 19px;
   }
 
   .resultsTable {
-     max-width: 400px;
-     margin: 0 0.5em;
+     max-width: 450px;
+     margin: 0 1.5em;
   }
 
   th {
@@ -72,11 +73,11 @@ Let's get started.
   }
 
   th.event {
-    width: 60%;
+    width: 54%;
   }
 
   th.result {
-    width: 17%;
+    width: 23%;
   }
 
   td.first {
@@ -133,15 +134,15 @@ Even beyond that, the core four are currently the [third most prolific quartet i
   <table class="resultsTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>Oct '24</td><td>PGL Wallachia S2</td><td>-</td></tr>
-  <tr><td>Oct '24</td><td><b>BB Dacha Belgrade 2024</b></td><td class="fourth"><b>4th</b></td></tr>
-  <tr><td>Nov '24</td><td>DreamLeague S24</td><td>3rd</td></tr>
-  <tr><td>Nov '24</td><td>BLAST Slam I</td><td>9-10th</td></tr>
-  <tr><td>Dec '24</td><td><b>ESL One Bangkok 2024</b></td><td class="fourth"><b>4th</b></td></tr>
-  <tr><td>Jan '25</td><td>FISSURE PLAYGROUND 1</td><td>4th</td></tr>
-  <tr><td>Feb '25</td><td>BLAST Slam II</td><td>-</td></tr>
-  <tr><td>Feb '25</td><td>DreamLeague S25</td><td>1st</td></tr>
-  <tr><td>Mar '25</td><td>PGL Wallachia S3</td><td>4th</td></tr>
+  <tr><td><i>Oct 2024</i></td><td>PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td><b>BB Dacha Belgrade 2024</b></td><td class="fourth"><b>4th</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td>DreamLeague S24</td><td>3rd</td></tr>
+  <tr><td><i>Nov 2024</i></td><td>BLAST Slam I</td><td>9-10th</td></tr>
+  <tr><td><i>Dec 2024</i></td><td><b>ESL One Bangkok 2024</b></td><td class="fourth"><b>4th</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td>FISSURE PLAYGROUND 1</td><td>4th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td>BLAST Slam II</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td>DreamLeague S25</td><td>1st</td></tr>
+  <tr><td><i>Mar 2025</i></td><td>PGL Wallachia S3</td><td>4th</td></tr>
   </tbody></table>
   </div>
 
@@ -149,15 +150,15 @@ Even beyond that, the core four are currently the [third most prolific quartet i
   <table class="resultsTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td>Mar '25</td><td>FISSURE Universe: E4</td><td>5-6th</td></tr>
-  <tr><td>Apr '25</td><td><b>ESL One Raleigh 2025</b></td><td class="second"><b>2nd</b></td></tr>
-  <tr><td>Apr '25</td><td>PGL Wallachia S4</td><td>5-6th</td></tr>
-  <tr><td>May '25</td><td>BLAST Slam III</td><td>3-4th</td></tr>
-  <tr><td>May '25</td><td>DreamLeague S26</td><td>-</td></tr>
-  <tr><td>Jun '25</td><td>PGL Wallachia S5</td><td>4th</td></tr>
-  <tr><td>Jul '25</td><td><b>Esports World Cup 2025</b></td><td class="first"><b>1st</b></td></tr>
-  <tr><td>Jul '25</td><td>Clavision: Snow-Ruyi 2025</td><td>-</td></tr>
-  <tr><td>Aug '25</td><td>FISSURE Universe: E6</td><td>-</td></tr>
+  <tr><td><i>Mar 2025</i></td><td>FISSURE Universe: E4</td><td>5-6th</td></tr>
+  <tr><td><i>Apr 2025</i></td><td><b>ESL One Raleigh 2025</b></td><td class="second"><b>2nd</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td>PGL Wallachia S4</td><td>5-6th</td></tr>
+  <tr><td><i>May 2025</i></td><td>BLAST Slam III</td><td>3-4th</td></tr>
+  <tr><td><i>May 2025</i></td><td>DreamLeague S26</td><td>-</td></tr>
+  <tr><td><i>Jun 2025</i></td><td>PGL Wallachia S5</td><td>4th</td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Esports World Cup 2025</b></td><td class="first"><b>1st</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td>Clavision: Snow-Ruyi 2025</td><td>-</td></tr>
+  <tr><td><i>Aug 2025</i></td><td>FISSURE Universe: E6</td><td>-</td></tr>
   </tbody></table>
   </div>
 </div>
