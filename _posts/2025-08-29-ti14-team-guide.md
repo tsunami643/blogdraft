@@ -170,14 +170,14 @@ Even beyond that, the core four are currently the [third most prolific quartet i
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
-  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td class="fourth"><b>4th 🍪</b></td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td class="fourth"><b>4th</b></td></tr>
   <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>3rd 🥉</td></tr>
   <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>9-10th</td></tr>
-  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td class="fourth"><b>4th 🍪</b></td></tr>
-  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>4th 🍪</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td class="fourth"><b>4th</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>4th</td></tr>
   <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>-</td></tr>
   <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>1st 🥇</td></tr>
-  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>4th 🍪</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>4th</td></tr>
   </tbody></table>
 
   <table class="resultsTable">
@@ -188,7 +188,7 @@ Even beyond that, the core four are currently the [third most prolific quartet i
   <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>5-6th</td></tr>
   <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>3-4th 🥉</td></tr>
   <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>-</td></tr>
-  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>4th 🍪</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>4th</td></tr>
   <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td class="first"><b>1st 🥇</b></td></tr>
   <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td>-</td></tr>
   <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>2nd 🥈</td></tr>
@@ -283,7 +283,7 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
   <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>7-8th</td></tr>
   <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>5-6th</b></td></tr>
   <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>2nd 🥈</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>3-4th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>3-4th 🥉</td></tr>
   <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>5th</td></tr>
   <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>3rd 🥉</td></tr>
   </tbody></table>
@@ -303,7 +303,7 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
   </tbody></table>
 </div>
 
-Given this year's trophy case, maybe a shake-up is on the horizon. Sorry, I'm being melodramatic. But last season, Falcons had top 3 finishes at *every* event they attended after Aui joined. This season? Decidedly more erratic.
+Given this year's trophy case, maybe a shake-up is on the horizon. I'm being melodramatic, but last season Falcons had top 3 finishes at *every* event they attended after Aui joined. This season? Decidedly more erratic.
 
 **What would success look like?** The trade-off is: Does winning early in the season mean you're burning your players out too soon? Are you getting your best strats nerfed before TI rolls around? Have you given too much data for other teams to learn what your weaknesses are? These are legitimate concerns because, historically, the team that wins everything during the season does not win TI.
 
@@ -466,13 +466,13 @@ So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted t
   <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>1st 🥇</td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td class="fourth"><b>4th 🍪</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td class="fourth"><b>4th</b></td></tr>
   <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>7-8th</td></tr>
   <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>9-10th</td></tr>
   <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>2nd 🥈</td></tr>
   <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>1st 🥇</td></tr>
   <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>5-8th</b></td></tr>
-  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td class="fourth"><b>4th 🍪</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td class="fourth"><b>4th</b></td></tr>
   <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td> 5-6th</td></tr>
   </tbody></table>
 </div>
@@ -610,7 +610,7 @@ You get everything?
   <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>1st 🥇</td></tr>
   <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>-</td></tr>
   <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>7-8th</td></tr>
-  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td class="fourth"><b>4th 🍪</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td class="fourth"><b>4th</b></td></tr>
   <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
   </tbody></table>
