@@ -116,8 +116,22 @@ Let's get started.
         margin: 0;
       }
       .resultsTable {
-        width: fit-content !important;
-        margin: 0 !important;
+        width: fit-content;
+        margin: 0;
+      }
+      .secondTableHeader {
+        visibility: collapse;
+      }
+      th.date {
+        width: 21%;
+      }
+
+      th.event {
+        width: 58%;
+      }
+
+      th.result {
+        width: 25%;
       }
     }
 </style>
@@ -167,7 +181,7 @@ Even beyond that, the core four are currently the [third most prolific quartet i
   </tbody></table>
 
   <table class="resultsTable">
-  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>5-6th</td></tr>
   <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td class="second"><b>2nd 🥈</b></td></tr>
@@ -275,7 +289,7 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
   </tbody></table>
 
   <table class="resultsTable">
-  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>4th</td></tr>
   <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>5-6th</b></td></tr>
@@ -335,7 +349,7 @@ TI7 Newbee grand finalist kpii recently popped in to also coach Liquid when Blit
   </tbody></table>
 
   <table class="resultsTable">
-  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>7-8th</td></tr>
   <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>5-6th</b></td></tr>
@@ -449,7 +463,7 @@ So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted t
   </tbody></table>
 
   <table class="resultsTable">
-  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>1st 🥇</td></tr>
   <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td class="fourth"><b>4th 🍪</b></td></tr>
@@ -486,7 +500,7 @@ A term that's decidedly more relevant amongst Dota's aging audience is "clutch" 
 ----
 
 <p style="margin: 0.5em 0;"><img src="./../img/ti14teams/pvision.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">PVISION</i></h2>
+<h2 style="margin: 0.25em 0;">PVISION</h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Satanic</td>
@@ -588,7 +602,7 @@ You get everything?
   </tbody></table>
 
   <table class="resultsTable">
-  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>5-6th</td></tr>
   <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td class="third"><b>3rd 🥉</b></td></tr>
@@ -1166,7 +1180,7 @@ Now after that very selfless gesture, it's time to self-promote. GO INSTALL DOTA
 <div class="voiceline_wrapper">
   <div class="voiceline"><a href="#" title="Glitter Tier Line" id="play" onclick="ward.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - There's a ward right there and they don't even know!</span><audio id="ward" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/ward.mp3" type="audio/mpeg"></audio></a></div>
 
-  <div class="voiceline"><a href="#" title="Gold Tier Line" id="play" onclick="stop.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - Stop!</span><audio id="stop" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/stop.mp3" type="audio/mpeg"></audio></a></div>
+  <div class="voiceline"><a href="#" title="Gold Tier Line" id="play" onclick="stopgold.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - Stop!</span><audio id="stopgold" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/stop.mp3" type="audio/mpeg"></audio></a></div>
 </div>
 </div>
 
