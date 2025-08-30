@@ -38,6 +38,10 @@ Let's get started.
       table {
         margin: 0;
       }
+      .resultsTable {
+        width: fit-content;
+        margin: 0;
+      }
     }
 
   .resultsTable tr, .resultsTable td {
@@ -61,7 +65,7 @@ Let's get started.
 
   .resultsTable {
      display: inline-table;
-     max-width: 450px;
+     width: 450px;
      margin: 0 1.5em;
      border: 1px solid rgba(0,0,0,0.1);
   }
