@@ -57,6 +57,7 @@ Let's get started.
     text-align: center;
     font-size: 19px;
     margin-bottom: 1em;
+    display: inline-table;
   }
 
   .resultsTable {
@@ -147,7 +148,6 @@ Even beyond that, the core four are currently the [third most prolific quartet i
 **How was their season?**
 
 <div class="resultsContainer">
-  <div style="display: inline-block;">
   <table class="resultsTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
@@ -161,9 +161,7 @@ Even beyond that, the core four are currently the [third most prolific quartet i
   <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>1st 🥇</td></tr>
   <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>4th 🍪</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
   <table class="resultsTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
@@ -177,7 +175,6 @@ Even beyond that, the core four are currently the [third most prolific quartet i
   <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td>-</td></tr>
   <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>2nd 🥈</td></tr>
   </tbody></table>
-  </div>
 </div>
 
 After conquering Seattle last year, Spirit decided to take a little vacation and skip the first big tournament of the new season (ESL KL) in December. Since then, it's been all over the place. During Wallachia, Mira did confess that the team had been struggling with motivation this year, but the effort they put forth for that event paid off with a pretty exciting five game series against Xtreme.
@@ -254,12 +251,11 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Falcons is the only team here that underwent zero roster changes since last TI. Given last year's trophy case, that's not too surprising.
+**How did this roster happen?** Falcons is the only team here in Hamburg that underwent zero roster changes since last TI. Given last year's trophy case, that's not too surprising.
 
 **How was their season?**
 
 <div class="resultsContainer">
-  <div style="display: inline-block;">
   <table class="resultsTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
@@ -273,9 +269,7 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
   <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>5th</td></tr>
   <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>3rd 🥉</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
   <table class="resultsTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
@@ -289,10 +283,9 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
   <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td>-</td></tr>
   <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>1st 🥇</td></tr>
   </tbody></table>
-  </div>
 </div>
 
-Given this year's trophy case, maybe a shake-up is on the horizon. Sorry, I'm being overdramatic. But last season, Falcons had top 3 finishes at *every* event they attended after Aui joined. This season? Decidedly more erratic.
+Given this year's trophy case, maybe a shake-up is on the horizon. Sorry, I'm being melodramatic. But last season, Falcons had top 3 finishes at *every* event they attended after Aui joined. This season? Decidedly more erratic.
 
 **What would success look like?** The trade-off is: Does winning early in the season mean you're burning your players out too soon? Are you getting your best strats nerfed before TI rolls around? Have you given too much data for other teams to learn what your weaknesses are? These are legitimate concerns because, historically, the team that wins everything during the season does not win TI.
 
@@ -323,7 +316,6 @@ TI7 Newbee grand finalist kpii recently popped in to also coach Liquid when Blit
 **How was their season?**
 
 <div class="resultsContainer">
-  <div style="display: inline-block;">
   <table class="resultsTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
@@ -337,9 +329,7 @@ TI7 Newbee grand finalist kpii recently popped in to also coach Liquid when Blit
   <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>7th</td></tr>
   <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>1st 🥇</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
   <table class="resultsTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
@@ -353,7 +343,6 @@ TI7 Newbee grand finalist kpii recently popped in to also coach Liquid when Blit
   <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td>-</td></tr>
   <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>3rd 🥉</td></tr>
   </tbody></table>
-  </div>
 </div>
 
 When TI invites were announced in May, there was a sentiment permeating on the interweb that Liquid had actually been huffing glue all year and them getting a direct invite to TI was absurd. Outside of their online DreamLeague results, it was a pretty flimsy stance, but Liquid seemed to have took it personally and really turned up the heat afterwards for their last two events.
@@ -441,7 +430,6 @@ So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted t
 **How was their season?**
 
 <div class="resultsContainer">
-  <div style="display: inline-block;">
   <table class="resultsTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
@@ -455,9 +443,7 @@ So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted t
   <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>6th</td></tr>
   <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>-</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
   <table class="resultsTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
@@ -471,7 +457,6 @@ So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted t
   <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td class="fourth"><b>4th 🍪</b></td></tr>
   <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td> 5-6th</td></tr>
   </tbody></table>
-  </div>
 </div>
 
 Kids these days use the term "aura" a lot. Aura, [as defined by Wikipedia, the free encyclopedia at en.wikipedia.org:](https://en.wikipedia.org/wiki/List_of_Generation_Z_slang#:~:text=Aura,%2C%20Twitter%2C%20and%20YouTube%20Shorts.)
@@ -584,7 +569,6 @@ You get everything?
 **How was their season?**
 
 <div class="resultsContainer">
-  <div style="display: inline-block;">
   <table class="resultsTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
@@ -598,9 +582,7 @@ You get everything?
   <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>2nd 🥈</td></tr>
   <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>2nd 🥈</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
   <table class="resultsTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
@@ -614,7 +596,6 @@ You get everything?
   <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td class="second"><b>2nd 🥈</b></td></tr>
   <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
   </tbody></table>
-  </div>
 </div>
 
 Despite allllllll that... not too shabby, right?
