@@ -34,16 +34,6 @@ Let's get started.
 <style>
   table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}
 
-  @media screen and (max-width: 576px) {
-      table {
-        margin: 0;
-      }
-      .resultsTable {
-        width: fit-content;
-        margin: 0;
-      }
-    }
-
   .resultsTable tr, .resultsTable td {
     display: revert;
     padding: 0em;
@@ -120,6 +110,16 @@ Let's get started.
   td.top8 {
     background: #f2dace;
   }
+
+  @media screen and (max-width: 576px) {
+      table {
+        margin: 0;
+      }
+      .resultsTable {
+        width: fit-content !important;
+        margin: 0 !important;
+      }
+    }
 </style>
 
 
