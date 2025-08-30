@@ -57,10 +57,10 @@ Let's get started.
     text-align: center;
     font-size: 19px;
     margin-bottom: 1em;
-    display: inline-table;
   }
 
   .resultsTable {
+     display: inline-table;
      max-width: 450px;
      margin: 0 1.5em;
      border: 1px solid rgba(0,0,0,0.1);
