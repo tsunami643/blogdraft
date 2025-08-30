@@ -56,6 +56,7 @@ Let's get started.
   .resultsContainer {
     text-align: center;
     font-size: 19px;
+    margin-bottom: 1em;
   }
 
   .resultsTable {
@@ -124,14 +125,14 @@ Let's get started.
 
 ---
 
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/spirit.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/spirit.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Spirit</h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Yatoro</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Larl</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Collapse</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Mira</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Rue</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Miposhka</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Silent</td></tr>
@@ -174,11 +175,10 @@ Even beyond that, the core four are currently the [third most prolific quartet i
   <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>4th 🍪</td></tr>
   <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td class="first"><b>1st 🥇</b></td></tr>
   <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td>-</td></tr>
-  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>2nd 🥈</td></tr>
   </tbody></table>
   </div>
 </div>
-<br>
 
 After conquering Seattle last year, Spirit decided to take a little vacation and skip the first big tournament of the new season (ESL KL) in December. Since then, it's been all over the place. During Wallachia, Mira did confess that the team had been struggling with motivation this year, but the effort they put forth for that event paid off with a pretty exciting five game series against Xtreme.
 
@@ -187,7 +187,7 @@ As the season comes to a close, they do seem to be Mode: Grind as they are the o
 **What would success look like?** The range of results for Spirit is truly unmatched. One moment they're winning the biggest prize pools in Dota history, the next they're getting 4<sup>th</sup> place in DLS23 online qualifiers after losing to Na\`Vi (no offense to Na\`Vi). When they're on, they're <i>on</i>. And, well, they have won two out of the three TIs they've shown up to...
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/xtreme.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/xtreme.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Xtreme Gaming</h2>
 <table class="roster">
   <tbody><tr>
@@ -231,7 +231,6 @@ As the season comes to a close, they do seem to be Mode: Grind as they are the o
   </tbody></table>
   </div>
 </div>
-<br>
 
 The trading of the three X amigos happened *after* they won ESL KL as Azure Ray, so I'm counting that as an Xtreme win. After that, the team took up the mantle of "best Chinese team" fairly quickly. Ame seemingly hadn't missed a beat during his sabbatical and Xtreme ended the season on a high note with a win on home soil at the China Snow Ruyi LAN.
 
@@ -240,7 +239,7 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
 **What would success look like?** Unfortunately, "best Chinese team" has been synonymous with "best non-European team" for the past six TIs. That's not necessarily a bad place to be. In fact, China as a region has never had a peak placement lower than 4<sup>th</sup> place at TI in the history of the event. With fewer teams from China making it to TI each year, maintaining that streak gets more and more challenging.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/falcons.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/falcons.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Falcons</h2>
 <table class="roster">
   <tbody><tr>
@@ -255,59 +254,58 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Falcons is one of several organizations to suddenly pop up in Dota this year. So who'd they get? Well, ATF has consistently been in the conversation of top 5 Dota players in the world for the past three years, but was absent from last Riyadh and TI following contract disputes with Quest. You really need to know what you're doing if you're gonna pass on those two events, but boy has the gamble paid off.
-
-With him, came Malrine; another graduate from the illustrious school of Creepwave with Ammar. He had minimal tier 1 pro experience, but that has not at all been reflected in his play. Kid's a beast.
-
-Tundra imploded after TI12, bringing an opportunity for Skiter and Sneyking to join. Both of them also had experience playing with Malrine when [he briefly stood in for Tundra last year.](https://www.youtube.com/watch?v=NYTtg3Nr3r8&t=140s)
-
-Last piece of the puzzle was Crit. After *seven years* of playing in North America, Crit finally abandoned ship<sup>ify</sup> and immediately found himself on a championship roster. Really makes you wonder.
+**How did this roster happen?** Falcons is the only team here that underwent zero roster changes since last TI. Given last year's trophy case, that's not too surprising.
 
 **How was their season?**
 
-<div class="resultsContainer" style="text-align: center;">
+<div class="resultsContainer">
   <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+  <table class="resultsTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>DreamLeague S22</td><td>1st 🥇</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td class="first"><b>1st 🥇</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>1st 🥇</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td class="third"><b>3rd 🥉</b></td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>1st 🥇</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>7-8th</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>3-4th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>5th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>3rd 🥉</td></tr>
   </tbody></table>
   </div>
 
   <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <table class="resultsTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td class="first"><b>1st 🥇</b></td></tr>
-  <tr><td>Elite League S1</td><td>2nd 🥈</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td class="third"><b>3rd 🥉*</b></td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>FISSURE Universe 3</td><td>1st 🥇</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>4th</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>9-11th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>2nd 🥈</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>9-10th</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>-</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td>-</td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>1st 🥇</td></tr>
   </tbody></table>
   </div>
 </div>
-<br>
 
-The EPT (ESL Pro Tour) circuit created a dedicated MENA region this year and Falcons, being a Saudi org, promptly stomped their way to the top. The competition in those qualifiers was basically limited to Quest and Nigma, so the community was left wondering, "Yeah, okay, but how good would this team be if they had to play WEU quals?"
+Given this year's trophy case, maybe a shake-up is on the horizon. Sorry, I'm being overdramatic. But last season, Falcons had top 3 finishes at *every* event they attended after Aui joined. This season? Decidedly more erratic.
 
-Probably pretty good, it turns out. While their debut at ESL KL was nothing special, Aui joined the team as coach soon after and it's been a podium filled run ever since. Their lowest LAN placement was 3<sup>rd</sup>, and one of those was because Nine (Tundra reunion!) had to stand-in for Malrine.
+**What would success look like?** The trade-off is: Does winning early in the season mean you're burning your players out too soon? Are you getting your best strats nerfed before TI rolls around? Have you given too much data for other teams to learn what your weaknesses are? These are legitimate concerns because, historically, the team that wins everything during the season does not win TI.
 
-**What would success look like?** As exhibited by their performance this season, Falcons getting anything lower than 4<sup>th</sup> at this TI would probably be considered an upset. Are you ready to exist in a universe where Sneyking... Dignitas.Sneyking... NAR`Vi.Sneyking... *Fighting Pepegas.Sneyking*... might be a two-time TI winner?
-
-Well start getting ready.
+Falcons landed 4th at Copenhagen, losing to Tundra.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/liquid.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/liquid.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Liquid</h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">miCKe</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-pl" title="Poland" alt="Poland">Nisha</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">33</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cz" title="Czechia" alt="Czechia">SaberLight</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Boxi</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-se" title="Sweden" alt="Sweden">Insania</td>
     <td>&nbsp;</td>
@@ -353,11 +351,10 @@ TI7 Newbee grand finalist kpii recently popped in to also coach Liquid when Blit
   <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>3rd 🥉</td></tr>
   <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>5-8th</b></td></tr>
   <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td>-</td></tr>
-  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>3rd 🥉</td></tr>
   </tbody></table>
   </div>
 </div>
-<br>
 
 When TI invites were announced in May, there was a sentiment permeating on the interweb that Liquid had actually been huffing glue all year and them getting a direct invite to TI was absurd. Outside of their online DreamLeague results, it was a pretty flimsy stance, but Liquid seemed to have took it personally and really turned up the heat afterwards for their last two events.
 
@@ -370,15 +367,15 @@ I think Liquid is probably the only team in the history of Dota who could win a 
 But do *you* count it as the LAN win they've been clawing towards for years? Do *they* count it?
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/gaimin.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/gaimin.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Gaimin Gladiators</h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">dyrachyo</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">watson</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Quinn</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Ace</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">tOfu</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-nl" title="Netherlands" alt="Netherlands">Seleri</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">Malady</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cy-</td></tr>
    </tbody>
@@ -414,7 +411,6 @@ But do *you* count it as the LAN win they've been clawing towards for years? Do 
   </tbody></table>
   </div>
 </div>
-<br>
 
 Their results changed from last year! But not in the good way.
 
@@ -425,15 +421,15 @@ So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted t
 **What would success look like?** Famously, winning the last big event before TI used to mean you probably *won't* win TI. That trend was bucked last year with Spirit winning in both Riyadh and Seattle. So I guess the story now is: Spirit won both. Can Gaimin?
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/betboom.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/betboom.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">BB Team</h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Nightfall</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Pure</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">gpk</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">MieRo`</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">MieRo</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-md" title="Moldova" alt="Moldova">Save-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">TORONTOTOKYO</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Kataomi`</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">boolk</td></tr>
    </tbody>
@@ -473,11 +469,10 @@ So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted t
   <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>1st 🥇</td></tr>
   <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>5-8th</b></td></tr>
   <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td class="fourth"><b>4th 🍪</b></td></tr>
-  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td> 5-6th</td></tr>
   </tbody></table>
   </div>
 </div>
-<br>
 
 Kids these days use the term "aura" a lot. Aura, [as defined by Wikipedia, the free encyclopedia at en.wikipedia.org:](https://en.wikipedia.org/wiki/List_of_Generation_Z_slang#:~:text=Aura,%2C%20Twitter%2C%20and%20YouTube%20Shorts.)
 
@@ -501,15 +496,15 @@ A term that's decidedly more relevant amongst Dota's aging audience is "clutch" 
 
 ----
 
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/cloud9.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Cloud9 - <i>Western Europe #1</i></h2>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/pvision.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">PVISION</i></h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">watson</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Satanic</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">No[o]ne-</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">DM</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Kataomi`</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">Fishman</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">9Class</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Dukalis</td>
     <td>&nbsp;</td>
     <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-br" title="Brazil" alt="Brazil">Astini</td></tr>
    </tbody>
@@ -549,7 +544,6 @@ Lastly, Astini joined as coach after Elite League S1. The players have publicly 
   </tbody></table>
   </div>
 </div>
-<br>
 
 Nothing too exceptional, but being the first team out of WEU qualifiers will always be a feat. This year, some notable teams left in the wake included: Nigma, Secret, OG, Quest, and the powerhouse Team Bald.
 
@@ -558,13 +552,13 @@ Nothing too exceptional, but being the first team out of WEU qualifiers will alw
 The team's performance is irrelevant to me. If I don't have to jam a swab halfway up my nose until tears come streaming out in November 2024, you did it Cloud9, it's a win.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/tundra.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Tundra Esports - <i>Western Europe #2</i></h2>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/tundra.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Tundra Esports</h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Pure~</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-fi" title="Finland" alt="Finland">Topson</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">RAMZES666</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-nl" title="Netherlands" alt="Netherlands">Crystallis</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">bzm</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-il" title="Israel" alt="Israel">33</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-mk" title="North Macedonia" alt="North Macedonia">Saksa</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-id" title="Indonesia" alt="Indonesia">Whitemon</td>
     <td>&nbsp;</td>
@@ -622,24 +616,23 @@ You get everything?
   </tbody></table>
   </div>
 </div>
-<br>
 
 Despite allllllll that... not too shabby, right?
 
 **What would success look like?** Saksa was off the grid for most of the year, but was dipping his toe back in the competitive waters on Team Bald starting in May. Nine proved that he hadn't rusted much during his time off when he stood in during Wallachia and most saw the same in Saksa during the Bald qualifier runs. Tundra boys just built different.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/1w.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">1w Team - <i>Eastern Europe</i></h2>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/navi.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Natus Vincere - <i>Western Europe #1</i></h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Munkushi~</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">CHIRA_JUNIOR</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Cloud</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">swedenstrong</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">RESPECT</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">gotthejuice</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Niku</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">pma</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-kg" title="Kyrgyzstan" alt="Kyrgyzstan">Zayac</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Riddys</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Ahilles</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">TheHeartlessKing</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -673,24 +666,23 @@ Despite allllllll that... not too shabby, right?
   </tbody></table>
   </div>
 </div>
-<br>
 
 They actually did qualify for Birmingham, but unsurprisingly, a bunch of young Russian kids with limited foreign travels didn't look like appealing visa candidates, so they had to pass. When they finally did get their LAN chance at Elite League, they made it count. Went to five games against Liquid.
 
 **What would success look like?** Whenever a stack of untested players make their debut at TI, "Who's gonna look good enough to get poached by a top tier team" is the question on most people's minds. But lately, EEU teams have really made a point to stick together even after TI ends. Whether that's for the best, it depends. Sometimes you're a BB Team, sometimes you're a VP.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/zero.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Zero - <i>China #1</i></h2>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/nigma.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Nigma Galaxy - <i>Western Europe #2</i></h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Erika (poyoyo)</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">7e</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Beyond</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-sg" title="Singapore" alt="Singapore">ponlo</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">zzq</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Ghost</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-pk" title="Pakistan" alt="Pakistan">SumaiL</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-lb" title="Lebanon" alt="Lebanon">No!ob</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-lb" title="Lebanon" alt="Lebanon">OmaR</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-lb" title="Lebanon" alt="Lebanon">GH</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">bLink</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">KuroKy</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -724,7 +716,6 @@ They actually did qualify for Birmingham, but unsurprisingly, a bunch of young R
   </tbody></table>
   </div>
 </div>
-<br>
 
 The calendar looks pretty empty for them and that's because it was. Scrolling through their results... they got 2<sup>nd</sup> in the Elite League S1 and DLS23 CN quals? That's something. Oh! Wait! They won *Cringe Station Kobolds Rave 2.* So yeah. Cringe Station. That's a TO name.
 
@@ -733,19 +724,17 @@ Jokes aside, the fact that they were the *first* team to qualify out of China's 
 **What would success look like?** Witnessing the glorious ponlo redemption arc after his troubled stints on Quincy Crew, Alliance, and Twitter.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/g2ig.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">G2 x iG - <i>China #2</i></h2>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/tidebound.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Team Tidebound</h2>
 <table class="roster">
   <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Monet</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">shiro</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">NothingToSay</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">JT-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">BoBoKa</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">xNova</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Bach</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">planet</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">y`</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">super</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">@dogf1ghts</td>
-    <td><i style="font-size: smaller;">Manager</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">KBBQ</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">bLink</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
@@ -801,7 +790,6 @@ You'll notice I also wrote their manager on this roster list despite usually not
   </tbody></table>
   </div>
 </div>
-<br>
 
 Despite not putting together a full superteam, G2 x iG still had the typical Chinese superteam results. Which is to say: meh. Wallachia was a nice moment of clarity, but the rest of the year was nothing special.
 
@@ -810,8 +798,8 @@ Despite not putting together a full superteam, G2 x iG still had the typical Chi
 Legendary manager Jack Chen hois-- NO, STOP. I'M DOING IT AGAIN.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/talon.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Talon Esports - <i>Southeast Asia #1</i></h2>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/nemesis.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Team Nemesis - <i>Southeast Asia #1</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ph" title="Philippines" alt="Philippines">Akashi</td>
@@ -856,15 +844,14 @@ Meanwhile, Talon signed these other four players (Akashi, Ws, Jhocam, ponyo) fro
   </tbody></table>
   </div>
 </div>
-<br>
 
 Don't ask me how this team got the first slot out of SEA quals, I couldn't tell you. I mean, they got it by 2-0'ing Aurora, but the how or why escape me.
 
 **What would success look like?** I can't do it anymore. I can't keep coming up with different ways to write, "Gosh SEA has been pretty mediocre, but maybe this is the year!" on these blogs. There are only so many variations one can author before it just becomes lorem ipsum text. I'll just keep sliding the goal post over with each year. Last TI, best SEA team was Talon at 9th-12th. So yeaaaaaah, beat thaaaaaat.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/aurora.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Aurora - <i>Southeast Asia #2</i></h2>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/boom.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">BOOM Esports - <i>Southeast Asia #2</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-th" title="Thailand" alt="Thailand">23</td>
@@ -907,7 +894,6 @@ Don't ask me how this team got the first slot out of SEA quals, I couldn't tell 
   </tbody></table>
   </div>
 </div>
-<br>
 
 I swear I'm not trying to be dismissive of SEA. I love this region. I bleed for it. I boom for it. I execra-- actually nevermind. The point is, I legit just don't know what's going on with the teams in this region. The current prevailing theory is that [salaries are just bananas high](https://www.youtube.com/watch?v=f9IaNLJ-gNM) compared to cost of living in SEA and the players have no drive to *win* because they don't really have to.
 
@@ -916,8 +902,8 @@ Is that the case with Aurora? Who can say. All I know is this team as Talon last
 **What would success look like?** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Insert SEA platitude here.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/nouns.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">nouns - <i>North America</i></h2>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/wildcard.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Wildcard - <i>North America</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ni" title="Nicaragua" alt="Nicaragua">Yuma</td>
@@ -964,7 +950,6 @@ But I digress. How did this roster happen? After getting top 8 at TI last year, 
   </tbody></table>
   </div>
 </div>
-<br>
 
 You know the drill around here. North America? That means we have two teams constantly vying for one slot. Five game grand final for DLS22 quals? Went to Shopify. Five game grand final for Birmingham quals? Went to Shopify. Five game grand final for DLS23 quals? Went to Shopify.
 
@@ -979,7 +964,7 @@ And yes, this does mean that there is no Arteezy at this TI. His attendance stre
 Not gonna lie, though, it would be really cool to see the most veteran player at the event lift the Aegis. And I'm not just talking about TI appearances, Fly is also the oldest player competing at this TI at 31 and also the player with the most ticketed games of pro Dota ever. Insane longevity.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/heroic.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/heroic.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">HEROIC - <i>South America #1</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -1026,14 +1011,13 @@ K1 came from nouns, Scofield came from beastcoast, Analog and KJ came from Keyd 
   </tbody></table>
   </div>
 </div>
-<br>
 
 This team has been put through the grinder. Not only did they attend basically every single event this year, but they also had to qualify for nearly all of them. Gone are the days of the guaranteed SA slot to majors after a DPC league. So while the results don't look stellar, hopefully the gap between Elite League S2 ending and TI starting gifted them some much needed recharge time.
 
 **What would success look like?** MONGOLIAN THROAT SINGING IN THE ROYAL ARENA.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti13teams/beastcoast.jpg" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/beastcoast.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">beastcoast - <i>South America #2</i></h2>
 <table class="roster">
   <tbody><tr>
@@ -1191,13 +1175,13 @@ Now after that very selfless gesture, it's time to self-promote. GO INSTALL DOTA
 
 <div class="shill_wrapper">
 <div class="sticker_wrapper">
-  <img class="sticker" style="max-width: 100%; width: 400px;" title="Buy my sticker!" src="./../../../img/ti13teams/tsunami_sticker_ti13.png">
+  <img class="sticker" style="max-width: 100%; width: 400px;" title="Buy my sticker!" src="./../../../img/ti14teams/tsunami_sticker_ti14.png">
 </div>
 
 <div class="voiceline_wrapper">
-  <div class="voiceline"><a href="#" title="Glitter Tier Line" id="play" onclick="bkb.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - Imagine if you had BKB.</span><audio id="bkb" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/bkb.mp3" type="audio/mpeg"></audio></a></div>
+  <div class="voiceline"><a href="#" title="Glitter Tier Line" id="play" onclick="ward.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - There's a ward right there and they don't even know!</span><audio id="ward" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/ward.mp3" type="audio/mpeg"></audio></a></div>
 
-  <div class="voiceline"><a href="#" title="Gold Tier Line" id="play" onclick="chat.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - Chat is this real?</span><audio id="chat" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/chat.mp3" type="audio/mpeg"></audio></a></div>
+  <div class="voiceline"><a href="#" title="Gold Tier Line" id="play" onclick="stop.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">tsunami - Stop!</span><audio id="stop" class="audio" src="https://chatwheel.howdoiplay.com/assets/audio/other/stop.mp3" type="audio/mpeg"></audio></a></div>
 </div>
 </div>
 
