@@ -48,6 +48,8 @@ Let's get started.
   }
 
   .resultsContainer {
+    display: flex;
+    justify-content: space-evenly;
     text-align: center;
     font-size: 19px;
     margin-bottom: 1em;
@@ -55,8 +57,7 @@ Let's get started.
 
   .resultsTable {
      display: inline-table;
-     width: 450px;
-     margin: 0 1.5em;
+     width: 425px;
      border: 1px solid rgba(0,0,0,0.1);
   }
 
@@ -114,6 +115,9 @@ Let's get started.
   @media screen and (max-width: 576px) {
       table {
         margin: 0;
+      }
+      .resultsContainer {
+        display: block;
       }
       .resultsTable {
         width: fit-content;
