@@ -125,6 +125,8 @@ Let's get started.
       }
       .resultsTable {
         width: stretch;
+        width: -webkit-fill-available;
+        width: -moz-available;
         margin: 0;
       }
       .firstTable {
