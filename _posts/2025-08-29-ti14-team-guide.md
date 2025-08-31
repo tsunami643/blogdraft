@@ -43,6 +43,10 @@ Let's get started.
     height: 40px;
   }
 
+  .resultsTable th {
+    padding: 0;
+  }
+
   .roster {
     white-space: normal;
   }
@@ -112,7 +116,7 @@ Let's get started.
     background: #f2dace;
   }
 
-  @media screen and (max-width: 576px) {
+  @media screen and (max-width: 612px) {
       table {
         margin: 0;
       }
@@ -120,7 +124,7 @@ Let's get started.
         display: block;
       }
       .resultsTable {
-        width: fit-content;
+        width: stretch;
         margin: 0;
       }
       .firstTable {
