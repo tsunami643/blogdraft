@@ -288,7 +288,7 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
 **How was their season?**
 
 <div class="resultsContainer">
-  <table class="resultsTable">
+  <table class="resultsTable firstTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>2nd 🥈</td></tr>
@@ -302,7 +302,7 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
   <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>3rd 🥉</td></tr>
   </tbody></table>
 
-  <table class="resultsTable">
+  <table class="resultsTable secondTable">
   <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>4th</td></tr>
@@ -348,7 +348,7 @@ TI7 Newbee grand finalist kpii recently popped in to also coach Liquid when Blit
 **How was their season?**
 
 <div class="resultsContainer">
-  <table class="resultsTable">
+  <table class="resultsTable firstTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
@@ -362,7 +362,7 @@ TI7 Newbee grand finalist kpii recently popped in to also coach Liquid when Blit
   <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>1st 🥇</td></tr>
   </tbody></table>
 
-  <table class="resultsTable">
+  <table class="resultsTable secondTable">
   <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>7-8th</td></tr>
@@ -462,7 +462,7 @@ So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted t
 **How was their season?**
 
 <div class="resultsContainer">
-  <table class="resultsTable">
+  <table class="resultsTable firstTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
@@ -476,7 +476,7 @@ So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted t
   <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>-</td></tr>
   </tbody></table>
 
-  <table class="resultsTable">
+  <table class="resultsTable secondTable">
   <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>1st 🥇</td></tr>
@@ -601,7 +601,7 @@ You get everything?
 **How was their season?**
 
 <div class="resultsContainer">
-  <table class="resultsTable">
+  <table class="resultsTable firstTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>2nd 🥈</td></tr>
@@ -615,7 +615,7 @@ You get everything?
   <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>2nd 🥈</td></tr>
   </tbody></table>
 
-  <table class="resultsTable">
+  <table class="resultsTable secondTable">
   <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>5-6th</td></tr>
