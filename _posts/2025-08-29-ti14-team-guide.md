@@ -119,17 +119,25 @@ Let's get started.
         width: fit-content;
         margin: 0;
       }
+      .firstTable {
+        margin-bottom: -19px;
+        border-bottom: 0px;
+      }
+      .secondTable {
+        border-top: 0px;
+      }
       .secondTableHeader {
         visibility: collapse;
+      }
+      .secondTableHeader th {
+        border: 0px;
       }
       th.date {
         width: 21%;
       }
-
       th.event {
         width: 58%;
       }
-
       th.result {
         width: 25%;
       }
@@ -161,12 +169,10 @@ Let's get started.
 
 **How did this roster happen?** Usually after you win TI, you keep the gang together for another year. [Not always](https://youtu.be/hn39ySAFY_E?t=38), but usually.
 
-Even beyond that, the core four are currently the [third most prolific quartet in the history of the game](./../../../img/ti13teams/spirit_4tuple.jpg) *(credit: [datdota](https://datdota.com/players/squads?tier=1&tier=2&valve-event=does-not-matter&patch=7.37&patch=7.36&patch=7.35&patch=7.34&patch=7.33&patch=7.32&patch=7.31&patch=7.30&patch=7.29&patch=7.28&patch=7.27&patch=7.26&patch=7.25&patch=7.24&patch=7.23&patch=7.22&patch=7.21&patch=7.20&patch=7.19&patch=7.18&patch=7.17&patch=7.16&patch=7.15&patch=7.14&patch=7.13&patch=7.12&patch=7.11&patch=7.10&patch=7.09&patch=7.08&patch=7.07&patch=7.06&patch=7.05&patch=7.04&patch=7.03&patch=7.02&patch=7.01&patch=7.00&patch=6.88&patch=6.87&patch=6.86&patch=6.85&patch=6.84&patch=6.83&patch=6.82&patch=6.81&patch=6.80&patch=6.79&patch=6.78&patch=6.77&patch=6.76&patch=6.75&patch=6.74&after=01%2F01%2F2010&before=02%2F09%2F2024&duration=0%3B200&duration-value-from=0&duration-value-to=200))* next to TI7 Liquid and TI3 Alliance.
-
 **How was their season?**
 
 <div class="resultsContainer">
-  <table class="resultsTable">
+  <table class="resultsTable firstTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
@@ -180,7 +186,7 @@ Even beyond that, the core four are currently the [third most prolific quartet i
   <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>4th</td></tr>
   </tbody></table>
 
-  <table class="resultsTable">
+  <table class="resultsTable secondTable">
   <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>5-6th</td></tr>
