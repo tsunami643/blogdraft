@@ -591,6 +591,7 @@ Despite not putting together a full superteam, G2 x iG still had the typical Chi
 
 Legendary manager Jack Chen hois-- NO, STOP. I'M DOING IT AGAIN.
 
+<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/pvision.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PVISION</h2>
 <table class="roster">
@@ -722,7 +723,6 @@ Despite allllllll that... not too shabby, right?
 
 ----
 
-<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/navi.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Natus Vincere - <i>Western Europe #1</i></h2>
 <table class="roster">
