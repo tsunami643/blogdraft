@@ -687,29 +687,29 @@ You get everything?
   <table class="resultsTable firstTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
-  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>7-8th</b></td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>9-10th</td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>5-6th</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>5th</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>2nd 🥈</td></tr>
   <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td>-</td></tr>
-  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>9-11th</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>2nd 🥈</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>11-12th</td></tr>
-  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>7-8th</td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>1st 🥇</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>1st 🥇</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>2nd 🥈</td></tr>
   </tbody></table>
 
   <table class="resultsTable secondTable">
   <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>2nd 🥈</td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>-</b></td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>-</td></tr>
-  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>3-4th 🥉</td></tr>
-  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>5th</td></tr>
-  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>2nd 🥈</td></tr>
-  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>5-8th</b></td></tr>
-  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>5-6th</b></td></tr>
-  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>7-8th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>5-6th</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td class="third"><b>3rd 🥉</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>3rd 🥉</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>1st 🥇</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>-</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>7-8th</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td class="fourth"><b>4th</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
   </tbody></table>
 </div>
 
