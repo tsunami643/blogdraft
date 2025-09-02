@@ -226,372 +226,6 @@ I think Liquid is probably the only team in the history of Dota who could win a 
 But do *you* count it as the LAN win they've been clawing towards for years? Do *they* count it?
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/spirit.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Spirit</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Yatoro</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Larl</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Collapse</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">rue</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Miposhka</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Silent</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** Usually after you win TI, you keep the gang together for another year. [Not always](https://youtu.be/hn39ySAFY_E?t=38), but usually.
-
-**How was their season?**
-
-<div class="resultsContainer">
-  <table class="resultsTable firstTable">
-  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
-  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td class="fourth"><b>4th</b></td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>3rd 🥉</td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>9-10th</td></tr>
-  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td class="fourth"><b>4th</b></td></tr>
-  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>4th</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>-</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>1st 🥇</td></tr>
-  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>4th</td></tr>
-  </tbody></table>
-
-  <table class="resultsTable secondTable">
-  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>5-6th</td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>5-6th</td></tr>
-  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>3-4th 🥉</td></tr>
-  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>-</td></tr>
-  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>4th</td></tr>
-  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td class="first"><b>1st 🥇</b></td></tr>
-  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td>-</td></tr>
-  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>2nd 🥈</td></tr>
-  </tbody></table>
-</div>
-
-After conquering Seattle last year, Spirit decided to take a little vacation and skip the first big tournament of the new season (ESL KL) in December. Since then, it's been all over the place. During Wallachia, Mira did confess that the team had been struggling with motivation this year, but the effort they put forth for that event paid off with a pretty exciting five game series against Xtreme.
-
-As the season comes to a close, they do seem to be Mode: Grind as they are the only directly invited TI team to compete in *two* tournaments post-Riyadh with Snow Ruyi and Fissure Universe.
-
-**What would success look like?** The range of results for Spirit is truly unmatched. One moment they're winning the biggest prize pools in Dota history, the next they're getting 4<sup>th</sup> place in DLS23 online qualifiers after losing to Na\`Vi (no offense to Na\`Vi). When they're on, they're <i>on</i>. And, well, they have won two out of the three TIs they've shown up to...
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/falcons.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Falcons</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-sk" title="Slovakia" alt="Slovakia">skiter</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Malr1ne</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">ATF</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cr1t-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Sneyking</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Aui_2000</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** Falcons is the only team here in Hamburg that underwent zero roster changes since last TI. Given last year's trophy case, that's not too surprising.
-
-**How was their season?**
-
-<div class="resultsContainer">
-  <table class="resultsTable firstTable">
-  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>2nd 🥈</td></tr>
-  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td class="first"><b>1st 🥇</b></td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>1st 🥇</td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>7-8th</td></tr>
-  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>5-6th</b></td></tr>
-  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>2nd 🥈</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>3-4th 🥉</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>5th</td></tr>
-  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>3rd 🥉</td></tr>
-  </tbody></table>
-
-  <table class="resultsTable secondTable">
-  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>4th</td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>5-6th</b></td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>9-11th</td></tr>
-  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>2nd 🥈</td></tr>
-  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>9-10th</td></tr>
-  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>-</td></tr>
-  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td>-</td></tr>
-  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>1st 🥇</td></tr>
-  </tbody></table>
-</div>
-
-Given this year's trophy case, maybe a shake-up is on the horizon. I'm being melodramatic, but last season Falcons had top 3 finishes at *every* event they attended after Aui joined. This season? Decidedly more erratic.
-
-**What would success look like?** The trade-off is: Does winning early in the season mean you're burning your players out too soon? Are you getting your best strats nerfed before TI rolls around? Have you given too much data for other teams to learn what your weaknesses are? These are legitimate concerns because, historically, the team that wins everything during the season does not win TI.
-
-Falcons landed 4th at Copenhagen, losing to Tundra.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/gaimin.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Gaimin Gladiators</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">watson</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Quinn</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Ace</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">tOfu</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">Malady</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cy-</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** Nothing changed from last year!
-
-**How was their season?**
-
-<div class="resultsContainer">
-  <table class="resultsTable firstTable">
-  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
-  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>7-8th</b></td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>9-10th</td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>5-6th</td></tr>
-  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td>-</td></tr>
-  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>9-11th</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>2nd 🥈</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>11-12th</td></tr>
-  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>7-8th</td></tr>
-  </tbody></table>
-
-  <table class="resultsTable secondTable">
-  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>2nd 🥈</td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>-</b></td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>-</td></tr>
-  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>3-4th 🥉</td></tr>
-  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>5th</td></tr>
-  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>2nd 🥈</td></tr>
-  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>5-8th</b></td></tr>
-  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>5-6th</b></td></tr>
-  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>7-8th</td></tr>
-  </tbody></table>
-</div>
-
-Their results changed from last year! But not in the good way.
-
-They at least closed out the previous calendar year strong with a grand final appearance at ESL KL (losing to Azure Ray), but the rest of the season was a far cry from the heights they achieved in 2023. That is, up until Riyadh.
-
-So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted them higher earnings than winning all three majors (Lima+Berlin+Bali) and 2<sup>nd</sup> place at TI last year *combined*. That's just good financial planning.
-
-**What would success look like?** Famously, winning the last big event before TI used to mean you probably *won't* win TI. That trend was bucked last year with Spirit winning in both Riyadh and Seattle. So I guess the story now is: Spirit won both. Can Gaimin?
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/yakutou.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Yakutou Brothers - <i>REPLACEMENT INVITE</i></h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">flyfly</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Emo</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Beyond</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">BoBoKa</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Oli</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">zeal</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** beastcoast's TI12 roster kinda scattered to the four winds and they had to start from scratch making a new one. It's effectively four new kids and papa Mooz guiding them.
-
-**How was their season?**
-
-<div class="resultsContainer">
-  <table class="resultsTable firstTable">
-  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
-  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>5-6th</b></td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>-</td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>-</td></tr>
-  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>-</b></td></tr>
-  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>12-14th</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>5-6th</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>9-10th</td></tr>
-  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>-</td></tr>
-  </tbody></table>
-
-  <table class="resultsTable secondTable">
-  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>-</td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>-</b></td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>-</td></tr>
-  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>-</td></tr>
-  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>6th</td></tr>
-  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>-</td></tr>
-  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>-</b></td></tr>
-  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>9-10th</b></td></tr>
-  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
-  </tbody></table>
-</div>
-
-beastcoast was almost always 2<sup>nd</sup> place in qualifiers for most of these events. But such is the nature of the South American beast. If you're not first, you ain't flying nowhere. Thankfully, Riyadh and Elite League S2 gave SA two qualifying slots which finally allowed them a chance to test their mettle on LAN.
-
-**What would success look like?** I ain't holding my breath for anything happening in Copenhagen, but perhaps they'll stick together after? Like I said with 1w, usually these SA/EEU/NA "stacks" lack longevity if results don't come fast. But with the right structure from a proper org like beastcoast, maybe we see this team continue competing into the 2025 season.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/betboom.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">BB Team</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Pure</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">gpk</td> 
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">MieRo</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-md" title="Moldova" alt="Moldova">Save-</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Kataomi`</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">boolk</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** After their TI12 run, Pure was still the offlaner on this team until after KL when they traded him out for Miero.
-
-**How was their season?**
-
-<div class="resultsContainer">
-  <table class="resultsTable firstTable">
-  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
-  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td class="third"><b>3rd 🥉</b></td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>2nd 🥈</td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>1st 🥇</td></tr>
-  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td class="third"><b>3rd 🥉</b></td></tr>
-  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>5-6th</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>7-8th</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>6th</td></tr>
-  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>-</td></tr>
-  </tbody></table>
-
-  <table class="resultsTable secondTable">
-  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>1st 🥇</td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td class="fourth"><b>4th</b></td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>7-8th</td></tr>
-  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>9-10th</td></tr>
-  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>2nd 🥈</td></tr>
-  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>1st 🥇</td></tr>
-  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>5-8th</b></td></tr>
-  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td class="fourth"><b>4th</b></td></tr>
-  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td> 5-6th</td></tr>
-  </tbody></table>
-</div>
-
-Kids these days use the term "aura" a lot. Aura, [as defined by Wikipedia, the free encyclopedia at en.wikipedia.org:](https://en.wikipedia.org/wiki/List_of_Generation_Z_slang#:~:text=Aura,%2C%20Twitter%2C%20and%20YouTube%20Shorts.)
-
-<blockquote style="line-height: 0">
-<p style="font-family: Georgia, serif; font-size: 30px"><b>aura</b> (/ˈɔɹ.ə/), <span style="font-size: 20px"><i>noun</i></span></p>
-<p style="font-family: Georgia, serif; font-size: 23px">A quantifiable unit referring to how cool (positive integer) or uncool (negative integer) an individual is.</p>
-<p style="font-family: Georgia, serif; color:gray; font-size: 17px"><i>"Oh, you failed to rizz that level 10 gyatt? -1000000 aura loss lil bro."<br>"How much aura did I lose when I got Fanum taxed in Ohio?"</i></p>
-</blockquote>
-
-Now why did I make you read those cursed sentences? Basically, BB have aura ong 💯 when going through bracket. But when it comes to the final four-ish? Big yikes. They're completely cooked. It's giving delulu.
-
-Skibidi.
-
-A term that's decidedly more relevant amongst Dota's aging audience is "clutch" and if one possesses the clutch gene and/or clutch factor. Time and time again this year, BB Team were shown to not have it. Trouble for them was there was no clear diagnosis. It wasn't like individual players started underperforming in intense situations or specific teams were consistently beating them. BB as a whole just looked more and more disconnected the higher the stakes got.
-
-**What would success look like?** Aegismaxxing.
-
-<hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/tidebound.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Team Tidebound</h2>
-<table class="roster">
-  <tbody><tr>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">shiro</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">NothingToSay</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Bach</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">planet</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">y`</td>
-    <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">bLink</td></tr>
-   </tbody>
-</table>
-<hr style="margin: 0.5em 0;">
-
-**How did this roster happen?** When a storied esports organization like G2 wants to make a splash in a new game, they want to do it big. Doing it big usually involves creating a superteam. Unfortunately, many of the players whom you *would* get for a superteam were “““retired””” during the post-TI shuffle.
-
-Here's how I like to imagine their initial meeting went:
-
-<code>Gentlemen, we want to get into Dota. Western Europe seems like a real doozy, though, but it looks like there's a power vacuum in China. I say we form a strategic partnership with iG and put a superteam together in the region.</code>
-
-<code>NothingToSay is off LGD after four years on the roster? Perfect, get him on the team. Speaking of LGD, who's the only other Malaysian they ever had? xNova? Why'd he return to SEA, what a disaster, let's bring him back to China.</code>
-
-<code>Who's next. Uhhh, who's the best Chinese offlaner of all time? Probably Faith_bian? He's retired? Damn. That's fine, JT- was an iG boy for ages, let's bring him back.</code>
-
-<code>How about best Chinese carry? Ame, right? He's retired too? Oh. No worries, Monet was very consistent on Aster, let's reach out. We need someone to balance JT-'s craziness anyway.</code>
-
-<code>Last one. Best Chinese 4. Gotta be fy. He's... you're joking. <i>It's fine,</i> it's fine. Who was that one 4 we used to have? <a href="https://www.youtube.com/watch?v=KhQio49YG-Q">The one with the funny name.</a> Yeah, whatever. 4 position Monkey King is still viable, right?</code>
-
-<code>Real shame all those super famous and top tier players retired, but I guess they're done playing Dota forever.</code>
-
-<code><b><i>One month passes</i></b></code>
-
-<code><font size="6">ARE YOU FUCKING KIDDING ME.</font></code>
-
-You'll notice I also wrote their manager on this roster list despite usually not doing that. Why? Take a shot every time someone mentions Jack "KBBQ" Chen on the EN broadcast whenever G2 x iG are playing. You'll be puking in the toilet before the draft even starts.
-
-**How was their season?**
-
-<div class="resultsContainer">
-  <table class="resultsTable firstTable">
-  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
-  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>-</b></td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>-</td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>-</td></tr>
-  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>-</b></td></tr>
-  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>-</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>-</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>-</td></tr>
-  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>7-8th</td></tr>
-  </tbody></table>
-
-  <table class="resultsTable secondTable">
-  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
-  <tbody>
-  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>3rd 🥉</td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>9-10th</b></td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>4th</td></tr>
-  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>5-6th</td></tr>
-  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>-</td></tr>
-  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>9-11th</td></tr>
-  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>-</b></td></tr>
-  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td class="first"><b>1st 🥇</b></td></tr>
-  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>7-8th</td></tr>
-  </tbody></table>
-</div>
-
-Despite not putting together a full superteam, G2 x iG still had the typical Chinese superteam results. Which is to say: meh. Wallachia was a nice moment of clarity, but the rest of the year was nothing special.
-
-**What would success look like?** After winning a thrilling five game grand final...
-
-Legendary manager Jack Chen hois-- NO, STOP. I'M DOING IT AGAIN.
-
-<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/pvision.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PVISION</h2>
 <table class="roster">
@@ -716,6 +350,373 @@ You get everything?
 Despite allllllll that... not too shabby, right?
 
 **What would success look like?** Saksa was off the grid for most of the year, but was dipping his toe back in the competitive waters on Team Bald starting in May. Nine proved that he hadn't rusted much during his time off when he stood in during Wallachia and most saw the same in Saksa during the Bald qualifier runs. Tundra boys just built different.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/spirit.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Team Spirit</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Yatoro</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Larl</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Collapse</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">rue</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Miposhka</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Silent</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** Usually after you win TI, you keep the gang together for another year. [Not always](https://youtu.be/hn39ySAFY_E?t=38), but usually.
+
+**How was their season?**
+
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td class="fourth"><b>4th</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>3rd 🥉</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>9-10th</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td class="fourth"><b>4th</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>4th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>1st 🥇</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>4th</td></tr>
+  </tbody></table>
+
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>5-6th</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>5-6th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>3-4th 🥉</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>-</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>4th</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td>-</td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>2nd 🥈</td></tr>
+  </tbody></table>
+</div>
+
+After conquering Seattle last year, Spirit decided to take a little vacation and skip the first big tournament of the new season (ESL KL) in December. Since then, it's been all over the place. During Wallachia, Mira did confess that the team had been struggling with motivation this year, but the effort they put forth for that event paid off with a pretty exciting five game series against Xtreme.
+
+As the season comes to a close, they do seem to be Mode: Grind as they are the only directly invited TI team to compete in *two* tournaments post-Riyadh with Snow Ruyi and Fissure Universe.
+
+**What would success look like?** The range of results for Spirit is truly unmatched. One moment they're winning the biggest prize pools in Dota history, the next they're getting 4<sup>th</sup> place in DLS23 online qualifiers after losing to Na\`Vi (no offense to Na\`Vi). When they're on, they're <i>on</i>. And, well, they have won two out of the three TIs they've shown up to...
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/falcons.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Team Falcons</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-sk" title="Slovakia" alt="Slovakia">skiter</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Malr1ne</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-jo" title="Jordan" alt="Jordan">ATF</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cr1t-</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Sneyking</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ca" title="Canada" alt="Canada">Aui_2000</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** Falcons is the only team here in Hamburg that underwent zero roster changes since last TI. Given last year's trophy case, that's not too surprising.
+
+**How was their season?**
+
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>1st 🥇</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>7-8th</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>3-4th 🥉</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>5th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>3rd 🥉</td></tr>
+  </tbody></table>
+
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>4th</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>9-11th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>2nd 🥈</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>9-10th</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>-</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td>-</td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>1st 🥇</td></tr>
+  </tbody></table>
+</div>
+
+Given this year's trophy case, maybe a shake-up is on the horizon. I'm being melodramatic, but last season Falcons had top 3 finishes at *every* event they attended after Aui joined. This season? Decidedly more erratic.
+
+**What would success look like?** The trade-off is: Does winning early in the season mean you're burning your players out too soon? Are you getting your best strats nerfed before TI rolls around? Have you given too much data for other teams to learn what your weaknesses are? These are legitimate concerns because, historically, the team that wins everything during the season does not win TI.
+
+Falcons landed 4th at Copenhagen, losing to Tundra.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/betboom.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">BB Team</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Pure</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">gpk</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">MieRo</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-md" title="Moldova" alt="Moldova">Save-</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Kataomi`</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">boolk</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** After their TI12 run, Pure was still the offlaner on this team until after KL when they traded him out for Miero.
+
+**How was their season?**
+
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td class="third"><b>3rd 🥉</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>1st 🥇</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td class="third"><b>3rd 🥉</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>5-6th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>7-8th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>6th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>-</td></tr>
+  </tbody></table>
+
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>1st 🥇</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td class="fourth"><b>4th</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>7-8th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>9-10th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>1st 🥇</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>5-8th</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td class="fourth"><b>4th</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td> 5-6th</td></tr>
+  </tbody></table>
+</div>
+
+Kids these days use the term "aura" a lot. Aura, [as defined by Wikipedia, the free encyclopedia at en.wikipedia.org:](https://en.wikipedia.org/wiki/List_of_Generation_Z_slang#:~:text=Aura,%2C%20Twitter%2C%20and%20YouTube%20Shorts.)
+
+<blockquote style="line-height: 0">
+<p style="font-family: Georgia, serif; font-size: 30px"><b>aura</b> (/ˈɔɹ.ə/), <span style="font-size: 20px"><i>noun</i></span></p>
+<p style="font-family: Georgia, serif; font-size: 23px">A quantifiable unit referring to how cool (positive integer) or uncool (negative integer) an individual is.</p>
+<p style="font-family: Georgia, serif; color:gray; font-size: 17px"><i>"Oh, you failed to rizz that level 10 gyatt? -1000000 aura loss lil bro."<br>"How much aura did I lose when I got Fanum taxed in Ohio?"</i></p>
+</blockquote>
+
+Now why did I make you read those cursed sentences? Basically, BB have aura ong 💯 when going through bracket. But when it comes to the final four-ish? Big yikes. They're completely cooked. It's giving delulu.
+
+Skibidi.
+
+A term that's decidedly more relevant amongst Dota's aging audience is "clutch" and if one possesses the clutch gene and/or clutch factor. Time and time again this year, BB Team were shown to not have it. Trouble for them was there was no clear diagnosis. It wasn't like individual players started underperforming in intense situations or specific teams were consistently beating them. BB as a whole just looked more and more disconnected the higher the stakes got.
+
+**What would success look like?** Aegismaxxing.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/tidebound.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Team Tidebound</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">shiro</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">NothingToSay</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Bach</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">planet</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">y`</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">bLink</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">niu</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** When a storied esports organization like G2 wants to make a splash in a new game, they want to do it big. Doing it big usually involves creating a superteam. Unfortunately, many of the players whom you *would* get for a superteam were “““retired””” during the post-TI shuffle.
+
+Here's how I like to imagine their initial meeting went:
+
+<code>Gentlemen, we want to get into Dota. Western Europe seems like a real doozy, though, but it looks like there's a power vacuum in China. I say we form a strategic partnership with iG and put a superteam together in the region.</code>
+
+<code>NothingToSay is off LGD after four years on the roster? Perfect, get him on the team. Speaking of LGD, who's the only other Malaysian they ever had? xNova? Why'd he return to SEA, what a disaster, let's bring him back to China.</code>
+
+<code>Who's next. Uhhh, who's the best Chinese offlaner of all time? Probably Faith_bian? He's retired? Damn. That's fine, JT- was an iG boy for ages, let's bring him back.</code>
+
+<code>How about best Chinese carry? Ame, right? He's retired too? Oh. No worries, Monet was very consistent on Aster, let's reach out. We need someone to balance JT-'s craziness anyway.</code>
+
+<code>Last one. Best Chinese 4. Gotta be fy. He's... you're joking. <i>It's fine,</i> it's fine. Who was that one 4 we used to have? <a href="https://www.youtube.com/watch?v=KhQio49YG-Q">The one with the funny name.</a> Yeah, whatever. 4 position Monkey King is still viable, right?</code>
+
+<code>Real shame all those super famous and top tier players retired, but I guess they're done playing Dota forever.</code>
+
+<code><b><i>One month passes</i></b></code>
+
+<code><font size="6">ARE YOU FUCKING KIDDING ME.</font></code>
+
+You'll notice I also wrote their manager on this roster list despite usually not doing that. Why? Take a shot every time someone mentions Jack "KBBQ" Chen on the EN broadcast whenever G2 x iG are playing. You'll be puking in the toilet before the draft even starts.
+
+**How was their season?**
+
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>-</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>-</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>-</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>7-8th</td></tr>
+  </tbody></table>
+
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>3rd 🥉</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>9-10th</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>4th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>5-6th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>-</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>9-11th</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>7-8th</td></tr>
+  </tbody></table>
+</div>
+
+Despite not putting together a full superteam, G2 x iG still had the typical Chinese superteam results. Which is to say: meh. Wallachia was a nice moment of clarity, but the rest of the year was nothing special.
+
+**What would success look like?** After winning a thrilling five game grand final...
+
+Legendary manager Jack Chen hois-- NO, STOP. I'M DOING IT AGAIN.
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/gaimin.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Gaimin Gladiators</h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">watson</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-us" title="United States" alt="United States">Quinn</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Ace</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">tOfu</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">Malady</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cy-</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** Nothing changed from last year!
+
+**How was their season?**
+
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>7-8th</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>9-10th</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>5-6th</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td>-</td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>9-11th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>11-12th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>7-8th</td></tr>
+  </tbody></table>
+
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>3-4th 🥉</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>5th</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>5-8th</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>7-8th</td></tr>
+  </tbody></table>
+</div>
+
+Their results changed from last year! But not in the good way.
+
+They at least closed out the previous calendar year strong with a grand final appearance at ESL KL (losing to Azure Ray), but the rest of the season was a far cry from the heights they achieved in 2023. That is, up until Riyadh.
+
+So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted them higher earnings than winning all three majors (Lima+Berlin+Bali) and 2<sup>nd</sup> place at TI last year *combined*. That's just good financial planning.
+
+**What would success look like?** Famously, winning the last big event before TI used to mean you probably *won't* win TI. That trend was bucked last year with Spirit winning in both Riyadh and Seattle. So I guess the story now is: Spirit won both. Can Gaimin?
+
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/yakutou.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Yakutou Brothers - <i>REPLACEMENT INVITE</i></h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">flyfly</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Emo</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Beyond</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">BoBoKa</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">Oli</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">zeal</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** beastcoast's TI12 roster kinda scattered to the four winds and they had to start from scratch making a new one. It's effectively four new kids and papa Mooz guiding them.
+
+**How was their season?**
+
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>-</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>-</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>12-14th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>5-6th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>9-10th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>-</td></tr>
+  </tbody></table>
+
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>-</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>6th</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>-</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>9-10th</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
+  </tbody></table>
+</div>
+
+beastcoast was almost always 2<sup>nd</sup> place in qualifiers for most of these events. But such is the nature of the South American beast. If you're not first, you ain't flying nowhere. Thankfully, Riyadh and Elite League S2 gave SA two qualifying slots which finally allowed them a chance to test their mettle on LAN.
+
+**What would success look like?** I ain't holding my breath for anything happening in Copenhagen, but perhaps they'll stick together after? Like I said with 1w, usually these SA/EEU/NA "stacks" lack longevity if results don't come fast. But with the right structure from a proper org like beastcoast, maybe we see this team continue competing into the 2025 season.
 
 ----
 
