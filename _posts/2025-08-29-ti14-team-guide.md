@@ -237,30 +237,34 @@ As the season comes to a close, they do seem to be Mode: Grind as they are the o
 
 **How was their season?**
 
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td class="first"><b>1st 🥇???</b></td></tr>
-  <tr><td>DreamLeague S22</td><td>3rd 🥉</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td class="top8"><b>7-8th</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>4th</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td class="top8"><b>7-8th</b></td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td>-</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>7th</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>3-4th 🥉</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td>-</td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>9-11th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>9-10th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>13-14th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>5-6th</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td class="top8"><b>7-8th</b></td></tr>
-  <tr><td>Elite League S1</td><td>1st 🥇</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td><b>Clavision: Snow Ruyi</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>-</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>*</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>9-11th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>7-8th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>11-12th</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>5-6th</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>9-12th</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td class="third">3rd 🥉</td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
   </tbody></table>
-  </div>
 </div>
 
 The trading of the three X amigos happened *after* they won ESL KL as Azure Ray, so I'm counting that as an Xtreme win. After that, the team took up the mantle of "best Chinese team" fairly quickly. Ame seemingly hadn't missed a beat during his sabbatical and Xtreme ended the season on a high note with a win on home soil at the China Snow Ruyi LAN.
@@ -409,30 +413,34 @@ But do *you* count it as the LAN win they've been clawing towards for years? Do 
 
 **How was their season?**
 
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td>DreamLeague S22</td><td>5th</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td><b>11-12th</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>2nd 🥈</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>7-8th</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>9-10th</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>5-6th</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td>-</td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>9-11th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>11-12th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>7-8th</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>Elite League S1</td><td>5-6th</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td class="top8"><b>7-8th</b></td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>FISSURE Universe 3</td><td>7-8th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>3-4th 🥉</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>5th</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>5-8th</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>7-8th</td></tr>
   </tbody></table>
-  </div>
 </div>
 
 Their results changed from last year! But not in the good way.
@@ -538,30 +546,34 @@ Lastly, Astini joined as coach after Elite League S1. The players have publicly 
 
 **How was their season?**
 
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td>-</td></tr>
-  <tr><td>DreamLeague S22</td><td>-</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td>-</td></tr>
-  <tr><td>DreamLeague S23</td><td>-</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td><b>9-12th</b></td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>-</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>3-4th 🥉</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>3rd 🥉</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>5-6th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>3rd 🥉</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>-</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td>-</td></tr>
-  <tr><td>Elite League S1</td><td>11-12th</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td>-</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>FISSURE Universe 3</td><td>5-6th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>7-8th</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>2nd 🥈</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>7-8th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>1st 🥇</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>-</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td class="third"><b>3rd 🥉</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>7-8th</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>4th</td></tr>
   </tbody></table>
-  </div>
 </div>
 
 Nothing too exceptional, but being the first team out of WEU qualifiers will always be a feat. This year, some notable teams left in the wake included: Nigma, Secret, OG, Quest, and the powerhouse Team Bald.
@@ -606,28 +618,28 @@ You get everything?
   <table class="resultsTable firstTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>2nd 🥈</td></tr>
-  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td class="second"><b>2nd 🥈</b></td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>5th</td></tr>
-  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>-</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>-</td></tr>
   <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td>-</td></tr>
-  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>1st 🥇</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>1st 🥇</td></tr>
-  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>2nd 🥈</td></tr>
-  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>-</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>-</td></tr>
   </tbody></table>
 
   <table class="resultsTable secondTable">
   <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>5-6th</td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td class="third"><b>3rd 🥉</b></td></tr>
-  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>3rd 🥉</td></tr>
-  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>1st 🥇</td></tr>
-  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>-</td></tr>
-  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>7-8th</td></tr>
-  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td class="fourth"><b>4th</b></td></tr>
-  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>-</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>*</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>7-8th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>11-12th</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>-</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>9-12th</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>-</b></td></tr>
   <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
   </tbody></table>
 </div>
@@ -656,30 +668,34 @@ Despite allllllll that... not too shabby, right?
 
 **How was their season?**
 
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td>-</td></tr>
-  <tr><td>DreamLeague S22</td><td>15-16th</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td><b>-*</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>-</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>7-8th</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>9-10th</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>5-6th</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td>-</td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>9-11th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>11-12th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>7-8th</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td>-</td></tr>
-  <tr><td>Elite League S1</td><td>-</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td>-</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td><b>Elite League S2</b></td><td class="second"><b>2nd 🥈</b></td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>3-4th 🥉</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>5th</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>2nd 🥈</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>5-8th</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>7-8th</td></tr>
   </tbody></table>
-  </div>
 </div>
 
 They actually did qualify for Birmingham, but unsurprisingly, a bunch of young Russian kids with limited foreign travels didn't look like appealing visa candidates, so they had to pass. When they finally did get their LAN chance at Elite League, they made it count. Went to five games against Liquid.
@@ -706,30 +722,34 @@ They actually did qualify for Birmingham, but unsurprisingly, a bunch of young R
 
 **How was their season?**
 
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td>-</td></tr>
-  <tr><td>DreamLeague S22</td><td>-</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td>-</td></tr>
-  <tr><td>DreamLeague S23</td><td>-</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>12-14th</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>13-14th</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>-</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>7-8th</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>3-4th 🥉</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>-</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>12-14th</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td>-</td></tr>
-  <tr><td>Elite League S1</td><td>-</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td>-</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td><b>Clavision: Snow Ruyi</b></td><td><b>9-10th</b></td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>-</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>7-8th</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>12-14th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>7th</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>12-14th</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
   </tbody></table>
-  </div>
 </div>
 
 The calendar looks pretty empty for them and that's because it was. Scrolling through their results... they got 2<sup>nd</sup> in the Elite League S1 and DLS23 CN quals? That's something. Oh! Wait! They won *Cringe Station Kobolds Rave 2.* So yeah. Cringe Station. That's a TO name.
@@ -778,32 +798,34 @@ You'll notice I also wrote their manager on this roster list despite usually not
 
 **How was their season?**
 
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>DreamLeague S22</td><td>15-16th</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>-</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td><b>19-20th</b></td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>-</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>-</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>-</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>7-8th</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td>-</td></tr>
-  <tr><td>Elite League S1</td><td>7-8th</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td class="fourth"><b>4th</b></td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td><b>Clavision: Snow Ruyi</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>FISSURE Universe 3</td><td>7-8th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>3rd 🥉</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>9-10th</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>4th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>5-6th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>-</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>9-11th</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td class="first"><b>1st 🥇</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>7-8th</td></tr>
   </tbody></table>
-  </div>
 </div>
 
 Despite not putting together a full superteam, G2 x iG still had the typical Chinese superteam results. Which is to say: meh. Wallachia was a nice moment of clarity, but the rest of the year was nothing special.
@@ -834,30 +856,34 @@ Meanwhile, Talon signed these other four players (Akashi, Ws, Jhocam, ponyo) fro
 
 **How was their season?**
 
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td>-</td></tr>
-  <tr><td>DreamLeague S22</td><td>-</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td><b>9-10th</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>-</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>-</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>-</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>-</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>-</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td>-</td></tr>
-  <tr><td>Elite League S1</td><td>17-19th</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td>-</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td><b>Clavision: Snow Ruyi</b></td><td class="top8"><b>7-8th</b></td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>-</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>-</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>-</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
   </tbody></table>
-  </div>
 </div>
 
 Don't ask me how this team got the first slot out of SEA quals, I couldn't tell you. I mean, they got it by 2-0'ing Aurora, but the how or why escape me.
@@ -884,30 +910,34 @@ Don't ask me how this team got the first slot out of SEA quals, I couldn't tell 
 
 **How was their season?**
 
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td>-</td></tr>
-  <tr><td>DreamLeague S22</td><td>8th</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td>-</td></tr>
-  <tr><td>DreamLeague S23</td><td>7-8th</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td><b>9th-12th</b></td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>-</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>-</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>9-10th</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>13-14th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>-</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>9-12th</b></td></tr>
-  <tr><td>Elite League S1</td><td>9-10th</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td class="top8"><b>7-8th</b></td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>9-11th</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>13-14th</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>-</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>7-8th</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
   </tbody></table>
-  </div>
 </div>
 
 I swear I'm not trying to be dismissive of SEA. I love this region. I bleed for it. I boom for it. I execra-- actually nevermind. The point is, I legit just don't know what's going on with the teams in this region. The current prevailing theory is that [salaries are just bananas high](https://www.youtube.com/watch?v=f9IaNLJ-gNM) compared to cost of living in SEA and the players have no drive to *win* because they don't really have to.
@@ -938,32 +968,34 @@ But I digress. How did this roster happen? After getting top 8 at TI last year, 
 
 **How was their season?**
 
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td>-</td></tr>
-  <tr><td>DreamLeague S22</td><td>-</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td>-</td></tr>
-  <tr><td>DreamLeague S23</td><td>-</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td><b>17-18th</b></td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>-</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>-</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>12-14th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>-</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>12-14th</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td><b>9-12th</b></td></tr>
-  <tr><td>Elite League S1</td><td>20-22nd</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td><b>12-14th</b></td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td><b>Elite League S2</b></td><td class="top6"><b>5-6th</b></td></tr>
-  <tr><td>FISSURE Universe 3</td><td>5-6th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>12-14th</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>-</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>9-11th</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
   </tbody></table>
-  </div>
 </div>
 
 You know the drill around here. North America? That means we have two teams constantly vying for one slot. Five game grand final for DLS22 quals? Went to Shopify. Five game grand final for Birmingham quals? Went to Shopify. Five game grand final for DLS23 quals? Went to Shopify.
@@ -1001,30 +1033,34 @@ K1 came from nouns, Scofield came from beastcoast, Analog and KJ came from Keyd 
 
 **How was their season?**
 
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td>-</td></tr>
-  <tr><td>DreamLeague S22</td><td>13-14th</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td class="top8"><b>7-8th</b></td></tr>
-  <tr><td>DreamLeague S23</td><td>7-8th</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td><b>13-14th</b></td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>1st 🥇</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>13-14th</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>7-8th</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>7-8th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>8th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>9-11th</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td>-</td></tr>
-  <tr><td>Elite League S1</td><td>15-16th</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td><b>15-16th</b></td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td><b>Elite League S2</b></td><td><b>9-11th</b></td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>-</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>11-12th</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>9-11th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>-</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>9-11th</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>13-16th</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
   </tbody></table>
-  </div>
 </div>
 
 This team has been put through the grinder. Not only did they attend basically every single event this year, but they also had to qualify for nearly all of them. Gone are the days of the guaranteed SA slot to majors after a DPC league. So while the results don't look stellar, hopefully the gap between Elite League S2 ending and TI starting gifted them some much needed recharge time.
@@ -1032,8 +1068,8 @@ This team has been put through the grinder. Not only did they attend basically e
 **What would success look like?** MONGOLIAN THROAT SINGING IN THE ROYAL ARENA.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/beastcoast.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">beastcoast - <i>South America #2</i></h2>
+<p style="margin: 0.5em 0;"><img src="./../img/ti14teams/yakutou.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Yakutou Brothers - <i>South America #2</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-pe" title="Peru" alt="Peru">payk</td>
@@ -1051,32 +1087,35 @@ This team has been put through the grinder. Not only did they attend basically e
 
 **How was their season?**
 
-<div class="resultsContainer" style="text-align: center;">
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">EPT Events</th><th class="result">Result</th></tr></thead>
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>ESL One Kuala Lumpur</b></td><td>-</td></tr>
-  <tr><td>DreamLeague S22</td><td>-</td></tr>
-  <tr><td><b>ESL One Birmingham</b></td><td>-</td></tr>
-  <tr><td>DreamLeague S23</td><td>-</td></tr>
-  <tr><td><b>Riyadh Masters 2024</b></td><td><b>13-14th</b></td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>-</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>-</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>12-14th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>5-6th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>9-10th</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>-</td></tr>
   </tbody></table>
-  </div>
 
-  <div style="display: inline-block;">
-  <table class="resultsTable" style="max-width: 400px; margin: 0 0.5em;">
-  <thead><tr><th class="event">Other Events</th><th class="result">Result</th></tr></thead>
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
-  <tr><td><b>BetBoom Dacha Dubai</b></td><td>-</td></tr>
-  <tr><td>Elite League S1</td><td>-</td></tr>
-  <tr><td><b>PGL Wallachia S1</b></td><td>-</td></tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td><b>Elite League S2</b></td><td class="top8"><b>7-8th</b></td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>-</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>-</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>6th</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>-</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>9-10th</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>-</td></tr>
   </tbody></table>
-  </div>
 </div>
-<br>
 
 beastcoast was almost always 2<sup>nd</sup> place in qualifiers for most of these events. But such is the nature of the South American beast. If you're not first, you ain't flying nowhere. Thankfully, Riyadh and Elite League S2 gave SA two qualifying slots which finally allowed them a chance to test their mettle on LAN.
 
