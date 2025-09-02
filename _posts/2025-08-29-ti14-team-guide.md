@@ -477,7 +477,7 @@ beastcoast was almost always 2<sup>nd</sup> place in qualifiers for most of thes
   <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td class="third"><b>3rd 🥉</b></td></tr>
   <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>2nd 🥈</td></tr>
   <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>1st 🥇</td></tr>
-  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td class="second"><b>3rd 🥉</b></td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td class="third"><b>3rd 🥉</b></td></tr>
   <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>5-6th</td></tr>
   <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>7-8th</td></tr>
   <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>6th</td></tr>
@@ -514,7 +514,6 @@ Skibidi.
 A term that's decidedly more relevant amongst Dota's aging audience is "clutch" and if one possesses the clutch gene and/or clutch factor. Time and time again this year, BB Team were shown to not have it. Trouble for them was there was no clear diagnosis. It wasn't like individual players started underperforming in intense situations or specific teams were consistently beating them. BB as a whole just looked more and more disconnected the higher the stakes got.
 
 **What would success look like?** Aegismaxxing.
-
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/tidebound.jpg" alt="Banner"></p>
@@ -591,12 +590,6 @@ Despite not putting together a full superteam, G2 x iG still had the typical Chi
 **What would success look like?** After winning a thrilling five game grand final...
 
 Legendary manager Jack Chen hois-- NO, STOP. I'M DOING IT AGAIN.
-
-----
-
-# The Regional Qualifiers
-
-----
 
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/pvision.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PVISION</h2>
@@ -723,6 +716,12 @@ Despite allllllll that... not too shabby, right?
 
 **What would success look like?** Saksa was off the grid for most of the year, but was dipping his toe back in the competitive waters on Team Bald starting in May. Nine proved that he hadn't rusted much during his time off when he stood in during Wallachia and most saw the same in Saksa during the Bald qualifier runs. Tundra boys just built different.
 
+----
+
+# The Regional Qualifiers
+
+----
+
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/navi.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Natus Vincere - <i>Western Europe #1</i></h2>
@@ -834,8 +833,74 @@ Jokes aside, the fact that they were the *first* team to qualify out of China's 
 **What would success look like?** Witnessing the glorious ponlo redemption arc after his troubled stints on Quincy Crew, Alliance, and Twitter.
 
 <hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/aurora.jpg" alt="Banner"></p>
+<h2 style="margin: 0.25em 0;">Aurora Gaming - <i>Eastern Europe</i></h2>
+<table class="roster">
+  <tbody><tr>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Nightfall</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">kiyotaka</td> 
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">TORONTOTOKYO</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-ua" title="Ukraine" alt="Ukraine">Mira</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-by" title="Belarus" alt="Belarus">panto</td>
+    <td>&nbsp;</td>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">G</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
+
+**How did this roster happen?** After their TI12 run, Pure was still the offlaner on this team until after KL when they traded him out for Miero.
+
+**How was their season?**
+
+<div class="resultsContainer">
+  <table class="resultsTable firstTable">
+  <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>-</td></tr>
+  <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>-</td></tr>
+  <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>12-14th</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>-</td></tr>
+  <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>-</td></tr>
+  <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>5-6th</td></tr>
+  </tbody></table>
+
+  <table class="resultsTable secondTable">
+  <thead class="secondTableHeader"><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
+  <tbody>
+  <tr><td><i>Mar 2025</i></td><td class="fissure">FISSURE Universe: E4</td><td>9-11th</td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="esl"><b>ESL One Raleigh 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Apr 2025</i></td><td class="pgl">PGL Wallachia S4</td><td>5-6th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="blast">BLAST Slam III</td><td>5-6th</td></tr>
+  <tr><td><i>May 2025</i></td><td class="esl">DreamLeague S26</td><td>4th</td></tr>
+  <tr><td><i>Jun 2025</i></td><td class="pgl">PGL Wallachia S5</td><td>7-8th</td></tr>
+  <tr><td><i>Jul 2025</i></td><td class="esl"><b>Esports World Cup 2025</b></td><td><b>5-8th</b></td></tr>
+  <tr><td><i>Jul 2025</i></td><td><b>Clavision: Snow-Ruyi 2025</b></td><td><b>-</b></td></tr>
+  <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td> 5-6th</td></tr>
+  </tbody></table>
+</div>
+
+Kids these days use the term "aura" a lot. Aura, [as defined by Wikipedia, the free encyclopedia at en.wikipedia.org:](https://en.wikipedia.org/wiki/List_of_Generation_Z_slang#:~:text=Aura,%2C%20Twitter%2C%20and%20YouTube%20Shorts.)
+
+<blockquote style="line-height: 0">
+<p style="font-family: Georgia, serif; font-size: 30px"><b>aura</b> (/ˈɔɹ.ə/), <span style="font-size: 20px"><i>noun</i></span></p>
+<p style="font-family: Georgia, serif; font-size: 23px">A quantifiable unit referring to how cool (positive integer) or uncool (negative integer) an individual is.</p>
+<p style="font-family: Georgia, serif; color:gray; font-size: 17px"><i>"Oh, you failed to rizz that level 10 gyatt? -1000000 aura loss lil bro."<br>"How much aura did I lose when I got Fanum taxed in Ohio?"</i></p>
+</blockquote>
+
+Now why did I make you read those cursed sentences? Basically, BB have aura ong 💯 when going through bracket. But when it comes to the final four-ish? Big yikes. They're completely cooked. It's giving delulu.
+
+Skibidi.
+
+A term that's decidedly more relevant amongst Dota's aging audience is "clutch" and if one possesses the clutch gene and/or clutch factor. Time and time again this year, BB Team were shown to not have it. Trouble for them was there was no clear diagnosis. It wasn't like individual players started underperforming in intense situations or specific teams were consistently beating them. BB as a whole just looked more and more disconnected the higher the stakes got.
+
+**What would success look like?** Aegismaxxing.
+
+<hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/xtreme.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">Xtreme Gaming</h2>
+<h2 style="margin: 0.25em 0;">Xtreme Gaming - <i>China</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Ame</td>
@@ -1067,7 +1132,7 @@ Not gonna lie, though, it would be really cool to see the most veteran player at
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/heroic.jpg" alt="Banner"></p>
-<h2 style="margin: 0.25em 0;">HEROIC - <i>South America #1</i></h2>
+<h2 style="margin: 0.25em 0;">HEROIC - <i>South America</i></h2>
 <table class="roster">
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ni" title="Nicaragua" alt="Nicaragua">Yuma</td>
