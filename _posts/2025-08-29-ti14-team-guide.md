@@ -183,7 +183,7 @@ Let's get started.
 
 > Usually after you win TI, you keep the gang together for another year. Not always, but usually.
 
-Well mark down another "not always" example. After hoisting the Aegis in Copenhagen, 33 left Liquid to return to his first TI winning org, Tundra. The idea was already floated before TI13 began and winning the event did not change his decision. Already seeking the next challenge, ceremony means nothing to him.
+Well mark down another "not always" example. After hoisting his second Aegis in Copenhagen, 33 left Liquid to return to his first TI winning org, Tundra. The idea was already floated before TI13 began and winning the event did not change his decision. Already seeking the next challenge, ceremony means nothing to him.
 
 As for 33's replacement, SaberLight was already a known commodity to Liquid since standing-in during their 3rd place run at Kuala Lumpur in 2023.
 
@@ -287,7 +287,7 @@ Satanic was briefly given a chance on the main Spirit roster earlier this year a
 
 Abandoning a carry you won a championship with is quite the gambit, but PVISION were able to prove it was a legitimate move by following up their Bangkok+Crystallis win with another trophy in Raleigh+Satanic.
 
-As for the rest of the team, PVISION is like an inverse Gaimin Gladiators for many fans. "I love their mid laner, but I hate their supports." 9Class and Dukalis have been known to mouth off quite a bit in all chat during pro matches and goodness it's too much for some viewers hearts.
+As for the rest of the team, PVISION is like an inverse Gaimin Gladiators for many fans. "I love their mid laner, but I hate their supports." 9Class and Dukalis have been known to ego all chat during pro matches and goodness it's too much for some viewers' hearts.
 
 Love him or hate him, though, 9Class was by far the most interesting player of the year. Allow me to share some of his hero pool this season: Morphling, Leshrac, Night Stalker, Ember Spirit, Clinkz, jungle Venomancer, Chaos Knight, Slark, Terrorblade. I'll remind you, I'm describing heroes being played as a *4 position support*.
 
@@ -712,7 +712,9 @@ beastcoast was almost always 2<sup>nd</sup> place in qualifiers for most of thes
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** gotthejuice, pma, and Riddys have been playing together on Na\`Vi Junior since 2022. Niku joined in 2023. The veteran, Zayac, actually specifically requested to be moved from the main Na\`Vi roster to the Junior squad this season because he liked the idea of being able to captain a group of young players. 
+**How did this roster happen?** Well hello old friend, long time no see. When was the last time you made it out here? TI9, really? Time flies. What've you been up to, who are these kids?
+
+gotthejuice, pma, and Riddys have been playing together on the academy team, NAVI Junior, since 2022. Niku joined in 2023. Zayac, whom you may remember [shimmying in Singapore TI11 grand finals with Team Secret](https://youtu.be/cvAbJt3xQaA?t=19), actually specifically requested to be moved from the main NAVI roster to the Junior squad this season because he liked the idea of being able to captain and mold a group of young players. And I'm talking *young*. Zayac is 26 and even with him the average age of this full team is 20 years old.
 
 **How was their season?**
 
@@ -752,13 +754,13 @@ On the surface, nothing too eventful, but lemme tell you about Raleigh...
 
 <sup><i>\**gets pinged*\*</i></sup>
 
-During the qualifiers for Raleigh, there was a bug in the game that allowed you to identify if enemies have used consumables through fog, such as using a Smoke of Deceit. This bug was already on the books as being banned since Bangkok, but teams that didn't attend that event didn't get the memo. Na\`Vi Junior was one of those teams. They went on to beat AVULUS in the WEU qualifiers.
+During the qualifiers for Raleigh, there was a bug in the game that allowed you to identify if enemies have used consumables through fog, such as using a Smoke of Deceit. This bug was already on the books as being banned since Bangkok, but teams that didn't attend that event didn't get the memo. NAVI Junior was one of those teams. They went on to beat AVULUS in the WEU qualifiers.
 
-AVULUS reviewed the replay and was like yo what the hell they used bugs. Then ESL was like yea u rite and disqualified Na\`Vi. Then social media was like bruh like 20 other teams used this bug too. Then ESL was like fuuuuuuck, ok we'll look into it. Then ESL looked into it and ultimately concluded that Na\`Vi was still DQ'd and everyone else would either be fined or warned.
+AVULUS reviewed the replay and was like *yo wtf they used bugs*. Then ESL was like *yea u rite* and disqualified NAVI. Then social media was like *bruh like 20 other teams used this bug too*. Then ESL was like *fuuuuuuck, ok we'll look into it*. Then ESL looked into it and ultimately concluded that NAVI was still DQ'd because they used the bug way more than other teams and everyone else would either be fined or warned.
 
 For a more thorough account, [x42bn6 documented the entirety of the drama on Liquipedia.](https://liquipedia.net/dota2/Smoke_of_Deceit_exploit_controversy)
 
-Despite the setback, the boys kept their nose to the grindstone and eventually qualified to EWC and TI out of Western Europe. A rightful way to earn the promotion from Junior to Na`Vi main's squad.
+Despite the setback, the boys kept their noses to the grindstone and eventually qualified to EWC and TI out of Western Europe. A rightful way to earn the promotion from Junior to NAVI main's squad.
 
 **What would success look like?** At 16 years and 210 days, Niku will be the second youngest player to ever compete at TI. The first? <span class="spoiler">2015 Sumail. 16 years and 176 days. And he won it.</span>
 
