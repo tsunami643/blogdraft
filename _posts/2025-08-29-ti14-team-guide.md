@@ -183,9 +183,9 @@ Let's get started.
 
 > Usually after you win TI, you keep the gang together for another year. Not always, but usually.
 
-Well mark down another "not always" example. After hoisting his second Aegis in Copenhagen, 33 left Liquid to return to his first TI winning org, Tundra. The idea was already floated before TI13 began and winning the event did not change his decision. Already seeking the next challenge, ceremony means nothing to him.
+Well mark down another "not always" example. After hoisting his second Aegis in Copenhagen, 33 left Liquid to return to his first TI winning org, Tundra. The idea was already floated to Liquid before TI13 began and winning the event did not change his decision. Already seeking the next challenge, ceremony means nothing to him.
 
-As for 33's replacement, SaberLight was already a known commodity to Liquid since standing-in during their 3rd place run at Kuala Lumpur in 2023.
+As for 33's replacement, SaberLight was a known commodity to Liquid since standing-in during their 3rd place run at Kuala Lumpur in 2023.
 
 **How was their season?**
 
@@ -219,7 +219,7 @@ As for 33's replacement, SaberLight was already a known commodity to Liquid sinc
   </tbody></table>
 </div>
 
-Revisionists will have you believe that 33 was carrying Liquid's sorry ass uphill both ways last season and without him they're a shadow of their TI winning selves. In reality, yes, they had arguably better average performances [on LAN last year](https://howdoiplay.com/blog/2024/09/03/ti13-team-guide.html#:~:text=One%20Kuala%20Lumpur-,3rd%20%F0%9F%A5%89*,-DreamLeague%20S22), but not dramatically so. Granted, you'd be hard-pressed to find anyone who'll claim SaberLight has matched 33's highs, but that's a near impossible task for any Dota player.
+Revisionists will have you believe that 33 was carrying Liquid's sorry ass uphill both ways last season and without him they're a shadow of their TI winning selves. In reality, yes, they had arguably better average performances [on LAN last year](https://howdoiplay.com/blog/2024/09/03/ti13-team-guide.html#:~:text=One%20Kuala%20Lumpur-,3rd%20%F0%9F%A5%89*,-DreamLeague%20S22), but not dramatically so. Granted, you'd be hard-pressed to find anyone who'll claim SaberLight has matched 33's highs so far, but that's a near impossible task for any Dota player.
 
 This season was also fraught with various issues for Liquid. Nisha missed Raleigh, Insania was half absent and then half dead during their Wallachia S5 run (ruining the potential Wallachia three-peat), and Liquid at DreamLeague is still Liquid at DreamLeague.
 
@@ -249,9 +249,9 @@ I could see it.
 
 Then along comes Satanic.
 
-As a casual viewer, you wouldn't know this name, but you may be privy to the fact that Team Spirit has some of the most savvy talent scouts of any esports org ever. For the past year and a half, this 17 year old Satanic kid has been donking fools in tier 2 tournaments left and right while on the Spirit academy team "Yellow Submarine." People could tell he was the next big thing.
+As a casual viewer, you may not know this name, but you should be privy to the fact that Team Spirit has some of the most savvy talent scouts of any esports org ever. For the past year and a half, this 17 year old Satanic kid has been donking fools in tier 2 tournaments left and right while on the Spirit academy team "Yellow Submarine." People were confident he was gonna be the next big thing.
 
-Satanic was briefly given a chance on the main Spirit roster earlier this year and PVISION was convinced enough by his performance to bring him in to their team. As a result, Crystallis was given the boot pretty much immediately after their Bangkok win and PVISION has been making enemies ever since.
+Satanic was briefly given a chance on the main Spirit roster earlier this year and PVISION were convinced enough by his performance that they had to seize the opportunity to bring him onto their team. Unfortunately, this meant Crystallis was given the boot pretty much immediately after their Bangkok win.
 
 **How was their season?**
 
@@ -348,7 +348,11 @@ Love him or hate him, though, 9Class was by far the most interesting player of t
   </tbody></table>
 </div>
 
-Tundra was quietly the most decorated team of the entire season. I say quietly because people haven't been characterizing Tundra's year as "dominant." Even in Wyk's yearly [pre-TI fan poll](https://x.com/wykrhm/status/1963136350582194506), Tundra doesn't even show up on the charts. But then I scroll up and I'm like holy moly check out all those medals.
+Tundra was quietly the most decorated team of the entire season. I say quietly because people haven't been characterizing Tundra's year as "dominant." Even in Wyk's yearly [pre-TI fan poll](https://x.com/wykrhm/status/1963136350582194506), Tundra doesn't even show up on the charts.
+
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Fan Favorites going in to The International. Looks like this time we have a clear favorite unlike last year.<br><br>We are ONE DAY out!! This time tomorrow. Let&#39;s GO!! <a href="https://twitter.com/hashtag/TI14?src=hash&amp;ref_src=twsrc%5Etfw">#TI14</a> <a href="https://twitter.com/hashtag/Dota2?src=hash&amp;ref_src=twsrc%5Etfw">#Dota2</a> <a href="https://t.co/Ay0FVQNzyY">pic.twitter.com/Ay0FVQNzyY</a></p>&mdash; Wykrhm Reddy (@wykrhm) <a href="https://twitter.com/wykrhm/status/1963136350582194506?ref_src=twsrc%5Etfw">September 3, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+But then I scroll up and I'm like holy moly check out all those medals.
 
 Also, looking back, the Dyrachyo Tundra run feels like a fever dream. The man literally walked into Tundra after not playing pro since Copenhagen TI, got to grand finals in all four tournaments he played (PLAYGROUND 1 -> Wallachia S3), 3:0'd his old team at BLAST Slam II, and then just left Dota. What the hell even was that.
 
