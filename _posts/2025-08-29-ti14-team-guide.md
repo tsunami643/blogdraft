@@ -219,9 +219,9 @@ As for 33's replacement, SaberLight was already a known commodity to Liquid sinc
   </tbody></table>
 </div>
 
-Revisionists will have you believe that 33 was carrying Liquid's sorry ass uphill both ways last year and without him they're a shadow of their TI winning selves. In reality, yes, they had arguably better average performances [on LAN last season](https://howdoiplay.com/blog/2024/09/03/ti13-team-guide.html#:~:text=One%20Kuala%20Lumpur-,3rd%20%F0%9F%A5%89*,-DreamLeague%20S22), but not dramatically so. Granted, you'd be hard-pressed to find anyone who'll claim SaberLight has matched 33's peaks, but that's a near impossible task for any Dota player.
+Revisionists will have you believe that 33 was carrying Liquid's sorry ass uphill both ways last season and without him they're a shadow of their TI winning selves. In reality, yes, they had arguably better average performances [on LAN last year](https://howdoiplay.com/blog/2024/09/03/ti13-team-guide.html#:~:text=One%20Kuala%20Lumpur-,3rd%20%F0%9F%A5%89*,-DreamLeague%20S22), but not dramatically so. Granted, you'd be hard-pressed to find anyone who'll claim SaberLight has matched 33's peaks, but that's a near impossible task for any Dota player.
 
-This season was also fraught with stand-in issues for Liquid. Nisha missed Raleigh, Insania was half absent and then half dead during their Wallachia S5 run (ruining the potential Wallachia three-peat), and Liquid at DreamLeague is still the same Liquid at DreamLeague.
+This season was also fraught with various issues for Liquid. Nisha missed Raleigh, Insania was half absent and then half dead during their Wallachia S5 run (ruining the potential Wallachia three-peat), and Liquid at DreamLeague is still Liquid at DreamLeague.
 
 **What would success look like?** Liquid's a hard team to read. If you asked anybody last year, "Do you think Liquid will win TI?" you'd probably get a few half-hearted "I could see it"-s. If you asked anybody last year, "Do you think Liquid will win TI without dropping a single game in bracket?" Literally nobody, not even the Liquid players themselves, could've seen it.
 
@@ -287,7 +287,7 @@ Satanic was briefly given a chance on the main Spirit roster earlier this year a
 
 Abandoning a carry you won a championship with is quite the gambit, but PVISION were able to prove it was a legitimate move by following up their Bangkok+Crystallis win with another trophy in Raleigh+Satanic.
 
-As for the rest of the team, PVISION is like an inverse Gaimin Gladiators for many fans. "I love their mid laner, but I hate their supports." 9Class and Dukalis have been known to mouth off quite a bit in all chat during pro matches and it's too much for some viewers hearts.
+As for the rest of the team, PVISION is like an inverse Gaimin Gladiators for many fans. "I love their mid laner, but I hate their supports." 9Class and Dukalis have been known to mouth off quite a bit in all chat during pro matches and goodness it's too much for some viewers hearts.
 
 Love him or hate him, though, 9Class was by far the most interesting player of the year. Allow me to share some of his hero pool this season: Morphling, Leshrac, Night Stalker, Ember Spirit, Clinkz, jungle Venomancer, Chaos Knight, Slark, Terrorblade. I'll remind you, I'm describing heroes being played as a *4 position support*.
 
@@ -372,7 +372,9 @@ Also, looking back, the Dyrachyo Tundra run feels like a fever dream. The man li
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Usually after you win TI, you keep the gang together for another year. [Not always](https://youtu.be/hn39ySAFY_E?t=38), but usually.
+**How did this roster happen?** After Copenhagen TI, Yatoro, Collapse, and Mira all decided to take a break. Satanic and Rue were both brought in from Spirit's Yellow Submarine academy team and Malik from PSG Quest as a temporary offlaner. 
+
+In January, Yatoro and Collapse returned. As for Mira? Ooooh yeah... I think...  we're actually gonna stick with Rue...
 
 **How was their season?**
 
@@ -406,11 +408,11 @@ Also, looking back, the Dyrachyo Tundra run feels like a fever dream. The man li
   </tbody></table>
 </div>
 
-After conquering Seattle last year, Spirit decided to take a little vacation and skip the first big tournament of the new season (ESL KL) in December. Since then, it's been all over the place. During Wallachia, Mira did confess that the team had been struggling with motivation this year, but the effort they put forth for that event paid off with a pretty exciting five game series against Xtreme.
+IT'S YA BOI, TEAM SPIRIT. PLODDING AROUND MOST OF THE SEASON, BUT PULLING UP WHEN BIG MONEY HAPPENS.
 
-As the season comes to a close, they do seem to be Mode: Grind as they are the only directly invited TI team to compete in *two* tournaments post-Riyadh with Snow Ruyi and Fissure Universe.
+The most notable story for Spirit this year was seeing Rue's growth. It's a real testament to Miposhka, and the rest of Spirit's support staff, to consistently be able to bring in untested players and polish them into champion diamonds. Riyadh was also Larl's first LAN win on Spirit in 2023 before going on to win TI12 three months later.
 
-**What would success look like?** The range of results for Spirit is truly unmatched. One moment they're winning the biggest prize pools in Dota history, the next they're getting 4<sup>th</sup> place in DLS23 online qualifiers after losing to Na\`Vi (no offense to Na\`Vi). When they're on, they're <i>on</i>. And, well, they have won two out of the three TIs they've shown up to...
+**What would success look like?** Win Bucharest, lose Singapore, win Seattle, lose Copenhagen. I don't need a bigger sample size, I know how this trend works.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/falcons.jpg" alt="Banner"></p>
@@ -428,7 +430,7 @@ As the season comes to a close, they do seem to be Mode: Grind as they are the o
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Falcons is the only team here in Hamburg that underwent zero roster changes since last TI. Given last year's trophy case, that's not too surprising.
+**How did this roster happen?** Falcons is the only team here that underwent zero roster changes since last TI. Given last year's trophy case, that's not too surprising.
 
 **How was their season?**
 
@@ -462,11 +464,11 @@ As the season comes to a close, they do seem to be Mode: Grind as they are the o
   </tbody></table>
 </div>
 
-Given this year's trophy case, maybe a shake-up is on the horizon. I'm being melodramatic, but last season Falcons had top 3 finishes at *every* event they attended after Aui joined. This season? Decidedly more erratic.
+Given this year's trophy case, maybe they should've made changes *HEYOOO*. We like to make jokes around here. Although, last season Falcons had top 3 finishes at every event they attended after Aui joined. This season? Decidedly more erratic.
 
-**What would success look like?** The trade-off is: Does winning early in the season mean you're burning your players out too soon? Are you getting your best strats nerfed before TI rolls around? Have you given too much data for other teams to learn what your weaknesses are? These are legitimate concerns because, historically, the team that wins everything during the season does not win TI.
+**What would success look like?** The trade-off is: Does winning early in the season mean you're burning out your players too soon? Are you getting your best strats nerfed before TI rolls around? Have you given too much data for other teams to learn what your weaknesses are? These are legitimate concerns because, historically, the team that wins everything during the season does *not* win TI.
 
-Falcons landed 4th at Copenhagen, losing to Tundra.
+If there's ever a moment to hit your stride as a team, it's near the end of the season.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/betboom.jpg" alt="Banner"></p>
