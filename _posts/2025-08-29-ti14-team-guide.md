@@ -762,7 +762,7 @@ For a more thorough account, [x42bn6 documented the entirety of the drama on Liq
 
 Despite the setback, the boys kept their noses to the grindstone and eventually qualified to EWC and TI out of Western Europe. A rightful way to earn the promotion from Junior to NAVI main's squad.
 
-**What would success look like?** At 16 years and 210 days, Niku will be the second youngest player to ever compete at TI. The first? <span class="spoiler">2015 Sumail. 16 years and 176 days. And he won it.</span>
+**What would success look like?** At 16 years and 210 days, Niku will be the second youngest player to ever compete at TI. The first? <span class="spoiler">2015 Sumail. 16 years and 176 days. And he won it. Speaking of which, let's take a look at the next qualifying team.</span>
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/nigma.jpg" alt="Banner"></p>
@@ -782,13 +782,15 @@ Despite the setback, the boys kept their noses to the grindstone and eventually 
 
 **How did this happen?** I thought this day would never come. Nigma. At TI. And I'm writing about them. What a time to be alive. Now if you're reading this, I'm guessing you belong in one of three camps.
 
-1. *I believed. I always believed. STARS ALIGN BAYBEEEE.*
+1. *I believed. I always believed. Even when all hope was lost, I persevered. STARS ALIGN BAYBEEEE.*
 
-   Nigma diehards are truly the most mystifying fanbase I've ever witnessed in Dota. While pieces of the original Liquid team they likely fell in love with has slowly dismantled and the caliber of competition these players showcase has dwindled, the passion for this team remains unwavering. This one goes out to you, /u/AR41Z. May we all strive to achieve such a pure hearted devotion to those we care about.
+   Nigma diehards are truly the most mystifying fanbase I've ever witnessed in Dota. Pieces of the original Liquid team they likely fell in love with have slowly dismantled and the caliber of skill of the remaining players has diminished, but the passion for this team remains unwavering. This one goes out to you, /u/AR41Z. May we all strive to achieve such a pure hearted devotion to those we care about.
 
 2. *Where's Miracle?*
    
-   Miracle's been off-and-on for a while due to health issues and Ghost has been playing carry for Nigma since February. Some would argue they're at TI *because* Miracle's not on the team. Others will tell you to shut your whore mouth and not dare speak ill of the GOAT.
+   Miracle's been off-and-on for the past few years due to health issues and Ghost has been consistently playing carry for Nigma since February.
+   
+   Some would argue they're at TI *because* Miracle's not on the team. Others will tell you to shut your whore mouth and not dare speak ill of the GOAT.
 
 3. *Is there really a team called **Nigma** at TI?*
    
@@ -830,11 +832,15 @@ Despite the setback, the boys kept their noses to the grindstone and eventually 
   </tbody></table>
 </div>
 
-For the past two years, many of Nigma's event attendances were a product of the fact that ESL created a Middle Eastern (MENA/MESWA) region that had minimal competition. And even with that, Nigma still failed to qualify out for quite a few tournaments.
+As I've alluded to, Nigma has not been a very strong team since their inception. In fact, for the past two years, many of Nigma's event attendances were a product of ESL creating a dedicated Middle Eastern (MENA/MESWA) region that had minimal competition. And even with that, Nigma still failed to qualify out for quite a few tournaments.
 
 They did place well at BLAST Slam II, but BLAST events don't exactly have the most competitively rigorous format. To earn that 3-4th finish, Nigma won 3 Bo1s and 1 Bo3. Don't get me wrong, the Bo3 was against PVISION, but still...
 
-**What would success look like?** I sincerely believe that if Nigma somehow make it to finals day, this'll be the highest viewership TI of all time and Dota will be saved. Picture [that scene in the Matrix](https://www.youtube.com/watch?v=jZiErA9Q0cE) where the kid runs to the canteen to announce Morpheus is fighting Neo, except "SUMAIL'S IN THE GRAND FINALS OF TI AGAIN!" Then all your Steam friends who haven't opened Dota in the past three years rush into the stream.
+I swear I'm not trying to be dismissive. But I think casual viewers who haven't been keeping up too closely with the scene may see, "Wow, they qualified out of Western Europe regional qualifiers? They're guaranteed to be pretty good!" And that's just not as strong an indicator as it was 2-3 years ago.
+
+**What would success look like?** I sincerely believe that if Nigma somehow make it to finals day, this'll be the highest viewership TI of all time and Dota will be saved.
+
+Picture [that scene in The Matrix](https://www.youtube.com/watch?v=jZiErA9Q0cE) where the kid runs into the canteen to announce Morpheus is fighting Neo, except it's you *@everyone*'ing your old stack's Discord "SUMAIL'S IN THE GRAND FINALS OF TI AGAIN!" Then all your friends who haven't queued for a game of Dota in the past four years rush into the stream.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/aurora.jpg" alt="Banner"></p>
