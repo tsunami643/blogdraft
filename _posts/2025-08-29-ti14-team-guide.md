@@ -225,7 +225,7 @@ This season was also fraught with stand-in issues for Liquid. Nisha missed Ralei
 
 **What would success look like?** Liquid's a hard team to read. If you asked anybody last year, "Do you think Liquid will win TI?" you'd probably get a few half-hearted "I could see it"-s. If you asked anybody last year, "Do you think Liquid will win TI without dropping a single game in bracket?" Literally nobody, not even the Liquid players themselves, could've seen it.
 
-So, do I think Liquid will win TI this year?
+So, do I think Liquid will win TI again?
 
 I could see it.
 
@@ -309,11 +309,11 @@ Love him or hate him, though, 9Class was by far the most interesting player of t
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Last year my Tundra roster explanation took like six paragraphs and I'll be damned if I do that again, so let's condense things.
+**How did this roster happen?** Last year, my Tundra roster explanation took like six paragraphs and I'll be damned if I do that again. Let's condense:
 
 * **Beginning of the season** - 33 leaves Liquid and is given the keys to make the roster of his choice at Tundra. Saksa's the homie, he keeps Whitemon, brings Nightfall to carry, and temporarily gets Lorenof on mid.
 * **Middle of the season** - bzm exits OG contract jail and takes over mid. Dyrachyo, of former Gaimin Gladiators fame, replaces Nightfall as carry.
-* **End of the season** - Dyrachyo decides being an influencer/streamer is more fun than esports and retires. Tundra picks up the orphaned PVISION Crystallis as carry.
+* **End of the season** - Dyrachyo decides being an influencer/streamer is more fun than esports and retires. Tundra picks up the orphaned PVISION Crystallis carry.
 * **Right before TI** - Whitemon can't get a visa to Germany and Tobi is recruited to stand-in.
 
 [Interesting stat I saw on /r/dota2:](https://www.reddit.com/r/DotA2/comments/1n4embf/for_the_third_year_in_a_row_tundra_will_attend_ti/) Tundra has had to attend the past 3 TIs with stand-ins.
@@ -350,9 +350,9 @@ Love him or hate him, though, 9Class was by far the most interesting player of t
   </tbody></table>
 </div>
 
-Tundra was quietly the most decorated team of the entire season. I say quietly because people don't really refer to Tundra's year as being "dominant," but god damn are those a lot of podium finishes.
+Tundra was quietly the most decorated team of the entire season. I say quietly because people don't really refer to Tundra's year as being "dominant," but holy moly look at all those podium finishes.
 
-Also looking back, the Dyrachyo Tundra run feels like a fever dream. The man literally walked into Tundra after not playing pro since Copenhagen TI, got to grand finals in all four tournaments played (PLAYGROUND 1 -> Wallachia S3), and then just left Dota. What the hell even was that.
+Also, looking back, the Dyrachyo Tundra run feels like a fever dream. The man literally walked into Tundra after not playing pro since Copenhagen TI, got to grand finals in all four tournaments played (PLAYGROUND 1 -> Wallachia S3), and then just left Dota. What the hell even was that.
 
 **What would success look like?** 33's a generational talent, no one can deny that at this point. But in theory, if he were to win a third TI while only sharing one teammate (Saksa) between all three wins? That's gotta be the epitome "I'm him."
 
