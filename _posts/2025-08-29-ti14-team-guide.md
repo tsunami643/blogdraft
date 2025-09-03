@@ -712,7 +712,7 @@ beastcoast was almost always 2<sup>nd</sup> place in qualifiers for most of thes
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Typically, when an EEU stack of majority newcomers is slapped together, they'll have at least one veteran player guiding them. Not in this case. Swedenstrong is probably the most well known having been on the 2022 Na`Vi roster that competed in the Arlington Major, but the rest of the players have mostly only tier 2 teams on their resumes.
+**How did this roster happen?** gotthejuice, pma, and Riddys have been playing together on Na\`Vi Junior since 2022. Niku joined in 2023. The veteran, Zayac, actually specifically requested to be moved from the main Na\`Vi roster to the Junior squad this season because he liked the idea of being able to captain a group of young players. 
 
 **How was their season?**
 
@@ -746,9 +746,21 @@ beastcoast was almost always 2<sup>nd</sup> place in qualifiers for most of thes
   </tbody></table>
 </div>
 
-They actually did qualify for Birmingham, but unsurprisingly, a bunch of young Russian kids with limited foreign travels didn't look like appealing visa candidates, so they had to pass. When they finally did get their LAN chance at Elite League, they made it count. Went to five games against Liquid.
+On the surface, nothing too eventful, but lemme tell you about Raleigh...
 
-**What would success look like?** Whenever a stack of untested players make their debut at TI, "Who's gonna look good enough to get poached by a top tier team" is the question on most people's minds. But lately, EEU teams have really made a point to stick together even after TI ends. Whether that's for the best, it depends. Sometimes you're a BB Team, sometimes you're a VP.
+\**takes long drag off a smoke*\*
+
+<sup><i>\**gets pinged*\*</i></sup>
+
+During the qualifiers for Raleigh, there was a bug in the game that allowed you to identify if enemies have used consumables through fog, such as using a Smoke of Deceit. This bug was already on the books as being banned since Bangkok, but teams that didn't attend that event didn't get the memo. Na\`Vi Junior was one of those teams. They went on to beat AVULUS in the WEU qualifiers.
+
+AVULUS reviewed the replay and was like yo what the hell they used bugs. Then ESL was like yea u rite and disqualified Na\`Vi. Then social media was like bruh like 20 other teams used this bug too. Then ESL was like fuuuuuuck, ok we'll look into it. Then ESL looked into it and ultimately concluded that Na\`Vi was still DQ'd and everyone else would either be fined or warned.
+
+For a more thorough account, [x42bn6 documented the entirety of the drama on Liquipedia.](https://liquipedia.net/dota2/Smoke_of_Deceit_exploit_controversy)
+
+Despite the setback, the boys kept their nose to the grindstone and eventually qualified to EWC and TI out of Western Europe. A rightful way to earn the promotion from Junior to Na`Vi main's squad.
+
+**What would success look like?** At 16 years and 210 days, Niku will be the second youngest player to ever compete at TI. The first? <span class="spoiler">2015 Sumail. 16 years and 176 days. And he won it.</span>
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/nigma.jpg" alt="Banner"></p>
@@ -766,21 +778,23 @@ They actually did qualify for Birmingham, but unsurprisingly, a bunch of young R
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this happen?** I legitimately thought this day would never come. Nigma. At TI. And I'm writing about them. What a time to be alive. Now if you're reading this, I'm guessing you belong in one of three camps.
+**How did this happen?** I thought this day would never come. Nigma. At TI. And I'm writing about them. What a time to be alive. Now if you're reading this, I'm guessing you belong in one of three camps.
 
 1. *I believed. I always believed. STARS ALIGN BAYBEEEE.*
 
-   Nigma diehards are truly the most enigmatic fanbase I've ever witnessed in Dota. I'll never understand you, but shine on you crazy diamond.
+   Nigma diehards are truly the most mystifying fanbase I've ever witnessed in Dota. While pieces of the original Liquid team they likely fell in love with has slowly dismantled and the caliber of competition these players showcase has dwindled, the passion for this team remains unwavering. This one goes out to you, /u/AR41Z. May we all strive to achieve such a pure hearted devotion to those we care about.
 
 2. *Where's Miracle?*
    
-   Yes, . Some would argue they're at TI *because* Miracle's not on the team. Others will tell you to shut your whore mouth and don't you dare speak ill
+   Miracle's been off-and-on for a while due to health issues and Ghost has been playing carry for Nigma since February. Some would argue they're at TI *because* Miracle's not on the team. Others will tell you to shut your whore mouth and not dare speak ill of the GOAT.
 
 3. *Is there really a team called **Nigma** at TI?*
    
-   Yes. And every possible joke you could think of about their name has already been made over the past 5 years. After TI9 in 2019, 
-
-You could probably write an entire novel about this team and the trials and tribulations they've endured.
+   Yes. And every possible joke you could think of about their name has already been made over the past 5 years.
+   
+   After TI9, Kuroky and the gang parted ways with Team Liquid and followed in the footsteps of other famous player run orgs with Puppey+Secret and Notail+OG with the creation of Team Nigma.
+   
+   You could probably write an entire novel about this team and the trials and tribulations they've endured since then, but the tl;dr is: w33 left in 2021 and has since moved to streaming, Sumail joined in 2022, Mind_Control left in 2023, and Kuroky retired from play and moved to coaching as of this season.
 
 **How was their season?**
 
@@ -814,11 +828,11 @@ You could probably write an entire novel about this team and the trials and trib
   </tbody></table>
 </div>
 
-The calendar looks pretty empty for them and that's because it was. Scrolling through their results... they got 2<sup>nd</sup> in the Elite League S1 and DLS23 CN quals? That's something. Oh! Wait! They won *Cringe Station Kobolds Rave 2.* So yeah. Cringe Station. That's a TO name.
+For the past two years, many of Nigma's event attendances were a product of the fact that ESL created a Middle Eastern (MENA/MESWA) region that had minimal competition. And even with that, Nigma still failed to qualify out for quite a few tournaments.
 
-Jokes aside, the fact that they were the *first* team to qualify out of China's TI regionals was crazy. Remember, Xtreme was China's only directly invited TI team, so there were still plenty of sharks left in the qualifier. But Zero rightfully earned the first slot by beating both G2 x iG and Azure Ray.
+They did place well at BLAST Slam II, but BLAST events don't exactly have the most competitively rigorous format. To earn that 3-4th finish, Nigma won 3 Bo1s and 1 Bo3. Don't get me wrong, the Bo3 was against PVISION, but still...
 
-**What would success look like?** Witnessing the glorious ponlo redemption arc after his troubled stints on Quincy Crew, Alliance, and Twitter.
+**What would success look like?** I sincerely believe that if Nigma somehow make it to finals day, this'll be the highest viewership TI of all time and Dota will be saved. Picture [that scene in the Matrix](https://www.youtube.com/watch?v=jZiErA9Q0cE) where the kid runs to the canteen to announce Morpheus is fighting Neo, except "SUMAIL'S IN THE GRAND FINALS OF TI AGAIN!" Then all your Steam friends who haven't opened Dota in the past three years rush into the stream.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/aurora.jpg" alt="Banner"></p>
