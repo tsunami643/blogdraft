@@ -836,11 +836,11 @@ As I've alluded to, Nigma has not been a very strong team since their inception.
 
 They did place well at BLAST Slam II, but BLAST events don't exactly have the most competitively rigorous format. To earn that 3-4th finish, Nigma won 3 Bo1s and 1 Bo3. Don't get me wrong, the Bo3 was against PVISION, but still...
 
-I swear I'm not trying to be dismissive. But I think casual viewers who haven't been keeping up too closely with the scene may see, "Wow, they qualified out of Western Europe regional qualifiers? They're guaranteed to be pretty good!" And that's just not as strong an indicator as it was 2-3 years ago.
+I'm not intentionally trying to be negative, I promise. But I think casual viewers who haven't been keeping up too closely with the scene may see, "Wow, they qualified out of Western Europe regional qualifiers? They're guaranteed to be pretty good!" And that's just not as strong an indicator of TI performance as it was 2-3 years ago.
 
 **What would success look like?** I sincerely believe that if Nigma somehow make it to finals day, this'll be the highest viewership TI of all time and Dota will be saved.
 
-Picture [that scene in The Matrix](https://www.youtube.com/watch?v=jZiErA9Q0cE) where the kid runs into the canteen to announce Morpheus is fighting Neo, except it's you *@everyone*'ing your old stack's Discord "SUMAIL'S IN THE GRAND FINALS OF TI AGAIN!" Then all your friends who haven't queued for a game of Dota in the past four years rush into the stream.
+Picture that scene in The Matrix [where the kid runs into the canteen](https://www.youtube.com/watch?v=jZiErA9Q0cE) to announce Morpheus is fighting Neo, except it's you *@everyone*'ing your old stack's Discord, "SUMAIL'S IN THE GRAND FINALS OF TI AGAIN!" All your friends who haven't queued for a game of Dota in the past four years rush into the stream. The VC is popping, people are bemusedly asking what 'facets' are, and a smile creeps across your face. You're happy again.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/aurora.jpg" alt="Banner"></p>
