@@ -219,7 +219,7 @@ As for 33's replacement, SaberLight was already a known commodity to Liquid sinc
   </tbody></table>
 </div>
 
-Revisionists will have you believe that 33 was carrying Liquid's sorry ass uphill both ways last year and without him they're a shadow of their TI winning selves. In reality, yes, they had arguably better average performances [on LAN last season](https://howdoiplay.com/blog/2024/09/03/ti13-team-guide.html#:~:text=One%20Kuala%20Lumpur-,3rd%20%F0%9F%A5%89*,-DreamLeague%20S22), but not dramatically so. You'd be hard-pressed to find anyone who'll claim SaberLight has matched 33's peaks, but that's a near impossible task for any Dota player.
+Revisionists will have you believe that 33 was carrying Liquid's sorry ass uphill both ways last year and without him they're a shadow of their TI winning selves. In reality, yes, they had arguably better average performances [on LAN last season](https://howdoiplay.com/blog/2024/09/03/ti13-team-guide.html#:~:text=One%20Kuala%20Lumpur-,3rd%20%F0%9F%A5%89*,-DreamLeague%20S22), but not dramatically so. Granted, you'd be hard-pressed to find anyone who'll claim SaberLight has matched 33's peaks, but that's a near impossible task for any Dota player.
 
 This season was also fraught with stand-in issues for Liquid. Nisha missed Raleigh, Insania was half absent and then half dead during their Wallachia S5 run (ruining the potential Wallachia three-peat), and Liquid at DreamLeague is still the same Liquid at DreamLeague.
 
