@@ -219,7 +219,7 @@ As for 33's replacement, SaberLight was already a known commodity to Liquid sinc
   </tbody></table>
 </div>
 
-Revisionists will have you believe that 33 was carrying Liquid's sorry ass uphill both ways last season and without him they're a shadow of their TI winning selves. In reality, yes, they had arguably better average performances [on LAN last year](https://howdoiplay.com/blog/2024/09/03/ti13-team-guide.html#:~:text=One%20Kuala%20Lumpur-,3rd%20%F0%9F%A5%89*,-DreamLeague%20S22), but not dramatically so. Granted, you'd be hard-pressed to find anyone who'll claim SaberLight has matched 33's peaks, but that's a near impossible task for any Dota player.
+Revisionists will have you believe that 33 was carrying Liquid's sorry ass uphill both ways last season and without him they're a shadow of their TI winning selves. In reality, yes, they had arguably better average performances [on LAN last year](https://howdoiplay.com/blog/2024/09/03/ti13-team-guide.html#:~:text=One%20Kuala%20Lumpur-,3rd%20%F0%9F%A5%89*,-DreamLeague%20S22), but not dramatically so. Granted, you'd be hard-pressed to find anyone who'll claim SaberLight has matched 33's highs, but that's a near impossible task for any Dota player.
 
 This season was also fraught with various issues for Liquid. Nisha missed Raleigh, Insania was half absent and then half dead during their Wallachia S5 run (ruining the potential Wallachia three-peat), and Liquid at DreamLeague is still Liquid at DreamLeague.
 
@@ -291,7 +291,7 @@ As for the rest of the team, PVISION is like an inverse Gaimin Gladiators for ma
 
 Love him or hate him, though, 9Class was by far the most interesting player of the year. Allow me to share some of his hero pool this season: Morphling, Leshrac, Night Stalker, Ember Spirit, Clinkz, jungle Venomancer, Chaos Knight, Slark, Terrorblade. I'll remind you, I'm describing heroes being played as a *4 position support*.
 
-**What would success look like?** I don't think there's ever been a player in Dota history who has had the same career trajectory as Noone. A promising young talent becoming fully realized, fading away into irrelevancy for ~4 years, and now in the midst of a resurgence nipping on the heels of his original peaks. All while never swapping roles away from mid? Unprecedented.
+**What would success look like?** I don't think there's ever been a player in Dota history who has had the same career trajectory as Noone. A promising young talent becoming fully realized, fading away into irrelevancy for ~4 years, and now in the midst of a resurgence nipping at the heels of his original peaks. All while never swapping roles away from mid? Unprecedented.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/tundra.jpg" alt="Banner"></p>
@@ -372,9 +372,9 @@ Also, looking back, the Dyrachyo Tundra run feels like a fever dream. The man li
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After Copenhagen TI, Yatoro, Collapse, and Mira all decided to take a break. Satanic and Rue were both brought in from Spirit's Yellow Submarine academy team and Malik from PSG Quest as a temporary offlaner. 
+**How did this roster happen?** After Copenhagen TI, Yatoro, Collapse, and Mira all decided to take a break. Satanic and rue were both brought in from Spirit's Yellow Submarine academy team and Malik from PSG Quest as a temporary offlaner. 
 
-In January, Yatoro and Collapse returned. As for Mira? Ooooh yeah... I think...  we're actually gonna stick with Rue...
+In January, Yatoro and Collapse returned. As for Mira? Ooooh yeah... I think...  we're actually gonna stick with rue...
 
 **How was their season?**
 
@@ -410,7 +410,7 @@ In January, Yatoro and Collapse returned. As for Mira? Ooooh yeah... I think... 
 
 IT'S YA BOI, TEAM SPIRIT. PLODDING AROUND MOST OF THE SEASON, BUT PULLING UP WHEN BIG MONEY HAPPENS.
 
-The most notable story for Spirit this year was seeing Rue's growth. It's a real testament to Miposhka, and the rest of Spirit's support staff, to consistently be able to bring in untested players and polish them into champion diamonds. Riyadh was also Larl's first LAN win on Spirit in 2023 before going on to win TI12 three months later.
+The most notable story for Spirit this year was seeing rue's growth. It's a real testament to Miposhka, and the rest of Spirit's support staff, to consistently be able to bring in untested players and polish them into champion diamonds. Riyadh was also Larl's first LAN win on Spirit in 2023 before going on to win TI12 three months later.
 
 **What would success look like?** Win Bucharest, lose Singapore, win Seattle, lose Copenhagen. I don't need a bigger sample size, I know how this trend works.
 
@@ -430,7 +430,7 @@ The most notable story for Spirit this year was seeing Rue's growth. It's a real
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Falcons is the only team here that underwent zero roster changes since last TI. Given last year's trophy case, that's not too surprising.
+**How did this roster happen?** Falcons is the only team here that had zero roster changes since last TI. Given last year's trophy case, that's not too surprising.
 
 **How was their season?**
 
@@ -468,7 +468,7 @@ Given this year's trophy case, maybe they should've made changes *HEYOOO*. We li
 
 **What would success look like?** The trade-off is: Does winning early in the season mean you're burning out your players too soon? Are you getting your best strats nerfed before TI rolls around? Have you given too much data for other teams to learn what your weaknesses are? These are legitimate concerns because, historically, the team that wins everything during the season does *not* win TI.
 
-If there's ever a moment to hit your stride as a team, it's near the end of the season.
+If there's ever a moment to hit your stride as a team, it's near the end of the season. Maybe by winning a little FISSURE Universe: Episode 6.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/betboom.jpg" alt="Banner"></p>
@@ -486,7 +486,7 @@ If there's ever a moment to hit your stride as a team, it's near the end of the 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After their TI12 run, Pure was still the offlaner on this team until after KL when they traded him out for Miero.
+**How did this roster happen?** After last TI, Nightfall and Pure effectively traded places on Tundra and BetBoom. Kataomi left C9 and also left 4 position to become BB's 5 position support replacing TORONTOTOKYO. The last piece of the puzzle was originally kiyotaka on mid, but gpk returned pretty early on by December to complete this roster.
 
 **How was their season?**
 
@@ -520,21 +520,9 @@ If there's ever a moment to hit your stride as a team, it's near the end of the 
   </tbody></table>
 </div>
 
-Kids these days use the term "aura" a lot. Aura, [as defined by Wikipedia, the free encyclopedia at en.wikipedia.org:](https://en.wikipedia.org/wiki/List_of_Generation_Z_slang#:~:text=Aura,%2C%20Twitter%2C%20and%20YouTube%20Shorts.)
+Your eyes do not deceive you, BB actually won tournaments this year. Tournament(s) plural. This org has been competing since 2022 and they had not won a single LAN event until BLAST Slam I. Last blog, I spoke at length about BB's apparent psychological issues when they get to the final four in a tournament. This year, I'm happy to report they seem to have fixed it.
 
-<blockquote style="line-height: 0">
-<p style="font-family: Georgia, serif; font-size: 30px"><b>aura</b> (/ˈɔɹ.ə/), <span style="font-size: 20px"><i>noun</i></span></p>
-<p style="font-family: Georgia, serif; font-size: 23px">A quantifiable unit referring to how cool (positive integer) or uncool (negative integer) an individual is.</p>
-<p style="font-family: Georgia, serif; color:gray; font-size: 17px"><i>"Oh, you failed to rizz that level 10 gyatt? -1000000 aura loss lil bro."<br>"How much aura did I lose when I got Fanum taxed in Ohio?"</i></p>
-</blockquote>
-
-Now why did I make you read those cursed sentences? Basically, BB have aura ong 💯 when going through bracket. But when it comes to the final four-ish? Big yikes. They're completely cooked. It's giving delulu.
-
-Skibidi.
-
-A term that's decidedly more relevant amongst Dota's aging audience is "clutch" and if one possesses the clutch gene and/or clutch factor. Time and time again this year, BB Team were shown to not have it. Trouble for them was there was no clear diagnosis. It wasn't like individual players started underperforming in intense situations or specific teams were consistently beating them. BB as a whole just looked more and more disconnected the higher the stakes got.
-
-**What would success look like?** Aegismaxxing.
+**What would success look like?** While BB have finally conquered their LAN demons, they still haven't won a *crowd* event yet...
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/tidebound.jpg" alt="Banner"></p>
@@ -543,7 +531,7 @@ A term that's decidedly more relevant amongst Dota's aging audience is "clutch" 
   <tbody><tr>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">shiro</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-my" title="Malaysia" alt="Malaysia">NothingToSay</td>
-    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Bach</td>
+    <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">Bach (Faith_bian)</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">planet</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-cn" title="China" alt="China">y`</td>
     <td>&nbsp;</td>
@@ -553,27 +541,9 @@ A term that's decidedly more relevant amongst Dota's aging audience is "clutch" 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** When a storied esports organization like G2 wants to make a splash in a new game, they want to do it big. Doing it big usually involves creating a superteam. Unfortunately, many of the players whom you *would* get for a superteam were “““retired””” during the post-TI shuffle.
+**How did this roster happen?** Step right up and spin the wheel to see which of the 15 relevant Chinese players will end up on a roster together! This is basically Seattle TI12's top 3 LGD Gaming squad except with Bach (aka Faith_bian) swapped out for niu. Bach's been un-retired for a while and was doing work on Azure Ray last year, but fell one slot short of qualifying to TI13.
 
-Here's how I like to imagine their initial meeting went:
-
-<code>Gentlemen, we want to get into Dota. Western Europe seems like a real doozy, though, but it looks like there's a power vacuum in China. I say we form a strategic partnership with iG and put a superteam together in the region.</code>
-
-<code>NothingToSay is off LGD after four years on the roster? Perfect, get him on the team. Speaking of LGD, who's the only other Malaysian they ever had? xNova? Why'd he return to SEA, what a disaster, let's bring him back to China.</code>
-
-<code>Who's next. Uhhh, who's the best Chinese offlaner of all time? Probably Faith_bian? He's retired? Damn. That's fine, JT- was an iG boy for ages, let's bring him back.</code>
-
-<code>How about best Chinese carry? Ame, right? He's retired too? Oh. No worries, Monet was very consistent on Aster, let's reach out. We need someone to balance JT-'s craziness anyway.</code>
-
-<code>Last one. Best Chinese 4. Gotta be fy. He's... you're joking. <i>It's fine,</i> it's fine. Who was that one 4 we used to have? <a href="https://www.youtube.com/watch?v=KhQio49YG-Q">The one with the funny name.</a> Yeah, whatever. 4 position Monkey King is still viable, right?</code>
-
-<code>Real shame all those super famous and top tier players retired, but I guess they're done playing Dota forever.</code>
-
-<code><b><i>One month passes</i></b></code>
-
-<code><font size="6">ARE YOU FUCKING KIDDING ME.</font></code>
-
-You'll notice I also wrote their manager on this roster list despite usually not doing that. Why? Take a shot every time someone mentions Jack "KBBQ" Chen on the EN broadcast whenever G2 x iG are playing. You'll be puking in the toilet before the draft even starts.
+You'll regularly hear casters refer to this team as carrying the spirit of TI6 Wings squad with Bach, y`, and bLink as coach. Is it accurate in terms of gameplay? Not really. But just let us have this.
 
 **How was their season?**
 
@@ -607,11 +577,9 @@ You'll notice I also wrote their manager on this roster list despite usually not
   </tbody></table>
 </div>
 
-Despite not putting together a full superteam, G2 x iG still had the typical Chinese superteam results. Which is to say: meh. Wallachia was a nice moment of clarity, but the rest of the year was nothing special.
+There are three Chinese teams at this TI and Tidebound is regarded as the one that does best against non-Chinese opponents. As you can see, the bar is not set exceptionally high for what "does best" translates to. At least winning Snow-Ruyi at the tail end of the season is a nice pre-TI buff.
 
-**What would success look like?** After winning a thrilling five game grand final...
-
-Legendary manager Jack Chen hois-- NO, STOP. I'M DOING IT AGAIN.
+**What would success look like?** I'd referred to this team as being 80% of the LGD roster that landed top 3 at TI12. LGD's season was also pretty garbo before that TI result, so I guess anything's possible.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/gaimin.jpg" alt="Banner"></p>
