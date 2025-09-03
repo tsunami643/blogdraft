@@ -312,8 +312,8 @@ Love him or hate him, though, 9Class was by far the most interesting player of t
 **How did this roster happen?** Last year, my Tundra roster explanation took like six paragraphs and I'll be damned if I do that again. Let's condense:
 
 * **Beginning of the season** - 33 leaves Liquid and is given the keys to make the roster of his choice at Tundra. Saksa's the homie, he keeps Whitemon, brings Nightfall to carry, and temporarily gets Lorenof on mid.
-* **Middle of the season** - bzm exits OG contract jail and takes over mid. Dyrachyo, of former Gaimin Gladiators fame, replaces Nightfall as carry.
-* **End of the season** - Dyrachyo decides being an influencer/streamer is more fun than esports and retires. Tundra picks up the orphaned PVISION Crystallis carry.
+* **Middle of the season** - bzm exits OG contract jail and takes over mid. Dyrachyo, of former Gaimin Gladiators fame, replaces Nightfall carry.
+* **End of the season** - Dyrachyo decides being an influencer/streamer is more fun than esports and retires. Tundra picks up the orphaned PVISION Crystallis as carry.
 * **Right before TI** - Whitemon can't get a visa to Germany and Tobi is recruited to stand-in. [Interesting stat I saw on /r/dota2:](https://www.reddit.com/r/DotA2/comments/1n4embf/for_the_third_year_in_a_row_tundra_will_attend_ti/) Tundra has had to attend the past 3 TIs with stand-ins.
 
 **How was their season?**
@@ -348,11 +348,13 @@ Love him or hate him, though, 9Class was by far the most interesting player of t
   </tbody></table>
 </div>
 
-Tundra was quietly the most decorated team of the entire season. I say quietly because people haven't been characterizing Tundra's year as "dominant," but holy moly look at all those podium finishes.
+Tundra was quietly the most decorated team of the entire season. I say quietly because people haven't been characterizing Tundra's year as "dominant." Even in Wyk's yearly [pre-TI fan poll](https://x.com/wykrhm/status/1963136350582194506), Tundra doesn't even show up on the charts. But then I scroll up and I'm like holy moly check out all those medals.
 
-Also, looking back, the Dyrachyo Tundra run feels like a fever dream. The man literally walked into Tundra after not playing pro since Copenhagen TI, got to grand finals in all four tournaments played (PLAYGROUND 1 -> Wallachia S3), and then just left Dota. What the hell even was that.
+Also, looking back, the Dyrachyo Tundra run feels like a fever dream. The man literally walked into Tundra after not playing pro since Copenhagen TI, got to grand finals in all four tournaments he played (PLAYGROUND 1 -> Wallachia S3), 3:0'd his old team at BLAST Slam II, and then just left Dota. What the hell even was that.
 
 **What would success look like?** 33's a generational talent, no one can deny that at this point. But in theory, if he were to win a third TI while only sharing one teammate (Saksa) between all three wins? That's gotta be the epitome "I'm him."
+
+And yet somehow the Tundra org will still only get like 7 likes per Dota tweet on their socials. Puzzling.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/spirit.jpg" alt="Banner"></p>
@@ -372,7 +374,7 @@ Also, looking back, the Dyrachyo Tundra run feels like a fever dream. The man li
 
 **How did this roster happen?** After Copenhagen TI, Yatoro, Collapse, and Mira all decided to take a break. Satanic and rue were both brought in from Spirit's Yellow Submarine academy team and Malik from PSG Quest as a temporary offlaner. 
 
-In January, Yatoro and Collapse returned. As for Mira? Ooooh yeah... I think...  we're actually gonna stick with rue...
+In January, Yatoro and Collapse returned. As for Mira? Ooooh yeah... I think...  we're actually gonna stick with rue... No hard feelings.
 
 **How was their season?**
 
@@ -408,9 +410,9 @@ In January, Yatoro and Collapse returned. As for Mira? Ooooh yeah... I think... 
 
 IT'S YA BOI, TEAM SPIRIT. PLODDING AROUND MOST OF THE SEASON, BUT PULLING UP WHEN BIG MONEY HAPPENS.
 
-The most notable story for Spirit this year was seeing rue's growth. It's a real testament to Miposhka, and the rest of Spirit's support staff, to consistently be able to bring in untested players and polish them into champion diamonds. Riyadh was also Larl's first LAN win on Spirit in 2023 before going on to win TI12 three months later.
+The most notable story for Spirit this year was seeing rue's growth. It's a real testament to Miposhka, and the rest of Spirit's support staff, to consistently be able to bring in untested players and polish them into champion diamonds. Riyadh was also Larl's first LAN win on Spirit in 2023 before going on to win Seattle TI12 three months later.
 
-**What would success look like?** Win Bucharest, lose Singapore, win Seattle, lose Copenhagen. I don't need a bigger sample size, I know how this trend works.
+**What would success look like?** Win Bucharest, lose Singapore, win Seattle, lose Copenhagen. I don't need a bigger sample size, I know how this trend works. They also achieved a 20 game straight win streak stretching from EWC to the middle of Universe E6, so I've got hard data backing this up.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/falcons.jpg" alt="Banner"></p>
@@ -464,9 +466,9 @@ The most notable story for Spirit this year was seeing rue's growth. It's a real
 
 Given this year's trophy case, maybe they should've made changes *HEYOOO*. We like to make jokes around here. Although, last season, Falcons had top 3 finishes at every event they attended after Aui started coaching. This season? Decidedly more erratic.
 
-**What would success look like?** The trade-off is: Does winning early in the season mean you're burning out your players too soon? Are you getting your best strats nerfed before TI rolls around? Have you given too much data for other teams to learn what your weaknesses are? These are legitimate concerns because, historically, the team that wins everything during the season does *not* win TI.
+**What would success look like?** The trade-off is: Does winning early in the season mean you're burning out your players too soon? Are you getting your best strats nerfed before TI rolls around? Have you given too much data for other teams to learn what your weaknesses are? These are legitimate concerns because, historically, the team that wins everything during the season does *not* win TI. Falcons learned that the hard way last year.
 
-If there's ever a moment to hit your stride as a team, it's near the end of the season. Maybe by winning a little FISSURE Universe: Episode 6.
+If there's ever a moment to hit your stride as a team, it's near the end of the season. Maybe by winning a little FISSURE Universe: Episode 6?
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/betboom.jpg" alt="Banner"></p>
@@ -484,7 +486,7 @@ If there's ever a moment to hit your stride as a team, it's near the end of the 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Nightfall and Pure effectively traded places on Tundra and BetBoom. Kataomi left C9 and also left 4 position to become BB's 5 position support replacing TORONTOTOKYO. The last piece of the puzzle was originally kiyotaka on mid, but gpk returned pretty early on by December to complete this roster.
+**How did this roster happen?** Nightfall and Pure effectively traded places on Tundra and BetBoom. Kataomi left C9 and also left 4 position to become BetBoom's 5 position support replacing TORONTOTOKYO. The last piece of the puzzle was originally kiyotaka on mid, but gpk returned pretty early on by December to complete this roster.
 
 **How was their season?**
 
@@ -577,7 +579,7 @@ They formed in January and became the best Chinese team shortly thereafter. You'
 
 There are three Chinese teams at this TI and Tidebound is regarded as the one that does best against non-Chinese opponents. As you can see, the bar is not set exceptionally high for what "does best" translates to. At least winning Snow-Ruyi at the tail end of the season is a nice pre-TI buff.
 
-**What would success look like?** As mentioned earlier, this team is 80% of the LGD roster that landed top 3 at TI12. That LGD's season was also pretty garbo before their TI result, so I guess anything's possible.
+**What would success look like?** As mentioned earlier, this team is 80% of the LGD roster that landed top 3 at Seattle TI12. That LGD's season was also pretty garbo before their TI result, so I guess anything's possible.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/gaimin.jpg" alt="Banner"></p>
@@ -834,7 +836,7 @@ Despite the setback, the boys kept their noses to the grindstone and eventually 
 
 As I've alluded to, Nigma has not been a very strong team since their inception. In fact, for the past two years, many of Nigma's event attendances were a product of ESL creating a dedicated Middle Eastern (MENA/MESWA) region that had minimal competition. And even with that, Nigma still failed to qualify out for quite a few tournaments.
 
-They did place well at BLAST Slam II, but BLAST events don't exactly have the most competitively rigorous format. To earn that 3-4th finish, Nigma won 3 Bo1s and 1 Bo3. Don't get me wrong, the Bo3 was against PVISION, but still...
+They did place well at BLAST Slam II, but BLAST events don't exactly have the most competitively rigorous format. To earn that 3-4th finish, Nigma won 3 Bo1s and 1 Bo3. Don't get me wrong, that 1 Bo3 was against PVISION, but still...
 
 I'm not intentionally trying to be negative, I promise. But I think casual viewers who haven't been keeping up too closely with the scene may see, "Wow, they qualified out of Western Europe regional qualifiers? They're guaranteed to be pretty good!" And that's just not as strong an indicator of TI performance as it was 2-3 years ago.
 
