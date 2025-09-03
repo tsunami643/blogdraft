@@ -314,9 +314,7 @@ Love him or hate him, though, 9Class was by far the most interesting player of t
 * **Beginning of the season** - 33 leaves Liquid and is given the keys to make the roster of his choice at Tundra. Saksa's the homie, he keeps Whitemon, brings Nightfall to carry, and temporarily gets Lorenof on mid.
 * **Middle of the season** - bzm exits OG contract jail and takes over mid. Dyrachyo, of former Gaimin Gladiators fame, replaces Nightfall as carry.
 * **End of the season** - Dyrachyo decides being an influencer/streamer is more fun than esports and retires. Tundra picks up the orphaned PVISION Crystallis carry.
-* **Right before TI** - Whitemon can't get a visa to Germany and Tobi is recruited to stand-in.
-
-[Interesting stat I saw on /r/dota2:](https://www.reddit.com/r/DotA2/comments/1n4embf/for_the_third_year_in_a_row_tundra_will_attend_ti/) Tundra has had to attend the past 3 TIs with stand-ins.
+* **Right before TI** - Whitemon can't get a visa to Germany and Tobi is recruited to stand-in. [Interesting stat I saw on /r/dota2:](https://www.reddit.com/r/DotA2/comments/1n4embf/for_the_third_year_in_a_row_tundra_will_attend_ti/) Tundra has had to attend the past 3 TIs with stand-ins.
 
 **How was their season?**
 
@@ -350,7 +348,7 @@ Love him or hate him, though, 9Class was by far the most interesting player of t
   </tbody></table>
 </div>
 
-Tundra was quietly the most decorated team of the entire season. I say quietly because people don't really refer to Tundra's year as being "dominant," but holy moly look at all those podium finishes.
+Tundra was quietly the most decorated team of the entire season. I say quietly because people haven't been characterizing Tundra's year as "dominant," but holy moly look at all those podium finishes.
 
 Also, looking back, the Dyrachyo Tundra run feels like a fever dream. The man literally walked into Tundra after not playing pro since Copenhagen TI, got to grand finals in all four tournaments played (PLAYGROUND 1 -> Wallachia S3), and then just left Dota. What the hell even was that.
 
@@ -579,7 +577,7 @@ They formed in January and became the best Chinese team shortly thereafter. You'
 
 There are three Chinese teams at this TI and Tidebound is regarded as the one that does best against non-Chinese opponents. As you can see, the bar is not set exceptionally high for what "does best" translates to. At least winning Snow-Ruyi at the tail end of the season is a nice pre-TI buff.
 
-**What would success look like?** I'd referred to this team as being 80% of the LGD roster that landed top 3 at TI12. LGD's season was also pretty garbo before that TI result, so I guess anything's possible.
+**What would success look like?** As mentioned earlier, this team is 80% of the LGD roster that landed top 3 at TI12. That LGD's season was also pretty garbo before their TI result, so I guess anything's possible.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/gaimin.jpg" alt="Banner"></p>
@@ -770,14 +768,15 @@ They actually did qualify for Birmingham, but unsurprisingly, a bunch of young R
 
 **How did this happen?** I legitimately thought this day would never come. Nigma. At TI. And I'm writing about them. What a time to be alive. Now if you're reading this, I'm guessing you belong in one of three camps.
 
-1. I believed. I always believed. STARS ALIGN BAYBEEEE.
+1. *I believed. I always believed. STARS ALIGN BAYBEEEE.*
 
    Nigma diehards are truly the most enigmatic fanbase I've ever witnessed in Dota. I'll never understand you, but shine on you crazy diamond.
-2. Where's Miracle?
+
+2. *Where's Miracle?*
    
    Yes, . Some would argue they're at TI *because* Miracle's not on the team. Others will tell you to shut your whore mouth and don't you dare speak ill
 
-3. Is there really a team called *Nigma* at TI?
+3. *Is there really a team called **Nigma** at TI?*
    
    Yes. And every possible joke you could think of about their name has already been made over the past 5 years. After TI9 in 2019, 
 
@@ -959,7 +958,7 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** All of these players were kind of aimlessly floating around on various SEA stacks before joining together here on Nemesis at the end of the season.
+**How did this roster happen?** All of these players were aimlessly floating around on various SEA stacks before joining together here on Nemesis at the end of the season.
 
 **How was their season?**
 
