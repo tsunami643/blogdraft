@@ -179,9 +179,13 @@ Let's get started.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Liquid keeps having players retire on them after TIs end, but for once Team Secret didn't have anyone worth redeeming as a replacement for Zai. So who do you get if the job requirement is for a brainy offlaner willing to take the captain role? 33 fit the bill.
+**How did this roster happen?** Last year, I wrote the following for Team Spirit's *"How did this roster happen?"* after their win in Seattle.
 
-TI7 Newbee grand finalist kpii recently popped in to also coach Liquid when Blitz couldn't make it to Elite League S2. He earned his keep.
+> Usually after you win TI, you keep the gang together for another year. Not always, but usually.
+
+Well mark down another "not always" example. After hoisting the Aegis in Copenhagen, 33 left Liquid to return to his first TI winning org, Tundra. The idea was already floated before TI13 began and winning the event did not change his decision. Already seeking the next challenge, ceremony means nothing to him.
+
+As for 33's replacement, SaberLight was already a known commodity to Liquid since standing-in during their 3rd place run at Kuala Lumpur in 2023.
 
 **How was their season?**
 
@@ -215,15 +219,15 @@ TI7 Newbee grand finalist kpii recently popped in to also coach Liquid when Blit
   </tbody></table>
 </div>
 
-When TI invites were announced in May, there was a sentiment permeating on the interweb that Liquid had actually been huffing glue all year and them getting a direct invite to TI was absurd. Outside of their online DreamLeague results, it was a pretty flimsy stance, but Liquid seemed to have took it personally and really turned up the heat afterwards for their last two events.
+Revisionists will have you believe that 33 was carrying Liquid's sorry ass uphill both ways last year and without him they're a shadow of their TI winning selves. In reality, yes, they had arguably better average performances [on LAN last season](https://howdoiplay.com/blog/2024/09/03/ti13-team-guide.html#:~:text=One%20Kuala%20Lumpur-,3rd%20%F0%9F%A5%89*,-DreamLeague%20S22), but not dramatically so. You'd be hard-pressed to find anyone who'll claim SaberLight has matched 33's peaks, but that's a near impossible task for any Dota player.
 
-Here's a fun exercise for anyone who hasn't been keeping up with Dota since last year: Based on your memory of the 2023 season, take a wild guess at who beat these guys in grand finals of Riyadh. Yup. Yuuuuuup.
+This season was also fraught with stand-in issues for Liquid. Nisha missed Raleigh, Insania was half absent and then half dead during their Wallachia S5 run (ruining the potential Wallachia three-peat), and Liquid at DreamLeague is still the same Liquid at DreamLeague.
 
-I think Liquid is probably the only team in the history of Dota who could win a lower bracket final against a team like Falcons so dominantly and yet have the entire community immediately think, "Oh great, now they're definitely gonna lose grand finals 3-0 to Gaimin." But by golly, it happened.
+**What would success look like?** Liquid's a hard team to read. If you asked anybody last year, "Do you think Liquid will win TI?" you'd probably get a few half-hearted "I could see it"-s. If you asked anybody last year, "Do you think Liquid will win TI without dropping a single game in bracket?" Literally nobody, not even the Liquid players themselves, could've seen it.
 
-**What would success look like?** Okay, yes, *technically* they won Elite League S2. *Technically*, it was a LAN. Liquipedia classified it as a [tier 2 LAN](https://liquipedia.net/dota2/Elite_League/2) based on the level of competition, but still a LAN.
+So, do I think Liquid will win TI this year?
 
-But do *you* count it as the LAN win they've been clawing towards for years? Do *they* count it?
+I could see it.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/pvision.jpg" alt="Banner"></p>
@@ -793,7 +797,20 @@ They actually did qualify for Birmingham, but unsurprisingly, a bunch of young R
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** 7e, Beyond, and zzq have been kickin' it on Zero since May 2023. They attempted to qualify for last TI with cty and former Wings TI winner iceice, but got 3<sup>rd</sup>. That roster stuck around for a little bit of this year, but Erika and ponlo were brought in starting with Elite League S1 quals. As of Snow Ruyi, another Wings alumni, bLink, officially joined the team as a coach.
+**How did this happen?** I legitimately thought this day would never come. Nigma. At TI. And I'm writing about them. What a time to be alive. Now if you're reading this, I'm guessing you belong in one of three camps.
+
+1. I believed. I always believed. STARS ALIGN BAYBEEEE.
+
+   Nigma diehards are truly the most enigmatic fanbase I've ever witnessed in Dota. I'll never understand you, but shine on you crazy diamond.
+2. Where's Miracle?
+   
+   Yes, . Some would argue they're at TI *because* Miracle's not on the team. Others will tell you to shut your whore mouth and don't you dare speak ill
+
+3. Is there really a team called *Nigma* at TI?
+   
+   Yes. And every possible joke you could think of about their name has already been made over the past 5 years. After TI9 in 2019, 
+
+You could probably write an entire novel about this team and the trials and tribulations they've endured.
 
 **How was their season?**
 
