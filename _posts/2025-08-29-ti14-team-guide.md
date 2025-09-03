@@ -490,7 +490,7 @@ If there's ever a moment to hit your stride as a team, it's near the end of the 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Nightfall and Pure effectively traded places on Tundra and BetBoom. Kataomi left C9 and also left 4 position to become BetBoom's 5 position support replacing TORONTOTOKYO. The last piece of the puzzle was originally kiyotaka on mid, but gpk returned pretty early on by December to complete this roster.
+**How did this roster happen?** Nightfall and Pure effectively traded places on Tundra and BetBoom. Kataomi left C9 and also left 4 position to become BetBoom's 5 position support replacing TORONTOTOKYO. The last piece was originally kiyotaka on mid, but gpk returned pretty early on by December to complete this roster.
 
 **How was their season?**
 
@@ -524,9 +524,9 @@ If there's ever a moment to hit your stride as a team, it's near the end of the 
   </tbody></table>
 </div>
 
-Your eyes do not deceive you, BB actually won tournaments this year. Tournament(s) plural. This org has been competing since 2022 and they had not won a single LAN event until BLAST Slam I. Last blog, I spoke at length about BB's apparent psychological issues when they get to the final four in a tournament. This year, I'm happy to report they seem to have fixed it.
+Your eyes do not deceive you, BB actually *won* tournaments this year. Tournament(s) plural. This org has been competing since 2022 and they had not won a single LAN event until BLAST Slam I. Last blog, I spoke at length about BB's apparent psychological issues when they get to the final four in a tournament. This year, I'm happy to report they seem to have fixed it.
 
-**What would success look like?** While BB have finally conquered their LAN demons, they still haven't won a *crowd* event yet...
+**What would success look like?** While BB have finally conquered their LAN demons, they still haven't won a **crowd** event though...
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/tidebound.jpg" alt="Banner"></p>
@@ -545,9 +545,9 @@ Your eyes do not deceive you, BB actually won tournaments this year. Tournament(
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Step right up and spin the wheel to see which of the 15 relevant Chinese players will end up on a roster together! This is basically Seattle TI12's top 3 LGD Gaming squad except with Bach (aka Faith_bian) swapped out for niu. Bach's been un-retired for a while and was doing work on Azure Ray last year, but fell one slot short of qualifying to TI13.
+**How did this roster happen?** Step right up and spin the wheel to see which of the 15 relevant Chinese players will end up on a roster together! This is basically Seattle TI12's top 3 LGD Gaming squad except with Bach (aka Faith_bian) swapped out for niu. Bach's been un-retired for a while and was doing work on Azure Ray last year, but fell one slot short of qualifying to Copenhagen TI13.
 
-They formed in January and became the best Chinese team shortly thereafter. You'll regularly hear casters refer to this team as carrying the spirit of TI6 Wings with Bach, y`, and bLink as coach. Is it accurate in terms of gameplay? Not really. But just let us have this.
+You'll regularly hear casters refer to this team as carrying the spirit of TI6 Wings with Bach, y`, and bLink as coach. Is it accurate in terms of gameplay? Not really. But just let us have this.
 
 **How was their season?**
 
@@ -581,7 +581,7 @@ They formed in January and became the best Chinese team shortly thereafter. You'
   </tbody></table>
 </div>
 
-There are three Chinese teams at this TI and Tidebound is regarded as the one that does best against non-Chinese opponents. As you can see, the bar is not set exceptionally high for what "does best" translates to. At least winning Snow-Ruyi at the tail end of the season is a nice pre-TI buff.
+There are three Chinese teams at this TI and Tidebound is generally regarded as the one that does best against non-Chinese opponents. As you can see, the bar is not set exceptionally high for what "does best" translates to. At least winning Snow-Ruyi at the tail end of the season is a nice pre-TI buff.
 
 **What would success look like?** As mentioned earlier, this team is 80% of the LGD roster that landed top 3 at Seattle TI12. That LGD's season was also pretty garbo before their TI result, so I guess anything's possible.
 
@@ -605,7 +605,7 @@ There are three Chinese teams at this TI and Tidebound is regarded as the one th
 
 **How was their season?**
 
-<div class="resultsContainer">
+<div class="resultsContainer faded">
   <table class="resultsTable firstTable">
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
@@ -634,6 +634,43 @@ There are three Chinese teams at this TI and Tidebound is regarded as the one th
   <tr><td><i>Aug 2025</i></td><td class="fissure">FISSURE Universe: E6</td><td>7-8th</td></tr>
   </tbody></table>
 </div>
+
+<div id="paywall-wrapper">
+   <h4>Attending TI Subscription</h4>
+   <p>Vehicula ornare, neque tortor iaculis urna, ut <strong>£12.99/mth</strong> consectetur.</p>
+   <a class="btn" href="#">Subscribe Today!</a>
+</div>
+
+<style>
+  #paywall-wrapper {
+   padding: 35px;
+   border-radius: 5px;
+   position: relative;
+   margin-bottom: 30px;
+   box-shadow: 0px 0px 20px -1px rgba(0,0,0,0.20);
+}
+   #paywall-wrapper * {
+      text-align: center;
+   }
+      #paywall-wrapper .btn {
+         left: 50%;
+         transform: translateX(-50%);
+         position: relative;
+      }
+
+      .faded {
+   position: relative;
+}
+ .faded:after {
+   content: "";
+   height: 50%;
+   width: 100%;
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   background: linear-gradient(to bottom, rgba(255,255,255,0), #fff);
+}
+</style>
 
 Their results changed from last year! But not in the good way.
 
