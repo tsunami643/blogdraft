@@ -245,11 +245,13 @@ I could see it.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Well that's a logo we haven't seen around these parts in quite a while. And before you ask, no, EternaLEnVy hasn't finished his *Investor Z* [filler arc](https://tl.net/blogs/616169-eternalenvy-post-dota-trading-journey#1) and returned to the Dota scene quite yet. Instead, this roster was playing as Entity for most of the year.
+**How did this roster happen?** PVISION aka PARIVISION was formed from the ashes of last year's Cloud9 TI squad. Noone, DM, and coach Astini got Crystallis from Secret, 9Class from Tundra, and Dukalis from PSG Quest. It was an instant success.
 
-Watson, Kataomi, and Fishman were all on the TI12 Entity. Gabbi was replaced by DM and Stormstormer was replaced by reibl, who was then also replaced by Noone after they failed to qualify for ESL KL.
+Then along comes Satanic.
 
-Lastly, Astini joined as coach after Elite League S1. The players have publicly given a lot of credit to Astini after he started working with them. The man's results are nothing to scoff at, he was also coaching nouns when they got their surprise top 8 finish last TI.
+As a casual viewer, you wouldn't know this name, but you may be privy to the fact that Team Spirit has some of the most savvy talent scouts of any esports org ever. For the past year and a half, this 17 year old Satanic kid has been donking fools in tier 2 tournaments left and right while on the Spirit academy team "Yellow Submarine." People could tell he was the next big thing.
+
+Satanic was briefly given a chance on the main Spirit roster earlier this year and PVISION was convinced enough by his performance to bring him in to their team. As a result, Crystallis was given the boot pretty much immediately after their Bangkok win and PVISION has been making enemies ever since.
 
 **How was their season?**
 
@@ -283,11 +285,13 @@ Lastly, Astini joined as coach after Elite League S1. The players have publicly 
   </tbody></table>
 </div>
 
-Nothing too exceptional, but being the first team out of WEU qualifiers will always be a feat. This year, some notable teams left in the wake included: Nigma, Secret, OG, Quest, and the powerhouse Team Bald.
+Abandoning a carry you won a championship with is quite the gambit, but PVISION were able to prove it was a legitimate move by following up their Bangkok+Crystallis win with another trophy in Raleigh+Satanic.
 
-**What would success look like?** The last time Cloud9 attempted to come back to the Dota scene, [a global pandemic began two months later.](https://cloud9.gg/cloud9-comes-off-cooldown-and-rejoins-competitive-dota-2/)
+As for the rest of the team, PVISION is like an inverse Gaimin Gladiators for many viewers. "I love their mid laner, but I hate their supports." 9Class and Dukalis have been known to mouth off quite a bit in all chat during pro matches and it's too much for some viewers hearts.
 
-The team's performance is irrelevant to me. If I don't have to jam a swab halfway up my nose until tears come streaming out in November 2024, you did it Cloud9, it's a win.
+Love him or hate him, though, 9Class was by far the most interesting player of the year. Allow me to share some of his hero pool this season: Morphling, Leshrac, Night Stalker, Ember Spirit, Clinkz, jungle Venomancer, Chaos Knight, Slark, Terrorblade. I'll remind you, I'm describing heroes being played as a *4 position support*. Slark and Terrorblade were at times so irritating for teams to deal with that they were regularly earning first phase bans against PVISION.
+
+**What would success look like?** I don't think there's ever been a player in Dota history who has had the same career trajectory as Noone. A promising young talent becoming fully realized, fading away into irrelevancy for ~4 years, and now in the midst of a resurgence nipping on the heels of his original peaks. All while never swapping roles away from mid? Unprecedented.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/tundra.jpg" alt="Banner"></p>
