@@ -287,9 +287,9 @@ Satanic was briefly given a chance on the main Spirit roster earlier this year a
 
 Abandoning a carry you won a championship with is quite the gambit, but PVISION were able to prove it was a legitimate move by following up their Bangkok+Crystallis win with another trophy in Raleigh+Satanic.
 
-As for the rest of the team, PVISION is like an inverse Gaimin Gladiators for many viewers. "I love their mid laner, but I hate their supports." 9Class and Dukalis have been known to mouth off quite a bit in all chat during pro matches and it's too much for some viewers hearts.
+As for the rest of the team, PVISION is like an inverse Gaimin Gladiators for many fans. "I love their mid laner, but I hate their supports." 9Class and Dukalis have been known to mouth off quite a bit in all chat during pro matches and it's too much for some viewers hearts.
 
-Love him or hate him, though, 9Class was by far the most interesting player of the year. Allow me to share some of his hero pool this season: Morphling, Leshrac, Night Stalker, Ember Spirit, Clinkz, jungle Venomancer, Chaos Knight, Slark, Terrorblade. I'll remind you, I'm describing heroes being played as a *4 position support*. Slark and Terrorblade were at times so irritating for teams to deal with that they were regularly earning first phase bans against PVISION.
+Love him or hate him, though, 9Class was by far the most interesting player of the year. Allow me to share some of his hero pool this season: Morphling, Leshrac, Night Stalker, Ember Spirit, Clinkz, jungle Venomancer, Chaos Knight, Slark, Terrorblade. I'll remind you, I'm describing heroes being played as a *4 position support*.
 
 **What would success look like?** I don't think there's ever been a player in Dota history who has had the same career trajectory as Noone. A promising young talent becoming fully realized, fading away into irrelevancy for ~4 years, and now in the midst of a resurgence nipping on the heels of his original peaks. All while never swapping roles away from mid? Unprecedented.
 
@@ -309,19 +309,14 @@ Love him or hate him, though, 9Class was by far the most interesting player of t
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** As mentioned earlier, the TI11 winning Tundra roster kinda imploded after TI12. They were already on life support with Saksa's health issues, but <a href="https://x.com/RAX_Nine/status/1721589497161224324">Nine deciding to take a break from competitive</a> was likely the final nail in the coffin. 33 went to Liquid, Skiter and Sney went to Falcons.
+**How did this roster happen?** Last year my Tundra roster explanation took like six paragraphs and I'll be damned if I do that again, so let's condense things.
 
-Tundra wasn't about to take that lying down, however. Despite not really having a team, they temporarily picked up the orphaned NA TSM roster that qualified to ESL KL.
+* **Beginning of the season** - 33 leaves Liquid and is given the keys to make the roster of his choice at Tundra. Saksa's the homie, he keeps Whitemon, brings Nightfall to carry, and temporarily gets Lorenof on mid.
+* **Middle of the season** - bzm exits OG contract jail and takes over mid. Dyrachyo, of former Gaimin Gladiators fame, replaces Nightfall as carry.
+* **End of the season** - Dyrachyo decides being an influencer/streamer is more fun than esports and retires. Tundra picks up the orphaned PVISION Crystallis as carry.
+* **Right before TI** - Whitemon can't get a visa to Germany and Tobi is recruited to stand-in.
 
-Now strap in for the rest, I'm gonna go quick. Ok so Whitemon was on that TSM roster, they kept him. Topson was on their TI12 roster, they brought him back. Then they got Pure, 9class, and MinD_ContRoL. Yes, MC finally left Nigma under the pretenses that he would likely be helming operations at this new team. But then they also brought in Moonmeander as a coach. And then they also brought in Zai as a manager (don't ask).
-
-You still keeping up? Good. Alright well now we have a lotta cooks in the kitchen, yeah? And lemme tell you, ole' Ivan Ivanov did not like that one bit, no siree. So much so that, according to Tundra, ["unreasonable demands"](https://x.com/TundraEsports/status/1762147698046615984) were being made by him which resulted in his suspension and ultimately, replacement, from the team before Birmingham.
-
-Tobi was brought in as a benchwarmer before Pure, who was also keen on the captain role all along, recruited Ramzes as their rostered offlaner.
-
-Oh yeah and now 9class wasn't able to get a visa to Denmark, so Saksa's back.
-
-You get everything?
+[Interesting stat I saw on /r/dota2:](https://www.reddit.com/r/DotA2/comments/1n4embf/for_the_third_year_in_a_row_tundra_will_attend_ti/) Tundra has had to attend the past 3 TIs with stand-ins.
 
 **How was their season?**
 
@@ -355,9 +350,11 @@ You get everything?
   </tbody></table>
 </div>
 
-Despite allllllll that... not too shabby, right?
+Tundra was quietly the most decorated team of the entire season. I say quietly because people don't really refer to Tundra's year as being "dominant," but god damn are those a lot of podium finishes.
 
-**What would success look like?** Saksa was off the grid for most of the year, but was dipping his toe back in the competitive waters on Team Bald starting in May. Nine proved that he hadn't rusted much during his time off when he stood in during Wallachia and most saw the same in Saksa during the Bald qualifier runs. Tundra boys just built different.
+Also looking back, the Dyrachyo Tundra run feels like a fever dream. The man literally walked into Tundra after not playing pro since Copenhagen TI, got to grand finals in all four tournaments played (PLAYGROUND 1 -> Wallachia S3), and then just left Dota. What the hell even was that.
+
+**What would success look like?** 33's a generational talent, no one can deny that at this point. But in theory, if he were to win a third TI while only sharing one teammate (Saksa) between all three wins? That's gotta be the epitome "I'm him."
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/spirit.jpg" alt="Banner"></p>
