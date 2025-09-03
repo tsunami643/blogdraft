@@ -464,7 +464,7 @@ The most notable story for Spirit this year was seeing rue's growth. It's a real
   </tbody></table>
 </div>
 
-Given this year's trophy case, maybe they should've made changes *HEYOOO*. We like to make jokes around here. Although, last season Falcons had top 3 finishes at every event they attended after Aui joined. This season? Decidedly more erratic.
+Given this year's trophy case, maybe they should've made changes *HEYOOO*. We like to make jokes around here. Although, last season, Falcons had top 3 finishes at every event they attended after Aui started coaching. This season? Decidedly more erratic.
 
 **What would success look like?** The trade-off is: Does winning early in the season mean you're burning out your players too soon? Are you getting your best strats nerfed before TI rolls around? Have you given too much data for other teams to learn what your weaknesses are? These are legitimate concerns because, historically, the team that wins everything during the season does *not* win TI.
 
@@ -486,7 +486,7 @@ If there's ever a moment to hit your stride as a team, it's near the end of the 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After last TI, Nightfall and Pure effectively traded places on Tundra and BetBoom. Kataomi left C9 and also left 4 position to become BB's 5 position support replacing TORONTOTOKYO. The last piece of the puzzle was originally kiyotaka on mid, but gpk returned pretty early on by December to complete this roster.
+**How did this roster happen?** Nightfall and Pure effectively traded places on Tundra and BetBoom. Kataomi left C9 and also left 4 position to become BB's 5 position support replacing TORONTOTOKYO. The last piece of the puzzle was originally kiyotaka on mid, but gpk returned pretty early on by December to complete this roster.
 
 **How was their season?**
 
@@ -543,7 +543,7 @@ Your eyes do not deceive you, BB actually won tournaments this year. Tournament(
 
 **How did this roster happen?** Step right up and spin the wheel to see which of the 15 relevant Chinese players will end up on a roster together! This is basically Seattle TI12's top 3 LGD Gaming squad except with Bach (aka Faith_bian) swapped out for niu. Bach's been un-retired for a while and was doing work on Azure Ray last year, but fell one slot short of qualifying to TI13.
 
-You'll regularly hear casters refer to this team as carrying the spirit of TI6 Wings squad with Bach, y`, and bLink as coach. Is it accurate in terms of gameplay? Not really. But just let us have this.
+They formed in January and became the best Chinese team shortly thereafter. You'll regularly hear casters refer to this team as carrying the spirit of TI6 Wings with Bach, y`, and bLink as coach. Is it accurate in terms of gameplay? Not really. But just let us have this.
 
 **How was their season?**
 
@@ -959,9 +959,7 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Mikoto wanted to take a break after last TI, so the rest of old Talon went on to become Aurora. Mikoto's break lasted a whopping two months and he was actually on Bleed for most of the year with Jackky, Masaros, DJ, and poloson. Sounds like the kinda team that could do pretty good, right? Yep, just like all Bleed rosters. And like all Bleed rosters, they ended up sucking.
-
-Meanwhile, Talon signed these other four players (Akashi, Ws, Jhocam, ponyo) from various middling SEA teams along with ChYuaN to play mid. Mikoto finally came back to Talon in June.
+**How did this roster happen?** All of these players were kind of aimlessly floating around on various SEA stacks before joining together here on Nemesis at the end of the season.
 
 **How was their season?**
 
@@ -995,7 +993,7 @@ Meanwhile, Talon signed these other four players (Akashi, Ws, Jhocam, ponyo) fro
   </tbody></table>
 </div>
 
-Don't ask me how this team got the first slot out of SEA quals, I couldn't tell you. I mean, they got it by 2-0'ing Aurora, but the how or why escape me.
+I wasn't exaggerating when I said end of the season.
 
 **What would success look like?** I can't do it anymore. I can't keep coming up with different ways to write, "Gosh SEA has been pretty mediocre, but maybe this is the year!" on these blogs. There are only so many variations one can author before it just becomes lorem ipsum text. I'll just keep sliding the goal post over with each year. Last TI, best SEA team was Talon at 9th-12th. So yeaaaaaah, beat thaaaaaat.
 
