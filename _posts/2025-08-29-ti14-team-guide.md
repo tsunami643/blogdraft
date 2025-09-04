@@ -753,7 +753,7 @@ Of the remaining unqualified teams, Yakutou was technically the second best opti
 
 Spoilers for later that Shopify is on that list.
 
-**What would success look like?** The three Chinese teams not having to knock each other out of TI.
+**What would success look like?** I'm fascinated to know what's going to happen to team that tried to make it to TI, did not make it to TI, spent two months assuming they wouldn't be at TI, and is now competing at TI.
 
 ----
 
@@ -826,7 +826,7 @@ For a more thorough account, [x42bn6 documented the entirety of the drama on Liq
 
 Despite the setback, the boys kept their noses to the grindstone and eventually qualified to EWC and TI out of Western Europe. A rightful way to earn the promotion from Junior to NAVI main's squad.
 
-**What would success look like?** At 16 years and 210 days, Niku will be the second youngest player to ever compete at TI. The first? <span class="spoiler">2015 Sumail. 16 years and 176 days. And he won it. Speaking of which, let's take a look at the next qualifying team.</span>
+**What would success look like?** At 16 years and 211 days, Niku will be the second youngest player to ever compete at TI. The first? <span class="spoiler">2015 Sumail. <a href="https://liquipedia.net/dota2/The_International/Player_Statistics#Player_age_in_tournament">16 years and 165 days.</a> And he won it.<br><br>Speaking of which, let's take a look at the next qualifying team.</span>
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/nigma.jpg" alt="Banner"></p>
@@ -858,7 +858,7 @@ Despite the setback, the boys kept their noses to the grindstone and eventually 
 
 3. *Is there really a team called **Nigma** at TI?*
    
-   Yes. And every possible joke you could think of about their name has already been made over the past 5 years.
+   Yes. And every possible joke you could think of about their name has already been made over the past 6 years.
    
    After TI9, Kuroky and the gang parted ways with Team Liquid and followed in the footsteps of other famous player run orgs with Puppey+Secret and Notail+OG with the creation of Team Nigma.
    
@@ -904,7 +904,9 @@ I'm not intentionally trying to be negative, I promise. But I think casual viewe
 
 **What would success look like?** I sincerely believe that if Nigma somehow make it to finals day, this'll be the highest viewership TI of all time and Dota will be saved.
 
-Picture that scene in The Matrix [where the kid runs into the canteen](https://www.youtube.com/watch?v=jZiErA9Q0cE) to announce Morpheus is fighting Neo, except it's you *@everyone*'ing your old stack's Discord, "SUMAIL'S IN THE GRAND FINALS OF TI AGAIN!" All your friends who haven't queued for a game of Dota in the past four years rush into the stream. The VC is popping, people are bemusedly asking what 'facets' are, and a smile creeps across your face. You're happy again.
+Picture that scene in The Matrix [where the kid runs into the canteen](https://www.youtube.com/watch?v=jZiErA9Q0cE) to announce Morpheus is fighting Neo, except it's you *@everyone*'ing your old stack's Discord, "SUMAIL'S IN THE GRAND FINALS OF TI AGAIN!" All your friends who haven't queued for a game of Dota in the past four years rush into the stream.
+
+The VC is popping, people are bemusedly asking what 'facets' are, and a smile creeps across your face. You're happy again.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/aurora.jpg" alt="Banner"></p>
@@ -958,11 +960,11 @@ Notably, TORONTOTOKYO has now swapped to his *third* professional role as well. 
   </tbody></table>
 </div>
 
-Keen eyed readers may have noticed earlier, "Wait a second. Why is NAVI qualifying out of *western* Europe?" The answer is Aurora.
+Keen eyed readers may have realized earlier, "Wait a second. Why is NAVI qualifying out of *western* Europe?" The answer is Aurora.
 
 Eastern Europe has yet again become a very crowded region with PVISION, Spirit, and BB all taking up space. It's difficult for TOs to justify giving more than one qualifying slot to EEU and Aurora has been consistently scooping up that slot since forming. In an effort to improve their chances, several other EEU teams fled to different (read: easier) regions to qualify out of.
 
-**What would success look like?** I would be so hype to see Spirit vs Aurora for elimination. There's no bad blood between them. [In fact, the TI10 Spirit roster (minus Yatoro) did a very nice podcast at EWC.](https://www.youtube.com/watch?v=NXgaXfYUe2o) But it'd still be cool to see.
+**What would success look like?** I would be so hype to see Spirit vs Aurora for elimination. There's no bad blood between them. In fact, the TI10 Spirit roster (minus Yatoro) [did a very nice podcast at EWC.](https://www.youtube.com/watch?v=NXgaXfYUe2o) But it'd still be cool to see.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/xtreme.jpg" alt="Banner"></p>
@@ -980,7 +982,11 @@ Eastern Europe has yet again become a very crowded region with PVISION, Spirit, 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Dy had been chilling on Xtreme for about 3 years, but the rest of the team came out of nowhere. After being absent from the competitive scene since TI2022 in Singapore, professional Genshin Impact cosplayer Ame made his triumphant return to Dota in 2024. Meanwhile, Xtreme and Azure Ray share the same owner, so Xm, Xxs, and XinQ were transferred over here from Azure.
+**How did this roster happen?** One last wheel spin. Oooh, an SSR Ame! You won the 50/50, no pity.
+
+Ame's actually been bouncing around quite a bit this season. Attended Bangkok on a team called Gaozu, spent the middle of the season with the Yakutou Brothers, and finally returned to Xtreme starting with Wallachia S3.
+
+Unfortunately, poloson won't make it to his first TI (at age 29 after over a decade of competing...) due to health issues and xNova will be Xtreme's support stand-in.
 
 **How was their season?**
 
@@ -1014,11 +1020,9 @@ Eastern Europe has yet again become a very crowded region with PVISION, Spirit, 
   </tbody></table>
 </div>
 
-The trading of the three X amigos happened *after* they won ESL KL as Azure Ray, so I'm counting that as an Xtreme win. After that, the team took up the mantle of "best Chinese team" fairly quickly. Ame seemingly hadn't missed a beat during his sabbatical and Xtreme ended the season on a high note with a win on home soil at the China Snow Ruyi LAN.
+While Tidebound has been doing the best against international opponents, Xtreme has been doing the best intra-regionally. One of the events not on my list is Asian Champions League and Xtreme won both of them over Yakutou and Tidebound.
 
-Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjqr/yatoro_on_why_he_changed_his_nickname/">Raddan</a> had to give one back to his beloved [Ame the Kind](https://www.reddit.com/r/DotA2/comments/1aimrjf/yatoro_after_watching_10_minutes_of_ames_game_on/) after Wallachia.
-
-**What would success look like?** Unfortunately, "best Chinese team" has been synonymous with "best non-European team" for the past six TIs. That's not necessarily a bad place to be. In fact, China as a region has never had a peak placement lower than 4<sup>th</sup> place at TI in the history of the event. With fewer teams from China making it to TI each year, maintaining that streak gets more and more challenging.
+**What would success look like?** The three Chinese teams not having to knock each other out of TI.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/nemesis.jpg" alt="Banner"></p>
@@ -1072,7 +1076,9 @@ Perhaps promised consort <a href="https://www.reddit.com/r/DotA2/comments/1dyfjq
 
 I wasn't exaggerating when I said end of the season.
 
-**What would success look like?** I can't do it anymore. I can't keep coming up with different ways to write, "Gosh SEA has been pretty mediocre, but maybe this is the year!" on these blogs. There are only so many variations one can author before it just becomes lorem ipsum text. I'll just keep sliding the goal post over with each year. Last TI, best SEA team was Talon at 9th-12th. So yeaaaaaah, beat thaaaaaat.
+**What would success look like?** Did you know there hasn't been a full Pinoy squad at TI since TI9's TNC Predator?
+
+<div class="voiceline"><a href="#" title="Glitter Tier Line" id="play" onclick="nemesis.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">Uy Philippines!!! Philippines!!! Woooah!!</span><audio id="nemesis" class="audio" src="./../../../img/ti14teams/nemesis.mp3" type="audio/mpeg"></audio></a></div>
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/boom.jpg" alt="Banner"></p>
