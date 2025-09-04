@@ -826,7 +826,7 @@ For a more thorough account, [x42bn6 documented the entirety of the drama on Liq
 
 Despite the setback, the boys kept their noses to the grindstone and eventually qualified to EWC and TI out of Western Europe. A rightful way to earn the promotion from Junior to NAVI main's squad.
 
-**What would success look like?** At 16 years and 211 days, Niku will be the second youngest player to ever compete at TI. The first? <span class="spoiler">2015 Sumail. <a href="https://liquipedia.net/dota2/The_International/Player_Statistics#Player_age_in_tournament">16 years and 165 days.</a> And he won it.<br><br>Speaking of which, let's take a look at the next qualifying team.</span>
+**What would success look like?** At 16 years and 211 days, Niku will be the second youngest player to ever compete at TI. The first? <span class="spoiler">2015 Sumail. 16 years and 165 days. And he won it.<br><br>Speaking of which, let's take a look at the next qualifying team.</span>
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/nigma.jpg" alt="Banner"></p>
@@ -904,9 +904,7 @@ I'm not intentionally trying to be negative, I promise. But I think casual viewe
 
 **What would success look like?** I sincerely believe that if Nigma somehow make it to finals day, this'll be the highest viewership TI of all time and Dota will be saved.
 
-Picture that scene in The Matrix [where the kid runs into the canteen](https://www.youtube.com/watch?v=jZiErA9Q0cE) to announce Morpheus is fighting Neo, except it's you *@everyone*'ing your old stack's Discord, "SUMAIL'S IN THE GRAND FINALS OF TI AGAIN!" All your friends who haven't queued for a game of Dota in the past four years rush into the stream.
-
-The VC is popping, people are bemusedly asking what 'facets' are, and a smile creeps across your face. You're happy again.
+Picture that scene in The Matrix [where the kid runs into the canteen](https://www.youtube.com/watch?v=jZiErA9Q0cE) to announce Morpheus is fighting Neo, except it's you *@everyone*'ing your old stack's Discord, "SUMAIL'S IN THE GRAND FINALS OF TI AGAIN!" All your friends who haven't queued for a game of Dota in the past four years rush into the stream. The VC is popping, people are bemusedly asking what 'facets' are, and a smile creeps across your face. You're happy again.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/aurora.jpg" alt="Banner"></p>
@@ -1255,9 +1253,65 @@ K1 came from nouns, Scofield came from beastcoast, Analog and KJ came from Keyd 
 
 There's this incredible time capsule of a thread on /r/dota2 celebrating HEROIC's PGL Wallachia S2 win. Oh my god, it's amazing, first South American LAN win in Dota history, they've come so far, people are celebrating in the streets, I used to pray for times like these, etc, etc.
 
-But there's one comment in particular...
+But there's [one comment](https://www.reddit.com/r/DotA2/comments/1g2wt4g/congratulations_to_the_winner_of_pgl_wallachia/lrs39j2/?context=10000) in particular...
 
-<p class="center"><img style="width: 1000px;" title="The Oracle" src="./../../../img/ti14teams/parker_oracle.jpg"></p>
+<style>
+.reddit-embed {
+  max-width: 600px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 12px 16px;
+  font-family: Arial, sans-serif;
+  background: #fff;
+  color: #1a1a1b;
+}
+
+.reddit-embed p {
+  margin: 0 0 1em;
+  line-height: 1.4;
+}
+
+.reddit-embed footer {
+  font-size: 0.85em;
+  color: #555;
+  border-top: 1px solid #eee;
+  padding-top: 8px;
+}
+
+.reddit-embed a {
+  color: #0079d3;
+  text-decoration: none;
+}
+
+.reddit-embed a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<div class="reddit-embed">
+  <p>Hahahhahahha oh boy, i REALLY dont want to be a party ruiner, this is one of the happiest days as a dota fan for me, but as a South American i feel like I need to explain something to you guys</p>
+
+  <p>Parker is insanely talented. Like best player in the world talented. But theres a reason why he had an mediocre carrer so far...</p>
+
+  <p>Please dont get your hopes up. The dude is a god at pressing buttons, but outside of that he lacks everything needed to be a decent human being</p>
+
+  <p>Trust me when i say this, with Parker theres always a chance that any second he will say or do something that will destroy his carreer or at the very least his team. If 10% of his past gets to reddit, hes done for lmao</p>
+
+  <p>Yall gonna be hating the dude some months from now, you can quote me on that.</p>
+
+  <p>Theres always that 1% chance that hes reformed and all that, but do I believe that? Hell nah lmao this team won't have the same roster 1 year from now.</p>
+
+  <p>I know I will get a shitton of downvotes for this but time will tell anyways</p>
+
+  <footer>
+    — <a href="https://www.reddit.com/user/NaoCustaTentar/">u/NaoCustaTentar</a>,
+    <a href="https://www.reddit.com/r/DotA2/comments/1g2wt4g/congratulations_to_the_winner_of_pgl_wallachia/lrs39j2/?context=10000">source</a>
+    in <a href="https://www.reddit.com/r/DotA2/">r/DotA2</a>
+  </footer>
+</div>
+<br>
+
+Truly prescient.
 
 **What would success look like?** MONGOLIAN THROAT SINGING IN THE ROYAL ARENA.
 
