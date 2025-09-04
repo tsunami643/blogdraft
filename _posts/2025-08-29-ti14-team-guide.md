@@ -1078,7 +1078,15 @@ I wasn't exaggerating when I said end of the season.
 
 **What would success look like?** Did you know there hasn't been a full Pinoy squad at TI since TI9's TNC Predator?
 
-<div class="voiceline"><a href="#" title="Glitter Tier Line" id="play" onclick="nemesis.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default">Uy Philippines!!! Philippines!!! Woooah!!</span><audio id="nemesis" class="audio" src="./../../../img/ti14teams/nemesis.mp3" type="audio/mpeg"></audio></a></div>
+<div class="voiceline" style="display:block; text-align: center;"><a href="#" title="Glitter Tier Line" id="play" onclick="nemesis.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default" style="background: linear-gradient(90deg, 
+    #0038A8 0%,   /* Blue */
+    #0038A8 33%, 
+    #CE1126 33%,  /* Red */
+    #CE1126 66%, 
+    #FCD116 66%,  /* Yellow */
+    #FCD116 100%
+  ); -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;">Uy Philippines!!! Philippines!!! Woooah!!</span><audio id="nemesis" class="audio" src="./../../../img/ti14teams/nemesis.mp3" type="audio/mpeg"></audio></a></div>
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/boom.jpg" alt="Banner"></p>
