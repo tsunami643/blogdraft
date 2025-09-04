@@ -713,7 +713,7 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
 
 **How did this roster happen?** By the time the Gaimin news broke, all the qualifiers had been long done and PGL/Valve were now under the gun to find a worthy replacement team who could get to Germany for TI in under two weeks. Rumor is that Talon was highest on the list (1 slot away from qualifying through SEA quals), but concluded they couldn't get visas in time. OG was also floated as another alternative (1 slot away in WEU quals), but ultimately the slot went to Yakutou Brothers from China (1 slot away in CN quals).
 
-As for this roster? You know the deal. Spin the wheel of Chinese players and see what ya get.
+Yeah but what about Yakutou's roster, you ask? You know the deal. Spin the wheel of Chinese players and see what ya get.
 
 **How was their season?**
 
@@ -980,7 +980,7 @@ Eastern Europe has yet again become a very crowded region with PVISION, Spirit, 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** One last wheel spin. Oooh, an SSR Ame! You won the 50/50, no pity.
+**How did this roster happen?** One last wheel spin. Oooh, an SSR Ame!
 
 Ame's actually been bouncing around quite a bit this season. Attended Bangkok on a team called Gaozu, spent the middle of the season with the Yakutou Brothers, and finally returned to Xtreme starting with Wallachia S3.
 
@@ -1326,7 +1326,7 @@ lol
 
 As predicted, Parker proved to be too difficult for HEROIC to work with long term and he was off the team one month after winning Wallachia. Shortly thereafter, Puppey actually took him on Secret. He's no longer on Secret either.
 
-As for the rest of the team, Yuma was Parker's replacement and Wisper also exited OG contract jail in January to replace Davai Lama.
+Yuma was Parker's replacement and Wisper also exited OG contract jail in January to replace Davai Lama.
 
 **What would success look like?** I'll end on a serious note. If HEROIC can make it past the Road through Swiss elimination, that'd be a pretty big success.
 
