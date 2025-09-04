@@ -637,7 +637,7 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
 
 <div id="fakewall">
    <h4>Attending TI Subscription</h4>
-   <p>Sorry, it looks like you're interested in competing at TI after being directly invited.</p>   
+   <p>Sorry, it looks like you're interested in <strong>playing at a TI</strong> you've been directly invited to.</p>   
    <p>Unfortunately, <strong>contract disputes</strong> may make that impossible.</p>
    <p style="font-size: 1em;margin-bottom:0px;text-align: center;font-weight:bold;">
     <a href="#" onclick="unblur(event);" class="button large">What the helly?</a>
