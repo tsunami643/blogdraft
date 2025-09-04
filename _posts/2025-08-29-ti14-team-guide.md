@@ -1264,6 +1264,7 @@ But there's [one comment](https://www.reddit.com/r/DotA2/comments/1g2wt4g/congra
   font-family: Arial, sans-serif;
   background: #fff;
   color: #1a1a1b;
+  margin: auto;
 }
 
 .reddit-embed p {
@@ -1276,6 +1277,10 @@ But there's [one comment](https://www.reddit.com/r/DotA2/comments/1g2wt4g/congra
   color: #555;
   border-top: 1px solid #eee;
   padding-top: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
 }
 
 .reddit-embed a {
@@ -1285,6 +1290,11 @@ But there's [one comment](https://www.reddit.com/r/DotA2/comments/1g2wt4g/congra
 
 .reddit-embed a:hover {
   text-decoration: underline;
+}
+
+.reddit-embed .meta {
+  display: flex;
+  gap: 12px;
 }
 </style>
 
@@ -1304,12 +1314,12 @@ But there's [one comment](https://www.reddit.com/r/DotA2/comments/1g2wt4g/congra
   <p>I know I will get a shitton of downvotes for this but time will tell anyways</p>
 
   <footer>
-    — <a href="https://www.reddit.com/user/NaoCustaTentar/">u/NaoCustaTentar</a>,
-    <a href="https://www.reddit.com/r/DotA2/comments/1g2wt4g/congratulations_to_the_winner_of_pgl_wallachia/lrs39j2/?context=10000">source</a>
-    in <a href="https://www.reddit.com/r/DotA2/">r/DotA2</a>
+    <span>— <a href="https://www.reddit.com/user/NaoCustaTentar/">u/NaoCustaTentar</a></span>
+    <span>in <a href="https://www.reddit.com/r/DotA2/">r/DotA2</a></span>
+    <span class="meta">⬆️ 388 upvotes • 💬 66 replies</span>
+    <span><a href="https://www.reddit.com/r/DotA2/comments/1g2wt4g/congratulations_to_the_winner_of_pgl_wallachia/lrs39j2/?context=10000">source</a></span>
   </footer>
 </div>
-<br>
 
 Truly prescient.
 
