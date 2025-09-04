@@ -15,7 +15,7 @@ AHHHH I'm publishing this like 1 hour before TI starts. Gogogo, a quick recap of
 * **Lots more events** - Nearly twice as many as last year
 * **Lots more water** - On the map
 
-Lots more to cover. I've chosen the most notable events of the season and tried to present them as cleanly as possible. They're color coded them by tournament organizer.
+Lots more to cover. I've chosen the most notable events of the season and tried to present them as cleanly as possible. They're color coded by tournament organizer.
 
 <div class="resultsContainer">
   <table class="resultsTable firstTable">
@@ -1319,7 +1319,7 @@ But there's [one comment](https://www.reddit.com/r/DotA2/comments/1g2wt4g/congra
     <span><a href="https://www.reddit.com/r/DotA2/comments/1g2wt4g/congratulations_to_the_winner_of_pgl_wallachia/lrs39j2/?context=10000">source</a></span>
   </footer>
 </div>
-<br><p>lol</p>
+<br>lol
 
 As predicted, Parker proved to be too difficult for HEROIC to work with long term and he was off the team one month after winning Wallachia. Shortly thereafter, Puppey actually took him on Secret. He's no longer on Secret either.
 
