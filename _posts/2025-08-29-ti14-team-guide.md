@@ -596,7 +596,7 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
     <td><img src="../../../img/assets/blank.gif" class="flag flag-de" title="Germany" alt="Germany">tOfu</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-kz" title="Kazakhstan" alt="Kazakhstan">Malady</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cy-</td></tr>
+    <td style="text-decoration: line-through"><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-dk" title="Denmark" alt="Denmark">Cy-</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
