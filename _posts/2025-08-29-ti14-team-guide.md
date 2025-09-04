@@ -778,7 +778,7 @@ Spoilers for later that Shopify is on that list.
 
 **How did this roster happen?** Well hello old friend, long time no see. When was the last time you made it out here? TI9, really? Time flies. What've you been up to, who are these kids?
 
-gotthejuice, pma, and Riddys have been playing together on the academy team, NAVI Junior, since 2022. Niku joined in 2023. Zayac, whom you may remember [shimmying in Singapore TI11 grand finals with Team Secret](https://youtu.be/cvAbJt3xQaA?t=19), actually specifically requested to be moved from the main NAVI roster to the Junior squad this season because he liked the idea of being able to captain and mold a group of young players. And I'm talking *young*. Zayac is 26 and even with him the average age of this full team is 20 years old.
+Well gotthejuice, pma, and Riddys have been playing together on the academy team, NAVI Junior, since 2022. Niku joined in 2023. Zayac, whom you may remember [shimmying in Singapore TI11 grand finals with Team Secret](https://youtu.be/cvAbJt3xQaA?t=19), actually specifically requested to be moved from the main NAVI roster to the Junior squad this season because he liked the idea of being able to captain and mold a group of young players. And I'm talking *young*. Zayac is 26 and even with him the average age of this full team is 20 years old.
 
 **How was their season?**
 
@@ -922,7 +922,9 @@ Picture that scene in The Matrix [where the kid runs into the canteen](https://w
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After their TI12 run, Pure was still the offlaner on this team until after KL when they traded him out for Miero.
+**How did this roster happen?** If you've been reading through, you'll notice I've mentioned nearly all of these players as having been on other teams earlier in the season. After losing their homes, this band of misfits found each other in February and replaced the old SEA Aurora roster.
+
+Notably, TORONTOTOKYO has now swapped to his *third* professional role as well. Won TI as a midlaner with Spirit, moved to support on BetBoom, and is now an offlaner with Aurora. Mr. Worldwide.
 
 **How was their season?**
 
@@ -931,11 +933,11 @@ Picture that scene in The Matrix [where the kid runs into the canteen](https://w
   <thead><tr><th class="date">Date</th><th class="event">Notable Events</th><th class="result">Result</th></tr></thead>
   <tbody>
   <tr><td><i>Oct 2024</i></td><td class="pgl">PGL Wallachia S2</td><td>-</td></tr>
-  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b>5-6th</b></td></tr>
+  <tr><td><i>Oct 2024</i></td><td class="fissure"><b>BB Dacha Belgrade 2024</b></td><td><b style="text-decoration: line-through;">5-6th</b></td></tr>
   <tr><td><i>Nov 2024</i></td><td class="esl">DreamLeague S24</td><td>-</td></tr>
   <tr><td><i>Nov 2024</i></td><td class="blast">BLAST Slam I</td><td>-</td></tr>
   <tr><td><i>Dec 2024</i></td><td class="esl"><b>ESL One Bangkok 2024</b></td><td><b>-</b></td></tr>
-  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td>12-14th</td></tr>
+  <tr><td><i>Jan 2025</i></td><td class="fissure">FISSURE PLAYGROUND 1</td><td style="text-decoration: line-through;">12-14th</td></tr>
   <tr><td><i>Feb 2025</i></td><td class="blast">BLAST Slam II</td><td>-</td></tr>
   <tr><td><i>Feb 2025</i></td><td class="esl">DreamLeague S25</td><td>-</td></tr>
   <tr><td><i>Mar 2025</i></td><td class="pgl">PGL Wallachia S3</td><td>5-6th</td></tr>
@@ -956,21 +958,11 @@ Picture that scene in The Matrix [where the kid runs into the canteen](https://w
   </tbody></table>
 </div>
 
-Kids these days use the term "aura" a lot. Aura, [as defined by Wikipedia, the free encyclopedia at en.wikipedia.org:](https://en.wikipedia.org/wiki/List_of_Generation_Z_slang#:~:text=Aura,%2C%20Twitter%2C%20and%20YouTube%20Shorts.)
+Keen eyed readers may have noticed earlier, "Wait a second. Why is NAVI qualifying out of *western* Europe?" The answer is Aurora.
 
-<blockquote style="line-height: 0">
-<p style="font-family: Georgia, serif; font-size: 30px"><b>aura</b> (/ˈɔɹ.ə/), <span style="font-size: 20px"><i>noun</i></span></p>
-<p style="font-family: Georgia, serif; font-size: 23px">A quantifiable unit referring to how cool (positive integer) or uncool (negative integer) an individual is.</p>
-<p style="font-family: Georgia, serif; color:gray; font-size: 17px"><i>"Oh, you failed to rizz that level 10 gyatt? -1000000 aura loss lil bro."<br>"How much aura did I lose when I got Fanum taxed in Ohio?"</i></p>
-</blockquote>
+Eastern Europe has yet again become a very crowded region with PVISION, Spirit, and BB all taking up space. It's difficult for TOs to justify giving more than one qualifying slot to EEU and Aurora has been consistently scooping up that slot since forming. In an effort to improve their chances, several other EEU teams fled to different (read: easier) regions to qualify out of.
 
-Now why did I make you read those cursed sentences? Basically, BB have aura ong 💯 when going through bracket. But when it comes to the final four-ish? Big yikes. They're completely cooked. It's giving delulu.
-
-Skibidi.
-
-A term that's decidedly more relevant amongst Dota's aging audience is "clutch" and if one possesses the clutch gene and/or clutch factor. Time and time again this year, BB Team were shown to not have it. Trouble for them was there was no clear diagnosis. It wasn't like individual players started underperforming in intense situations or specific teams were consistently beating them. BB as a whole just looked more and more disconnected the higher the stakes got.
-
-**What would success look like?** Aegismaxxing.
+**What would success look like?** I would be so hype to see Spirit vs Aurora for elimination. There's no bad blood between them. [In fact, the TI10 Spirit roster (minus Yatoro) did a very nice podcast at EWC.](https://www.youtube.com/watch?v=NXgaXfYUe2o) But it'd still be cool to see.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/xtreme.jpg" alt="Banner"></p>
