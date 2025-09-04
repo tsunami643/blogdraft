@@ -1,13 +1,13 @@
 ﻿---
 layout: "post"
 title: "The International 2025: A Practical Guide to All 16 Teams"
-date: "2025-09-04 9:00"
+date: "2025-08-05 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
 feature-img: "img/ti13teams/ti13header.jpg"
 flags: true
 ---
 
-### Wait, there's a TI happening soon?
+### No time to explain
 
 This has been a common sentiment from viewers this year and I don't really blame you. With the DPC being dismantled, a centralized way to know where/when Dota esports is happening has been sorely lacking. Also, the prize pool this year is basically the same as TI1/2 (adjusted for inflation), so that big source of publicity is also gone.
 
