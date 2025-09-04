@@ -601,7 +601,7 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Nothing changed from last year!
+**How did this roster happen?** After years of ridicule Dyrachyo 
 
 **How was their season?**
 
@@ -635,27 +635,32 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
   </tbody></table>
 </div>
 
-<div id="paywall-wrapper">
+<div id="fakewall">
    <h4>Attending TI Subscription</h4>
-   <p>Vehicula ornare, neque tortor iaculis urna, ut <strong>£12.99/mth</strong> consectetur.</p>
-   <a class="btn" href="#">Subscribe Today!</a>
+   <p>Sorry, it looks like you're interested in <strong>competing at TI</strong> after being directly invited. Unfortunately, it seems contract disputes may make that impossible.</p>
+   <a id="blurToggle" class="btn" href="">What's Going On?</a>
 </div>
 
+<script>
+document.getElementByID('#blurToggle').addEventListener('click', () => {
+  document.getElementByID('#blurred').classList.toggle('blurEffect');
+}); 
+</script>
+
 <style>
-  #paywall-wrapper {
+  #fakewall {
    padding: 35px;
    border-radius: 5px;
    position: relative;
    margin-bottom: 30px;
    box-shadow: 0px 0px 20px -1px rgba(0,0,0,0.20);
 }
-   #paywall-wrapper * {
+   #fakewall * {
       text-align: center;
    }
-      #paywall-wrapper .btn {
-         left: 50%;
-         transform: translateX(-50%);
-         position: relative;
+      #fakewall .btn {
+         display: block;
+         margin: auto;
       }
 
       .faded {
@@ -670,15 +675,25 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
    left: 0;
    background: linear-gradient(to bottom, rgba(255,255,255,0), #fff);
 }
+
+.blurEffect {
+  filter: blur(5px);
+   user-select: none;
+   pointer-events: none;
+}
 </style>
 
+<div id="blurred" class="blurEffect">
 Their results changed from last year! But not in the good way.
 
 They at least closed out the previous calendar year strong with a grand final appearance at ESL KL (losing to Azure Ray), but the rest of the season was a far cry from the heights they achieved in 2023. That is, up until Riyadh.
 
 So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted them higher earnings than winning all three majors (Lima+Berlin+Bali) and 2<sup>nd</sup> place at TI last year *combined*. That's just good financial planning.
 
-**What would success look like?** Famously, winning the last big event before TI used to mean you probably *won't* win TI. That trend was bucked last year with Spirit winning in both Riyadh and Seattle. So I guess the story now is: Spirit won both. Can Gaimin?
+It's not my place to speculate, but I will say there is an incredibly short list of things most Dota players wouldn't be willing to give up for the opportunity to play at TI. And if 
+
+**What would success look like?** These players maintaining their will to live.
+</div>
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/yakutou.jpg" alt="Banner"></p>
