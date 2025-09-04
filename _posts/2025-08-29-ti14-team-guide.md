@@ -15,7 +15,7 @@ AHHHH I'm publishing this like 1 hour before TI starts. Gogogo, a quick recap of
 * **Lots more events** - Nearly twice as many as last year
 * **Lots more water** - On the map
 
-Lots more to cover. I've chosen the most notable events of the season and tried to present them as cleanly as possible by color coding them to tournament organizers.
+Lots more to cover. I've chosen the most notable events of the season and tried to present them as cleanly as possible. They're color coded them by tournament organizer.
 
 <div class="resultsContainer">
   <table class="resultsTable firstTable">
@@ -1016,6 +1016,8 @@ Unfortunately, poloson won't make it to his first TI (at age 29 after over a dec
 
 While Tidebound has been doing the best against international opponents, Xtreme has been doing the best intra-regionally. One of the events not on my list is Asian Champions League and Xtreme won both of them over Yakutou and Tidebound.
 
+They also did qualify to Raleigh but were unable to field a roster that could attend, so Tidebound replaced them.
+
 **What would success look like?** The three Chinese teams not having to knock each other out of TI.
 
 <hr style="margin-bottom: 1.2em;">
@@ -1034,7 +1036,7 @@ While Tidebound has been doing the best against international opponents, Xtreme 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** All of these players were aimlessly floating around on various SEA stacks before joining together here on Nemesis at the end of the season.
+**How did this roster happen?** All of these players were aimlessly floating around on various SEA stacks before joining forces here on Nemesis at the end of the season.
 
 **How was their season?**
 
@@ -1317,8 +1319,7 @@ But there's [one comment](https://www.reddit.com/r/DotA2/comments/1g2wt4g/congra
     <span><a href="https://www.reddit.com/r/DotA2/comments/1g2wt4g/congratulations_to_the_winner_of_pgl_wallachia/lrs39j2/?context=10000">source</a></span>
   </footer>
 </div>
-
-lol
+<br><p>lol</p>
 
 As predicted, Parker proved to be too difficult for HEROIC to work with long term and he was off the team one month after winning Wallachia. Shortly thereafter, Puppey actually took him on Secret. He's no longer on Secret either.
 
