@@ -412,7 +412,7 @@ In January, Yatoro and Collapse returned. As for Mira? Ooooh yeah... I think... 
   </tbody></table>
 </div>
 
-IT'S YA BOI, TEAM SPIRIT. PLODDING AROUND MOST OF THE SEASON, BUT PULLING UP WHEN BIG MONEY HAPPENS.
+Team Spirit plodding around most of the season, but pulling up when big money is on the table. Name a more iconic duo.
 
 The most notable story for Spirit this year was seeing rue's growth. It's a real testament to Miposhka, and the rest of Spirit's support staff, to consistently be able to bring in untested players and polish them into champion diamonds. Riyadh was also Larl's first LAN win on Spirit in 2023 before going on to win Seattle TI12 three months later.
 
@@ -1104,7 +1104,7 @@ I wasn't exaggerating when I said end of the season.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** As mentioned on the Talon roster, old Talon wanted to keep competing, but now they didn't have a mid with Mikoto gone. Armel was originally the mid, but then he went and had a baby. Unknown newcomer lorenof came in starting at DLS22 as a result of... proximity? Talon needed a stand-in, they were bootcamping in Belgrade for DreamLeague, he was in Belgrade. Match made in heaven.
+**How did this roster happen?** After a brief stint in South America last year, BOOM Esports returned home to SEA and started the season in Bangkok with Jackky, Tims, and Jaunuel as well as Mac and Fbz on mid and offlane. In March, Armel and Jabz were brought in as replacements to finalize this roster.
 
 **How was their season?**
 
@@ -1138,11 +1138,9 @@ I wasn't exaggerating when I said end of the season.
   </tbody></table>
 </div>
 
-I swear I'm not trying to be dismissive of SEA. I love this region. I bleed for it. I boom for it. I execra-- actually nevermind. The point is, I legit just don't know what's going on with the teams in this region. The current prevailing theory is that [salaries are just bananas high](https://www.youtube.com/watch?v=f9IaNLJ-gNM) compared to cost of living in SEA and the players have no drive to *win* because they don't really have to.
+Throughout the season, the best overall SEA result was Talon randomly getting top 3 at DreamLeague S26. Evidently they spent all their mojo too soon and SEA had a real scramble to determine who their best teams were at the end of the season. At EWC, the two SEA teams representing were Talon and Execration. Here at TI, Nemesis and BOOM (who both beat Talon). 
 
-Is that the case with Aurora? Who can say. All I know is this team as Talon last year was the most hopium I'd ingested for the region in ages. A top 3 at Lima, a top 3 at Riyadh. Sure, Mikoto was a valuable piece of that roster, but lorenof is still pretty damn good too. And yet here we are capping out at top 8s.
-
-**What would success look like?** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Insert SEA platitude here.
+**What would success look like?** I've seen a lot of group stage compendium predictions these past few weeks. So what would success look like for BOOM? To borrow a phrase from Counter-Strike esports: [FUCK YOUR PICK'EMS.](https://www.youtube.com/watch?v=sV6rl1A1VCo)
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/wildcard.jpg" alt="Banner"></p>
@@ -1160,9 +1158,11 @@ Is that the case with Aurora? Who can say. All I know is this team as Talon last
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Speaking of bemoaning regions of Dota, check out the <i>ONE</i> team representing North America at this TI. That's right. Every other region has at least two or more teams showing up in Copenhagen. But North America? THERE'S A REASON OUR COUNTRY CODE IS +1 BAYBEEE.
+**How did this roster happen?** Fayde, Bignum, and Yamsun had been playing together for the past year or so under Apex Genesis. Then starting from Bangkok quals, Yamsun moved from 5 to carry and they brought in wunderkind midlaner RCY and critically acclaimed content creator Speeed to round out the team.
 
-But I digress. How did this roster happen? After getting top 8 at TI last year, Gunnar moved to offlane and Stormstormer was brought in for mid. Shopify fell apart after TI and Fly came from there to replace Yamsun. Yuma replaced K1 after he went to HEROIC. After an underwhelming Dacha Dubai result, Stormstormer was replaced with another German, Copy.
+You know the last time there were at least 4 US flags representing NA at TI? I guarantee you're never going to guess the team name.
+
+<span class="spoiler">Newbee. At TI9. Sneaky, I know. But I'm pretty sure you wouldn't have gotten Forward Gaming either.</span>
 
 **How was their season?**
 
@@ -1196,17 +1196,9 @@ But I digress. How did this roster happen? After getting top 8 at TI last year, 
   </tbody></table>
 </div>
 
-You know the drill around here. North America? That means we have two teams constantly vying for one slot. Five game grand final for DLS22 quals? Went to Shopify. Five game grand final for Birmingham quals? Went to Shopify. Five game grand final for DLS23 quals? Went to Shopify.
+So last year the two-horse race in NA was between Shopify Rebellion and nouns. If you recall, Shopify won most every qualifier that year, but did not win the TI qual. And wouldn't you believe it, the exact same thing happened again this year. As one could imagine, not making it to TI two years in a row is quite the death knell to an org and Shopify no longer exists in Dota. Another North American success story.
 
-Nouns was out here playing the long con, though. "You can have those, Shopify" they say. "We'll just go to all the non-ESL events in the meanwhile." Quietly, they plot. Masterminding. Scheming. Nounsing. Come June, five game grand final for Riyadh quals? NOUNS.
-
-Then the coup DAO grâce. Grand final for TI quals? "YOU FOOLS!" they cackle, "YOU FELL RIGHT INTO OUR TRAP." Nouns at TI. 3-0. Cinema.
-
-And yes, this does mean that there is no Arteezy at this TI. His attendance streak from TI4 has finally been broken. Had he qualified, he'd have the most TI attendances of any player after Fly and Puppey.
-
-**What would success look like?** Honestly, them getting top 8 last year *was* a success in my book. Their LAN results last year were equally as middling, so I could see it happening again.
-
-Not gonna lie, though, it would be really cool to see the most veteran player at the event lift the Aegis. And I'm not just talking about TI appearances, Fly is also the oldest player competing at this TI at 31 and also the player with the most ticketed games of pro Dota ever. Insane longevity.
+**What would success look like?** IT'S YOUR BOI SPEEED HERE AND TODAY I'M GONNA BE TELLING YOU HOW I WON TI.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/heroic.jpg" alt="Banner"></p>
@@ -1261,7 +1253,11 @@ K1 came from nouns, Scofield came from beastcoast, Analog and KJ came from Keyd 
   </tbody></table>
 </div>
 
-This team has been put through the grinder. Not only did they attend basically every single event this year, but they also had to qualify for nearly all of them. Gone are the days of the guaranteed SA slot to majors after a DPC league. So while the results don't look stellar, hopefully the gap between Elite League S2 ending and TI starting gifted them some much needed recharge time.
+There's this incredible time capsule of a thread on /r/dota2 celebrating HEROIC's PGL Wallachia S2 win. Oh my god, it's amazing, first South American LAN win in Dota history, they've come so far, people are celebrating in the streets, I used to pray for times like these, etc, etc.
+
+But there's one comment in particular...
+
+<p class="center"><img style="width: 1000px;" title="The Oracle" src="./../../../img/ti14teams/parker_oracle.jpg"></p>
 
 **What would success look like?** MONGOLIAN THROAT SINGING IN THE ROYAL ARENA.
 
