@@ -687,13 +687,9 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
 </style>
 
 <div id="blurred" class="blurEffect">
-<p>Their results changed from last year! But not in the good way.</p>
+<p>This is still a currently developing story, so we don't know much, but I can tell you that Gaimin Gladiators will not be competing at TI14 despite being directly invited by Valve. The news broke on <a href="https://x.com/dota2ti/status/1958990135355482593">Aug 22</a> and so far we've heard <a href="https://x.com/GaiminGladiator/status/1959346161208213783">Gaimin's side</a> and <a href="https://x.com/ccncdota2/status/1959355035290161631">Quinn's</a> <a href="https://x.com/ccncdota2/status/1959354235193024963">side.</a></p>
 
-<p>They at least closed out the previous calendar year strong with a grand final appearance at ESL KL (losing to Azure Ray), but the rest of the season was a far cry from the heights they achieved in 2023. That is, up until Riyadh.</p>
-
-<p>So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted them higher earnings than winning all three majors (Lima+Berlin+Bali) and 2<sup>nd</sup> place at TI last year *combined*. That's just good financial planning.</p>
-
-<p>It's not my place to speculate, but I will say there is an incredibly short list of things most Dota players wouldn't be willing to give up for the opportunity to play at TI. And if </p>
+<p>It's not my place to speculate, but I will say there is an <i>incredibly</i> short list of things most Dota players wouldn't be willing to give up to play at TI. To have that opportunity be taken away due to contract disputes is heartbreaking.</p>
 
 <p><strong>What would success look like?</strong> These players maintaining their will to live.</p>
 
