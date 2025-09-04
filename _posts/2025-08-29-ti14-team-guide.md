@@ -1,7 +1,7 @@
 ﻿---
 layout: "post"
 title: "The International 2025: A Practical Guide to All 16 Teams"
-date: "2025-08-05 11:45"
+date: "2025-09-04 9:00"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
 feature-img: "img/ti13teams/ti13header.jpg"
 flags: true
@@ -711,7 +711,7 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** By the time the Gaimin news broke, all the qualifiers had been long done and PGL/Valve were now under the gun to find a worthy replacement team who could get to Germany for TI in under two weeks. Rumor is that Talon was highest on the list (1 slot away from qualifying through SEA quals), but concluded they couldn't get visas in time. OG was also floated as another alternative (1 slot away in WEU quals), but ultimately the slot went to Yakutou Brothers from China (1 slot away in CN quals).
+**How did this roster happen?** By the time the Gaimin news came out, all the qualifiers had been long done and PGL/Valve were now under the gun to find a worthy replacement team who could get to Germany for TI in under two weeks. Rumor is that Talon was highest on the list (1 slot away from qualifying through SEA quals), but concluded they couldn't get visas in time. OG was also floated as another alternative (1 slot away in WEU quals), but ultimately the slot went to Yakutou Brothers from China (1 slot away in CN quals).
 
 Yeah but what about Yakutou's roster, you ask? You know the deal. Spin the wheel of Chinese players and see what ya get.
 
@@ -751,7 +751,7 @@ Of the remaining unqualified teams, Yakutou was technically the second best opti
 
 <blockquote class="twitter-tweet tw-align-center" data-dnt="true"><p lang="en" dir="ltr">Wild that the Gaimin team aren&#39;t going to be at The International! <br><br>Who will replace them probably boils down to visa access more than anything - but a good case could be made for a few teams: based on current skill, as well as how close they were to qualify themselves. <a href="https://t.co/9R6Z6p39Vj">pic.twitter.com/9R6Z6p39Vj</a></p>&mdash; Ben Steenhuisen (@Noxville) <a href="https://twitter.com/Noxville/status/1959256566466544051?ref_src=twsrc%5Etfw">August 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Spoilers for later that Shopify is on that list.
+Spoilers for later that Shopify is also on that list.
 
 **What would success look like?** I'm fascinated to know what's going to happen to a team that tried to make it to TI, did not make it to TI, spent two months assuming they wouldn't be at TI, and is now competing at TI.
 
@@ -778,7 +778,7 @@ Spoilers for later that Shopify is on that list.
 
 **How did this roster happen?** Well hello old friend, long time no see. When was the last time you made it out here? TI9, really? Time flies. What've you been up to, who are these kids?
 
-Well gotthejuice, pma, and Riddys have been playing together on the academy team, NAVI Junior, since 2022. Niku joined in 2023. Zayac, whom you may remember [shimmying in Singapore TI11 grand finals with Team Secret](https://youtu.be/cvAbJt3xQaA?t=19), actually specifically requested to be moved from the main NAVI roster to the Junior squad this season because he liked the idea of being able to captain and mold a group of young players. And I'm talking *young*. Zayac is 26 and even with him the average age of this full team is 20 years old.
+Well gotthejuice, pma, and Riddys have been playing together on the academy team, NAVI Junior, since 2022. Niku joined in 2023. Zayac, whom you may remember [shimmying in Singapore TI11 grand finals with Team Secret](https://youtu.be/cvAbJt3xQaA?t=19), actually specifically requested to be moved from the main NAVI roster to the Junior squad this season because he liked the idea of captaining and molding a group of young players. And I'm talking *young*. Zayac is 26 and even with him the average age of this full team is 20 years old.
 
 **How was their season?**
 
@@ -812,19 +812,17 @@ Well gotthejuice, pma, and Riddys have been playing together on the academy team
   </tbody></table>
 </div>
 
-On the surface, nothing too eventful, but lemme tell you about Raleigh...
-
-\**takes long drag off a smoke*\*
+On the surface, nothing too eventful, but lemme tell you about Raleigh... \**takes long drag off a smoke*\*
 
 <sup><i>\**gets pinged*\*</i></sup>
 
-During the qualifiers for Raleigh, there was a bug in the game that allowed you to identify if enemies have used consumables through fog, such as using a Smoke of Deceit. This bug was already on the books as being banned since Bangkok, but teams that didn't attend that event didn't get the memo. NAVI Junior was one of those teams. They went on to beat AVULUS in the WEU qualifiers.
+During the qualifiers for Raleigh, there was a bug in the game that allowed you to identify if enemies had used consumables through fog, such as using a Smoke of Deceit. This bug was already on the books as being banned since Bangkok, but teams that didn't attend that event didn't get the memo. NAVI Junior was one of those teams. They went on to beat AVULUS in the WEU qualifiers.
 
-AVULUS reviewed the replay and was like *yo wtf they used bugs*. Then ESL was like *yea u rite* and disqualified NAVI. Then social media was like *bruh like 20 other teams used this bug too*. Then ESL was like *fuuuuuuck, ok we'll look into it*. Then ESL looked into it and ultimately concluded that NAVI was still DQ'd because they used the bug way more than other teams and everyone else would either be fined or warned.
+AVULUS reviewed the replay and was like *yo wtf they used bugs*. Then ESL was like *yea u rite* and disqualified NAVI. Then social media was like *bruh like 20 other teams used this bug too*. Then ESL was like *fuuuuuuck, ok we'll look into it*. Then ESL looked into it and ultimately concluded that NAVI was still DQ'd because they used the bug way more than other teams and everyone else would either get fined or warned.
 
 For a more thorough account, [x42bn6 documented the entirety of the drama on Liquipedia.](https://liquipedia.net/dota2/Smoke_of_Deceit_exploit_controversy)
 
-Despite the setback, the boys kept their noses to the grindstone and eventually qualified to EWC and TI out of Western Europe. A rightful way to earn the promotion from Junior to NAVI main's squad.
+Despite the setback, the boys kept their noses to the grindstone and eventually qualified to EWC and TI out of Western Europe. A rightful way to earn the promotion from Junior to NAVI's main squad.
 
 **What would success look like?** At 16 years and 211 days, Niku will be the second youngest player to ever compete at TI. The first? <span class="spoiler">2015 Sumail. 16 years and 165 days. And he won it.<br><br>Speaking of which, let's take a look at the next qualifying team.</span>
 
@@ -844,7 +842,7 @@ Despite the setback, the boys kept their noses to the grindstone and eventually 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this happen?** I thought this day would never come. Nigma. At TI. And I'm writing about them. What a time to be alive. Now if you're reading this, I'm guessing you belong in one of three camps.
+**How did this happen?** I never thought this day would come. Nigma. At TI. And I'm writing about them. What a time to be alive. Now if you're reading this, I'm guessing you belong in one of three camps.
 
 1. *I believed. I always believed. Even when all hope was lost, I persevered. STARS ALIGN BAYBEEEE.*
 
@@ -852,7 +850,7 @@ Despite the setback, the boys kept their noses to the grindstone and eventually 
 
 2. *Where's Miracle?*
    
-   Miracle's been off-and-on for the past few years due to health issues and Ghost has been consistently playing carry for Nigma since February.
+   Miracle's been off-and-on for the past few years due to health issues and Ghost has been playing carry for Nigma since February.
    
    Some would argue they're at TI *because* Miracle's not on the team. Others will tell you to shut your whore mouth and not dare speak ill of the GOAT.
 
@@ -900,11 +898,11 @@ As I've alluded to, Nigma has not been a very strong team since their inception.
 
 They did place well at BLAST Slam II, but BLAST events don't exactly have the most competitively rigorous format. To earn that 3-4th finish, Nigma won 3 Bo1s and 1 Bo3. Don't get me wrong, that 1 Bo3 was against PVISION, but still...
 
-I'm not intentionally trying to be negative, I promise. But I think casual viewers who haven't been keeping up too closely with the scene may see, "Wow, they qualified out of Western Europe regional qualifiers? They're guaranteed to be pretty good!" And that's just not as strong an indicator of TI performance as it was 2-3 years ago.
+I'm not intentionally trying to be negative, I promise. But I think casual viewers may see, "Wow, they qualified out of Western Europe regional qualifiers? They're guaranteed to be pretty good!" And that's just not as strong an indicator of TI performance as it was 2-3 years ago.
 
 **What would success look like?** I sincerely believe that if Nigma somehow make it to finals day, this'll be the highest viewership TI of all time and Dota will be saved.
 
-Picture that scene in The Matrix [where the kid runs into the canteen](https://www.youtube.com/watch?v=jZiErA9Q0cE) to announce Morpheus is fighting Neo, except it's you *@everyone*'ing your old stack's Discord, "SUMAIL'S IN THE GRAND FINALS OF TI AGAIN!" All your friends who haven't queued for a game of Dota in the past four years rush into the stream. The VC is popping, people are bemusedly asking what 'facets' are, and a smile creeps across your face. You're happy again.
+Picture that scene in The Matrix [where the kid runs into the canteen](https://www.youtube.com/watch?v=jZiErA9Q0cE) to announce Morpheus is fighting Neo, except it's you *@everyone*'ing your old stack's Discord "SUMAIL'S IN THE GRAND FINALS OF TI AGAIN!" All your friends who haven't queued for a game of Dota in the past four years rush into the stream. The VC is popping, people are bemusedly asking what 'facets' are, and a smile creeps across your face. You're happy again.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti14teams/aurora.jpg" alt="Banner"></p>
@@ -922,7 +920,7 @@ Picture that scene in The Matrix [where the kid runs into the canteen](https://w
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** If you've been reading through, you'll notice I've mentioned nearly all of these players as having been on other teams earlier in the season. After losing their homes, this band of misfits found each other in February and replaced the old SEA Aurora roster.
+**How did this roster happen?** If you've been reading through, you'll notice I've mentioned nearly all of the players on this roster as having been on other teams earlier in the season. After losing their homes, this band of misfits found each other in February and replaced the old SEA Aurora lineup.
 
 Notably, TORONTOTOKYO has now swapped to his *third* professional role as well. Won TI as a midlaner with Spirit, moved to support on BetBoom, and is now an offlaner with Aurora. Mr. Worldwide.
 
@@ -960,7 +958,7 @@ Notably, TORONTOTOKYO has now swapped to his *third* professional role as well. 
 
 Keen eyed readers may have realized earlier, "Wait a second. Why is NAVI qualifying out of *western* Europe?" The answer is Aurora.
 
-Eastern Europe has yet again become a very crowded region with PVISION, Spirit, and BB all taking up space. It's difficult for TOs to justify giving more than one qualifying slot to EEU and Aurora has been consistently scooping up that slot since forming. In an effort to improve their chances, several other EEU teams fled to different (read: easier) regions to qualify out of.
+Eastern Europe has become a very crowded region with PVISION, Spirit, and BB all taking up space. It's difficult for TOs to justify giving more than one qualifying slot to EEU and Aurora has been consistently scooping up that slot since their formation. In an effort to improve their chances, several other EEU teams fled to different (read: easier) regions to qualify out of.
 
 **What would success look like?** I would be so hype to see Spirit vs Aurora for elimination. There's no bad blood between them. In fact, the TI10 Spirit roster (minus Yatoro) [did a very nice podcast at EWC.](https://www.youtube.com/watch?v=NXgaXfYUe2o) But it'd still be cool to see.
 
@@ -1076,7 +1074,7 @@ I wasn't exaggerating when I said end of the season.
 
 **What would success look like?** Did you know there hasn't been a full Pinoy squad at TI since TI9's TNC Predator?
 
-<div class="voiceline" style="display:block; text-align: center;"><a href="#" title="Glitter Tier Line" id="play" onclick="nemesis.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default" style="background: linear-gradient(90deg, 
+<div class="voiceline" style="display:block; text-align: center;"><a href="#" title="Nemesis Supporter Pack" id="play" onclick="nemesis.play();return false;"><span class="speaker"><img src="https://chatwheel.howdoiplay.com/assets/images/audio.png"></span><span class="message default" style="background: linear-gradient(90deg, 
     #0038A8 0%,   /* Blue */
     #0038A8 33%, 
     #CE1126 33%,  /* Red */
@@ -1136,7 +1134,7 @@ I wasn't exaggerating when I said end of the season.
   </tbody></table>
 </div>
 
-Throughout the season, the best overall SEA result was Talon randomly getting top 3 at DreamLeague S26. Evidently they spent all their mojo too soon and SEA had a real scramble to determine who their best teams were at the end of the season. At EWC, the two SEA teams representing were Talon and Execration. Here at TI, Nemesis and BOOM (who both beat Talon). 
+Throughout the season, the best overall SEA result was Talon randomly getting top 3 at DreamLeague S26. Evidently they spent all their mojo too soon and SEA had a real scramble to determine who their best teams were at the end of the season. At EWC, the two SEA teams representing were Talon and Execration. Here at TI, Nemesis and BOOM (who beat Talon for both slots). 
 
 **What would success look like?** I've seen a lot of group stage compendium predictions these past few weeks. So what would success look like for BOOM? To borrow a phrase from Counter-Strike esports: [FUCK YOUR PICK'EMS.](https://www.youtube.com/watch?v=sV6rl1A1VCo)
 
@@ -1215,7 +1213,7 @@ So last year the two-horse race in NA was between Shopify Rebellion and nouns. I
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** I could explain their roster here, but I think it'll be better if you read it in the context of their season.
+**How did this roster happen?** I could explain their roster here, but I think it's better if you read it in the context of their season.
 
 **How was their season?**
 
@@ -1249,9 +1247,9 @@ So last year the two-horse race in NA was between Shopify Rebellion and nouns. I
   </tbody></table>
 </div>
 
-So the very first event of the season, PGL Wallachia S2, they won. They won with Parker, 4nalog, Davai Lama, Scofield, and KJ. And Parker was a machine during this event. Absolute god tier carry performance leading South America to their **first ever LAN win in Dota 2 history**.
+So the very first event of the year, PGL Wallachia S2, they won. They won with Parker, 4nalog, Davai Lama, Scofield, and KJ. And Parker was a machine during this event. Absolute god tier carry performance leading South America to their **first ever LAN win in Dota 2 history**.
 
-There's this incredible [time capsule of a thread](https://www.reddit.com/r/DotA2/comments/1g2wt4g/congratulations_to_the_winner_of_pgl_wallachia/) on /r/dota2 celebrating HEROIC's win. *Oh my god, it's amazing, who could've imagined, they've come so far, we're celebrating in the streets, I used to pray for times like these, etc, etc.*
+There's an incredible [time capsule of a thread](https://www.reddit.com/r/DotA2/comments/1g2wt4g/congratulations_to_the_winner_of_pgl_wallachia/) on /r/dota2 celebrating HEROIC's win. *Oh my god, it's amazing, who could've imagined, SA's come so far, we're celebrating in the streets, I used to pray for times like these, etc, etc.*
 
 But there's [one comment](https://www.reddit.com/r/DotA2/comments/1g2wt4g/congratulations_to_the_winner_of_pgl_wallachia/lrs39j2/?context=10000) in particular...
 
@@ -1328,13 +1326,17 @@ As predicted, Parker proved to be too difficult for HEROIC to work with long ter
 
 Yuma was Parker's replacement and Wisper also exited OG contract jail in January to replace Davai Lama.
 
-**What would success look like?** I'll end on a serious note. If HEROIC can make it past the Road through Swiss elimination, that'd be a pretty big success.
+Alas, all the results later in the season paled in comparison to that Wallachia lightning in a bottle.
+
+**What would success look like?** They may not be able to get peak Parker again, but they can definitely channel peak Wisper under the right conditions.
 
 ----
 
 # All prepped for Hamburg!
 
-Thanks Liquipedia, and thank you for reading. As always, if you found this article useful and want to support you can buy my voicelines.
+I procrastinated writing this blog more than usual, but I'm still technically publishing it before TI starts. Just... a few hours before.
+
+As always, if you found this article useful and wish to express appreciation in the form of monetary compensation, buy my voicelines.
 
 <style>
   .shill_wrapper {
@@ -1444,11 +1446,9 @@ Thanks Liquipedia, and thank you for reading. As always, if you found this artic
 </div>
 </div>
 
-Or my NEW MERCH.
+Or buy my [**NEW MERCH**](https://shop.howdoiplay.com/).
 
-I also have a [**merch store**](https://shop.howdoiplay.com/) and infrequently updated presences on various platforms like [Twitch](https://twitch.tv/tsunami643), [Instagram](https://instagram.com/tsunami643), and [Twitter.](https://twitter.com/tsunami643)
-
-Thanks for reading and enjoy TI!
+I'll also accept any kind hellos for those of you who spot me in Hamburg!
 
 <p style="font-size: 1.5em;margin-bottom:0px;text-align: center;font-weight:bold;">
     <a href="https://www.reddit.com/r/DotA2/comments/175j2hx/the_international_2023_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
