@@ -7,15 +7,15 @@ feature-img: "img/ti13teams/ti13header.jpg"
 flags: true
 ---
 
-### No time to explain
+### There's no time!
 
-It's a few hours before TI starts and I don't have the brainpower to write a long preamble. A quick recap of the year:
+AHHHH I'm publishing this like 1 hour before TI starts. Gogogo, a quick recap of the year:
 
 * **Lots more competition** - Pretty much every team directly invited to TI won at least one event this season
 * **Lots more events** - Nearly twice as many as last year
 * **Lots more water** - On the map
 
-Lots to cover. I've chosen the most notable events of the season and tried to present them as cleanly as possible by color coding them by tournament organizer.
+Lots more to cover. I've chosen the most notable events of the season and tried to present them as cleanly as possible by color coding them to tournament organizers.
 
 <div class="resultsContainer">
   <table class="resultsTable firstTable">
