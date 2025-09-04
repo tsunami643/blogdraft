@@ -251,7 +251,7 @@ Then along comes Satanic.
 
 As a casual viewer, you may not know this name, but you should be privy to the fact that Team Spirit has some of the most savvy talent scouts of any esports org ever. For the past year and a half, this 17 year old Satanic kid has been donking fools in tier 2 tournaments left and right while on the Spirit academy team "Yellow Submarine." People were confident he was gonna be the next big thing.
 
-Satanic was briefly given a chance on the main Spirit roster earlier this year and PVISION were convinced enough by his performance that they had to seize the opportunity to bring him onto their team. Unfortunately, this meant Crystallis was given the boot pretty much immediately after their Bangkok win.
+Satanic was briefly given a chance on the main Spirit roster earlier this year and PVISION were convinced enough by his performance that they had to seize the opportunity to bring him onto their team. Unfortunately, this meant Crystallis was given the boot pretty much immediately after their Bangkok win to make space.
 
 **How was their season?**
 
@@ -287,7 +287,7 @@ Satanic was briefly given a chance on the main Spirit roster earlier this year a
 
 Abandoning a carry you won a championship with is quite the gambit, but PVISION were able to prove it was a legitimate move by following up their Bangkok+Crystallis win with another trophy in Raleigh+Satanic.
 
-As for the rest of the team, PVISION is like an inverse Gaimin Gladiators for many fans. "I love their mid laner, but I hate their supports." 9Class and Dukalis have been known to ego all chat during pro matches and goodness it's too much for some viewers' hearts.
+As for the rest of the team, PVISION is like an inverse Gaimin Gladiators for many fans. "I love their mid laner, but I hate their supports." 9Class and Dukalis have been known to ego all chat during pro matches and goodness just it's too much for some viewers' hearts.
 
 Love him or hate him, though, 9Class was by far the most interesting player of the year. Allow me to share some of his hero pool this season: Morphling, Leshrac, Night Stalker, Ember Spirit, Clinkz, jungle Venomancer, Chaos Knight, Slark, Terrorblade. I'll remind you, I'm describing heroes being played as a *4 position support*.
 
@@ -348,7 +348,7 @@ Love him or hate him, though, 9Class was by far the most interesting player of t
   </tbody></table>
 </div>
 
-Tundra was quietly the most decorated team of the entire season. I say quietly because people haven't been characterizing Tundra's year as "dominant." Even in Wyk's yearly [pre-TI fan poll](https://x.com/wykrhm/status/1963136350582194506), Tundra is off the charts. In the bad way.
+Tundra was quietly the most decorated team of the entire season. I say quietly because people haven't been characterizing Tundra's year as "dominant." Even in Wyk's yearly [pre-TI fan poll](https://x.com/wykrhm/status/1963136350582194506), Tundra is completely off the charts. And not in the good way.
 
 <blockquote class="twitter-tweet tw-align-center" data-dnt="true"><p lang="en" dir="ltr">Fan Favorites going in to The International. Looks like this time we have a clear favorite unlike last year.<br><br>We are ONE DAY out!! This time tomorrow. Let&#39;s GO!! <a href="https://twitter.com/hashtag/TI14?src=hash&amp;ref_src=twsrc%5Etfw">#TI14</a> <a href="https://twitter.com/hashtag/Dota2?src=hash&amp;ref_src=twsrc%5Etfw">#Dota2</a> <a href="https://t.co/Ay0FVQNzyY">pic.twitter.com/Ay0FVQNzyY</a></p>&mdash; Wykrhm Reddy (@wykrhm) <a href="https://twitter.com/wykrhm/status/1963136350582194506?ref_src=twsrc%5Etfw">September 3, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -490,7 +490,7 @@ If there's ever a moment to hit your stride as a team, it's near the end of the 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Nightfall and Pure effectively traded places on Tundra and BetBoom. Kataomi left C9 and also left 4 position to become BetBoom's 5 position support replacing TORONTOTOKYO. The last piece was originally kiyotaka on mid, but gpk returned pretty early on by December to complete this roster.
+**How did this roster happen?** Nightfall and Pure effectively traded places on Tundra and BetBoom. Kataomi left C9 and also left 4 position to become BB's 5 position support replacing TORONTOTOKYO. The last piece was originally kiyotaka on mid, but gpk returned pretty early on by December to complete this roster.
 
 **How was their season?**
 
@@ -547,7 +547,7 @@ Your eyes do not deceive you, BB actually *won* tournaments this year. Tournamen
 
 **How did this roster happen?** Step right up and spin the wheel to see which of the 15 relevant Chinese players will end up on a roster together! This is basically Seattle TI12's top 3 LGD Gaming squad except with Bach (aka Faith_bian) swapped out for niu. Bach's been un-retired for a while and was doing work on Azure Ray last year, but fell one slot short of qualifying to Copenhagen TI13.
 
-You'll regularly hear casters refer to this team as carrying the spirit of TI6 Wings with Bach, y`, and bLink as coach. Is it accurate in terms of gameplay? Not really. But just let us have this.
+You'll regularly hear panelists and casters refer to this team as carrying the spirit of TI6 Wings with Bach, y`, and bLink as coach. Is it accurate in terms of gameplay? Not really. But just let us have this.
 
 **How was their season?**
 
@@ -687,7 +687,7 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
 </style>
 
 <div id="blurred" class="blurEffect">
-<p>This is still a currently developing story, so we don't know much, but I can tell you that Gaimin Gladiators will not be competing at TI14 despite being directly invited by Valve. The news broke on <a href="https://x.com/dota2ti/status/1958990135355482593">Aug 22</a> and so far we've heard <a href="https://x.com/GaiminGladiator/status/1959346161208213783">Gaimin's side</a> and <a href="https://x.com/ccncdota2/status/1959355035290161631">Quinn's</a> <a href="https://x.com/ccncdota2/status/1959354235193024963">side.</a></p>
+<p>This is still a currently developing story, so we don't know much. What I can tell you is that the Gaimin Gladiators players will not be competing at TI14 despite being directly invited by Valve. The news broke on <a href="https://x.com/dota2ti/status/1958990135355482593">Aug 22</a> and so far we've heard <a href="https://x.com/GaiminGladiator/status/1959346161208213783">Gaimin's side</a> and <a href="https://x.com/ccncdota2/status/1959355035290161631">Quinn's</a> <a href="https://x.com/ccncdota2/status/1959354235193024963">side.</a></p>
 
 <p>It's not my place to speculate, but I will say there is an <i>incredibly</i> short list of things most Dota players wouldn't be willing to give up to play at TI. To have that opportunity be taken away due to contract disputes is heartbreaking.</p>
 
@@ -1332,7 +1332,7 @@ Yuma was Parker's replacement and Wisper also exited OG contract jail in January
 
 ----
 
-# Now you're ready for Copenhagen!
+# All prepped for Hamburg!
 
 Thanks Liquipedia, and thank you for reading. As always, if you found this article useful and want to support you can buy my voicelines.
 
