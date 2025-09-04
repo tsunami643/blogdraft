@@ -639,13 +639,14 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
    <h4>Attending TI Subscription</h4>
    <p>Sorry, it looks like you're interested in <strong>competing at TI</strong> after being directly invited. Unfortunately, it seems contract disputes may make that impossible.</p>
    <p style="font-size: 1em;margin-bottom:0px;text-align: center;font-weight:bold;">
-    <a href="#" target="_blank" onclick="unblur();" class="button large">What's going on?</a>
+    <a href="#" target="_blank" onclick="unblur();" class="button large">What the helly?</a>
 </p>
 </div>
 
 <script>
-  function unblur(){
-    document.getElementByID('#blurred').classList.toggle('blurEffect');
+  function unblur(event){
+    event.preventDefault();
+    document.getElementById('#blurred').classList.toggle('blurEffect');
   }
 </script>
 
@@ -659,6 +660,10 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
 }
    #fakewall * {
       text-align: center;
+   }
+
+   #fakewall .button {
+    margin: 0;
    }
       .faded {
    position: relative;
