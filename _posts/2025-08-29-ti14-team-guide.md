@@ -686,15 +686,16 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
 </style>
 
 <div id="blurred" class="blurEffect">
-<p>Their results changed from last year! But not in the good way.
+<p>Their results changed from last year! But not in the good way.</p>
 
-<p>They at least closed out the previous calendar year strong with a grand final appearance at ESL KL (losing to Azure Ray), but the rest of the season was a far cry from the heights they achieved in 2023. That is, up until Riyadh.
+<p>They at least closed out the previous calendar year strong with a grand final appearance at ESL KL (losing to Azure Ray), but the rest of the season was a far cry from the heights they achieved in 2023. That is, up until Riyadh.</p>
 
-<p>So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted them higher earnings than winning all three majors (Lima+Berlin+Bali) and 2<sup>nd</sup> place at TI last year *combined*. That's just good financial planning.
+<p>So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted them higher earnings than winning all three majors (Lima+Berlin+Bali) and 2<sup>nd</sup> place at TI last year *combined*. That's just good financial planning.</p>
 
-<p>It's not my place to speculate, but I will say there is an incredibly short list of things most Dota players wouldn't be willing to give up for the opportunity to play at TI. And if 
+<p>It's not my place to speculate, but I will say there is an incredibly short list of things most Dota players wouldn't be willing to give up for the opportunity to play at TI. And if </p>
 
 <p><strong>What would success look like?</strong> These players maintaining their will to live.</p>
+
 </div>
 
 <hr style="margin-bottom: 1.2em;">
