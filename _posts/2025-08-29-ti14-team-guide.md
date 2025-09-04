@@ -1215,9 +1215,7 @@ So last year the two-horse race in NA was between Shopify Rebellion and nouns. I
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** HEROIC (all caps, MF DOOM style) is the last of the notable newcomer organizations to come to Dota this year. They're most famous for their WEU Counter-Strike teams, but they set up shop in South America for Dota.
-
-K1 came from nouns, Scofield came from beastcoast, Analog and KJ came from Keyd Stars, and Davai Lama exported himself to now his third region after getting painfully close to qualifying to TI with Luna Galaxy in WEU last year.
+**How did this roster happen?** I could explain their roster here, but I think it'll be better if you read it in the context of their season.
 
 **How was their season?**
 
@@ -1251,7 +1249,9 @@ K1 came from nouns, Scofield came from beastcoast, Analog and KJ came from Keyd 
   </tbody></table>
 </div>
 
-There's this incredible time capsule of a thread on /r/dota2 celebrating HEROIC's PGL Wallachia S2 win. Oh my god, it's amazing, first South American LAN win in Dota history, they've come so far, people are celebrating in the streets, I used to pray for times like these, etc, etc.
+So the very first event of the season, PGL Wallachia S2, they won. They won with Parker, 4nalog, Davai Lama, Scofield, and KJ. And Parker was a machine during this event. Absolute god tier carry performance leading South America to their **first ever LAN win in Dota 2 history**.
+
+There's this incredible [time capsule of a thread](https://www.reddit.com/r/DotA2/comments/1g2wt4g/congratulations_to_the_winner_of_pgl_wallachia/) on /r/dota2 celebrating HEROIC's win. *Oh my god, it's amazing, who could've imagined, they've come so far, we're celebrating in the streets, I used to pray for times like these, etc, etc.*
 
 But there's [one comment](https://www.reddit.com/r/DotA2/comments/1g2wt4g/congratulations_to_the_winner_of_pgl_wallachia/lrs39j2/?context=10000) in particular...
 
@@ -1322,19 +1322,19 @@ But there's [one comment](https://www.reddit.com/r/DotA2/comments/1g2wt4g/congra
   </footer>
 </div>
 
-Truly prescient.
+lol
 
-**What would success look like?** MONGOLIAN THROAT SINGING IN THE ROYAL ARENA.
+As predicted, Parker proved to be too difficult for HEROIC to work with long term and he was off the team one month after winning Wallachia. Shortly thereafter, Puppey actually took him on Secret. He's no longer on Secret either.
+
+As for the rest of the team, Yuma was Parker's replacement and Wisper also exited OG contract jail in January to replace Davai Lama.
+
+**What would success look like?** I'll end on a serious note. If HEROIC can make it past the Road through Swiss elimination, that'd be a pretty big success.
 
 ----
 
 # Now you're ready for Copenhagen!
 
-I say it every single year, but this year, I *really* mean it. Bless Liquipedia and all its employees and volunteers. I recently joined their Discord to help with the Fandom wiki merge and you would not believe the nonsense these saints deal with on a daily basis. Shady TOs begging for pages on their clearly illegitimate tournaments so gambling sites will cover them, admins urging Liquipedia to spread news of why strange things are happening in their tournaments rather than just making posts on their own social media, tier 6 players demanding their names be changed from red to blue after playing in *Bebriki League 2.0*. It's insane.
-
-These guys and gals are a bastion of integrity and diligence in the Dota scene. Without them, I shudder to imagine what writing an article like this would take. Hell, I don't even know how I would follow this esport in general *and it's literally my job!* If you consider yourself even marginally computer savvy and invested in Dota esports, do try to help them edit.
-
-Now after that very selfless gesture, it's time to self-promote. GO INSTALL DOTA AND BUY MY VOICELINES!
+Thanks Liquipedia, and thank you for reading. As always, if you found this article useful and want to support you can buy my voicelines.
 
 <style>
   .shill_wrapper {
@@ -1444,11 +1444,9 @@ Now after that very selfless gesture, it's time to self-promote. GO INSTALL DOTA
 </div>
 </div>
 
+Or my NEW MERCH.
+
 I also have a [**merch store**](https://shop.howdoiplay.com/) and infrequently updated presences on various platforms like [Twitch](https://twitch.tv/tsunami643), [Instagram](https://instagram.com/tsunami643), and [Twitter.](https://twitter.com/tsunami643)
-
-One last thought before I let you go. I've been doing these blogs for so long that I finally caught up to the TI color cycle. [Green TI for my first blog in 2018,](https://howdoiplay.com/blog/2018/07/18/ti8-team-guide.html) green TI for this blog in 2024. I actually skipped 2019 because it was the first TI I worked as talent and I figured, "I shouldn't waste time writing a blog when I should be preparing." Turns out, doing these blogs was the *best way* for me to prepare.
-
-A shocking number of people came up to me in Birmingham and expressed appreciation for these blogs, which really meant a lot. I came into the Dota scene as a writer doing my [hero tips](https://howdoiplay.com/) and I'm glad I've kept up with my roots walking the tightrope between comedy and education. The absurdity of me making these articles as a fan to stage hosting the event years later will never be lost on me.
 
 Thanks for reading and enjoy TI!
 
