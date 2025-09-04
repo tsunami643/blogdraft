@@ -711,7 +711,9 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** beastcoast's TI12 roster kinda scattered to the four winds and they had to start from scratch making a new one. It's effectively four new kids and papa Mooz guiding them.
+**How did this roster happen?** By the time the Gaimin news broke, all the qualifiers had been long done and PGL/Valve were now under the gun to find a worthy replacement team who could get to Germany for TI in under two weeks. Rumor is that Talon was highest on the list (1 slot away from qualifying through SEA quals), but concluded they couldn't get visas in time. OG was also floated as another alternative (1 slot away in WEU quals), but ultimately the slot went to Yakutou Brothers from China (1 slot away in CN quals).
+
+As for this roster? You know the deal. Spin the wheel of Chinese players and see what ya get.
 
 **How was their season?**
 
@@ -745,9 +747,13 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
   </tbody></table>
 </div>
 
-beastcoast was almost always 2<sup>nd</sup> place in qualifiers for most of these events. But such is the nature of the South American beast. If you're not first, you ain't flying nowhere. Thankfully, Riyadh and Elite League S2 gave SA two qualifying slots which finally allowed them a chance to test their mettle on LAN.
+Of the remaining unqualified teams, Yakutou was technically the second best option.
 
-**What would success look like?** I ain't holding my breath for anything happening in Copenhagen, but perhaps they'll stick together after? Like I said with 1w, usually these SA/EEU/NA "stacks" lack longevity if results don't come fast. But with the right structure from a proper org like beastcoast, maybe we see this team continue competing into the 2025 season.
+<blockquote class="twitter-tweet tw-align-center" data-dnt="true"><p lang="en" dir="ltr">Wild that the Gaimin team aren&#39;t going to be at The International! <br><br>Who will replace them probably boils down to visa access more than anything - but a good case could be made for a few teams: based on current skill, as well as how close they were to qualify themselves. <a href="https://t.co/9R6Z6p39Vj">pic.twitter.com/9R6Z6p39Vj</a></p>&mdash; Ben Steenhuisen (@Noxville) <a href="https://twitter.com/Noxville/status/1959256566466544051?ref_src=twsrc%5Etfw">August 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Spoilers for later that Shopify is on that list.
+
+**What would success look like?** The three Chinese teams not having to knock each other out of TI.
 
 ----
 
