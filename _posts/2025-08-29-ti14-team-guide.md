@@ -1265,6 +1265,7 @@ But there's [one comment](https://www.reddit.com/r/DotA2/comments/1g2wt4g/congra
   background: #fff;
   color: #1a1a1b;
   margin: auto;
+  font-size: 0.8em;
 }
 
 .reddit-embed p {
