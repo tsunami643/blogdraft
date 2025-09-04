@@ -348,7 +348,7 @@ Love him or hate him, though, 9Class was by far the most interesting player of t
   </tbody></table>
 </div>
 
-Tundra was quietly the most decorated team of the entire season. I say quietly because people haven't been characterizing Tundra's year as "dominant." Even in Wyk's yearly [pre-TI fan poll](https://x.com/wykrhm/status/1963136350582194506), Tundra doesn't even show up on the charts.
+Tundra was quietly the most decorated team of the entire season. I say quietly because people haven't been characterizing Tundra's year as "dominant." Even in Wyk's yearly [pre-TI fan poll](https://x.com/wykrhm/status/1963136350582194506), Tundra is off the charts. In the bad way.
 
 <blockquote class="twitter-tweet tw-align-center" data-dnt="true"><p lang="en" dir="ltr">Fan Favorites going in to The International. Looks like this time we have a clear favorite unlike last year.<br><br>We are ONE DAY out!! This time tomorrow. Let&#39;s GO!! <a href="https://twitter.com/hashtag/TI14?src=hash&amp;ref_src=twsrc%5Etfw">#TI14</a> <a href="https://twitter.com/hashtag/Dota2?src=hash&amp;ref_src=twsrc%5Etfw">#Dota2</a> <a href="https://t.co/Ay0FVQNzyY">pic.twitter.com/Ay0FVQNzyY</a></p>&mdash; Wykrhm Reddy (@wykrhm) <a href="https://twitter.com/wykrhm/status/1963136350582194506?ref_src=twsrc%5Etfw">September 3, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -601,7 +601,7 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After years of ridicule Dyrachyo 
+**How did this roster happen?** After years of public jeering, dyrachyo was indeed finally let go from Gaimin after Copenhagen TI13 and watson came in. Seleri left supposedly on his own terms in February and was replaced by Malady. But that's just the tip of the iceberg...
 
 **How was their season?**
 
@@ -753,7 +753,7 @@ Of the remaining unqualified teams, Yakutou was technically the second best opti
 
 Spoilers for later that Shopify is on that list.
 
-**What would success look like?** I'm fascinated to know what's going to happen to team that tried to make it to TI, did not make it to TI, spent two months assuming they wouldn't be at TI, and is now competing at TI.
+**What would success look like?** I'm fascinated to know what's going to happen to a team that tried to make it to TI, did not make it to TI, spent two months assuming they wouldn't be at TI, and is now competing at TI.
 
 ----
 
