@@ -638,13 +638,15 @@ There are three Chinese teams at this TI and Tidebound is generally regarded as 
 <div id="fakewall">
    <h4>Attending TI Subscription</h4>
    <p>Sorry, it looks like you're interested in <strong>competing at TI</strong> after being directly invited. Unfortunately, it seems contract disputes may make that impossible.</p>
-   <a id="blurToggle" class="btn" href="">What's Going On?</a>
+   <p style="font-size: 1em;margin-bottom:0px;text-align: center;font-weight:bold;">
+    <a href="#" target="_blank" onclick="unblur();" class="button large">What's going on?</a>
+</p>
 </div>
 
 <script>
-document.getElementByID('#blurToggle').addEventListener('click', () => {
-  document.getElementByID('#blurred').classList.toggle('blurEffect');
-}); 
+  function unblur(){
+    document.getElementByID('#blurred').classList.toggle('blurEffect');
+  }
 </script>
 
 <style>
@@ -658,11 +660,6 @@ document.getElementByID('#blurToggle').addEventListener('click', () => {
    #fakewall * {
       text-align: center;
    }
-      #fakewall .btn {
-         display: block;
-         margin: auto;
-      }
-
       .faded {
    position: relative;
 }
@@ -684,15 +681,15 @@ document.getElementByID('#blurToggle').addEventListener('click', () => {
 </style>
 
 <div id="blurred" class="blurEffect">
-Their results changed from last year! But not in the good way.
+<p>Their results changed from last year! But not in the good way.
 
-They at least closed out the previous calendar year strong with a grand final appearance at ESL KL (losing to Azure Ray), but the rest of the season was a far cry from the heights they achieved in 2023. That is, up until Riyadh.
+<p>They at least closed out the previous calendar year strong with a grand final appearance at ESL KL (losing to Azure Ray), but the rest of the season was a far cry from the heights they achieved in 2023. That is, up until Riyadh.
 
-So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted them higher earnings than winning all three majors (Lima+Berlin+Bali) and 2<sup>nd</sup> place at TI last year *combined*. That's just good financial planning.
+<p>So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted them higher earnings than winning all three majors (Lima+Berlin+Bali) and 2<sup>nd</sup> place at TI last year *combined*. That's just good financial planning.
 
-It's not my place to speculate, but I will say there is an incredibly short list of things most Dota players wouldn't be willing to give up for the opportunity to play at TI. And if 
+<p>It's not my place to speculate, but I will say there is an incredibly short list of things most Dota players wouldn't be willing to give up for the opportunity to play at TI. And if 
 
-**What would success look like?** These players maintaining their will to live.
+<p><strong>What would success look like?</strong> These players maintaining their will to live.</p>
 </div>
 
 <hr style="margin-bottom: 1.2em;">
